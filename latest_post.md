@@ -43,7 +43,7 @@ https://morphe.software/
 
 **Updated: July 26, 2026**
 
-
+*NEW APP - Citymapper in zPatches
 
 # **Community Patch List**
 
@@ -689,6 +689,18 @@ For more information on EE-Morphe-Patches - by early.Egg3707: https://gitlab.com
 
 ---
 
+**[zPatches](https://morphe.software/add-source?github=cesbar/zpatches)**
+
+- **Citymapper**
+- **Minesweeper**
+- **Solitaire**
+- **Sudoku**
+- **Vélo'v officiel**
+
+For more information on zPatches: https://github.com/cesbar/zpatches
+
+---
+
 **[Adobo Morphe Patches - by JKennethCarino](https://morphe.software/add-source?github=jkennethcarino/adobo)**
 
 - **9GAG**
@@ -734,17 +746,6 @@ For more information on Shaun patches: https://github.com/shaun-the-sheep-patche
 [Donate to xob0t Morphe Patches](https://github.com/xob0t)
 
 For more information on xob0t Morphe Patches: https://github.com/xob0t/morphe-patches
-
----
-
-**[zPatches](https://morphe.software/add-source?github=cesbar/zpatches)**
-
-- **Minesweeper**
-- **Solitaire**
-- **Sudoku**
-- **Vélo'v officiel**
-
-For more information on zPatches: https://github.com/cesbar/zpatches
 
 ---
 
