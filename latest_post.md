@@ -43,6 +43,10 @@ https://morphe.software/
 
 **Updated: July 26, 2026**
 
+*NEW SOURCE - Andrew's Patches
+
+*NEW APP - LINE in Andrew's Patches
+
 *NEW APP - Citymapper in zPatches
 
 # **Community Patch List**
@@ -827,6 +831,14 @@ For more information on AliExpress patches: https://github.com/Almewty/my-morphe
 - **PokéCardex**
 
 For more information on Almewty patches: https://github.com/Almewty/my-morphe-patches
+
+---
+
+**[Andrew's Patches](https://morphe.software/add-source?github=andrewliang25/morphe-patches)**
+
+- **LINE**
+
+For more information on Andrew's Patches: https://github.com/andrewliang25/morphe-patches
 
 ---
 
