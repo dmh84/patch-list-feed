@@ -43,7 +43,13 @@ https://morphe.software/
 
 **Updated: July 27, 2026**
 
+*NEW SOURCE - Patched-Up Patches - by Docbt
 
+*NEW APP - Google News in Patched-Up Patches - by Docbt
+
+*NEW APP - Kleinanzeigen - Marketplace in Patched-Up Patches - by Docbt
+
+*NEW APP - Bitwarden in Stylus
 
 # **Community Patch List**
 
@@ -805,6 +811,17 @@ For more information on Morphe-Patches - by Polka-Bear: https://github.com/polka
 
 ---
 
+**[Patched-Up Patches - by Docbt](https://morphe.software/add-source?github=docbt/patched-up)**
+
+- **Google News**
+- **Kleinanzeigen - Marketplace**
+
+[Donate to Patched-Up Patches - by Docbt](https://buymeacoffee.com/docbt)
+
+For more information on Patched-Up Patches - by Docbt: https://github.com/docbt/patched-up/#patched-up
+
+---
+
 **[Piko X / Twitter and Instagram Patches - by Crimera](https://morphe.software/add-source?github=crimera/piko)**
 
 - **Instagram**
@@ -1014,13 +1031,11 @@ For more information on Samsung Health patches: https://github.com/bigyank/morph
 
 ---
 
-**[stylus](https://morphe.software/add-source?github=ch3thanhs/stylus)**
+**[Stylus](https://morphe.software/add-source?github=ch3thanhs/stylus)**
 
 - **Bitwarden**
 
-*Password Manager.
-
-For more information on stylus: https://github.com/ch3thanhs/stylus
+For more information on Stylus: https://github.com/ch3thanhs/stylus
 
 ---
 
