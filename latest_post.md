@@ -725,14 +725,14 @@ For more information on Hxreborn patches: https://github.com/hxreborn/morphe-pat
 
 ---
 
-**[Shaun patches](https://morphe.software/add-source?github=shaun-the-sheep-patches/morphe-patches)**
+**[KineStop Patches](https://morphe.software/add-source?github=shaun-the-sheep-patches/morphe-patches)**
 
 - **Flud**
 - **KineStop**
 - **Pinnit**
 - **RSS Reader**
 
-For more information on Shaun patches: https://github.com/shaun-the-sheep-patches/morphe-patches
+For more information on KineStop Patches: https://github.com/shaun-the-sheep-patches/morphe-patches
 
 ---
 
