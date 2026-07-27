@@ -43,13 +43,11 @@ https://morphe.software/
 
 **Updated: July 27, 2026**
 
-*NEW SOURCE - Patched-Up Patches - by Docbt
-
-*NEW APP - Google News in Patched-Up Patches - by Docbt
-
-*NEW APP - Kleinanzeigen - Marketplace in Patched-Up Patches - by Docbt
-
 *NEW APP - Bitwarden in Stylus
+
+*NEW APP - Google News in Patched-up
+
+*NEW APP - Kleinanzeigen - Marketplace in Patched-up
 
 # **Community Patch List**
 
@@ -597,21 +595,6 @@ For more information on Franticg33k patches: https://github.com/franticg33k/morp
 
 ---
 
-**[Miguel's patches](https://morphe.software/add-source?github=MiguelNinja19/miguel-morphe-patches)**
-
-- **Anger of Stick 5**
-- **Climb!**
-- **CubeX Solver**
-- **Hunter Assassin**
-- **Oddmar**
-- **Plants vs. Zombies FREE**
-- **The Battle of Polytopia**
-- **Zombie Catchers**
-
-For more information on Miguel's patches: https://github.com/MiguelNinja19/miguel-morphe-patches
-
----
-
 **[Binarymend Morphe Patches - by Binarymend](https://morphe.software/add-source?github=binarymend/morphe-patches)**
 
 - **aCalendar**
@@ -639,6 +622,20 @@ For more information on Binarymend Morphe Patches - by Binarymend: https://githu
 - **Truecaller**
 
 For more information on Bufferk patches: https://github.com/bufferk/morphe-patches
+
+---
+
+**[Miguel's patches](https://morphe.software/add-source?github=MiguelNinja19/miguel-morphe-patches)**
+
+- **Anger of Stick 5**
+- **Climb!**
+- **CubeX Solver**
+- **Hunter Assassin**
+- **Oddmar**
+- **Plants vs. Zombies FREE**
+- **The Battle of Polytopia**
+
+For more information on Miguel's patches: https://github.com/MiguelNinja19/miguel-morphe-patches
 
 ---
 
