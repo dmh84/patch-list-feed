@@ -41,13 +41,9 @@ https://morphe.software/
 
 ---
 
-**Updated: July 26, 2026**
+**Updated: July 27, 2026**
 
-*NEW SOURCE - Andrew's Patches
 
-*NEW APP - LINE in Andrew's Patches
-
-*NEW APP - Citymapper in zPatches
 
 # **Community Patch List**
 
