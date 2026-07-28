@@ -43,7 +43,7 @@ https://morphe.software/
 
 **Updated: July 28, 2026**
 
-
+*NEW APP - OldRoll in Franticg33k patches
 
 # **Community Patch List**
 
@@ -584,6 +584,7 @@ For more information on Patcheddit Patches - by Wchill: https://github.com/wchil
 - **JellyWatch**
 - **Mero Karobar**
 - **Nepalipatro**
+- **OldRoll**
 - **Prismatica Pro**
 - **Provide Lite**
 
