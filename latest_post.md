@@ -41,13 +41,9 @@ https://morphe.software/
 
 ---
 
-**Updated: July 27, 2026**
+**Updated: July 28, 2026**
 
-*NEW APP - Bitwarden in Stylus
 
-*NEW APP - Google News in Patched-up
-
-*NEW APP - Kleinanzeigen - Marketplace in Patched-up
 
 # **Community Patch List**
 
