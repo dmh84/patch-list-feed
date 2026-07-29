@@ -41,9 +41,9 @@ https://morphe.software/
 
 ---
 
-**Updated: July 28, 2026**
+**Updated: July 29, 2026**
 
-*NEW APP - OldRoll in Franticg33k patches
+*NEW APP - FreeJobAlert in byehi98 patches
 
 # **Community Patch List**
 
@@ -778,6 +778,15 @@ For more information on Ameen's Morphe Patches: https://github.com/ameenalasady/
 
 ---
 
+**[byehi98 patches](https://morphe.software/add-source?github=byehi98/okish-morphe-patches)**
+
+- **FreeJobAlert**
+- **TrueCloud**
+
+For more information on byehi98 patches: https://github.com/byehi98/okish-morphe-patches
+
+---
+
 **[iHealth patches](https://morphe.software/add-source?github=bdgerszewski/morphe-patches-ihealth)**
 
 - **iHealth MyVitals**
@@ -862,14 +871,6 @@ For more information on Android patches - by AlexNaga: https://github.com/AlexNa
 - **Pinterest**
 
 For more information on Browzomje patches: https://github.com/browzomje/browzomje-patches
-
----
-
-**[byehi98 patches](https://morphe.software/add-source?github=byehi98/okish-morphe-patches)**
-
-- **TrueCloud**
-
-For more information on byehi98 patches: https://github.com/byehi98/okish-morphe-patches
 
 ---
 
