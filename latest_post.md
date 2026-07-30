@@ -41,11 +41,9 @@ https://morphe.software/
 
 ---
 
-**Updated: July 29, 2026**
+**Updated: July 30, 2026**
 
-*NEW APP - Cube Solver in Miguel's patches
 
-*NEW APP - FreeJobAlert in byehi98 patches
 
 # **Community Patch List**
 
