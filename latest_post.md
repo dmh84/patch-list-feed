@@ -43,6 +43,8 @@ https://morphe.software/
 
 **Updated: July 29, 2026**
 
+*NEW APP - Cube Solver in Miguel's patches
+
 *NEW APP - FreeJobAlert in byehi98 patches
 
 # **Community Patch List**
@@ -592,6 +594,21 @@ For more information on Franticg33k patches: https://github.com/franticg33k/morp
 
 ---
 
+**[Miguel's patches](https://morphe.software/add-source?github=MiguelNinja19/miguel-morphe-patches)**
+
+- **Anger of Stick 5**
+- **Climb!**
+- **Cube Solver**
+- **CubeX Solver**
+- **Hunter Assassin**
+- **Oddmar**
+- **Plants vs. Zombies FREE**
+- **The Battle of Polytopia**
+
+For more information on Miguel's patches: https://github.com/MiguelNinja19/miguel-morphe-patches
+
+---
+
 **[Binarymend Morphe Patches - by Binarymend](https://morphe.software/add-source?github=binarymend/morphe-patches)**
 
 - **aCalendar**
@@ -619,20 +636,6 @@ For more information on Binarymend Morphe Patches - by Binarymend: https://githu
 - **Truecaller**
 
 For more information on Bufferk patches: https://github.com/bufferk/morphe-patches
-
----
-
-**[Miguel's patches](https://morphe.software/add-source?github=MiguelNinja19/miguel-morphe-patches)**
-
-- **Anger of Stick 5**
-- **Climb!**
-- **CubeX Solver**
-- **Hunter Assassin**
-- **Oddmar**
-- **Plants vs. Zombies FREE**
-- **The Battle of Polytopia**
-
-For more information on Miguel's patches: https://github.com/MiguelNinja19/miguel-morphe-patches
 
 ---
 
