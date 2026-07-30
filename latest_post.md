@@ -43,7 +43,7 @@ https://morphe.software/
 
 **Updated: July 30, 2026**
 
-
+*NEW APP - Lightroom Mobile in Hoodles patches
 
 # **Community Patch List**
 
@@ -260,6 +260,7 @@ For more information on Rushi's Patches - by rushiranpise: https://github.com/ru
 - **HelloChinese**
 - **IbisPaint X**
 - **Icon Packer**
+- **Lightroom Mobile**
 - **Ling**
 - **Lingory**
 - **Lyfta**
