@@ -1,4 +1,3 @@
-TEST UPDATE — July 29, 2026
 This is a list of known Morphe patch sources and apps for convenience.
 
 Check back here regularly as I will add sources and apps as they become available, or select "Follow Post" to be notified when updates are made.
