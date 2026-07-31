@@ -43,8 +43,6 @@ https://morphe.software/
 
 **Updated: July 31, 2026**
 
-*NEW SOURCE - SofaTime Patches
-
 *NEW APP - SofaTime in SofaTime Patches
 
 *NEW APP - Smash Hit in byehi98 patches
