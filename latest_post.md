@@ -43,6 +43,8 @@ https://morphe.software/
 
 **Updated: July 30, 2026**
 
+*NEW APP - Native Camera in Franticg33k patches
+
 *NEW APP - Lightroom Mobile in Hoodles patches
 
 # **Community Patch List**
@@ -558,6 +560,23 @@ For more information on Android TV patches: https://github.com/ajstrick81/morphe
 
 ---
 
+**[Franticg33k patches](https://morphe.software/add-source?github=franticg33k/morphe-patches)**
+
+- **Atlas Photo**
+- **byAir**
+- **Hamropatro**
+- **JellyWatch**
+- **Mero Karobar**
+- **Native Camera**
+- **Nepalipatro**
+- **OldRoll**
+- **Prismatica Pro**
+- **Provide Lite**
+
+For more information on Franticg33k patches: https://github.com/franticg33k/morphe-patches
+
+---
+
 **[Patcheddit Patches - by Wchill](https://morphe.software/add-source?github=wchill/patcheddit)**
 
 - **BaconReader**
@@ -574,22 +593,6 @@ For more information on Android TV patches: https://github.com/ajstrick81/morphe
 **Third Party Reddit Apps Supported by Patcheddit**
 
 For more information on Patcheddit Patches - by Wchill: https://github.com/wchill/patcheddit
-
----
-
-**[Franticg33k patches](https://morphe.software/add-source?github=franticg33k/morphe-patches)**
-
-- **Atlas Photo**
-- **byAir**
-- **Hamropatro**
-- **JellyWatch**
-- **Mero Karobar**
-- **Nepalipatro**
-- **OldRoll**
-- **Prismatica Pro**
-- **Provide Lite**
-
-For more information on Franticg33k patches: https://github.com/franticg33k/morphe-patches
 
 ---
 
