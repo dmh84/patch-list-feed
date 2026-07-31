@@ -43,6 +43,10 @@ https://morphe.software/
 
 **Updated: July 31, 2026**
 
+*NEW SOURCE - SofaTime Patches
+
+*NEW APP - SofaTime in SofaTime Patches
+
 *NEW APP - Smash Hit in byehi98 patches
 
 # **Community Patch List**
@@ -1026,6 +1030,14 @@ For more information on ReemX patches: https://github.com/ReemX/morphe-me-patche
 - **Samsung Health**
 
 For more information on Samsung Health patches: https://github.com/bigyank/morphe-patches-samsung
+
+---
+
+**[SofaTime Patches](https://morphe.software/add-source?github=alan7383/sofatime-patches)**
+
+- **SofaTime**
+
+For more information on SofaTime Patches: https://github.com/alan7383/sofatime-patches
 
 ---
 
