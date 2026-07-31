@@ -43,7 +43,7 @@ https://morphe.software/
 
 **Updated: July 31, 2026**
 
-
+*NEW APP - Smash Hit in byehi98 patches
 
 # **Community Patch List**
 
@@ -751,6 +751,16 @@ For more information on xob0t Morphe Patches: https://github.com/xob0t/morphe-pa
 
 ---
 
+**[byehi98 patches](https://morphe.software/add-source?github=byehi98/okish-morphe-patches)**
+
+- **FreeJobAlert**
+- **Smash Hit**
+- **TrueCloud**
+
+For more information on byehi98 patches: https://github.com/byehi98/okish-morphe-patches
+
+---
+
 **[LaKaka's Shitty Patches - by LaKakaReal](https://morphe.software/add-source?github=LaKakaReal/LaKakaShitPatches)**
 
 - **Depth Wallpapers & Live Clock**
@@ -777,15 +787,6 @@ For more information on Saiesh's Morphe Patches: https://github.com/saieshshirod
 - **PhotoGrid**
 
 For more information on Ameen's Morphe Patches: https://github.com/ameenalasady/ameen-morphe
-
----
-
-**[byehi98 patches](https://morphe.software/add-source?github=byehi98/okish-morphe-patches)**
-
-- **FreeJobAlert**
-- **TrueCloud**
-
-For more information on byehi98 patches: https://github.com/byehi98/okish-morphe-patches
 
 ---
 
