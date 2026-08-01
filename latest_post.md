@@ -43,11 +43,7 @@ https://morphe.software/
 
 **Updated: August 1, 2026**
 
-*NEW SOURCE - chukfinley patches
-
 *NEW APP - TIDAL in chukfinley patches
-
-*NEW SOURCE - d0nj Patches
 
 *NEW APP - AI Audio Novel Reader in d0nj Patches
 
