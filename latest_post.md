@@ -41,11 +41,9 @@ https://morphe.software/
 
 ---
 
-**Updated: July 31, 2026**
+**Updated: August 1, 2026**
 
-*NEW APP - SofaTime in SofaTime Patches
-
-*NEW APP - Smash Hit in byehi98 patches
+*NEW APP - Swordigo in byehi98 patches
 
 # **Community Patch List**
 
@@ -718,6 +716,17 @@ For more information on Adobo Morphe Patches - by JKennethCarino: https://github
 
 ---
 
+**[byehi98 patches](https://morphe.software/add-source?github=byehi98/okish-morphe-patches)**
+
+- **FreeJobAlert**
+- **Smash Hit**
+- **Swordigo**
+- **TrueCloud**
+
+For more information on byehi98 patches: https://github.com/byehi98/okish-morphe-patches
+
+---
+
 **[Hxreborn patches](https://morphe.software/add-source?github=hxreborn/morphe-patches)**
 
 - **ForusApp**
@@ -750,16 +759,6 @@ For more information on KineStop Patches: https://github.com/shaun-the-sheep-pat
 [Donate to xob0t Morphe Patches](https://github.com/xob0t)
 
 For more information on xob0t Morphe Patches: https://github.com/xob0t/morphe-patches
-
----
-
-**[byehi98 patches](https://morphe.software/add-source?github=byehi98/okish-morphe-patches)**
-
-- **FreeJobAlert**
-- **Smash Hit**
-- **TrueCloud**
-
-For more information on byehi98 patches: https://github.com/byehi98/okish-morphe-patches
 
 ---
 
