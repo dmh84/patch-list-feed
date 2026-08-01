@@ -43,6 +43,10 @@ https://morphe.software/
 
 **Updated: August 1, 2026**
 
+*NEW APP - Easy Sudoku in Browzomje patches
+
+*NEW APP - Jetpack Joyride in byehi98 patches
+
 *NEW APP - Swordigo in byehi98 patches
 
 # **Community Patch List**
@@ -679,6 +683,18 @@ For more information on Brosssh Morphe Patches: https://github.com/brosssh/morph
 
 ---
 
+**[byehi98 patches](https://morphe.software/add-source?github=byehi98/okish-morphe-patches)**
+
+- **FreeJobAlert**
+- **Jetpack Joyride**
+- **Smash Hit**
+- **Swordigo**
+- **TrueCloud**
+
+For more information on byehi98 patches: https://github.com/byehi98/okish-morphe-patches
+
+---
+
 **[EE-Morphe-Patches - by early.Egg3707](https://morphe.software/add-source?gitlab=early.egg3707/ee-morphe-patches)**
 
 - **AppSales**
@@ -713,17 +729,6 @@ For more information on zPatches: https://github.com/cesbar/zpatches
 *Note: Adobo has an extremely useful Universal Ad Blocker Patch that blocks ads, trackers and analytics on many small play store apps.
 
 For more information on Adobo Morphe Patches - by JKennethCarino: https://github.com/jkennethcarino/adobo
-
----
-
-**[byehi98 patches](https://morphe.software/add-source?github=byehi98/okish-morphe-patches)**
-
-- **FreeJobAlert**
-- **Smash Hit**
-- **Swordigo**
-- **TrueCloud**
-
-For more information on byehi98 patches: https://github.com/byehi98/okish-morphe-patches
 
 ---
 
@@ -788,6 +793,15 @@ For more information on Saiesh's Morphe Patches: https://github.com/saieshshirod
 - **PhotoGrid**
 
 For more information on Ameen's Morphe Patches: https://github.com/ameenalasady/ameen-morphe
+
+---
+
+**[Browzomje patches](https://morphe.software/add-source?github=browzomje/browzomje-patches)**
+
+- **Easy Sudoku**
+- **Pinterest**
+
+For more information on Browzomje patches: https://github.com/browzomje/browzomje-patches
 
 ---
 
@@ -867,14 +881,6 @@ For more information on Andrew's Patches: https://github.com/andrewliang25/morph
 - **Matlistan**
 
 For more information on Android patches - by AlexNaga: https://github.com/AlexNaga/android-patches
-
----
-
-**[Browzomje patches](https://morphe.software/add-source?github=browzomje/browzomje-patches)**
-
-- **Pinterest**
-
-For more information on Browzomje patches: https://github.com/browzomje/browzomje-patches
 
 ---
 
