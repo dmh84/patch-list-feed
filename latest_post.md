@@ -43,6 +43,14 @@ https://morphe.software/
 
 **Updated: August 1, 2026**
 
+*NEW SOURCE - chukfinley patches
+
+*NEW APP - TIDAL in chukfinley patches
+
+*NEW SOURCE - d0nj Patches
+
+*NEW APP - AI Audio Novel Reader in d0nj Patches
+
 *NEW APP - Easy Sudoku in Browzomje patches
 
 *NEW APP - Jetpack Joyride in byehi98 patches
@@ -889,6 +897,22 @@ For more information on Android patches - by AlexNaga: https://github.com/AlexNa
 - **MAX**
 
 For more information on Chmax-Patches - by RealCyberwash: https://github.com/RealCyberwash/max-patches
+
+---
+
+**[chukfinley patches](https://morphe.software/add-source?github=chukfinley/tidal-patches)**
+
+- **TIDAL**
+
+For more information on chukfinley patches: https://github.com/chukfinley/tidal-patches
+
+---
+
+**[d0nj Patches](https://morphe.software/add-source?github=d0nj/morphe-patches)**
+
+- **AI Audio Novel Reader**
+
+For more information on d0nj Patches: https://github.com/d0nj/morphe-patches
 
 ---
 
