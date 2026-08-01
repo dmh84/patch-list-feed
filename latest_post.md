@@ -43,6 +43,12 @@ https://morphe.software/
 
 **Updated: August 1, 2026**
 
+*NEW SOURCE - Hiosdra patches
+
+*NEW APP - F1 TV in Hiosdra patches
+
+*NEW APP - Movie Paradise in Hiosdra patches
+
 *NEW APP - Twitch in Android TV patches
 
 *NEW APP - TIDAL in chukfinley patches
@@ -809,6 +815,15 @@ For more information on Ameen's Morphe Patches: https://github.com/ameenalasady/
 - **Pinterest**
 
 For more information on Browzomje patches: https://github.com/browzomje/browzomje-patches
+
+---
+
+**[Hiosdra patches](https://morphe.software/add-source?github=Hiosdra/morphe-patches)**
+
+- **F1 TV**
+- **Movie Paradise**
+
+For more information on Hiosdra patches: https://github.com/Hiosdra/morphe-patches
 
 ---
 
