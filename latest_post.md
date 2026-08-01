@@ -43,6 +43,8 @@ https://morphe.software/
 
 **Updated: August 1, 2026**
 
+*NEW APP - Twitch in Android TV patches
+
 *NEW APP - TIDAL in chukfinley patches
 
 *NEW APP - AI Audio Novel Reader in d0nj Patches
@@ -531,6 +533,24 @@ For more information on Kondratjev Morphe Patches - by Kindratiev: https://githu
 
 ---
 
+**[Android TV patches](https://morphe.software/add-source?github=ajstrick81/morphe-androidtv-patches)**
+
+- **Disney+**
+- **FOX One**
+- **HBO Max**
+- **MLB**
+- **Paramount+**
+- **Peacock TV**
+- **PlutoTV**
+- **Prime Video (Android TV)**
+- **Tubi**
+- **Twitch**
+- **ViX**
+
+For more information on Android TV patches: https://github.com/ajstrick81/morphe-androidtv-patches
+
+---
+
 **[Chiggi SonyLIV Patches - by durgesh0505](https://morphe.software/add-source?github=durgesh0505/chiggi_morphe_patches)**
 
 - **Arrow Puzzle**
@@ -546,23 +566,6 @@ For more information on Kondratjev Morphe Patches - by Kindratiev: https://githu
 - **Vi Movies and TV**
 
 For more information on Chiggi SonyLIV Patches - by durgesh0505: https://github.com/durgesh0505/chiggi_morphe_patches
-
----
-
-**[Android TV patches](https://morphe.software/add-source?github=ajstrick81/morphe-androidtv-patches)**
-
-- **Disney+**
-- **FOX One**
-- **HBO Max**
-- **MLB**
-- **Paramount+**
-- **Peacock TV**
-- **PlutoTV**
-- **Prime Video (Android TV)**
-- **Tubi**
-- **ViX**
-
-For more information on Android TV patches: https://github.com/ajstrick81/morphe-androidtv-patches
 
 ---
 
