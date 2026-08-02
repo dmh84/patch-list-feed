@@ -43,7 +43,7 @@ https://morphe.software/
 
 **Updated: August 2, 2026**
 
-
+*NEW APP - Doodle Jump in byehi98 patches
 
 # **Community Patch List**
 
@@ -639,6 +639,19 @@ For more information on Bufferk patches: https://github.com/bufferk/morphe-patch
 
 ---
 
+**[byehi98 patches](https://morphe.software/add-source?github=byehi98/okish-morphe-patches)**
+
+- **Doodle Jump**
+- **FreeJobAlert**
+- **Jetpack Joyride**
+- **Smash Hit**
+- **Swordigo**
+- **TrueCloud**
+
+For more information on byehi98 patches: https://github.com/byehi98/okish-morphe-patches
+
+---
+
 **[Proxma patches](https://morphe.software/add-source?github=totsiaw/proxma-patches)**
 
 - **Investify**
@@ -677,18 +690,6 @@ For more information on Ample Patches - by naijun0403: https://github.com/AmpleR
 [Donate to Brosssh Morphe Patches](https://github.com/sponsors/brosssh)
 
 For more information on Brosssh Morphe Patches: https://github.com/brosssh/morphe-patches
-
----
-
-**[byehi98 patches](https://morphe.software/add-source?github=byehi98/okish-morphe-patches)**
-
-- **FreeJobAlert**
-- **Jetpack Joyride**
-- **Smash Hit**
-- **Swordigo**
-- **TrueCloud**
-
-For more information on byehi98 patches: https://github.com/byehi98/okish-morphe-patches
 
 ---
 
