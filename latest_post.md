@@ -43,6 +43,34 @@ https://morphe.software/
 
 **Updated: August 2, 2026**
 
+*NEW SOURCE - Morning Entree patches
+
+*NEW APP - AutoLocation in Morning Entree patches
+
+*NEW APP - AutoTools in Morning Entree patches
+
+*NEW APP - Gboard in Morning Entree patches
+
+*NEW APP - Gradient Weather in Morning Entree patches
+
+*NEW APP - Lifesum in Morning Entree patches
+
+*NEW APP - Ling in Morning Entree patches
+
+*NEW APP - Nova Launcher in Morning Entree patches
+
+*NEW APP - Panels in Morning Entree patches
+
+*NEW APP - Phi Launcher in Morning Entree patches
+
+*NEW APP - Pinnit in Morning Entree patches
+
+*NEW APP - Sponge in Morning Entree patches
+
+*NEW APP - UbikiTouch in Morning Entree patches
+
+*NEW APP - Vocabulary in Morning Entree patches
+
 *NEW APP - Doodle Jump in byehi98 patches
 
 # **Community Patch List**
@@ -484,6 +512,26 @@ For more information on Xtra Android Patches - by BholeyKaBhakt: https://github.
 
 ---
 
+**[Morning Entree patches](https://morphe.software/add-source?github=Entree3k/Morning-Entree-Patches)**
+
+- **AutoLocation**
+- **AutoTools**
+- **Gboard**
+- **Gradient Weather**
+- **Lifesum**
+- **Ling**
+- **Nova Launcher**
+- **Panels**
+- **Phi Launcher**
+- **Pinnit**
+- **Sponge**
+- **UbikiTouch**
+- **Vocabulary**
+
+For more information on Morning Entree patches: https://github.com/Entree3k/Morning-Entree-Patches
+
+---
+
 **[Xhehab Patches](https://morphe.software/add-source?github=Xhehab/Xhehab-Patches)**
 
 - **BASE Strength AI**
@@ -907,11 +955,11 @@ For more information on chukfinley patches: https://github.com/chukfinley/tidal-
 
 ---
 
-**[d0nj Patches](https://morphe.software/add-source?github=d0nj/morphe-patches)**
+**[d0nj patches](https://morphe.software/add-source?github=d0nj/morphe-patches)**
 
 - **AI Audio Novel Reader**
 
-For more information on d0nj Patches: https://github.com/d0nj/morphe-patches
+For more information on d0nj patches: https://github.com/d0nj/morphe-patches
 
 ---
 
@@ -1059,11 +1107,11 @@ For more information on Samsung Health patches: https://github.com/bigyank/morph
 
 ---
 
-**[SofaTime Patches](https://morphe.software/add-source?github=alan7383/sofatime-patches)**
+**[SofaTime patches](https://morphe.software/add-source?github=alan7383/sofatime-patches)**
 
 - **SofaTime**
 
-For more information on SofaTime Patches: https://github.com/alan7383/sofatime-patches
+For more information on SofaTime patches: https://github.com/alan7383/sofatime-patches
 
 ---
 
