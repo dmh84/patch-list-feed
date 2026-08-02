@@ -43,8 +43,6 @@ https://morphe.software/
 
 **Updated: August 1, 2026**
 
-*NEW SOURCE - Hiosdra patches
-
 *NEW APP - F1 TV in Hiosdra patches
 
 *NEW APP - Movie Paradise in Hiosdra patches
