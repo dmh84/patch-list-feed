@@ -41,23 +41,9 @@ https://morphe.software/
 
 ---
 
-**Updated: August 1, 2026**
+**Updated: August 2, 2026**
 
-*NEW APP - F1 TV in Hiosdra patches
 
-*NEW APP - Movie Paradise in Hiosdra patches
-
-*NEW APP - Twitch in Android TV patches
-
-*NEW APP - TIDAL in chukfinley patches
-
-*NEW APP - AI Audio Novel Reader in d0nj Patches
-
-*NEW APP - Easy Sudoku in Browzomje patches
-
-*NEW APP - Jetpack Joyride in byehi98 patches
-
-*NEW APP - Swordigo in byehi98 patches
 
 # **Community Patch List**
 
