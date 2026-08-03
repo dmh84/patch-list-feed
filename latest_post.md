@@ -43,23 +43,25 @@ https://morphe.software/
 
 **Updated: August 2, 2026**
 
-*NEW SOURCE - Morning Entree patches
+*NEW APP - Boosted Productivity in Morning Entree patches
+
+*NEW APP - Todo Mate in Morning Entree patches
+
+*NEW APP - Gboard in Morning Entree patches
+
+*NEW APP - Nova Launcher in Morning Entree patches
+
+*NEW APP - Panels in Morning Entree patches
 
 *NEW APP - AutoLocation in Morning Entree patches
 
 *NEW APP - AutoTools in Morning Entree patches
-
-*NEW APP - Gboard in Morning Entree patches
 
 *NEW APP - Gradient Weather in Morning Entree patches
 
 *NEW APP - Lifesum in Morning Entree patches
 
 *NEW APP - Ling in Morning Entree patches
-
-*NEW APP - Nova Launcher in Morning Entree patches
-
-*NEW APP - Panels in Morning Entree patches
 
 *NEW APP - Phi Launcher in Morning Entree patches
 
@@ -491,6 +493,28 @@ For more information on Paresh Patches - by Paresh: https://gitlab.com/Paresh-Ma
 
 ---
 
+**[Morning Entree patches](https://morphe.software/add-source?github=Entree3k/Morning-Entree-Patches)**
+
+- **AutoLocation**
+- **AutoTools**
+- **Boosted Productivity**
+- **Gboard**
+- **Gradient Weather**
+- **Lifesum**
+- **Ling**
+- **Nova Launcher**
+- **Panels**
+- **Phi Launcher**
+- **Pinnit**
+- **Sponge**
+- **Todo Mate**
+- **UbikiTouch**
+- **Vocabulary**
+
+For more information on Morning Entree patches: https://github.com/Entree3k/Morning-Entree-Patches
+
+---
+
 **[Xtra Android Patches - by BholeyKaBhakt](https://morphe.software/add-source?github=BholeyKaBhakt/android-patches-xtra)**
 
 - **ATM Fee Saver**
@@ -509,26 +533,6 @@ For more information on Paresh Patches - by Paresh: https://gitlab.com/Paresh-Ma
 - **vpnify**
 
 For more information on Xtra Android Patches - by BholeyKaBhakt: https://github.com/BholeyKaBhakt/android-patches-xtra
-
----
-
-**[Morning Entree patches](https://morphe.software/add-source?github=Entree3k/Morning-Entree-Patches)**
-
-- **AutoLocation**
-- **AutoTools**
-- **Gboard**
-- **Gradient Weather**
-- **Lifesum**
-- **Ling**
-- **Nova Launcher**
-- **Panels**
-- **Phi Launcher**
-- **Pinnit**
-- **Sponge**
-- **UbikiTouch**
-- **Vocabulary**
-
-For more information on Morning Entree patches: https://github.com/Entree3k/Morning-Entree-Patches
 
 ---
 
