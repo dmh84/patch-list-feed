@@ -43,6 +43,12 @@ https://morphe.software/
 
 **Updated: August 3, 2026**
 
+*NEW SOURCE - TikTok Lite patches
+
+*NEW APP - com.zhiliaoapp.musically.go in TikTok Lite patches
+
+*NEW APP - TikTok in TikTok Lite patches
+
 *NEW APP - Sunrise Alarm: Wake-Up Light in Zarko patches
 
 *NEW APP - AAAD in Rushi patches
@@ -813,17 +819,6 @@ For more information on Hxreborn patches: https://github.com/hxreborn/morphe-pat
 
 ---
 
-**[KineStop Patches](https://morphe.software/add-source?github=shaun-the-sheep-patches/morphe-patches)**
-
-- **Flud**
-- **KineStop**
-- **Pinnit**
-- **RSS Reader**
-
-For more information on KineStop Patches: https://github.com/shaun-the-sheep-patches/morphe-patches
-
----
-
 **[xob0t Morphe Patches](https://morphe.software/add-source?github=xob0t/morphe-patches)**
 
 - **Avito**
@@ -834,6 +829,16 @@ For more information on KineStop Patches: https://github.com/shaun-the-sheep-pat
 [Donate to xob0t Morphe Patches](https://github.com/xob0t)
 
 For more information on xob0t Morphe Patches: https://github.com/xob0t/morphe-patches
+
+---
+
+**[KineStop patches](https://morphe.software/add-source?github=shaun-the-sheep-patches/morphe-patches)**
+
+- **Flud**
+- **KineStop**
+- **RSS Reader**
+
+For more information on KineStop patches: https://github.com/shaun-the-sheep-patches/morphe-patches
 
 ---
 
@@ -928,6 +933,15 @@ For more information on Patched-Up Patches - by Docbt: https://github.com/docbt/
 - **X**
 
 For more information on Piko X / Twitter and Instagram Patches - by Crimera: https://github.com/crimera/piko
+
+---
+
+**[TikTok Lite patches](https://morphe.software/add-source?github=furkngld/tiktok-lite-patches-for-morphe)**
+
+- **com.zhiliaoapp.musically.go**
+- **TikTok**
+
+For more information on TikTok Lite patches: https://github.com/furkngld/tiktok-lite-patches-for-morphe
 
 ---
 
