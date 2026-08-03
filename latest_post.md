@@ -41,39 +41,45 @@ https://morphe.software/
 
 ---
 
-**Updated: August 2, 2026**
+**Updated: August 3, 2026**
 
-*NEW APP - Boosted Productivity in Morning Entree patches
+*NEW SOURCE - Zarko patches
 
-*NEW APP - Todo Mate in Morning Entree patches
+*NEW APP - Sunrise Alarm: Wake-Up Light in Zarko patches
 
-*NEW APP - Gboard in Morning Entree patches
+*NEW APP - AAAD in Rushi patches
 
-*NEW APP - Nova Launcher in Morning Entree patches
+*NEW APP - AAEnabler in Rushi patches
 
-*NEW APP - Panels in Morning Entree patches
+*NEW APP - Auto Cursor in Rushi patches
 
-*NEW APP - AutoLocation in Morning Entree patches
+*NEW APP - WearOS Toolset in Rushi patches
 
-*NEW APP - AutoTools in Morning Entree patches
+*NEW APP - SocialLite in Rushi patches
 
-*NEW APP - Gradient Weather in Morning Entree patches
+*NEW APP - Mini Web Browser in Rushi patches
 
-*NEW APP - Lifesum in Morning Entree patches
+*NEW APP - Wallverse in Rushi patches
 
-*NEW APP - Ling in Morning Entree patches
+*NEW APP - HD UHD Live Wallpapers in Rushi patches
 
-*NEW APP - Phi Launcher in Morning Entree patches
+*NEW APP - Translator in Rushi patches
 
-*NEW APP - Pinnit in Morning Entree patches
+*NEW APP - Inure App Manager (GitHub) in Rushi patches
 
-*NEW APP - Sponge in Morning Entree patches
+*NEW APP - Athena in Rushi patches
 
-*NEW APP - UbikiTouch in Morning Entree patches
+*NEW APP - Blocking Sites in Rushi patches
 
-*NEW APP - Vocabulary in Morning Entree patches
+*NEW APP - BoldVoice: American Accent in Rushi patches
 
-*NEW APP - Doodle Jump in byehi98 patches
+*NEW APP - Monet in Rushi patches
+
+*NEW APP - WatchMaker in Rushi patches
+
+*NEW APP - Vyxel Apps in Rushi patches
+
+*NEW APP - WristBrowser in Rushi patches
 
 # **Community Patch List**
 
@@ -81,10 +87,12 @@ https://morphe.software/
 
 - **1.1.1.1**
 - **1Tap Cleaner**
+- **AAAD**
+- **AAEnabler**
 - **AccuBattery**
 - **AccuWeather**
 - **Ace Ex File Manager**
-- **AdGuard Nightly**
+- **AdGuard for Android TV**
 - **AIDA64**
 - **AiScore**
 - **All Reader**
@@ -97,15 +105,19 @@ https://morphe.software/
 - **Anime Depth Wallpapers**
 - **APKMirror Installer**
 - **App Permission Manager**
+- **Athena**
+- **Auto Cursor**
 - **Battery Guru**
 - **BatteryPods**
 - **Beta Maniac**
 - **Block Blast!**
 - **Block Puzzle**
 - **BlockerHero**
+- **Blocking Sites**
 - **Bluetooth Volume Manager**
 - **Blurams**
 - **BlurWall**
+- **BoldVoice: American Accent**
 - **Box Box**
 - **BuzzCast**
 - **calimoto**
@@ -141,6 +153,7 @@ https://morphe.software/
 - **Genius Scan**
 - **Google Photos**
 - **Greenify**
+- **HD UHD Live Wallpapers**
 - **Hibernator**
 - **Historical Calendar**
 - **Hola VPN Proxy Plus**
@@ -148,6 +161,7 @@ https://morphe.software/
 - **Image & Video Date Fixer**
 - **Inmigreat**
 - **Inure App Manager**
+- **Inure App Manager (GitHub)**
 - **JEFIT**
 - **Kahoot!**
 - **KillApps**
@@ -161,13 +175,14 @@ https://morphe.software/
 - **m-Indicator**
 - **MANGA Plus by SHUEISHA**
 - **Mapy**
-- **Material Capsule**
 - **MaterialPods**
 - **MEGA**
 - **MigraConnect**
+- **Mini Web Browser**
 - **Minimal Widgets**
 - **ML Manager**
 - **MobiOffice- Word, Excel, Slide**
+- **Monet**
 - **Moovit**
 - **MovieBox**
 - **MovieBox (India)**
@@ -229,6 +244,7 @@ https://morphe.software/
 - **Snipd**
 - **Snow-Forecast.com**
 - **Social Gamebox**
+- **SocialLite**
 - **Speedtest**
 - **SPIN**
 - **Splitwise**
@@ -253,19 +269,25 @@ https://morphe.software/
 - **Tracker Detect**
 - **TradingView**
 - **Transit**
+- **Translator**
 - **TurboScan**
 - **UbikiTouch**
 - **UDisc**
 - **Unimote**
 - **Uptodown App Store**
 - **VIZ Manga**
+- **Vyxel Apps**
+- **Wallverse**
+- **WatchMaker**
 - **Wavve Boating**
 - **Waze**
+- **WearOS Toolset**
 - **Weawow**
 - **Windscribe VPN**
 - **Windy**
 - **WolframAlpha**
 - **Word**
+- **WristBrowser**
 - **Yatri**
 
 For more information on Rushi's Patches - by rushiranpise: https://github.com/rushiranpise/morphe-patches
@@ -1174,6 +1196,14 @@ For more information on VocaColle patches: https://github.com/ilikeadofai/vocaco
 - **X**
 
 For more information on X-Shim by inotia00: https://gitlab.com/inotia00/x-shim
+
+---
+
+**[Zarko patches](https://morphe.software/add-source?github=eZ4RK0/morphe-patches)**
+
+- **Sunrise Alarm: Wake-Up Light**
+
+For more information on Zarko patches: https://github.com/eZ4RK0/morphe-patches
 
 ---
 
