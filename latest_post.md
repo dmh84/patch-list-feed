@@ -43,8 +43,6 @@ https://morphe.software/
 
 **Updated: August 3, 2026**
 
-*NEW SOURCE - Zarko patches
-
 *NEW APP - Sunrise Alarm: Wake-Up Light in Zarko patches
 
 *NEW APP - AAAD in Rushi patches
@@ -973,11 +971,11 @@ For more information on Chmax-Patches - by RealCyberwash: https://github.com/Rea
 
 ---
 
-**[chukfinley patches](https://morphe.software/add-source?github=chukfinley/tidal-patches)**
+**[Chukfinley patches](https://morphe.software/add-source?github=chukfinley/tidal-patches)**
 
 - **TIDAL**
 
-For more information on chukfinley patches: https://github.com/chukfinley/tidal-patches
+For more information on Chukfinley patches: https://github.com/chukfinley/tidal-patches
 
 ---
 
