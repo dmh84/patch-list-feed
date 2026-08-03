@@ -43,12 +43,6 @@ https://morphe.software/
 
 **Updated: August 3, 2026**
 
-*NEW SOURCE - TikTok Lite patches
-
-*NEW APP - com.zhiliaoapp.musically.go in TikTok Lite patches
-
-*NEW APP - TikTok in TikTok Lite patches
-
 *NEW APP - Sunrise Alarm: Wake-Up Light in Zarko patches
 
 *NEW APP - AAAD in Rushi patches
@@ -933,15 +927,6 @@ For more information on Patched-Up Patches - by Docbt: https://github.com/docbt/
 - **X**
 
 For more information on Piko X / Twitter and Instagram Patches - by Crimera: https://github.com/crimera/piko
-
----
-
-**[TikTok Lite patches](https://morphe.software/add-source?github=furkngld/tiktok-lite-patches-for-morphe)**
-
-- **com.zhiliaoapp.musically.go**
-- **TikTok**
-
-For more information on TikTok Lite patches: https://github.com/furkngld/tiktok-lite-patches-for-morphe
 
 ---
 
