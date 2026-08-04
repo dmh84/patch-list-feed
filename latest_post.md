@@ -41,49 +41,9 @@ https://morphe.software/
 
 ---
 
-**Updated: August 3, 2026**
+**Updated: August 4, 2026**
 
-*NEW APP - Listy in Morning Entree patches
 
-*NEW APP - Super Status Bar in Morning Entree patches
-
-*NEW APP - Volume Styles in Morning Entree patches
-
-*NEW APP - Sunrise Alarm: Wake-Up Light in Zarko patches
-
-*NEW APP - AAAD in Rushi patches
-
-*NEW APP - AAEnabler in Rushi patches
-
-*NEW APP - Auto Cursor in Rushi patches
-
-*NEW APP - WearOS Toolset in Rushi patches
-
-*NEW APP - SocialLite in Rushi patches
-
-*NEW APP - Mini Web Browser in Rushi patches
-
-*NEW APP - Wallverse in Rushi patches
-
-*NEW APP - HD UHD Live Wallpapers in Rushi patches
-
-*NEW APP - Translator in Rushi patches
-
-*NEW APP - Inure App Manager (GitHub) in Rushi patches
-
-*NEW APP - Athena in Rushi patches
-
-*NEW APP - Blocking Sites in Rushi patches
-
-*NEW APP - BoldVoice: American Accent in Rushi patches
-
-*NEW APP - Monet in Rushi patches
-
-*NEW APP - WatchMaker in Rushi patches
-
-*NEW APP - Vyxel Apps in Rushi patches
-
-*NEW APP - WristBrowser in Rushi patches
 
 # **Community Patch List**
 
