@@ -43,7 +43,17 @@ https://morphe.software/
 
 **Updated: August 4, 2026**
 
+*NEW SOURCE - DeXa Patches
 
+*NEW APP - IDOS in DeXa Patches
+
+*NEW APP - Speedtest by Ookla in DeXa Patches
+
+*NEW SOURCE - LaBlazer's patches
+
+*NEW APP - eTesty Autoškola in LaBlazer's patches
+
+*NEW APP - Speedtest in DeXa Patches
 
 # **Community Patch List**
 
@@ -843,6 +853,15 @@ For more information on Browzomje patches: https://github.com/browzomje/browzomj
 
 ---
 
+**[DeXa Patches](https://morphe.software/add-source?github=dexnis-dev/morphe-patches)**
+
+- **IDOS**
+- **Speedtest by Ookla**
+
+For more information on DeXa Patches: https://github.com/dexnis-dev/morphe-patches
+
+---
+
 **[Hiosdra patches](https://morphe.software/add-source?github=Hiosdra/morphe-patches)**
 
 - **F1 TV**
@@ -1008,6 +1027,14 @@ For more information on Gryphou patches: https://github.com/NekoGryphou/gryphous
 - **Sankaku App**
 
 For more information on HellveticaStandard patches: https://github.com/HellveticaStandard/HellveticaPatches
+
+---
+
+**[LaBlazer's patches](https://morphe.software/add-source?github=LaBlazer/morphe-patches)**
+
+- **eTesty Autoškola**
+
+For more information on LaBlazer's patches: https://github.com/LaBlazer/morphe-patches
 
 ---
 
