@@ -43,6 +43,20 @@ https://morphe.software/
 
 **Updated: August 4, 2026**
 
+*NEW SOURCE - GoldRift's Patches
+
+*NEW APP - Strong in GoldRift's Patches
+
+*NEW SOURCE - RoundSalmon4 patches
+
+*NEW APP - SeriesGuide in RoundSalmon4 patches
+
+*NEW SOURCE - TikTok Lite patches
+
+*NEW APP - TikTok in TikTok Lite patches
+
+*NEW APP - TikTok Lite in TikTok Lite patches
+
 *NEW APP - IDOS in DeXa Patches
 
 *NEW APP - Speedtest in DeXa Patches
@@ -912,6 +926,15 @@ For more information on Piko X / Twitter and Instagram Patches - by Crimera: htt
 
 ---
 
+**[TikTok Lite patches](https://morphe.software/add-source?github=furkngld/tiktok-lite-patches-for-morphe)**
+
+- **TikTok**
+- **TikTok Lite**
+
+For more information on TikTok Lite patches: https://github.com/furkngld/tiktok-lite-patches-for-morphe
+
+---
+
 **[AliExpress patches](https://morphe.software/add-source?github=Quantro100/Morphe-patches)**
 
 - **AliExpress**
@@ -1005,6 +1028,14 @@ For more information on Fluffy patches: https://github.com/rabilrbl/fluffy-patch
 - **Gboard**
 
 For more information on Gboard-Patches - by JasonWu1994: https://github.com/jasonwu1994/Gboard-patches
+
+---
+
+**[GoldRift's Patches](https://morphe.software/add-source?github=GoldRift/morphe-patches)**
+
+- **Strong**
+
+For more information on GoldRift's Patches: https://github.com/GoldRift/morphe-patches
 
 ---
 
@@ -1109,6 +1140,14 @@ For more information on Prathxm patches: https://github.com/PrathxmOp/Prathxm-Pa
 - **Me**
 
 For more information on ReemX patches: https://github.com/ReemX/morphe-me-patches
+
+---
+
+**[RoundSalmon4 patches](https://morphe.software/add-source?github=RoundSalmon4/morphe-patches-template)**
+
+- **SeriesGuide**
+
+For more information on RoundSalmon4 patches: https://github.com/RoundSalmon4/morphe-patches-template
 
 ---
 
