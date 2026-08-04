@@ -43,17 +43,11 @@ https://morphe.software/
 
 **Updated: August 4, 2026**
 
-*NEW SOURCE - DeXa Patches
-
 *NEW APP - IDOS in DeXa Patches
 
-*NEW APP - Speedtest by Ookla in DeXa Patches
-
-*NEW SOURCE - LaBlazer's patches
+*NEW APP - Speedtest in DeXa Patches
 
 *NEW APP - eTesty Autoškola in LaBlazer's patches
-
-*NEW APP - Speedtest in DeXa Patches
 
 # **Community Patch List**
 
