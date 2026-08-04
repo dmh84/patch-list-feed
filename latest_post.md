@@ -43,19 +43,9 @@ https://morphe.software/
 
 **Updated: August 4, 2026**
 
-*NEW SOURCE - GoldRift's Patches
-
 *NEW APP - Strong in GoldRift's Patches
 
-*NEW SOURCE - RoundSalmon4 patches
-
 *NEW APP - SeriesGuide in RoundSalmon4 patches
-
-*NEW SOURCE - TikTok Lite patches
-
-*NEW APP - TikTok in TikTok Lite patches
-
-*NEW APP - TikTok Lite in TikTok Lite patches
 
 *NEW APP - IDOS in DeXa Patches
 
@@ -923,15 +913,6 @@ For more information on Patched-Up Patches - by Docbt: https://github.com/docbt/
 - **X**
 
 For more information on Piko X / Twitter and Instagram Patches - by Crimera: https://github.com/crimera/piko
-
----
-
-**[TikTok Lite patches](https://morphe.software/add-source?github=furkngld/tiktok-lite-patches-for-morphe)**
-
-- **TikTok**
-- **TikTok Lite**
-
-For more information on TikTok Lite patches: https://github.com/furkngld/tiktok-lite-patches-for-morphe
 
 ---
 
