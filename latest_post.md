@@ -43,6 +43,12 @@ https://morphe.software/
 
 **Updated: August 3, 2026**
 
+*NEW APP - Listy in Morning Entree patches
+
+*NEW APP - Super Status Bar in Morning Entree patches
+
+*NEW APP - Volume Styles in Morning Entree patches
+
 *NEW APP - Sunrise Alarm: Wake-Up Light in Zarko patches
 
 *NEW APP - AAAD in Rushi patches
@@ -522,14 +528,17 @@ For more information on Paresh Patches - by Paresh: https://gitlab.com/Paresh-Ma
 - **Gradient Weather**
 - **Lifesum**
 - **Ling**
+- **Listy**
 - **Nova Launcher**
 - **Panels**
 - **Phi Launcher**
 - **Pinnit**
 - **Sponge**
+- **Super Status Bar**
 - **Todo Mate**
 - **UbikiTouch**
 - **Vocabulary**
+- **Volume Styles**
 
 For more information on Morning Entree patches: https://github.com/Entree3k/Morning-Entree-Patches
 
