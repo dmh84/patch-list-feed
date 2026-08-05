@@ -41,17 +41,17 @@ https://morphe.software/
 
 ---
 
-**Updated: August 4, 2026**
+**Updated: August 5, 2026**
 
-*NEW APP - Strong in GoldRift's Patches
+*NEW SOURCE - hu-liberator
 
-*NEW APP - SeriesGuide in RoundSalmon4 patches
+*NEW APP - Időkép in hu-liberator
 
-*NEW APP - IDOS in DeXa Patches
+*NEW APP - MÁVPlusz in hu-liberator
 
-*NEW APP - Speedtest in DeXa Patches
+*NEW SOURCE - NuvioTV patches
 
-*NEW APP - eTesty Autoškola in LaBlazer's patches
+*NEW APP - NuvioTV in NuvioTV patches
 
 # **Community Patch List**
 
@@ -869,6 +869,15 @@ For more information on Hiosdra patches: https://github.com/Hiosdra/morphe-patch
 
 ---
 
+**[hu-liberator](https://morphe.software/add-source?github=hu-liberator/patches)**
+
+- **Időkép**
+- **MÁVPlusz**
+
+For more information on hu-liberator: https://github.com/hu-liberator/patches
+
+---
+
 **[iHealth patches](https://morphe.software/add-source?github=bdgerszewski/morphe-patches-ihealth)**
 
 - **iHealth MyVitals**
@@ -1089,6 +1098,14 @@ For more information on Morphe-Meta-Patches - by MeridianFresco: https://github.
 - **Movistar Plus**
 
 For more information on Movistar patches: https://github.com/Tornillo2/movistar-block-ads-morphe
+
+---
+
+**[NuvioTV patches](https://morphe.software/add-source?github=liongalahad/nuviotv-morphe-patches)**
+
+- **NuvioTV**
+
+For more information on NuvioTV patches: https://github.com/liongalahad/nuviotv-morphe-patches
 
 ---
 
