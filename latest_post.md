@@ -43,15 +43,15 @@ https://morphe.software/
 
 **Updated: August 5, 2026**
 
-*NEW SOURCE - hu-liberator
+*NEW SOURCE - Logm1lo Patches
 
-*NEW APP - Időkép in hu-liberator
+*NEW APP - Calistree in Logm1lo Patches
+
+*NEW APP - NuvioTV in NuvioTV patches
 
 *NEW APP - MÁVPlusz in hu-liberator
 
-*NEW SOURCE - NuvioTV patches
-
-*NEW APP - NuvioTV in NuvioTV patches
+*NEW APP - Időkép in hu-liberator
 
 # **Community Patch List**
 
@@ -1058,6 +1058,14 @@ For more information on LaBlazer's patches: https://github.com/LaBlazer/morphe-p
 - **Letterboxd**
 
 For more information on Letterboxd patches: https://github.com/ethanm6/letterboxd-stremio-morphe-patch
+
+---
+
+**[Logm1lo Patches](https://morphe.software/add-source?github=logm1lo/logm1lo-patches)**
+
+- **Calistree**
+
+For more information on Logm1lo Patches: https://github.com/logm1lo/logm1lo-patches
 
 ---
 
