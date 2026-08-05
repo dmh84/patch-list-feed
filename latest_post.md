@@ -43,6 +43,8 @@ https://morphe.software/
 
 **Updated: August 5, 2026**
 
+*NEW APP - GitHub in Stylus
+
 *NEW APP - Calistree in Logm1lo Patches
 
 *NEW APP - NuvioTV in NuvioTV patches
@@ -923,6 +925,15 @@ For more information on Piko X / Twitter and Instagram Patches - by Crimera: htt
 
 ---
 
+**[Stylus](https://morphe.software/add-source?github=ch3thanhs/stylus)**
+
+- **Bitwarden**
+- **GitHub**
+
+For more information on Stylus: https://github.com/ch3thanhs/stylus
+
+---
+
 **[AliExpress patches](https://morphe.software/add-source?github=Quantro100/Morphe-patches)**
 
 - **AliExpress**
@@ -1168,14 +1179,6 @@ For more information on Samsung Health patches: https://github.com/bigyank/morph
 - **SofaTime**
 
 For more information on SofaTime patches: https://github.com/alan7383/sofatime-patches
-
----
-
-**[Stylus](https://morphe.software/add-source?github=ch3thanhs/stylus)**
-
-- **Bitwarden**
-
-For more information on Stylus: https://github.com/ch3thanhs/stylus
 
 ---
 
