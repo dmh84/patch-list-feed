@@ -43,8 +43,6 @@ https://morphe.software/
 
 **Updated: August 5, 2026**
 
-*NEW SOURCE - Logm1lo Patches
-
 *NEW APP - Calistree in Logm1lo Patches
 
 *NEW APP - NuvioTV in NuvioTV patches
