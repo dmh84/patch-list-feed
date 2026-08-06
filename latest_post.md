@@ -41,17 +41,9 @@ https://morphe.software/
 
 ---
 
-**Updated: August 5, 2026**
+**Updated: August 6, 2026**
 
-*NEW APP - GitHub in Stylus
-
-*NEW APP - Calistree in Logm1lo Patches
-
-*NEW APP - NuvioTV in NuvioTV patches
-
-*NEW APP - MÁVPlusz in hu-liberator
-
-*NEW APP - Időkép in hu-liberator
+*NEW APP - Dr. Driving in byehi98 patches
 
 # **Community Patch List**
 
@@ -691,6 +683,7 @@ For more information on Bufferk patches: https://github.com/bufferk/morphe-patch
 **[byehi98 patches](https://morphe.software/add-source?github=byehi98/okish-morphe-patches)**
 
 - **Doodle Jump**
+- **Dr. Driving**
 - **FreeJobAlert**
 - **Jetpack Joyride**
 - **Smash Hit**
