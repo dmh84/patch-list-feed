@@ -43,6 +43,14 @@ https://morphe.software/
 
 **Updated: August 6, 2026**
 
+*NEW SOURCE - Alastor patches
+
+*NEW APP - Opera GX in Alastor patches
+
+*NEW SOURCE - DBT Coach patches
+
+*NEW APP - DBT Coach in DBT Coach patches
+
 *NEW APP - Dr. Driving in byehi98 patches
 
 # **Community Patch List**
@@ -927,6 +935,14 @@ For more information on Stylus: https://github.com/ch3thanhs/stylus
 
 ---
 
+**[Alastor patches](https://morphe.software/add-source?github=Alastor-Kaneki/Morphe-Patches)**
+
+- **Opera GX**
+
+For more information on Alastor patches: https://github.com/Alastor-Kaneki/Morphe-Patches
+
+---
+
 **[AliExpress patches](https://morphe.software/add-source?github=Quantro100/Morphe-patches)**
 
 - **AliExpress**
@@ -980,6 +996,14 @@ For more information on Chukfinley patches: https://github.com/chukfinley/tidal-
 - **AI Audio Novel Reader**
 
 For more information on d0nj patches: https://github.com/d0nj/morphe-patches
+
+---
+
+**[DBT Coach patches](https://morphe.software/add-source?github=mxkrgt/dbtcoach-morphe-patches)**
+
+- **DBT Coach**
+
+For more information on DBT Coach patches: https://github.com/mxkrgt/dbtcoach-morphe-patches
 
 ---
 
@@ -1063,11 +1087,11 @@ For more information on Letterboxd patches: https://github.com/ethanm6/letterbox
 
 ---
 
-**[Logm1lo Patches](https://morphe.software/add-source?github=logm1lo/logm1lo-patches)**
+**[Logm1lo patches](https://morphe.software/add-source?github=logm1lo/logm1lo-patches)**
 
 - **Calistree**
 
-For more information on Logm1lo Patches: https://github.com/logm1lo/logm1lo-patches
+For more information on Logm1lo patches: https://github.com/logm1lo/logm1lo-patches
 
 ---
 
