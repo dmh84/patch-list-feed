@@ -43,13 +43,9 @@ https://morphe.software/
 
 **Updated: August 6, 2026**
 
-*NEW SOURCE - Alastor patches
+*NEW APP - DBT Coach in DBT Coach patches
 
 *NEW APP - Opera GX in Alastor patches
-
-*NEW SOURCE - DBT Coach patches
-
-*NEW APP - DBT Coach in DBT Coach patches
 
 *NEW APP - Dr. Driving in byehi98 patches
 
