@@ -43,7 +43,37 @@ https://morphe.software/
 
 **Updated: August 7, 2026**
 
-*NEW APP - Steam Link Experimental in Steam Link GalaxyXR patches
+*NEW APP - Adobe Acrobat in Rushi patches
+
+*NEW APP - Adobe Scan in Rushi patches
+
+*NEW APP - Telegram in Rushi patches
+
+*NEW APP - Plus Messenger in Rushi patches
+
+*NEW APP - Oxygen Updater in Rushi patches
+
+*NEW APP - Awake in Rushi patches
+
+*NEW APP - Fitia in Rushi patches
+
+*NEW APP - Fuelio in Rushi patches
+
+*NEW APP - Park4Night in Rushi patches
+
+*NEW APP - Relane VPN in Rushi patches
+
+*NEW APP - re-Link in Rushi patches
+
+*NEW APP - Drivvo in Rushi patches
+
+*NEW APP - USB Hotspot in Rushi patches
+
+*NEW APP - VRadio in Rushi patches
+
+*NEW APP - Steam Link in Steam Link GalaxyXR patches
+
+*NEW APP - HabitKit in Paresh patches
 
 *NEW APP - Brave Browser in Brave patches
 
@@ -52,6 +82,10 @@ https://morphe.software/
 *NEW APP - Brave Nightly in Brave patches
 
 *NEW APP - Helium Browser in Brave patches
+
+*NEW APP - Telegram Plus in Rushi's Patches - by rushiranpise
+
+*NEW APP - Telegram Web in Rushi's Patches - by rushiranpise
 
 # **Community Patch List**
 
@@ -65,6 +99,8 @@ https://morphe.software/
 - **AccuWeather**
 - **Ace Ex File Manager**
 - **AdGuard for Android TV**
+- **Adobe Acrobat**
+- **Adobe Scan**
 - **AIDA64**
 - **AiScore**
 - **All Reader**
@@ -79,6 +115,7 @@ https://morphe.software/
 - **App Permission Manager**
 - **Athena**
 - **Auto Cursor**
+- **Awake**
 - **Battery Guru**
 - **BatteryPods**
 - **Beta Maniac**
@@ -113,15 +150,18 @@ https://morphe.software/
 - **Cube ACR**
 - **Dailyhunt**
 - **Depth Live Wallpaper**
+- **Drivvo**
 - **Duolingo**
 - **Electron**
 - **ES File Explorer**
 - **Excel**
 - **Fitbod**
+- **Fitia**
 - **FlightAware**
 - **Flightradar24**
 - **Flightsky**
 - **Flud**
+- **Fuelio**
 - **Genius Scan**
 - **Google Photos**
 - **Greenify**
@@ -172,8 +212,10 @@ https://morphe.software/
 - **OBD Android**
 - **Octi**
 - **Opera News - Breaking & Local**
+- **Oxygen Updater**
 - **Parallel Space Pro**
 - **Parcels — Package Tracker**
+- **Park4Night**
 - **PC Remote - Desktop & Phone**
 - **Permission Pilot**
 - **Photo Editor**
@@ -202,7 +244,9 @@ https://morphe.software/
 - **Psiphon Pro**
 - **qBitConnect**
 - **RAR**
+- **re-Link**
 - **RecipeBro**
+- **Relane VPN**
 - **Rename & Organize**
 - **Rocket Money**
 - **RS File Manager**
@@ -228,6 +272,9 @@ https://morphe.software/
 - **Subway Now**
 - **Super File**
 - **Tag Tracker**
+- **Telegram**
+- **Telegram Plus**
+- **Telegram Web**
 - **TeraBox**
 - **The Athletic**
 - **The Weather Channel**
@@ -247,7 +294,9 @@ https://morphe.software/
 - **UDisc**
 - **Unimote**
 - **Uptodown App Store**
+- **USB Hotspot**
 - **VIZ Manga**
+- **VRadio**
 - **Vyxel Apps**
 - **Wallverse**
 - **WatchMaker**
@@ -463,6 +512,7 @@ For more information on LA!N Patches - by Kiraio-Moe: https://github.com/kiraio-
 - **Document Scanner**
 - **Eyecon Caller ID & Spam Block**
 - **Fing**
+- **HabitKit**
 - **JioHotstar**
 - **Lumina Walls**
 - **MacroDroid**
