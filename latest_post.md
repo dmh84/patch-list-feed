@@ -43,9 +43,17 @@ https://morphe.software/
 
 **Updated: August 7, 2026**
 
-*NEW SOURCE - Steam Link GalaxyXR Patches
+*NEW SOURCE - Brave patches
 
-*NEW APP - Steam Link in Steam Link GalaxyXR Patches
+*NEW APP - Brave Beta in Brave patches
+
+*NEW APP - Brave Browser in Brave patches
+
+*NEW APP - Brave Nightly in Brave patches
+
+*NEW APP - Helium Browser in Brave patches
+
+*NEW APP - Steam Link Experimental in Steam Link GalaxyXR patches
 
 # **Community Patch List**
 
@@ -774,6 +782,17 @@ For more information on Adobo Morphe Patches - by JKennethCarino: https://github
 
 ---
 
+**[Brave patches](https://morphe.software/add-source?github=dh6k/morphe-patches)**
+
+- **Brave Beta**
+- **Brave Browser**
+- **Brave Nightly**
+- **Helium Browser**
+
+For more information on Brave patches: https://github.com/dh6k/morphe-patches
+
+---
+
 **[Hxreborn patches](https://morphe.software/add-source?github=hxreborn/morphe-patches)**
 
 - **ForusApp**
@@ -1225,11 +1244,11 @@ For more information on Spooky patches: https://github.com/spookyexe/morphe-patc
 
 ---
 
-**[Steam Link GalaxyXR Patches](https://morphe.software/add-source?github=AngelDark92/steamlink-patches)**
+**[Steam Link GalaxyXR patches](https://morphe.software/add-source?github=AngelDark92/steamlink-patches)**
 
 - **Steam Link**
 
-For more information on Steam Link GalaxyXR Patches: https://github.com/AngelDark92/steamlink-patches
+For more information on Steam Link GalaxyXR patches: https://github.com/AngelDark92/steamlink-patches
 
 ---
 
