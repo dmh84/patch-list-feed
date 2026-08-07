@@ -43,7 +43,9 @@ https://morphe.software/
 
 **Updated: August 7, 2026**
 
+*NEW SOURCE - Steam Link GalaxyXR Patches
 
+*NEW APP - Steam Link in Steam Link GalaxyXR Patches
 
 # **Community Patch List**
 
@@ -1220,6 +1222,14 @@ For more information on SofaTime patches: https://github.com/alan7383/sofatime-p
 - **Beeline**
 
 For more information on Spooky patches: https://github.com/spookyexe/morphe-patches
+
+---
+
+**[Steam Link GalaxyXR Patches](https://morphe.software/add-source?github=AngelDark92/steamlink-patches)**
+
+- **Steam Link**
+
+For more information on Steam Link GalaxyXR Patches: https://github.com/AngelDark92/steamlink-patches
 
 ---
 
