@@ -41,31 +41,9 @@ https://morphe.software/
 
 ---
 
-**Updated: August 6, 2026**
+**Updated: August 7, 2026**
 
-*NEW SOURCE - Google feed patches
 
-*NEW APP - Google in Google feed patches
-
-*NEW SOURCE - JonnyVR1 patches
-
-*NEW APP - Tantan in JonnyVR1 patches
-
-*NEW SOURCE - PetalMaps patches
-
-*NEW APP - Petal Maps in PetalMaps patches
-
-*NEW SOURCE - Spooky patches
-
-*NEW APP - Beeline in Spooky patches
-
-*NEW APP - JellyWatch TV in Franticg33k patches
-
-*NEW APP - DBT Coach in DBT Coach patches
-
-*NEW APP - Opera GX in Alastor patches
-
-*NEW APP - Dr. Driving in byehi98 patches
 
 # **Community Patch List**
 
