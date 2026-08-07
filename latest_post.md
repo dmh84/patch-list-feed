@@ -83,10 +83,6 @@ https://morphe.software/
 
 *NEW APP - Helium Browser in Brave patches
 
-*NEW APP - Telegram Plus in Rushi's Patches - by rushiranpise
-
-*NEW APP - Telegram Web in Rushi's Patches - by rushiranpise
-
 # **Community Patch List**
 
 **[Rushi's Patches - by rushiranpise](https://morphe.software/add-source?github=rushiranpise/morphe-patches)**
