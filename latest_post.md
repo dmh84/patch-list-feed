@@ -43,17 +43,15 @@ https://morphe.software/
 
 **Updated: August 7, 2026**
 
-*NEW SOURCE - Brave patches
-
-*NEW APP - Brave Beta in Brave patches
+*NEW APP - Steam Link Experimental in Steam Link GalaxyXR patches
 
 *NEW APP - Brave Browser in Brave patches
+
+*NEW APP - Brave Beta in Brave patches
 
 *NEW APP - Brave Nightly in Brave patches
 
 *NEW APP - Helium Browser in Brave patches
-
-*NEW APP - Steam Link Experimental in Steam Link GalaxyXR patches
 
 # **Community Patch List**
 
