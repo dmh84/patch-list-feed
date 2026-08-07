@@ -43,6 +43,24 @@ https://morphe.software/
 
 **Updated: August 6, 2026**
 
+*NEW SOURCE - Google feed patches
+
+*NEW APP - Google in Google feed patches
+
+*NEW SOURCE - JonnyVR1 patches
+
+*NEW APP - Tantan in JonnyVR1 patches
+
+*NEW SOURCE - PetalMaps patches
+
+*NEW APP - Petal Maps in PetalMaps patches
+
+*NEW SOURCE - Spooky patches
+
+*NEW APP - Beeline in Spooky patches
+
+*NEW APP - JellyWatch TV in Franticg33k patches
+
 *NEW APP - DBT Coach in DBT Coach patches
 
 *NEW APP - Opera GX in Alastor patches
@@ -309,7 +327,6 @@ For more information on Rushi's Patches - by rushiranpise: https://github.com/ru
 - **Solid Explorer**
 - **SoundCloud**
 - **SuperChinese**
-- **Teuida**
 - **TTMIK Stories**
 - **Ventusky**
 - **Wallcraft**
@@ -604,6 +621,23 @@ For more information on Chiggi SonyLIV Patches - by durgesh0505: https://github.
 
 ---
 
+**[Franticg33k patches](https://morphe.software/add-source?github=franticg33k/morphe-patches)**
+
+- **Atlas Photo**
+- **byAir**
+- **Hamropatro**
+- **JellyWatch**
+- **JellyWatch TV**
+- **Karobar**
+- **Native Camera**
+- **Nepalipatro**
+- **Prismatica Pro**
+- **Provide Lite**
+
+For more information on Franticg33k patches: https://github.com/franticg33k/morphe-patches
+
+---
+
 **[Patcheddit Patches - by Wchill](https://morphe.software/add-source?github=wchill/patcheddit)**
 
 - **BaconReader**
@@ -620,22 +654,6 @@ For more information on Chiggi SonyLIV Patches - by durgesh0505: https://github.
 **Third Party Reddit Apps Supported by Patcheddit**
 
 For more information on Patcheddit Patches - by Wchill: https://github.com/wchill/patcheddit
-
----
-
-**[Franticg33k patches](https://morphe.software/add-source?github=franticg33k/morphe-patches)**
-
-- **Atlas Photo**
-- **byAir**
-- **Hamropatro**
-- **JellyWatch**
-- **Mero Karobar**
-- **Native Camera**
-- **Nepalipatro**
-- **Prismatica Pro**
-- **Provide Lite**
-
-For more information on Franticg33k patches: https://github.com/franticg33k/morphe-patches
 
 ---
 
@@ -1051,6 +1069,14 @@ For more information on GoldRift's Patches: https://github.com/GoldRift/morphe-p
 
 ---
 
+**[Google feed patches](https://morphe.software/add-source?github=Ripthulhu/morphe-google-patches)**
+
+- **Google**
+
+For more information on Google feed patches: https://github.com/Ripthulhu/morphe-google-patches
+
+---
+
 **[Gryphou patches](https://morphe.software/add-source?github=NekoGryphou/gryphous-morphe-patches)**
 
 - **Crunchyroll**
@@ -1064,6 +1090,14 @@ For more information on Gryphou patches: https://github.com/NekoGryphou/gryphous
 - **Sankaku App**
 
 For more information on HellveticaStandard patches: https://github.com/HellveticaStandard/HellveticaPatches
+
+---
+
+**[JonnyVR1 patches](https://morphe.software/add-source?github=JonnyVR1/morph-patches)**
+
+- **Tantan**
+
+For more information on JonnyVR1 patches: https://github.com/JonnyVR1/morph-patches
 
 ---
 
@@ -1139,6 +1173,14 @@ For more information on NuvioTV patches: https://github.com/liongalahad/nuviotv-
 
 ---
 
+**[PetalMaps patches](https://morphe.software/add-source?github=andersonlucasg3/PetalMaps-AndroidAuto)**
+
+- **Petal Maps**
+
+For more information on PetalMaps patches: https://github.com/andersonlucasg3/PetalMaps-AndroidAuto
+
+---
+
 **[Pinterest patches](https://morphe.software/add-source?github=SouBryan/pinterest-morphed)**
 
 - **Pinterest**
@@ -1192,6 +1234,14 @@ For more information on Samsung Health patches: https://github.com/bigyank/morph
 - **SofaTime**
 
 For more information on SofaTime patches: https://github.com/alan7383/sofatime-patches
+
+---
+
+**[Spooky patches](https://morphe.software/add-source?github=spookyexe/morphe-patches)**
+
+- **Beeline**
+
+For more information on Spooky patches: https://github.com/spookyexe/morphe-patches
 
 ---
 
