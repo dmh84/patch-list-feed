@@ -41,49 +41,9 @@ https://morphe.software/
 
 ---
 
-**Updated: August 7, 2026**
+**Updated: August 8, 2026**
 
-*NEW APP - Cube Solver in Logm1lo patches
 
-*NEW APP - Adobe Acrobat in Rushi patches
-
-*NEW APP - Adobe Scan in Rushi patches
-
-*NEW APP - Telegram in Rushi patches
-
-*NEW APP - Plus Messenger in Rushi patches
-
-*NEW APP - Oxygen Updater in Rushi patches
-
-*NEW APP - Awake in Rushi patches
-
-*NEW APP - Fitia in Rushi patches
-
-*NEW APP - Fuelio in Rushi patches
-
-*NEW APP - Park4Night in Rushi patches
-
-*NEW APP - Relane VPN in Rushi patches
-
-*NEW APP - re-Link in Rushi patches
-
-*NEW APP - Drivvo in Rushi patches
-
-*NEW APP - USB Hotspot in Rushi patches
-
-*NEW APP - VRadio in Rushi patches
-
-*NEW APP - Steam Link in Steam Link GalaxyXR patches
-
-*NEW APP - HabitKit in Paresh patches
-
-*NEW APP - Brave Browser in Brave patches
-
-*NEW APP - Brave Beta in Brave patches
-
-*NEW APP - Brave Nightly in Brave patches
-
-*NEW APP - Helium Browser in Brave patches
 
 # **Community Patch List**
 
