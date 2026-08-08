@@ -43,7 +43,29 @@ https://morphe.software/
 
 **Updated: August 8, 2026**
 
+*NEW APP - Smart AudioBook Player in Morning Entree patches
 
+*NEW APP - Arm Workout in Morning Entree patches
+
+*NEW APP - Does Not Commute in Morning Entree patches
+
+*NEW APP - EOBD Facile in Morning Entree patches
+
+*NEW APP - Lose Weight App for Men in Morning Entree patches
+
+*NEW APP - MacroDroid in Morning Entree patches
+
+*NEW APP - Material Capsule in Morning Entree patches
+
+*NEW APP - Obd Mary in Morning Entree patches
+
+*NEW APP - Photon Camera in Morning Entree patches
+
+*NEW APP - PinOut in Morning Entree patches
+
+*NEW APP - Sleep as Android in Morning Entree patches
+
+*NEW APP - Smash Hit in Morning Entree patches
 
 # **Community Patch List**
 
@@ -462,6 +484,43 @@ For more information on LA!N Patches - by Kiraio-Moe: https://github.com/kiraio-
 
 ---
 
+**[Morning Entree patches](https://morphe.software/add-source?github=Entree3k/Morning-Entree-Patches)**
+
+- **Arm Workout**
+- **AutoLocation**
+- **AutoTools**
+- **Boosted Productivity**
+- **Does Not Commute**
+- **EOBD Facile**
+- **Gboard**
+- **Gradient Weather**
+- **Lifesum**
+- **Ling**
+- **Listy**
+- **Lose Weight App for Men**
+- **MacroDroid**
+- **Material Capsule**
+- **Nova Launcher**
+- **Obd Mary**
+- **Panels**
+- **Phi Launcher**
+- **Photon Camera**
+- **Pinnit**
+- **PinOut**
+- **Sleep as Android**
+- **Smart AudioBook Player**
+- **Smash Hit**
+- **Sponge**
+- **Super Status Bar**
+- **Todo Mate**
+- **UbikiTouch**
+- **Vocabulary**
+- **Volume Styles**
+
+For more information on Morning Entree patches: https://github.com/Entree3k/Morning-Entree-Patches
+
+---
+
 **[Paresh Patches - by Paresh](https://morphe.software/add-source?gitlab=Paresh-Maheshwari/paresh-patches)**
 
 - **Alarmo**
@@ -491,31 +550,6 @@ For more information on LA!N Patches - by Kiraio-Moe: https://github.com/kiraio-
 NOTE - Paresh has also created a Patch Explorer site: [Patch Explorer](https://patch-explorer.web.app/)
 
 For more information on Paresh Patches - by Paresh: https://gitlab.com/Paresh-Maheshwari/patch-explorer
-
----
-
-**[Morning Entree patches](https://morphe.software/add-source?github=Entree3k/Morning-Entree-Patches)**
-
-- **AutoLocation**
-- **AutoTools**
-- **Boosted Productivity**
-- **Gboard**
-- **Gradient Weather**
-- **Lifesum**
-- **Ling**
-- **Listy**
-- **Nova Launcher**
-- **Panels**
-- **Phi Launcher**
-- **Pinnit**
-- **Sponge**
-- **Super Status Bar**
-- **Todo Mate**
-- **UbikiTouch**
-- **Vocabulary**
-- **Volume Styles**
-
-For more information on Morning Entree patches: https://github.com/Entree3k/Morning-Entree-Patches
 
 ---
 
@@ -937,7 +971,7 @@ For more information on Morphe-Patches - by Polka-Bear: https://github.com/polka
 **[Patched-Up Patches - by Docbt](https://morphe.software/add-source?github=docbt/patched-up)**
 
 - **Google News**
-- **Kleinanzeigen - Marketplace**
+- **Kleinanzeigen**
 
 [Donate to Patched-Up Patches - by Docbt](https://buymeacoffee.com/docbt)
 
