@@ -43,6 +43,8 @@ https://morphe.software/
 
 **Updated: August 8, 2026**
 
+*NEW APP - Derdy in EE Morphe patches
+
 *NEW APP - Smart AudioBook Player in Morning Entree patches
 
 *NEW APP - Arm Workout in Morning Entree patches
@@ -744,6 +746,19 @@ For more information on byehi98 patches: https://github.com/byehi98/okish-morphe
 
 ---
 
+**[EE-Morphe-Patches - by early.Egg3707](https://morphe.software/add-source?gitlab=early.egg3707/ee-morphe-patches)**
+
+- **AppSales**
+- **byAir**
+- **Derdy**
+- **Going**
+- **HypnoBox**
+- **Inoreader**
+
+For more information on EE-Morphe-Patches - by early.Egg3707: https://gitlab.com/early.egg3707/ee-morphe-patches
+
+---
+
 **[Proxma patches](https://morphe.software/add-source?github=totsiaw/proxma-patches)**
 
 - **Investify**
@@ -782,18 +797,6 @@ For more information on Ample Patches - by naijun0403: https://github.com/AmpleR
 [Donate to Brosssh Morphe Patches](https://github.com/sponsors/brosssh)
 
 For more information on Brosssh Morphe Patches: https://github.com/brosssh/morphe-patches
-
----
-
-**[EE-Morphe-Patches - by early.Egg3707](https://morphe.software/add-source?gitlab=early.egg3707/ee-morphe-patches)**
-
-- **AppSales**
-- **byAir**
-- **Going**
-- **HypnoBox**
-- **Inoreader**
-
-For more information on EE-Morphe-Patches - by early.Egg3707: https://gitlab.com/early.egg3707/ee-morphe-patches
 
 ---
 
@@ -902,15 +905,6 @@ For more information on Ameen's Morphe Patches: https://github.com/ameenalasady/
 - **Pinterest**
 
 For more information on Browzomje patches: https://github.com/browzomje/browzomje-patches
-
----
-
-**[DeXa Patches](https://morphe.software/add-source?github=dexnis-dev/morphe-patches)**
-
-- **IDOS**
-- **Speedtest by Ookla**
-
-For more information on DeXa Patches: https://github.com/dexnis-dev/morphe-patches
 
 ---
 
