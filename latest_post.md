@@ -43,6 +43,8 @@ https://morphe.software/
 
 **Updated: August 7, 2026**
 
+*NEW APP - Cube Solver in Logm1lo patches
+
 *NEW APP - Adobe Acrobat in Rushi patches
 
 *NEW APP - Adobe Scan in Rushi patches
@@ -945,6 +947,15 @@ For more information on iHealth patches: https://github.com/bdgerszewski/morphe-
 
 ---
 
+**[Logm1lo patches](https://morphe.software/add-source?github=logm1lo/logm1lo-patches)**
+
+- **Calistree**
+- **Cube Solver**
+
+For more information on Logm1lo patches: https://github.com/logm1lo/logm1lo-patches
+
+---
+
 **[Mix Patches - by IMXEren](https://morphe.software/add-source?github=IMXEren/mix-patches)**
 
 - **Sync for Reddit**
@@ -1157,14 +1168,6 @@ For more information on LaBlazer's patches: https://github.com/LaBlazer/morphe-p
 - **Letterboxd**
 
 For more information on Letterboxd patches: https://github.com/ethanm6/letterboxd-stremio-morphe-patch
-
----
-
-**[Logm1lo patches](https://morphe.software/add-source?github=logm1lo/logm1lo-patches)**
-
-- **Calistree**
-
-For more information on Logm1lo patches: https://github.com/logm1lo/logm1lo-patches
 
 ---
 
