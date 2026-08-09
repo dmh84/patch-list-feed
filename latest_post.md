@@ -43,7 +43,7 @@ https://morphe.software/
 
 **Updated: August 9, 2026**
 
-
+*NEW APP - Hill Climb Racing in byehi98 patches
 
 # **Community Patch List**
 
@@ -664,6 +664,21 @@ For more information on Patcheddit Patches - by Wchill: https://github.com/wchil
 
 ---
 
+**[byehi98 patches](https://morphe.software/add-source?github=byehi98/okish-morphe-patches)**
+
+- **Doodle Jump**
+- **Dr. Driving**
+- **FreeJobAlert**
+- **Hill Climb Racing**
+- **Jetpack Joyride**
+- **Smash Hit**
+- **Swordigo**
+- **TrueCloud**
+
+For more information on byehi98 patches: https://github.com/byehi98/okish-morphe-patches
+
+---
+
 **[Miguel's patches](https://morphe.software/add-source?github=MiguelNinja19/miguel-morphe-patches)**
 
 - **Anger of Stick 5**
@@ -706,20 +721,6 @@ For more information on Binarymend Morphe Patches - by Binarymend: https://githu
 - **Truecaller**
 
 For more information on Bufferk patches: https://github.com/bufferk/morphe-patches
-
----
-
-**[byehi98 patches](https://morphe.software/add-source?github=byehi98/okish-morphe-patches)**
-
-- **Doodle Jump**
-- **Dr. Driving**
-- **FreeJobAlert**
-- **Jetpack Joyride**
-- **Smash Hit**
-- **Swordigo**
-- **TrueCloud**
-
-For more information on byehi98 patches: https://github.com/byehi98/okish-morphe-patches
 
 ---
 
