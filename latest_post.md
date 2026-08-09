@@ -43,15 +43,9 @@ https://morphe.software/
 
 **Updated: August 9, 2026**
 
-*NEW SOURCE - Ang3lo's Patches
-
 *NEW APP - Skimboarding in Ang3lo's Patches
 
-*NEW SOURCE - braiNtropy Patches
-
 *NEW APP - Waking Up in braiNtropy Patches
-
-*NEW SOURCE - FTL Patches
 
 # **Community Patch List**
 
