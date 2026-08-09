@@ -41,35 +41,9 @@ https://morphe.software/
 
 ---
 
-**Updated: August 8, 2026**
+**Updated: August 9, 2026**
 
-*NEW APP - Netflix in Android TV patches
 
-*NEW APP - Derdy in EE Morphe patches
-
-*NEW APP - Smart AudioBook Player in Morning Entree patches
-
-*NEW APP - Arm Workout in Morning Entree patches
-
-*NEW APP - Does Not Commute in Morning Entree patches
-
-*NEW APP - EOBD Facile in Morning Entree patches
-
-*NEW APP - Lose Weight App for Men in Morning Entree patches
-
-*NEW APP - MacroDroid in Morning Entree patches
-
-*NEW APP - Material Capsule in Morning Entree patches
-
-*NEW APP - Obd Mary in Morning Entree patches
-
-*NEW APP - Photon Camera in Morning Entree patches
-
-*NEW APP - PinOut in Morning Entree patches
-
-*NEW APP - Sleep as Android in Morning Entree patches
-
-*NEW APP - Smash Hit in Morning Entree patches
 
 # **Community Patch List**
 
