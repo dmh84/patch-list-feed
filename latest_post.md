@@ -43,6 +43,8 @@ https://morphe.software/
 
 **Updated: August 8, 2026**
 
+*NEW APP - Netflix in Android TV patches
+
 *NEW APP - Derdy in EE Morphe patches
 
 *NEW APP - Smart AudioBook Player in Morning Entree patches
@@ -596,6 +598,25 @@ For more information on Xhehab Patches: https://github.com/Xhehab/Xhehab-Patches
 
 ---
 
+**[Android TV patches](https://morphe.software/add-source?github=ajstrick81/morphe-androidtv-patches)**
+
+- **Disney+**
+- **FOX One**
+- **HBO Max**
+- **MLB**
+- **Netflix**
+- **Paramount+**
+- **Peacock TV**
+- **PlutoTV**
+- **Prime Video (Android TV)**
+- **Tubi**
+- **Twitch**
+- **ViX**
+
+For more information on Android TV patches: https://github.com/ajstrick81/morphe-androidtv-patches
+
+---
+
 **[Kondratjev Morphe Patches - by Kindratiev](https://morphe.software/add-source?github=kondratjev/morphe-patches)**
 
 - **FatSecret**
@@ -612,24 +633,6 @@ For more information on Xhehab Patches: https://github.com/Xhehab/Xhehab-Patches
 - **Yazio**
 
 For more information on Kondratjev Morphe Patches - by Kindratiev: https://github.com/kondratjev/morphe-patches
-
----
-
-**[Android TV patches](https://morphe.software/add-source?github=ajstrick81/morphe-androidtv-patches)**
-
-- **Disney+**
-- **FOX One**
-- **HBO Max**
-- **MLB**
-- **Paramount+**
-- **Peacock TV**
-- **PlutoTV**
-- **Prime Video (Android TV)**
-- **Tubi**
-- **Twitch**
-- **ViX**
-
-For more information on Android TV patches: https://github.com/ajstrick81/morphe-androidtv-patches
 
 ---
 
