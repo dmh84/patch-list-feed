@@ -43,7 +43,15 @@ https://morphe.software/
 
 **Updated: August 9, 2026**
 
-*NEW APP - Hill Climb Racing in byehi98 patches
+*NEW SOURCE - Ang3lo's Patches
+
+*NEW APP - Skimboarding in Ang3lo's Patches
+
+*NEW SOURCE - braiNtropy Patches
+
+*NEW APP - Waking Up in braiNtropy Patches
+
+*NEW SOURCE - FTL Patches
 
 # **Community Patch List**
 
@@ -1009,6 +1017,22 @@ For more information on Android patches - by AlexNaga: https://github.com/AlexNa
 
 ---
 
+**[Ang3lo's Patches](https://morphe.software/add-source?github=ang3lo-azevedo/morphe-patches)**
+
+- **Skimboarding**
+
+For more information on Ang3lo's Patches: https://github.com/ang3lo-azevedo/morphe-patches
+
+---
+
+**[braiNtropy Patches](https://morphe.software/add-source?github=braiNtropy/braintropy-patches)**
+
+- **Waking Up**
+
+For more information on braiNtropy Patches: https://github.com/braiNtropy/braintropy-patches
+
+---
+
 **[Chmax-Patches - by RealCyberwash](https://morphe.software/add-source?github=RealCyberwash/max-patches)**
 
 - **MAX**
@@ -1320,6 +1344,15 @@ For more information on X-Shim by inotia00: https://gitlab.com/inotia00/x-shim
 - **Sunrise Alarm: Wake-Up Light**
 
 For more information on Zarko patches: https://github.com/eZ4RK0/morphe-patches
+
+---
+
+**[FTL Patches](https://morphe.software/add-source?github=BlazeFTL/FTL-Patches)**
+
+
+*Morphe patches to remove ads, analytics, apk junk, debug info, duplicate graphics and more👽☠️🌚.
+
+For more information on FTL Patches: https://github.com/BlazeFTL/FTL-Patches
 
 ---
 
