@@ -43,6 +43,8 @@ https://morphe.software/
 
 **Updated: August 9, 2026**
 
+*NEW APP - Paisa in Morning Entree patches
+
 *NEW APP - Skimboarding in Ang3lo's Patches
 
 *NEW APP - Waking Up in braiNtropy Patches
@@ -427,6 +429,44 @@ For more information on De-Vanced Patches - by RookieEnough: https://github.com/
 
 ---
 
+**[Morning Entree patches](https://morphe.software/add-source?github=Entree3k/Morning-Entree-Patches)**
+
+- **Arm Workout**
+- **AutoLocation**
+- **AutoTools**
+- **Boosted Productivity**
+- **Does Not Commute**
+- **EOBD Facile**
+- **Gboard**
+- **Gradient Weather**
+- **Lifesum**
+- **Ling**
+- **Listy**
+- **Lose Weight App for Men**
+- **MacroDroid**
+- **Material Capsule**
+- **Nova Launcher**
+- **Obd Mary**
+- **Paisa**
+- **Panels**
+- **Phi Launcher**
+- **Photon Camera**
+- **Pinnit**
+- **PinOut**
+- **Sleep as Android**
+- **Smart AudioBook Player**
+- **Smash Hit**
+- **Sponge**
+- **Super Status Bar**
+- **Todo Mate**
+- **UbikiTouch**
+- **Vocabulary**
+- **Volume Styles**
+
+For more information on Morning Entree patches: https://github.com/Entree3k/Morning-Entree-Patches
+
+---
+
 **[LA!N Patches - by Kiraio-Moe](https://morphe.software/add-source?github=kiraio-moe/Lain-Patches)**
 
 - **Android Proxy Server**
@@ -461,43 +501,6 @@ For more information on De-Vanced Patches - by RookieEnough: https://github.com/
 - **Ventoy**
 
 For more information on LA!N Patches - by Kiraio-Moe: https://github.com/kiraio-moe/Lain-Patches
-
----
-
-**[Morning Entree patches](https://morphe.software/add-source?github=Entree3k/Morning-Entree-Patches)**
-
-- **Arm Workout**
-- **AutoLocation**
-- **AutoTools**
-- **Boosted Productivity**
-- **Does Not Commute**
-- **EOBD Facile**
-- **Gboard**
-- **Gradient Weather**
-- **Lifesum**
-- **Ling**
-- **Listy**
-- **Lose Weight App for Men**
-- **MacroDroid**
-- **Material Capsule**
-- **Nova Launcher**
-- **Obd Mary**
-- **Panels**
-- **Phi Launcher**
-- **Photon Camera**
-- **Pinnit**
-- **PinOut**
-- **Sleep as Android**
-- **Smart AudioBook Player**
-- **Smash Hit**
-- **Sponge**
-- **Super Status Bar**
-- **Todo Mate**
-- **UbikiTouch**
-- **Vocabulary**
-- **Volume Styles**
-
-For more information on Morning Entree patches: https://github.com/Entree3k/Morning-Entree-Patches
 
 ---
 
