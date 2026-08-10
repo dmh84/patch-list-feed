@@ -41,15 +41,9 @@ https://morphe.software/
 
 ---
 
-**Updated: August 9, 2026**
+**Updated: August 10, 2026**
 
-*NEW APP - Fake GPS Location in Morning Entree patches
 
-*NEW APP - Paisa in Morning Entree patches
-
-*NEW APP - Skimboarding in Ang3lo's Patches
-
-*NEW APP - Waking Up in braiNtropy Patches
 
 # **Community Patch List**
 
