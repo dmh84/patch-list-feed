@@ -43,6 +43,8 @@ https://morphe.software/
 
 **Updated: August 9, 2026**
 
+*NEW APP - Fake GPS Location in Morning Entree patches
+
 *NEW APP - Paisa in Morning Entree patches
 
 *NEW APP - Skimboarding in Ang3lo's Patches
@@ -437,6 +439,7 @@ For more information on De-Vanced Patches - by RookieEnough: https://github.com/
 - **Boosted Productivity**
 - **Does Not Commute**
 - **EOBD Facile**
+- **Fake GPS Location**
 - **Gboard**
 - **Gradient Weather**
 - **Lifesum**
@@ -444,7 +447,6 @@ For more information on De-Vanced Patches - by RookieEnough: https://github.com/
 - **Listy**
 - **Lose Weight App for Men**
 - **MacroDroid**
-- **Material Capsule**
 - **Nova Launcher**
 - **Obd Mary**
 - **Paisa**
