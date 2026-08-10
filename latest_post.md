@@ -43,6 +43,8 @@ https://morphe.software/
 
 **Updated: August 10, 2026**
 
+*NEW APP - Home Workout - No Equipment in Morning Entree patches
+
 *NEW APP - SnapTube in FTL Patches
 
 # **Community Patch List**
@@ -436,6 +438,7 @@ For more information on De-Vanced Patches - by RookieEnough: https://github.com/
 - **Fake GPS Location**
 - **Gboard**
 - **Gradient Weather**
+- **Home Workout - No Equipment**
 - **Lifesum**
 - **Ling**
 - **Listy**
