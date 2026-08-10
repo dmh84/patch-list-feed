@@ -43,9 +43,23 @@ https://morphe.software/
 
 **Updated: August 10, 2026**
 
-*NEW APP - Home Workout - No Equipment in Morning Entree patches
+*NEW SOURCE - Atharv patches
 
-*NEW APP - SnapTube in FTL Patches
+*NEW APP - Ola Electric in Atharv patches
+
+*NEW SOURCE - Heval patches
+
+*NEW APP - Sofascore in Heval patches
+
+*NEW APP - SnapTube in FTL patches
+
+*NEW APP - AppSales in Morning Entree patches
+
+*NEW APP - JEFIT in Morning Entree patches
+
+*NEW APP - Projectivy Launcher in Morning Entree patches
+
+*NEW APP - Home Workout - No Equipment in Morning Entree patches
 
 # **Community Patch List**
 
@@ -385,6 +399,48 @@ For more information on Hooman's Patches: https://github.com/arandomhooman/hooma
 
 ---
 
+**[Morning Entree patches](https://morphe.software/add-source?github=Entree3k/Morning-Entree-Patches)**
+
+- **AppSales**
+- **Arm Workout**
+- **AutoLocation**
+- **AutoTools**
+- **Boosted Productivity**
+- **Does Not Commute**
+- **EOBD Facile**
+- **Fake GPS Location**
+- **Gboard**
+- **Gradient Weather**
+- **Home Workout - No Equipment**
+- **JEFIT**
+- **Lifesum**
+- **Ling**
+- **Listy**
+- **Lose Weight App for Men**
+- **MacroDroid**
+- **Nova Launcher**
+- **Obd Mary**
+- **Paisa**
+- **Panels**
+- **Phi Launcher**
+- **Photon Camera**
+- **Pinnit**
+- **PinOut**
+- **Projectivy Launcher**
+- **Sleep as Android**
+- **Smart AudioBook Player**
+- **Smash Hit**
+- **Sponge**
+- **Super Status Bar**
+- **Todo Mate**
+- **UbikiTouch**
+- **Vocabulary**
+- **Volume Styles**
+
+For more information on Morning Entree patches: https://github.com/Entree3k/Morning-Entree-Patches
+
+---
+
 **[De-Vanced Patches - by RookieEnough](https://morphe.software/add-source?github=RookieEnough/De-Vanced)**
 
 - **Adobe Photoshop Mix**
@@ -424,45 +480,6 @@ For more information on Hooman's Patches: https://github.com/arandomhooman/hooma
 [Donate to De-Vanced Patches - by RookieEnough](https://buymeacoffee.com/rookiez)
 
 For more information on De-Vanced Patches - by RookieEnough: https://github.com/RookieEnough/De-ReVanced
-
----
-
-**[Morning Entree patches](https://morphe.software/add-source?github=Entree3k/Morning-Entree-Patches)**
-
-- **Arm Workout**
-- **AutoLocation**
-- **AutoTools**
-- **Boosted Productivity**
-- **Does Not Commute**
-- **EOBD Facile**
-- **Fake GPS Location**
-- **Gboard**
-- **Gradient Weather**
-- **Home Workout - No Equipment**
-- **Lifesum**
-- **Ling**
-- **Listy**
-- **Lose Weight App for Men**
-- **MacroDroid**
-- **Nova Launcher**
-- **Obd Mary**
-- **Paisa**
-- **Panels**
-- **Phi Launcher**
-- **Photon Camera**
-- **Pinnit**
-- **PinOut**
-- **Sleep as Android**
-- **Smart AudioBook Player**
-- **Smash Hit**
-- **Sponge**
-- **Super Status Bar**
-- **Todo Mate**
-- **UbikiTouch**
-- **Vocabulary**
-- **Volume Styles**
-
-For more information on Morning Entree patches: https://github.com/Entree3k/Morning-Entree-Patches
 
 ---
 
@@ -1013,19 +1030,27 @@ For more information on Android patches - by AlexNaga: https://github.com/AlexNa
 
 ---
 
-**[Ang3lo's Patches](https://morphe.software/add-source?github=ang3lo-azevedo/morphe-patches)**
+**[Ang3lo's patches](https://morphe.software/add-source?github=ang3lo-azevedo/morphe-patches)**
 
 - **Skimboarding**
 
-For more information on Ang3lo's Patches: https://github.com/ang3lo-azevedo/morphe-patches
+For more information on Ang3lo's patches: https://github.com/ang3lo-azevedo/morphe-patches
 
 ---
 
-**[braiNtropy Patches](https://morphe.software/add-source?github=braiNtropy/braintropy-patches)**
+**[Atharv patches](https://morphe.software/add-source?github=madhu-gowda6/atharv-patches)**
+
+- **Ola Electric**
+
+For more information on Atharv patches: https://github.com/madhu-gowda6/atharv-patches
+
+---
+
+**[braiNtropy patches](https://morphe.software/add-source?github=braiNtropy/braintropy-patches)**
 
 - **Waking Up**
 
-For more information on braiNtropy Patches: https://github.com/braiNtropy/braintropy-patches
+For more information on braiNtropy patches: https://github.com/braiNtropy/braintropy-patches
 
 ---
 
@@ -1093,13 +1118,13 @@ For more information on Fluffy patches: https://github.com/rabilrbl/fluffy-patch
 
 ---
 
-**[FTL Patches](https://morphe.software/add-source?github=BlazeFTL/FTL-Patches)**
+**[FTL patches](https://morphe.software/add-source?github=BlazeFTL/FTL-Patches)**
 
 - **SnapTube**
 
 *Morphe patches to remove ads, analytics, apk junk, debug info, duplicate graphics and more👽☠️🌚.
 
-For more information on FTL Patches: https://github.com/BlazeFTL/FTL-Patches
+For more information on FTL patches: https://github.com/BlazeFTL/FTL-Patches
 
 ---
 
@@ -1140,6 +1165,14 @@ For more information on Gryphou patches: https://github.com/NekoGryphou/gryphous
 - **Sankaku App**
 
 For more information on HellveticaStandard patches: https://github.com/HellveticaStandard/HellveticaPatches
+
+---
+
+**[Heval patches](https://morphe.software/add-source?github=heval99/morphe-patches)**
+
+- **Sofascore**
+
+For more information on Heval patches: https://github.com/heval99/morphe-patches
 
 ---
 
