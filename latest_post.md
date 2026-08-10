@@ -43,7 +43,7 @@ https://morphe.software/
 
 **Updated: August 10, 2026**
 
-
+*NEW APP - SnapTube in FTL Patches
 
 # **Community Patch List**
 
@@ -1090,6 +1090,16 @@ For more information on Fluffy patches: https://github.com/rabilrbl/fluffy-patch
 
 ---
 
+**[FTL Patches](https://morphe.software/add-source?github=BlazeFTL/FTL-Patches)**
+
+- **SnapTube**
+
+*Morphe patches to remove ads, analytics, apk junk, debug info, duplicate graphics and more👽☠️🌚.
+
+For more information on FTL Patches: https://github.com/BlazeFTL/FTL-Patches
+
+---
+
 **[Gboard-Patches - by JasonWu1994](https://morphe.software/add-source?github=jasonwu1994/Gboard-patches)**
 
 - **Gboard**
@@ -1337,15 +1347,6 @@ For more information on X-Shim by inotia00: https://gitlab.com/inotia00/x-shim
 - **Sunrise Alarm: Wake-Up Light**
 
 For more information on Zarko patches: https://github.com/eZ4RK0/morphe-patches
-
----
-
-**[FTL Patches](https://morphe.software/add-source?github=BlazeFTL/FTL-Patches)**
-
-
-*Morphe patches to remove ads, analytics, apk junk, debug info, duplicate graphics and more👽☠️🌚.
-
-For more information on FTL Patches: https://github.com/BlazeFTL/FTL-Patches
 
 ---
 
