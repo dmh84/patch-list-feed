@@ -43,8 +43,6 @@ https://morphe.software/
 
 **Updated: August 11, 2026**
 
-*NEW SOURCE - Imgur Morphe Patches
-
 *NEW APP - Imgur in Imgur Morphe Patches
 
 *NEW APP - MX Player Pro in FTL patches
