@@ -43,6 +43,10 @@ https://morphe.software/
 
 **Updated: August 11, 2026**
 
+*NEW SOURCE - R3D PatchLab
+
+*NEW APP - StandBy Mode in R3D PatchLab
+
 *NEW APP - Aviate in Rushi patches
 
 *NEW APP - Bluetooth Keyboard & Mouse in Rushi patches
@@ -1293,6 +1297,14 @@ For more information on Platypatch: https://github.com/Joristdh/Platypatch
 - **Chess.com**
 
 For more information on Prathxm patches: https://github.com/PrathxmOp/Prathxm-Patches
+
+---
+
+**[R3D PatchLab](https://morphe.software/add-source?github=xxxR3Dxxx/R3D-PatchLab)**
+
+- **StandBy Mode**
+
+For more information on R3D PatchLab: https://github.com/xxxR3Dxxx/R3D-PatchLab
 
 ---
 
