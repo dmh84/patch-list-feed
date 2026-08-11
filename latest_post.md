@@ -43,7 +43,13 @@ https://morphe.software/
 
 **Updated: August 11, 2026**
 
+*NEW SOURCE - Imgur Morphe Patches
 
+*NEW APP - Imgur in Imgur Morphe Patches
+
+*NEW APP - MX Player Pro in FTL patches
+
+*NEW APP - MX Player in FTL patches
 
 # **Community Patch List**
 
@@ -845,6 +851,18 @@ For more information on xob0t Morphe Patches: https://github.com/xob0t/morphe-pa
 
 ---
 
+**[FTL patches](https://morphe.software/add-source?github=BlazeFTL/FTL-Patches)**
+
+- **MX Player**
+- **MX Player Pro**
+- **SnapTube**
+
+*Morphe patches to remove ads, analytics, apk junk, debug info, duplicate graphics and more👽☠️🌚.
+
+For more information on FTL patches: https://github.com/BlazeFTL/FTL-Patches
+
+---
+
 **[KineStop patches](https://morphe.software/add-source?github=shaun-the-sheep-patches/morphe-patches)**
 
 - **Flud**
@@ -1104,16 +1122,6 @@ For more information on Fluffy patches: https://github.com/rabilrbl/fluffy-patch
 
 ---
 
-**[FTL patches](https://morphe.software/add-source?github=BlazeFTL/FTL-Patches)**
-
-- **SnapTube**
-
-*Morphe patches to remove ads, analytics, apk junk, debug info, duplicate graphics and more👽☠️🌚.
-
-For more information on FTL patches: https://github.com/BlazeFTL/FTL-Patches
-
----
-
 **[Gboard-Patches - by JasonWu1994](https://morphe.software/add-source?github=jasonwu1994/Gboard-patches)**
 
 - **Gboard**
@@ -1159,6 +1167,14 @@ For more information on HellveticaStandard patches: https://github.com/Hellvetic
 - **Sofascore**
 
 For more information on Heval patches: https://github.com/heval99/morphe-patches
+
+---
+
+**[Imgur Morphe Patches](https://morphe.software/add-source?github=sushruth/imgur-patches)**
+
+- **Imgur**
+
+For more information on Imgur Morphe Patches: https://github.com/sushruth/imgur-patches
 
 ---
 
