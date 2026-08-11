@@ -41,25 +41,9 @@ https://morphe.software/
 
 ---
 
-**Updated: August 10, 2026**
+**Updated: August 11, 2026**
 
-*NEW APP - Hydro Coach in Morning Entree patches
 
-*NEW APP - Bluetooth Volume Manager in Morning Entree patches
-
-*NEW APP - AppSales in Morning Entree patches
-
-*NEW APP - JEFIT in Morning Entree patches
-
-*NEW APP - Projectivy Launcher in Morning Entree patches
-
-*NEW APP - Home Workout - No Equipment in Morning Entree patches
-
-*NEW APP - SnapTube in FTL patches
-
-*NEW APP - Sofascore in Heval patches
-
-*NEW APP - Ola Electric in Atharv patches
 
 # **Community Patch List**
 
