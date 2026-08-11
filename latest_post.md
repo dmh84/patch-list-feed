@@ -43,15 +43,9 @@ https://morphe.software/
 
 **Updated: August 10, 2026**
 
-*NEW SOURCE - Atharv patches
+*NEW APP - Hydro Coach in Morning Entree patches
 
-*NEW APP - Ola Electric in Atharv patches
-
-*NEW SOURCE - Heval patches
-
-*NEW APP - Sofascore in Heval patches
-
-*NEW APP - SnapTube in FTL patches
+*NEW APP - Bluetooth Volume Manager in Morning Entree patches
 
 *NEW APP - AppSales in Morning Entree patches
 
@@ -60,6 +54,12 @@ https://morphe.software/
 *NEW APP - Projectivy Launcher in Morning Entree patches
 
 *NEW APP - Home Workout - No Equipment in Morning Entree patches
+
+*NEW APP - SnapTube in FTL patches
+
+*NEW APP - Sofascore in Heval patches
+
+*NEW APP - Ola Electric in Atharv patches
 
 # **Community Patch List**
 
@@ -405,6 +405,7 @@ For more information on Hooman's Patches: https://github.com/arandomhooman/hooma
 - **Arm Workout**
 - **AutoLocation**
 - **AutoTools**
+- **Bluetooth Volume Manager**
 - **Boosted Productivity**
 - **Does Not Commute**
 - **EOBD Facile**
@@ -412,6 +413,7 @@ For more information on Hooman's Patches: https://github.com/arandomhooman/hooma
 - **Gboard**
 - **Gradient Weather**
 - **Home Workout - No Equipment**
+- **Hydro Coach**
 - **JEFIT**
 - **Lifesum**
 - **Ling**
