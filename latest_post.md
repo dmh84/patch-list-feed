@@ -43,6 +43,20 @@ https://morphe.software/
 
 **Updated: August 11, 2026**
 
+*NEW APP - Aviate in Rushi patches
+
+*NEW APP - Bluetooth Keyboard & Mouse in Rushi patches
+
+*NEW APP - Cube Solver in Rushi patches
+
+*NEW APP - Automate in Rushi patches
+
+*NEW APP - Rainbow Weather in Rushi patches
+
+*NEW APP - Getcontact in Rushi patches
+
+*NEW APP - MacroDroid in Rushi patches
+
 *NEW APP - Imgur in Imgur Morphe Patches
 
 *NEW APP - MX Player Pro in FTL patches
@@ -77,6 +91,8 @@ https://morphe.software/
 - **App Permission Manager**
 - **Athena**
 - **Auto Cursor**
+- **Automate**
+- **Aviate**
 - **Awake**
 - **Battery Guru**
 - **BatteryPods**
@@ -85,6 +101,7 @@ https://morphe.software/
 - **Block Puzzle**
 - **BlockerHero**
 - **Blocking Sites**
+- **Bluetooth Keyboard & Mouse**
 - **Bluetooth Volume Manager**
 - **Blurams**
 - **BlurWall**
@@ -110,6 +127,7 @@ https://morphe.software/
 - **CPU-Z**
 - **Crime Radar**
 - **Cube ACR**
+- **Cube Solver**
 - **Dailyhunt**
 - **Depth Live Wallpaper**
 - **Drivvo**
@@ -125,6 +143,7 @@ https://morphe.software/
 - **Flud**
 - **Fuelio**
 - **Genius Scan**
+- **Getcontact**
 - **Google Photos**
 - **Greenify**
 - **HD UHD Live Wallpapers**
@@ -147,12 +166,13 @@ https://morphe.software/
 - **Life360**
 - **LiveScore**
 - **m-Indicator**
+- **MacroDroid**
 - **MANGA Plus by SHUEISHA**
 - **Mapy**
 - **MaterialPods**
 - **MEGA**
 - **MigraConnect**
-- **Mini Web Browser**
+- **MikroTik Network Tools**
 - **Minimal Widgets**
 - **ML Manager**
 - **MobiOffice- Word, Excel, Slide**
@@ -165,8 +185,7 @@ https://morphe.software/
 - **NAVITIME**
 - **NetGuard**
 - **NetMonster**
-- **NetShare**
-- **Network Guru - Net Analyzer**
+- **Network Guru**
 - **NewsBreak**
 - **Ninja VPN**
 - **NYT Games**
@@ -205,6 +224,7 @@ https://morphe.software/
 - **Proxyman**
 - **Psiphon Pro**
 - **qBitConnect**
+- **Rainbow Weather**
 - **RAR**
 - **re-Link**
 - **RecipeBro**
@@ -250,7 +270,6 @@ https://morphe.software/
 - **Tracker Detect**
 - **TradingView**
 - **Transit**
-- **Translator**
 - **TurboScan**
 - **UbikiTouch**
 - **UDisc**
@@ -261,16 +280,13 @@ https://morphe.software/
 - **VRadio**
 - **Vyxel Apps**
 - **Wallverse**
-- **WatchMaker**
 - **Wavve Boating**
 - **Waze**
-- **WearOS Toolset**
 - **Weawow**
 - **Windscribe VPN**
 - **Windy**
 - **WolframAlpha**
 - **Word**
-- **WristBrowser**
 - **Yatri**
 
 For more information on Rushi's Patches - by rushiranpise: https://github.com/rushiranpise/morphe-patches
