@@ -119,7 +119,6 @@ https://morphe.software/
 - **Electron**
 - **ES File Explorer**
 - **Excel**
-- **Facebook**
 - **Fitbod**
 - **Fitia**
 - **FlightAware**
