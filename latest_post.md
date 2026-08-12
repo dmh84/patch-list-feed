@@ -43,7 +43,9 @@ https://morphe.software/
 
 **Updated: August 12, 2026**
 
+*NEW APP - Audible in Hxreborn patches
 
+*NEW APP - Temp Mail in Tiaruebar1024 patches
 
 # **Community Patch List**
 
@@ -790,6 +792,18 @@ For more information on Brosssh Morphe Patches: https://github.com/brosssh/morph
 
 ---
 
+**[Hxreborn patches](https://morphe.software/add-source?github=hxreborn/morphe-patches)**
+
+- **Audible**
+- **ForusApp**
+- **Projectivy Launcher**
+- **Proton Mail**
+- **Showly**
+
+For more information on Hxreborn patches: https://github.com/hxreborn/morphe-patches
+
+---
+
 **[zPatches](https://morphe.software/add-source?github=cesbar/zpatches)**
 
 - **Citymapper**
@@ -823,17 +837,6 @@ For more information on Adobo Morphe Patches - by JKennethCarino: https://github
 - **Helium Browser**
 
 For more information on Brave patches: https://github.com/dh6k/morphe-patches
-
----
-
-**[Hxreborn patches](https://morphe.software/add-source?github=hxreborn/morphe-patches)**
-
-- **ForusApp**
-- **Projectivy Launcher**
-- **Proton Mail**
-- **Showly**
-
-For more information on Hxreborn patches: https://github.com/hxreborn/morphe-patches
 
 ---
 
@@ -990,6 +993,15 @@ For more information on Piko X / Twitter and Instagram Patches - by Crimera: htt
 - **GitHub**
 
 For more information on Stylus: https://github.com/ch3thanhs/stylus
+
+---
+
+**[Tiaruebar1024 patches](https://morphe.software/add-source?github=tiaruebar1024/tiaruebar-patches)**
+
+- **Devices Tycoon**
+- **Temp Mail**
+
+For more information on Tiaruebar1024 patches: https://github.com/tiaruebar1024/tiaruebar-patches
 
 ---
 
@@ -1342,14 +1354,6 @@ For more information on Steam Link GalaxyXR patches: https://github.com/AngelDar
 - **TeamSnap**
 
 For more information on TeamSnap patches: https://github.com/osirisad/teamsnap-patches
-
----
-
-**[Tiaruebar1024 patches](https://morphe.software/add-source?github=tiaruebar1024/tiaruebar-patches)**
-
-- **Devices Tycoon**
-
-For more information on Tiaruebar1024 patches: https://github.com/tiaruebar1024/tiaruebar-patches
 
 ---
 
