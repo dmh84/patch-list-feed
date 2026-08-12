@@ -43,6 +43,20 @@ https://morphe.software/
 
 **Updated: August 12, 2026**
 
+*NEW APP - ES File Explorer in FTL patches
+
+*NEW APP - Lightmeter in Morning Entree patches
+
+*NEW APP - TheFor in Morning Entree patches
+
+*NEW APP - Flud in Morning Entree patches
+
+*NEW APP - nzb360 in Morning Entree patches
+
+*NEW APP - Automate in Morning Entree patches
+
+*NEW APP - Quetta Browser in Brave patches
+
 *NEW APP - Audible in Hxreborn patches
 
 *NEW APP - Temp Mail in Tiaruebar1024 patches
@@ -341,6 +355,55 @@ For more information on Hoo-dles Patches: https://github.com/hoo-dles/morphe-pat
 
 ---
 
+**[Morning Entree patches](https://morphe.software/add-source?github=Entree3k/Morning-Entree-Patches)**
+
+- **AppSales**
+- **Arm Workout**
+- **AutoLocation**
+- **Automate**
+- **AutoTools**
+- **Bluetooth Volume Manager**
+- **Boosted Productivity**
+- **Does Not Commute**
+- **EOBD Facile**
+- **Fake GPS Location**
+- **Flud**
+- **Gboard**
+- **Gradient Weather**
+- **Home Workout - No Equipment**
+- **Hydro Coach**
+- **JEFIT**
+- **Lifesum**
+- **Lightmeter**
+- **Ling**
+- **Listy**
+- **Lose Weight App for Men**
+- **MacroDroid**
+- **Nova Launcher**
+- **nzb360**
+- **Obd Mary**
+- **Paisa**
+- **Panels**
+- **Phi Launcher**
+- **Photon Camera**
+- **Pinnit**
+- **PinOut**
+- **Projectivy Launcher**
+- **Sleep as Android**
+- **Smart AudioBook Player**
+- **Smash Hit**
+- **Sponge**
+- **Super Status Bar**
+- **TheFor**
+- **Todo Mate**
+- **UbikiTouch**
+- **Vocabulary**
+- **Volume Styles**
+
+For more information on Morning Entree patches: https://github.com/Entree3k/Morning-Entree-Patches
+
+---
+
 **[Hooman's Patches](https://morphe.software/add-source?github=arandomhooman/hoomans-morphe-patches)**
 
 - **Adobe Acrobat**
@@ -389,92 +452,6 @@ For more information on Hooman's Patches: https://github.com/arandomhooman/hooma
 
 ---
 
-**[Morning Entree patches](https://morphe.software/add-source?github=Entree3k/Morning-Entree-Patches)**
-
-- **AppSales**
-- **Arm Workout**
-- **AutoLocation**
-- **AutoTools**
-- **Bluetooth Volume Manager**
-- **Boosted Productivity**
-- **Does Not Commute**
-- **EOBD Facile**
-- **Fake GPS Location**
-- **Gboard**
-- **Gradient Weather**
-- **Home Workout - No Equipment**
-- **Hydro Coach**
-- **JEFIT**
-- **Lifesum**
-- **Ling**
-- **Listy**
-- **Lose Weight App for Men**
-- **MacroDroid**
-- **Nova Launcher**
-- **Obd Mary**
-- **Paisa**
-- **Panels**
-- **Phi Launcher**
-- **Photon Camera**
-- **Pinnit**
-- **PinOut**
-- **Projectivy Launcher**
-- **Sleep as Android**
-- **Smart AudioBook Player**
-- **Smash Hit**
-- **Sponge**
-- **Super Status Bar**
-- **Todo Mate**
-- **UbikiTouch**
-- **Vocabulary**
-- **Volume Styles**
-
-For more information on Morning Entree patches: https://github.com/Entree3k/Morning-Entree-Patches
-
----
-
-**[De-Vanced Patches - by RookieEnough](https://morphe.software/add-source?github=RookieEnough/De-Vanced)**
-
-- **Amazon Music**
-- **Amazon Shopping**
-- **Angulus**
-- **Bandcamp**
-- **Cricbuzz**
-- **Disney+**
-- **Facebook**
-- **GMX Mail**
-- **Google News**
-- **Google Photos**
-- **Google Recorder**
-- **Hex Editor**
-- **Icon Pack Studio**
-- **Inshorts**
-- **irplus**
-- **Letterboxd**
-- **Messenger**
-- **Microsoft Lens**
-- **Nothing X**
-- **NU.nl**
-- **Peacock TV**
-- **Photomath**
-- **Photoshop Mix**
-- **Pixiv**
-- **Proton Mail**
-- **RAR**
-- **SoundCloud**
-- **Strava**
-- **Threads**
-- **TikTok**
-- **Tumblr**
-- **Twitch**
-- **Viber**
-
-[Donate to De-Vanced Patches - by RookieEnough](https://buymeacoffee.com/rookiez)
-
-For more information on De-Vanced Patches - by RookieEnough: https://github.com/RookieEnough/De-ReVanced
-
----
-
 **[LA!N Patches - by Kiraio-Moe](https://morphe.software/add-source?github=kiraio-moe/Lain-Patches)**
 
 - **Android Proxy Server**
@@ -509,6 +486,38 @@ For more information on De-Vanced Patches - by RookieEnough: https://github.com/
 - **Ventoy**
 
 For more information on LA!N Patches - by Kiraio-Moe: https://github.com/kiraio-moe/Lain-Patches
+
+---
+
+**[De-Vanced Patches - by RookieEnough](https://morphe.software/add-source?github=RookieEnough/De-Vanced)**
+
+- **Amazon Music**
+- **Amazon Shopping**
+- **Angulus**
+- **Bandcamp**
+- **Cricbuzz**
+- **Facebook**
+- **GMX Mail**
+- **Google Photos**
+- **Google Recorder**
+- **Hex Editor**
+- **Icon Pack Studio**
+- **irplus**
+- **Letterboxd**
+- **Messenger**
+- **Microsoft Lens**
+- **Nothing X**
+- **NU.nl**
+- **Photomath**
+- **Photoshop Mix**
+- **Pixiv**
+- **Strava**
+- **Twitch**
+- **Viber**
+
+[Donate to De-Vanced Patches - by RookieEnough](https://buymeacoffee.com/rookiez)
+
+For more information on De-Vanced Patches - by RookieEnough: https://github.com/RookieEnough/De-ReVanced
 
 ---
 
@@ -777,6 +786,18 @@ For more information on Ample Patches - by naijun0403: https://github.com/AmpleR
 
 ---
 
+**[Brave patches](https://morphe.software/add-source?github=dh6k/morphe-patches)**
+
+- **Brave Beta**
+- **Brave Browser**
+- **Brave Nightly**
+- **Helium Browser**
+- **Quetta Browser**
+
+For more information on Brave patches: https://github.com/dh6k/morphe-patches
+
+---
+
 **[Brosssh Morphe Patches](https://morphe.software/add-source?github=brosssh/morphe-patches)**
 
 - **Chargeprice**
@@ -828,14 +849,16 @@ For more information on Adobo Morphe Patches - by JKennethCarino: https://github
 
 ---
 
-**[Brave patches](https://morphe.software/add-source?github=dh6k/morphe-patches)**
+**[FTL patches](https://morphe.software/add-source?github=BlazeFTL/FTL-Patches)**
 
-- **Brave Beta**
-- **Brave Browser**
-- **Brave Nightly**
-- **Helium Browser**
+- **ES File Explorer**
+- **MX Player**
+- **MX Player Pro**
+- **SnapTube**
 
-For more information on Brave patches: https://github.com/dh6k/morphe-patches
+*Morphe patches to remove ads, analytics, apk junk, debug info, duplicate graphics and more👽☠️🌚.
+
+For more information on FTL patches: https://github.com/BlazeFTL/FTL-Patches
 
 ---
 
@@ -849,18 +872,6 @@ For more information on Brave patches: https://github.com/dh6k/morphe-patches
 [Donate to xob0t Morphe Patches](https://github.com/xob0t)
 
 For more information on xob0t Morphe Patches: https://github.com/xob0t/morphe-patches
-
----
-
-**[FTL patches](https://morphe.software/add-source?github=BlazeFTL/FTL-Patches)**
-
-- **MX Player**
-- **MX Player Pro**
-- **SnapTube**
-
-*Morphe patches to remove ads, analytics, apk junk, debug info, duplicate graphics and more👽☠️🌚.
-
-For more information on FTL patches: https://github.com/BlazeFTL/FTL-Patches
 
 ---
 
