@@ -434,7 +434,6 @@ For more information on Morning Entree patches: https://github.com/Entree3k/Morn
 
 **[De-Vanced Patches - by RookieEnough](https://morphe.software/add-source?github=RookieEnough/De-Vanced)**
 
-- **Adobe Photoshop Mix**
 - **Amazon Music**
 - **Amazon Shopping**
 - **Angulus**
@@ -446,10 +445,10 @@ For more information on Morning Entree patches: https://github.com/Entree3k/Morn
 - **Google News**
 - **Google Photos**
 - **Google Recorder**
-- **HEX Editor**
+- **Hex Editor**
 - **Icon Pack Studio**
 - **Inshorts**
-- **IRplus**
+- **irplus**
 - **Letterboxd**
 - **Messenger**
 - **Microsoft Lens**
@@ -457,7 +456,8 @@ For more information on Morning Entree patches: https://github.com/Entree3k/Morn
 - **NU.nl**
 - **Peacock TV**
 - **Photomath**
-- **pixiv**
+- **Photoshop Mix**
+- **Pixiv**
 - **Proton Mail**
 - **RAR**
 - **SoundCloud**
