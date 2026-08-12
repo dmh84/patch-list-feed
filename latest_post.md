@@ -43,9 +43,11 @@ https://morphe.software/
 
 **Updated: August 11, 2026**
 
-*NEW SOURCE - R3D PatchLab
+*NEW APP - Facebook in Rushi patches
 
-*NEW APP - StandBy Mode in R3D PatchLab
+*NEW APP - Messenger in Rushi patches
+
+*NEW APP - Reddit in Rushi patches
 
 *NEW APP - Aviate in Rushi patches
 
@@ -60,6 +62,8 @@ https://morphe.software/
 *NEW APP - Getcontact in Rushi patches
 
 *NEW APP - MacroDroid in Rushi patches
+
+*NEW APP - StandBy Mode in R3D PatchLab
 
 *NEW APP - Imgur in Imgur Morphe Patches
 
@@ -139,6 +143,7 @@ https://morphe.software/
 - **Electron**
 - **ES File Explorer**
 - **Excel**
+- **Facebook**
 - **Fitbod**
 - **Fitia**
 - **FlightAware**
@@ -175,6 +180,7 @@ https://morphe.software/
 - **Mapy**
 - **MaterialPods**
 - **MEGA**
+- **Messenger**
 - **MigraConnect**
 - **MikroTik Network Tools**
 - **Minimal Widgets**
@@ -232,6 +238,7 @@ https://morphe.software/
 - **RAR**
 - **re-Link**
 - **RecipeBro**
+- **Reddit**
 - **Relane VPN**
 - **Rename & Organize**
 - **Rocket Money**
