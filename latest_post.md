@@ -41,35 +41,9 @@ https://morphe.software/
 
 ---
 
-**Updated: August 11, 2026**
+**Updated: August 12, 2026**
 
-*NEW APP - Facebook in Rushi patches
 
-*NEW APP - Messenger in Rushi patches
-
-*NEW APP - Reddit in Rushi patches
-
-*NEW APP - Aviate in Rushi patches
-
-*NEW APP - Bluetooth Keyboard & Mouse in Rushi patches
-
-*NEW APP - Cube Solver in Rushi patches
-
-*NEW APP - Automate in Rushi patches
-
-*NEW APP - Rainbow Weather in Rushi patches
-
-*NEW APP - Getcontact in Rushi patches
-
-*NEW APP - MacroDroid in Rushi patches
-
-*NEW APP - StandBy Mode in R3D PatchLab
-
-*NEW APP - Imgur in Imgur Morphe Patches
-
-*NEW APP - MX Player Pro in FTL patches
-
-*NEW APP - MX Player in FTL patches
 
 # **Community Patch List**
 
