@@ -41,25 +41,9 @@ https://morphe.software/
 
 ---
 
-**Updated: August 12, 2026**
+**Updated: August 13, 2026**
 
-*NEW APP - ES File Explorer in FTL patches
 
-*NEW APP - Lightmeter in Morning Entree patches
-
-*NEW APP - TheFor in Morning Entree patches
-
-*NEW APP - Flud in Morning Entree patches
-
-*NEW APP - nzb360 in Morning Entree patches
-
-*NEW APP - Automate in Morning Entree patches
-
-*NEW APP - Quetta Browser in Brave patches
-
-*NEW APP - Audible in Hxreborn patches
-
-*NEW APP - Temp Mail in Tiaruebar1024 patches
 
 # **Community Patch List**
 
