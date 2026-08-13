@@ -43,7 +43,7 @@ https://morphe.software/
 
 **Updated: August 13, 2026**
 
-
+*NEW APP - Into the Dead in byehi98 patches
 
 # **Community Patch List**
 
@@ -676,6 +676,7 @@ For more information on Patcheddit Patches - by Wchill: https://github.com/wchil
 - **Dr. Driving**
 - **FreeJobAlert**
 - **Hill Climb Racing**
+- **Into the Dead**
 - **Jetpack Joyride**
 - **Smash Hit**
 - **Swordigo**
