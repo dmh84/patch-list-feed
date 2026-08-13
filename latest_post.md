@@ -43,7 +43,7 @@ https://morphe.software/
 
 **Updated: August 13, 2026**
 
-*NEW APP - Into the Dead in byehi98 patches
+
 
 # **Community Patch List**
 
