@@ -834,19 +834,6 @@ For more information on Adobo Morphe Patches - by JKennethCarino: https://github
 
 ---
 
-**[FTL patches](https://morphe.software/add-source?github=BlazeFTL/FTL-Patches)**
-
-- **ES File Explorer**
-- **MX Player**
-- **MX Player Pro**
-- **SnapTube**
-
-*Morphe patches to remove ads, analytics, apk junk, debug info, duplicate graphics and more👽☠️🌚.
-
-For more information on FTL patches: https://github.com/BlazeFTL/FTL-Patches
-
----
-
 **[xob0t Morphe Patches](https://morphe.software/add-source?github=xob0t/morphe-patches)**
 
 - **Avito**
@@ -857,6 +844,18 @@ For more information on FTL patches: https://github.com/BlazeFTL/FTL-Patches
 [Donate to xob0t Morphe Patches](https://github.com/xob0t)
 
 For more information on xob0t Morphe Patches: https://github.com/xob0t/morphe-patches
+
+---
+
+**[FTL patches](https://morphe.software/add-source?github=BlazeFTL/FTL-Patches)**
+
+- **ES File Explorer**
+- **MX Player Pro**
+- **SnapTube**
+
+*Morphe patches to remove ads, analytics, apk junk, debug info, duplicate graphics and more👽☠️🌚.
+
+For more information on FTL patches: https://github.com/BlazeFTL/FTL-Patches
 
 ---
 
