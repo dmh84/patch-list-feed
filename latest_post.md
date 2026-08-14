@@ -43,6 +43,20 @@ https://morphe.software/
 
 **Updated: August 14, 2026**
 
+*NEW SOURCE - aapam patches
+
+*NEW APP - ZEE5 Android TV in aapam patches
+
+*NEW SOURCE - RabehX patches
+
+*NEW APP - BaridiMob in RabehX patches
+
+*NEW APP - My Ooredoo in RabehX patches
+
+*NEW APP - Webetu in RabehX patches
+
+*NEW APP - MyoAdapt in braiNtropy patches
+
 *NEW APP - Xender in FTL patches
 
 # **Community Patch List**
@@ -880,6 +894,16 @@ For more information on LaKaka's Shitty Patches - by LaKakaReal: https://github.
 
 ---
 
+**[RabehX patches](https://morphe.software/add-source?github=RabehX/rabehx-patches)**
+
+- **BaridiMob**
+- **My Ooredoo**
+- **Webetu**
+
+For more information on RabehX patches: https://github.com/RabehX/rabehx-patches
+
+---
+
 **[Saiesh's Morphe Patches](https://morphe.software/add-source?github=saieshshirodkar/saiesh-morphe-patches)**
 
 - **AT4K Launcher**
@@ -896,6 +920,15 @@ For more information on Saiesh's Morphe Patches: https://github.com/saieshshirod
 - **PhotoGrid**
 
 For more information on Ameen's Morphe Patches: https://github.com/ameenalasady/ameen-morphe
+
+---
+
+**[braiNtropy patches](https://morphe.software/add-source?github=braiNtropy/braintropy-patches)**
+
+- **MyoAdapt**
+- **Waking Up**
+
+For more information on braiNtropy patches: https://github.com/braiNtropy/braintropy-patches
 
 ---
 
@@ -1000,6 +1033,14 @@ For more information on Tiaruebar1024 patches: https://github.com/tiaruebar1024/
 
 ---
 
+**[aapam patches](https://morphe.software/add-source?github=WZSE/aapam-patches)**
+
+- **ZEE5 Android TV**
+
+For more information on aapam patches: https://github.com/WZSE/aapam-patches
+
+---
+
 **[Alastor patches](https://morphe.software/add-source?github=Alastor-Kaneki/Morphe-Patches)**
 
 - **Opera GX**
@@ -1053,14 +1094,6 @@ For more information on Ang3lo's patches: https://github.com/ang3lo-azevedo/morp
 - **Ola Electric**
 
 For more information on Atharv patches: https://github.com/madhu-gowda6/atharv-patches
-
----
-
-**[braiNtropy patches](https://morphe.software/add-source?github=braiNtropy/braintropy-patches)**
-
-- **Waking Up**
-
-For more information on braiNtropy patches: https://github.com/braiNtropy/braintropy-patches
 
 ---
 
