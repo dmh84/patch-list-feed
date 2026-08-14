@@ -43,8 +43,6 @@ https://morphe.software/
 
 **Updated: August 14, 2026**
 
-*NEW APP - MyoAdapt in braiNtropy patches
-
 *NEW APP - Webetu in RabehX patches
 
 *NEW APP - BaridiMob in RabehX patches
@@ -919,15 +917,6 @@ For more information on Ameen's Morphe Patches: https://github.com/ameenalasady/
 
 ---
 
-**[braiNtropy patches](https://morphe.software/add-source?github=braiNtropy/braintropy-patches)**
-
-- **MyoAdapt**
-- **Waking Up**
-
-For more information on braiNtropy patches: https://github.com/braiNtropy/braintropy-patches
-
----
-
 **[Browzomje patches](https://morphe.software/add-source?github=browzomje/browzomje-patches)**
 
 - **Easy Sudoku**
@@ -1090,6 +1079,14 @@ For more information on Ang3lo's patches: https://github.com/ang3lo-azevedo/morp
 - **Ola Electric**
 
 For more information on Atharv patches: https://github.com/madhu-gowda6/atharv-patches
+
+---
+
+**[braiNtropy patches](https://morphe.software/add-source?github=braiNtropy/braintropy-patches)**
+
+- **Waking Up**
+
+For more information on braiNtropy patches: https://github.com/braiNtropy/braintropy-patches
 
 ---
 
