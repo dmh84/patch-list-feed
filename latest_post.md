@@ -43,19 +43,15 @@ https://morphe.software/
 
 **Updated: August 14, 2026**
 
-*NEW SOURCE - aapam patches
+*NEW APP - MyoAdapt in braiNtropy patches
 
-*NEW APP - ZEE5 Android TV in aapam patches
-
-*NEW SOURCE - RabehX patches
+*NEW APP - Webetu in RabehX patches
 
 *NEW APP - BaridiMob in RabehX patches
 
 *NEW APP - My Ooredoo in RabehX patches
 
-*NEW APP - Webetu in RabehX patches
-
-*NEW APP - MyoAdapt in braiNtropy patches
+*NEW APP - ZEE5 Android TV in aapam patches
 
 *NEW APP - Xender in FTL patches
 
