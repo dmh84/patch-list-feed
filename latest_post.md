@@ -43,6 +43,8 @@ https://morphe.software/
 
 **Updated: August 14, 2026**
 
+*NEW APP - Six Pack in 30 Days in Morning Entree patches
+
 *NEW APP - Webetu in RabehX patches
 
 *NEW APP - BaridiMob in RabehX patches
@@ -381,6 +383,7 @@ For more information on Hoo-dles Patches: https://github.com/hoo-dles/morphe-pat
 - **Pinnit**
 - **PinOut**
 - **Projectivy Launcher**
+- **Six Pack in 30 Days**
 - **Sleep as Android**
 - **Smart AudioBook Player**
 - **Smash Hit**
