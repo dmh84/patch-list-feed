@@ -41,19 +41,9 @@ https://morphe.software/
 
 ---
 
-**Updated: August 14, 2026**
+**Updated: August 15, 2026**
 
-*NEW APP - Six Pack in 30 Days in Morning Entree patches
 
-*NEW APP - Webetu in RabehX patches
-
-*NEW APP - BaridiMob in RabehX patches
-
-*NEW APP - My Ooredoo in RabehX patches
-
-*NEW APP - ZEE5 Android TV in aapam patches
-
-*NEW APP - Xender in FTL patches
 
 # **Community Patch List**
 
