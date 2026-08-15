@@ -43,7 +43,7 @@ https://morphe.software/
 
 **Updated: August 15, 2026**
 
-
+*NEW APP - Symfonium in Hxreborn patches
 
 # **Community Patch List**
 
@@ -745,6 +745,19 @@ For more information on EE-Morphe-Patches - by early.Egg3707: https://gitlab.com
 
 ---
 
+**[Hxreborn patches](https://morphe.software/add-source?github=hxreborn/morphe-patches)**
+
+- **Audible**
+- **ForusApp**
+- **Projectivy Launcher**
+- **Proton Mail**
+- **Showly**
+- **Symfonium**
+
+For more information on Hxreborn patches: https://github.com/hxreborn/morphe-patches
+
+---
+
 **[Proxma patches](https://morphe.software/add-source?github=totsiaw/proxma-patches)**
 
 - **Investify**
@@ -795,18 +808,6 @@ For more information on Brave patches: https://github.com/dh6k/morphe-patches
 [Donate to Brosssh Morphe Patches](https://github.com/sponsors/brosssh)
 
 For more information on Brosssh Morphe Patches: https://github.com/brosssh/morphe-patches
-
----
-
-**[Hxreborn patches](https://morphe.software/add-source?github=hxreborn/morphe-patches)**
-
-- **Audible**
-- **ForusApp**
-- **Projectivy Launcher**
-- **Proton Mail**
-- **Showly**
-
-For more information on Hxreborn patches: https://github.com/hxreborn/morphe-patches
 
 ---
 
