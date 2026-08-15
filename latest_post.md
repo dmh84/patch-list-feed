@@ -43,6 +43,8 @@ https://morphe.software/
 
 **Updated: August 15, 2026**
 
+*NEW APP - Moneta in Hooman's patches
+
 *NEW APP - Symfonium in Hxreborn patches
 
 # **Community Patch List**
@@ -413,6 +415,7 @@ For more information on Morning Entree patches: https://github.com/Entree3k/Morn
 - **InShot**
 - **Liquid Gallery**
 - **Mixel**
+- **Moneta**
 - **Money Manager**
 - **Moovit**
 - **Poweramp**
