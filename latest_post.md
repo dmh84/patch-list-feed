@@ -43,7 +43,9 @@ https://morphe.software/
 
 **Updated: August 16, 2026**
 
+*NEW APP - Rodeo Stampede: Sky Zoo Safari in byehi98 patches
 
+*NEW APP - Microsoft SwiftKey in Hooman's Patches
 
 # **Community Patch List**
 
@@ -339,6 +341,56 @@ For more information on Hoo-dles Patches: https://github.com/hoo-dles/morphe-pat
 
 ---
 
+**[Hooman's Patches](https://morphe.software/add-source?github=arandomhooman/hoomans-morphe-patches)**
+
+- **Adobe Acrobat**
+- **Advanced Download Manager**
+- **AGAMA Car Launcher**
+- **Alpha Progression**
+- **AT4K Launcher**
+- **BandLab**
+- **Battery Guru**
+- **BlockerHero**
+- **Cashew**
+- **ChatBoost**
+- **Collectr**
+- **Cronometer**
+- **DirectChat**
+- **Essence**
+- **Finch**
+- **Flightradar24**
+- **FolderSync**
+- **Hevy**
+- **I Am Sober**
+- **InShot**
+- **Liquid Gallery**
+- **Microsoft SwiftKey**
+- **Mixel**
+- **Moneta**
+- **Money Manager**
+- **Moovit**
+- **Poweramp**
+- **Projectivy Launcher**
+- **Quizlet**
+- **Replaio**
+- **Rumble**
+- **Smart AudioBook Player**
+- **SofaScore**
+- **Stash**
+- **Symfonium**
+- **Teach Me Anatomy**
+- **Todoist**
+- **Tracked**
+- **Tumblr**
+- **Twitch**
+- **Video Converter**
+- **Wanderlog**
+- **WEBTOON**
+
+For more information on Hooman's Patches: https://github.com/arandomhooman/hoomans-morphe-patches
+
+---
+
 **[Morning Entree patches](https://morphe.software/add-source?github=Entree3k/Morning-Entree-Patches)**
 
 - **AppSales**
@@ -386,55 +438,6 @@ For more information on Hoo-dles Patches: https://github.com/hoo-dles/morphe-pat
 - **Volume Styles**
 
 For more information on Morning Entree patches: https://github.com/Entree3k/Morning-Entree-Patches
-
----
-
-**[Hooman's Patches](https://morphe.software/add-source?github=arandomhooman/hoomans-morphe-patches)**
-
-- **Adobe Acrobat**
-- **Advanced Download Manager**
-- **AGAMA Car Launcher**
-- **Alpha Progression**
-- **AT4K Launcher**
-- **BandLab**
-- **Battery Guru**
-- **BlockerHero**
-- **Cashew**
-- **ChatBoost**
-- **Collectr**
-- **Cronometer**
-- **DirectChat**
-- **Essence**
-- **Finch**
-- **Flightradar24**
-- **FolderSync**
-- **Hevy**
-- **I Am Sober**
-- **InShot**
-- **Liquid Gallery**
-- **Mixel**
-- **Moneta**
-- **Money Manager**
-- **Moovit**
-- **Poweramp**
-- **Projectivy Launcher**
-- **Quizlet**
-- **Replaio**
-- **Rumble**
-- **Smart AudioBook Player**
-- **SofaScore**
-- **Stash**
-- **Symfonium**
-- **Teach Me Anatomy**
-- **Todoist**
-- **Tracked**
-- **Tumblr**
-- **Twitch**
-- **Video Converter**
-- **Wanderlog**
-- **WEBTOON**
-
-For more information on Hooman's Patches: https://github.com/arandomhooman/hoomans-morphe-patches
 
 ---
 
@@ -636,6 +639,23 @@ For more information on Chiggi SonyLIV Patches - by durgesh0505: https://github.
 
 ---
 
+**[byehi98 patches](https://morphe.software/add-source?github=byehi98/okish-morphe-patches)**
+
+- **Doodle Jump**
+- **Dr. Driving**
+- **FreeJobAlert**
+- **Hill Climb Racing**
+- **Into the Dead**
+- **Jetpack Joyride**
+- **Rodeo Stampede: Sky Zoo Safari**
+- **Smash Hit**
+- **Swordigo**
+- **TrueCloud**
+
+For more information on byehi98 patches: https://github.com/byehi98/okish-morphe-patches
+
+---
+
 **[Franticg33k patches](https://morphe.software/add-source?github=franticg33k/morphe-patches)**
 
 - **Atlas Photo**
@@ -669,22 +689,6 @@ For more information on Franticg33k patches: https://github.com/franticg33k/morp
 **Third Party Reddit Apps Supported by Patcheddit**
 
 For more information on Patcheddit Patches - by Wchill: https://github.com/wchill/patcheddit
-
----
-
-**[byehi98 patches](https://morphe.software/add-source?github=byehi98/okish-morphe-patches)**
-
-- **Doodle Jump**
-- **Dr. Driving**
-- **FreeJobAlert**
-- **Hill Climb Racing**
-- **Into the Dead**
-- **Jetpack Joyride**
-- **Smash Hit**
-- **Swordigo**
-- **TrueCloud**
-
-For more information on byehi98 patches: https://github.com/byehi98/okish-morphe-patches
 
 ---
 
