@@ -41,11 +41,9 @@ https://morphe.software/
 
 ---
 
-**Updated: August 15, 2026**
+**Updated: August 16, 2026**
 
-*NEW APP - Moneta in Hooman's patches
 
-*NEW APP - Symfonium in Hxreborn patches
 
 # **Community Patch List**
 
