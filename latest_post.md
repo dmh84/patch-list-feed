@@ -43,6 +43,20 @@ https://morphe.software/
 
 **Updated: August 16, 2026**
 
+*NEW SOURCE - Itsthejoker's patches
+
+*NEW APP - Roost in Itsthejoker's patches
+
+*NEW APP - Supreme Duelist Stickman in Miguel's patches
+
+*NEW APP - Bolpatra Nepal in Franticg33k patches
+
+*NEW APP - Samsung Keyboard in Ample
+
+*NEW APP - Big Hunter in byehi98 patches
+
+*NEW APP - BitLife in Tiaruebar1024 patches
+
 *NEW APP - All Video Downloader & Ace Player in FTL patches
 
 *NEW APP - Perplexity in Hxreborn patches
@@ -621,6 +635,24 @@ For more information on Kondratjev Morphe Patches - by Kindratiev: https://githu
 
 ---
 
+**[byehi98 patches](https://morphe.software/add-source?github=byehi98/okish-morphe-patches)**
+
+- **Big Hunter**
+- **Doodle Jump**
+- **Dr. Driving**
+- **FreeJobAlert**
+- **Hill Climb Racing**
+- **Into the Dead**
+- **Jetpack Joyride**
+- **Rodeo Stampede: Sky Zoo Safari**
+- **Smash Hit**
+- **Swordigo**
+- **TrueCloud**
+
+For more information on byehi98 patches: https://github.com/byehi98/okish-morphe-patches
+
+---
+
 **[Chiggi SonyLIV Patches - by durgesh0505](https://morphe.software/add-source?github=durgesh0505/chiggi_morphe_patches)**
 
 - **Arrow Puzzle**
@@ -639,26 +671,10 @@ For more information on Chiggi SonyLIV Patches - by durgesh0505: https://github.
 
 ---
 
-**[byehi98 patches](https://morphe.software/add-source?github=byehi98/okish-morphe-patches)**
-
-- **Doodle Jump**
-- **Dr. Driving**
-- **FreeJobAlert**
-- **Hill Climb Racing**
-- **Into the Dead**
-- **Jetpack Joyride**
-- **Rodeo Stampede: Sky Zoo Safari**
-- **Smash Hit**
-- **Swordigo**
-- **TrueCloud**
-
-For more information on byehi98 patches: https://github.com/byehi98/okish-morphe-patches
-
----
-
 **[Franticg33k patches](https://morphe.software/add-source?github=franticg33k/morphe-patches)**
 
 - **Atlas Photo**
+- **Bolpatra Nepal**
 - **byAir**
 - **Hamropatro**
 - **JellyWatch**
@@ -696,11 +712,11 @@ For more information on Patcheddit Patches - by Wchill: https://github.com/wchil
 
 - **Anger of Stick 5**
 - **Climb!**
-- **Cube Solver**
 - **CubeX Solver**
 - **Hunter Assassin**
 - **Oddmar**
 - **Plants vs. Zombies FREE**
+- **Supreme Duelist Stickman**
 - **The Battle of Polytopia**
 
 For more information on Miguel's patches: https://github.com/MiguelNinja19/miguel-morphe-patches
@@ -751,6 +767,21 @@ For more information on Hxreborn patches: https://github.com/hxreborn/morphe-pat
 
 ---
 
+**[Ample Patches - by naijun0403](https://morphe.software/add-source?github=AmpleReVanced/revanced-patches)**
+
+- **Chzzk**
+- **dcinside**
+- **Flexcil**
+- **Kakao Talk**
+- **Samsung Keyboard**
+- **SOOP**
+
+[Donate to Ample Patches - by naijun0403](https://buymeacoffee.com/naijun0403)
+
+For more information on Ample Patches - by naijun0403: https://github.com/AmpleReVanced/revanced-patches/tree/dev
+
+---
+
 **[EE-Morphe-Patches - by early.Egg3707](https://morphe.software/add-source?gitlab=early.egg3707/ee-morphe-patches)**
 
 - **AppSales**
@@ -774,20 +805,6 @@ For more information on EE-Morphe-Patches - by early.Egg3707: https://gitlab.com
 - **Simosa**
 
 For more information on Proxma patches: https://github.com/totsiaw/proxma-patches
-
----
-
-**[Ample Patches - by naijun0403](https://morphe.software/add-source?github=AmpleReVanced/revanced-patches)**
-
-- **Chzzk**
-- **dcinside**
-- **Flexcil**
-- **Kakao Talk**
-- **SOOP**
-
-[Donate to Ample Patches - by naijun0403](https://buymeacoffee.com/naijun0403)
-
-For more information on Ample Patches - by naijun0403: https://github.com/AmpleReVanced/revanced-patches/tree/dev
 
 ---
 
@@ -1010,6 +1027,15 @@ For more information on Stylus: https://github.com/ch3thanhs/stylus
 
 ---
 
+**[Tiaruebar1024 patches](https://morphe.software/add-source?github=tiaruebar1024/tiaruebar-patches)**
+
+- **BitLife**
+- **Devices Tycoon**
+
+For more information on Tiaruebar1024 patches: https://github.com/tiaruebar1024/tiaruebar-patches
+
+---
+
 **[aapam patches](https://morphe.software/add-source?github=WZSE/aapam-patches)**
 
 - **ZEE5 Android TV**
@@ -1202,6 +1228,14 @@ For more information on Imgur Morphe Patches: https://github.com/sushruth/imgur-
 
 ---
 
+**[Itsthejoker's patches](https://morphe.software/add-source?github=itsthejoker/itsthejoker-patches)**
+
+- **Roost**
+
+For more information on Itsthejoker's patches: https://github.com/itsthejoker/itsthejoker-patches
+
+---
+
 **[JonnyVR1 patches](https://morphe.software/add-source?github=JonnyVR1/morph-patches)**
 
 - **Tantan**
@@ -1367,14 +1401,6 @@ For more information on Steam Link GalaxyXR patches: https://github.com/AngelDar
 - **TeamSnap**
 
 For more information on TeamSnap patches: https://github.com/osirisad/teamsnap-patches
-
----
-
-**[Tiaruebar1024 patches](https://morphe.software/add-source?github=tiaruebar1024/tiaruebar-patches)**
-
-- **Devices Tycoon**
-
-For more information on Tiaruebar1024 patches: https://github.com/tiaruebar1024/tiaruebar-patches
 
 ---
 
