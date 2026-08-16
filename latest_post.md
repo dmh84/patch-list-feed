@@ -43,9 +43,9 @@ https://morphe.software/
 
 **Updated: August 16, 2026**
 
-*NEW APP - Rodeo Stampede: Sky Zoo Safari in byehi98 patches
+*NEW APP - All Video Downloader & Ace Player in FTL patches
 
-*NEW APP - Microsoft SwiftKey in Hooman's Patches
+*NEW APP - Perplexity in Hxreborn patches
 
 # **Community Patch List**
 
@@ -737,6 +737,20 @@ For more information on Bufferk patches: https://github.com/bufferk/morphe-patch
 
 ---
 
+**[Hxreborn patches](https://morphe.software/add-source?github=hxreborn/morphe-patches)**
+
+- **Audible**
+- **ForusApp**
+- **Perplexity**
+- **Projectivy Launcher**
+- **Proton Mail**
+- **Showly**
+- **Symfonium**
+
+For more information on Hxreborn patches: https://github.com/hxreborn/morphe-patches
+
+---
+
 **[EE-Morphe-Patches - by early.Egg3707](https://morphe.software/add-source?gitlab=early.egg3707/ee-morphe-patches)**
 
 - **AppSales**
@@ -747,19 +761,6 @@ For more information on Bufferk patches: https://github.com/bufferk/morphe-patch
 - **Inoreader**
 
 For more information on EE-Morphe-Patches - by early.Egg3707: https://gitlab.com/early.egg3707/ee-morphe-patches
-
----
-
-**[Hxreborn patches](https://morphe.software/add-source?github=hxreborn/morphe-patches)**
-
-- **Audible**
-- **ForusApp**
-- **Projectivy Launcher**
-- **Proton Mail**
-- **Showly**
-- **Symfonium**
-
-For more information on Hxreborn patches: https://github.com/hxreborn/morphe-patches
 
 ---
 
@@ -816,6 +817,20 @@ For more information on Brosssh Morphe Patches: https://github.com/brosssh/morph
 
 ---
 
+**[FTL patches](https://morphe.software/add-source?github=BlazeFTL/FTL-Patches)**
+
+- **All Video Downloader & Ace Player**
+- **ES File Explorer**
+- **MX Player Pro**
+- **SnapTube**
+- **Xender**
+
+*Morphe patches to remove ads, analytics, apk junk, debug info, duplicate graphics and more👽☠️🌚.
+
+For more information on FTL patches: https://github.com/BlazeFTL/FTL-Patches
+
+---
+
 **[zPatches](https://morphe.software/add-source?github=cesbar/zpatches)**
 
 - **Citymapper**
@@ -838,19 +853,6 @@ For more information on zPatches: https://github.com/cesbar/zpatches
 *Note: Adobo has an extremely useful Universal Ad Blocker Patch that blocks ads, trackers and analytics on many small play store apps.
 
 For more information on Adobo Morphe Patches - by JKennethCarino: https://github.com/jkennethcarino/adobo
-
----
-
-**[FTL patches](https://morphe.software/add-source?github=BlazeFTL/FTL-Patches)**
-
-- **ES File Explorer**
-- **MX Player Pro**
-- **SnapTube**
-- **Xender**
-
-*Morphe patches to remove ads, analytics, apk junk, debug info, duplicate graphics and more👽☠️🌚.
-
-For more information on FTL patches: https://github.com/BlazeFTL/FTL-Patches
 
 ---
 
