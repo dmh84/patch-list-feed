@@ -43,13 +43,11 @@ https://morphe.software/
 
 **Updated: August 16, 2026**
 
-*NEW SOURCE - Itsthejoker's patches
-
-*NEW APP - Roost in Itsthejoker's patches
-
 *NEW APP - Supreme Duelist Stickman in Miguel's patches
 
 *NEW APP - Bolpatra Nepal in Franticg33k patches
+
+*NEW APP - Roost in Itsthejoker's patches
 
 *NEW APP - Samsung Keyboard in Ample
 
