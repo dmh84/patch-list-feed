@@ -43,6 +43,12 @@ https://morphe.software/
 
 **Updated: August 16, 2026**
 
+*NEW APP - Trainline in Hxreborn patches
+
+*NEW APP - ReadEra in Hxreborn patches
+
+*NEW APP - Perplexity in Hxreborn patches
+
 *NEW APP - Supreme Duelist Stickman in Miguel's patches
 
 *NEW APP - Bolpatra Nepal in Franticg33k patches
@@ -56,8 +62,6 @@ https://morphe.software/
 *NEW APP - BitLife in Tiaruebar1024 patches
 
 *NEW APP - All Video Downloader & Ace Player in FTL patches
-
-*NEW APP - Perplexity in Hxreborn patches
 
 # **Community Patch List**
 
@@ -706,6 +710,22 @@ For more information on Patcheddit Patches - by Wchill: https://github.com/wchil
 
 ---
 
+**[Hxreborn patches](https://morphe.software/add-source?github=hxreborn/morphe-patches)**
+
+- **Audible**
+- **ForusApp**
+- **Perplexity**
+- **Projectivy Launcher**
+- **Proton Mail**
+- **ReadEra**
+- **Showly**
+- **Symfonium**
+- **Trainline**
+
+For more information on Hxreborn patches: https://github.com/hxreborn/morphe-patches
+
+---
+
 **[Miguel's patches](https://morphe.software/add-source?github=MiguelNinja19/miguel-morphe-patches)**
 
 - **Anger of Stick 5**
@@ -748,20 +768,6 @@ For more information on Binarymend Morphe Patches - by Binarymend: https://githu
 - **Truecaller**
 
 For more information on Bufferk patches: https://github.com/bufferk/morphe-patches
-
----
-
-**[Hxreborn patches](https://morphe.software/add-source?github=hxreborn/morphe-patches)**
-
-- **Audible**
-- **ForusApp**
-- **Perplexity**
-- **Projectivy Launcher**
-- **Proton Mail**
-- **Showly**
-- **Symfonium**
-
-For more information on Hxreborn patches: https://github.com/hxreborn/morphe-patches
 
 ---
 
