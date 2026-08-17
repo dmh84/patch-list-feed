@@ -43,6 +43,8 @@ https://morphe.software/
 
 **Updated: August 17, 2026**
 
+*NEW APP - VesselFinder in Hiosdra patches
+
 *NEW APP - Earn to Die 2 in byehi98 patches
 
 *NEW APP - Gboard in Flexboard
@@ -943,6 +945,16 @@ For more information on xob0t Morphe Patches: https://github.com/xob0t/morphe-pa
 
 ---
 
+**[Hiosdra patches](https://morphe.software/add-source?github=Hiosdra/morphe-patches)**
+
+- **F1 TV**
+- **Movie Paradise**
+- **VesselFinder**
+
+For more information on Hiosdra patches: https://github.com/Hiosdra/morphe-patches
+
+---
+
 **[KineStop patches](https://morphe.software/add-source?github=shaun-the-sheep-patches/morphe-patches)**
 
 - **Flud**
@@ -998,15 +1010,6 @@ For more information on Ameen's Morphe Patches: https://github.com/ameenalasady/
 - **Pinterest**
 
 For more information on Browzomje patches: https://github.com/browzomje/browzomje-patches
-
----
-
-**[Hiosdra patches](https://morphe.software/add-source?github=Hiosdra/morphe-patches)**
-
-- **F1 TV**
-- **Movie Paradise**
-
-For more information on Hiosdra patches: https://github.com/Hiosdra/morphe-patches
 
 ---
 
