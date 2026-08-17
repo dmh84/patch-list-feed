@@ -43,7 +43,25 @@ https://morphe.software/
 
 **Updated: August 17, 2026**
 
+*NEW SOURCE - iPusnas patches
 
+*NEW APP - iPusnas in iPusnas patches
+
+*NEW SOURCE - Riky patches
+
+*NEW APP - 3BMeteo in Riky patches
+
+*NEW SOURCE - Slight patches
+
+*NEW APP - AT4K Launcher in Slight patches
+
+*NEW APP - Sparkle TV in Slight patches
+
+*NEW APP - RS File Manager in FTL patches
+
+*NEW APP - AutoZen in Hooman's Patches
+
+*NEW APP - Google Phone in Hooman's Patches
 
 # **Community Patch List**
 
@@ -346,6 +364,7 @@ For more information on Hoo-dles Patches: https://github.com/hoo-dles/morphe-pat
 - **AGAMA Car Launcher**
 - **Alpha Progression**
 - **AT4K Launcher**
+- **AutoZen**
 - **BandLab**
 - **Battery Guru**
 - **BlockerHero**
@@ -358,6 +377,7 @@ For more information on Hoo-dles Patches: https://github.com/hoo-dles/morphe-pat
 - **Finch**
 - **Flightradar24**
 - **FolderSync**
+- **Google Phone**
 - **Hevy**
 - **I Am Sober**
 - **InShot**
@@ -781,6 +801,21 @@ For more information on EE-Morphe-Patches - by early.Egg3707: https://gitlab.com
 
 ---
 
+**[FTL patches](https://morphe.software/add-source?github=BlazeFTL/FTL-Patches)**
+
+- **All Video Downloader & Ace Player**
+- **ES File Explorer**
+- **MX Player Pro**
+- **RS File Manager**
+- **SnapTube**
+- **Xender**
+
+*Morphe patches to remove ads, analytics, apk junk, debug info, duplicate graphics and more👽☠️🌚.
+
+For more information on FTL patches: https://github.com/BlazeFTL/FTL-Patches
+
+---
+
 **[Proxma patches](https://morphe.software/add-source?github=totsiaw/proxma-patches)**
 
 - **Investify**
@@ -817,20 +852,6 @@ For more information on Brave patches: https://github.com/dh6k/morphe-patches
 [Donate to Brosssh Morphe Patches](https://github.com/sponsors/brosssh)
 
 For more information on Brosssh Morphe Patches: https://github.com/brosssh/morphe-patches
-
----
-
-**[FTL patches](https://morphe.software/add-source?github=BlazeFTL/FTL-Patches)**
-
-- **All Video Downloader & Ace Player**
-- **ES File Explorer**
-- **MX Player Pro**
-- **SnapTube**
-- **Xender**
-
-*Morphe patches to remove ads, analytics, apk junk, debug info, duplicate graphics and more👽☠️🌚.
-
-For more information on FTL patches: https://github.com/BlazeFTL/FTL-Patches
 
 ---
 
@@ -1001,6 +1022,15 @@ For more information on Patched-Up Patches - by Docbt: https://github.com/docbt/
 - **X**
 
 For more information on Piko X / Twitter and Instagram Patches - by Crimera: https://github.com/crimera/piko
+
+---
+
+**[Slight patches](https://morphe.software/add-source?github=HSlightsteel/slight-patches)**
+
+- **AT4K Launcher**
+- **Sparkle TV**
+
+For more information on Slight patches: https://github.com/HSlightsteel/slight-patches
 
 ---
 
@@ -1206,11 +1236,19 @@ For more information on Heval patches: https://github.com/heval99/morphe-patches
 
 ---
 
-**[Imgur Morphe Patches](https://morphe.software/add-source?github=sushruth/imgur-patches)**
+**[Imgur patches](https://morphe.software/add-source?github=sushruth/imgur-patches)**
 
 - **Imgur**
 
-For more information on Imgur Morphe Patches: https://github.com/sushruth/imgur-patches
+For more information on Imgur patches: https://github.com/sushruth/imgur-patches
+
+---
+
+**[iPusnas patches](https://morphe.software/add-source?github=kuchingneko28/ipusnas-patches)**
+
+- **iPusnas**
+
+For more information on iPusnas patches: https://github.com/kuchingneko28/ipusnas-patches
 
 ---
 
@@ -1331,6 +1369,14 @@ For more information on R3D PatchLab: https://github.com/xxxR3Dxxx/R3D-PatchLab
 - **Me**
 
 For more information on ReemX patches: https://github.com/ReemX/morphe-me-patches
+
+---
+
+**[Riky patches](https://morphe.software/add-source?github=riky-dev/morphe-patches)**
+
+- **3BMeteo**
+
+For more information on Riky patches: https://github.com/riky-dev/morphe-patches
 
 ---
 
