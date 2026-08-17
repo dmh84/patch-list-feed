@@ -43,17 +43,19 @@ https://morphe.software/
 
 **Updated: August 17, 2026**
 
-*NEW APP - VesselFinder in Hiosdra patches
+*NEW SOURCE - ESPNcricinfo patches
 
-*NEW APP - Earn to Die 2 in byehi98 patches
+*NEW APP - ESPNcricinfo in ESPNcricinfo patches
 
-*NEW APP - Gboard in Flexboard
-
-*NEW APP - Feem in Doom's patches
+*NEW APP - TikTok Lite in Doom's patches
 
 *NEW APP - Server Auditor in Doom's patches
 
-*NEW APP - TikTok Lite in Doom's patches
+*NEW APP - WetterOnline in Doom's patches
+
+*NEW APP - Hydro Coach in Doom's patches
+
+*NEW APP - Feem in Doom's patches
 
 *NEW APP - Proton Mail in Doom's patches
 
@@ -73,8 +75,6 @@ https://morphe.software/
 
 *NEW APP - Widget 2026 in Doom's patches
 
-*NEW APP - Hydro Coach in Doom's patches
-
 *NEW APP - Malwarebytes Mobile Security in Doom's patches
 
 *NEW APP - Proton Pass in Doom's patches
@@ -93,7 +93,11 @@ https://morphe.software/
 
 *NEW APP - Women Workout in Doom's patches
 
-*NEW APP - WetterOnline in Doom's patches
+*NEW APP - VesselFinder in Hiosdra patches
+
+*NEW APP - Earn to Die 2 in byehi98 patches
+
+*NEW APP - Gboard in Flexboard
 
 # **Community Patch List**
 
@@ -331,7 +335,6 @@ https://morphe.software/
 - **Vyxel Apps**
 - **Wallverse**
 - **Wavve Boating**
-- **Waze**
 - **Weawow**
 - **WetterOnline**
 - **Widget 2026**
@@ -1230,6 +1233,14 @@ For more information on Edge Morphe Patches - by quantavil: https://github.com/q
 - **Ekşi Sözlük**
 
 For more information on Eksisozluk App Morphed Patch - by HvQ: https://github.com/HvQ/eksi-morphe
+
+---
+
+**[ESPNcricinfo patches](https://morphe.software/add-source?github=isuruhg/cricinfo-tweaks)**
+
+- **ESPNcricinfo**
+
+For more information on ESPNcricinfo patches: https://github.com/isuruhg/cricinfo-tweaks
 
 ---
 
