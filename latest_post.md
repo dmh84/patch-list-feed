@@ -53,8 +53,6 @@ https://morphe.software/
 
 *NEW APP - Bolpatra Nepal in Franticg33k patches
 
-*NEW APP - Roost in Itsthejoker's patches
-
 *NEW APP - Samsung Keyboard in Ample
 
 *NEW APP - Big Hunter in byehi98 patches
@@ -1229,14 +1227,6 @@ For more information on Heval patches: https://github.com/heval99/morphe-patches
 - **Imgur**
 
 For more information on Imgur Morphe Patches: https://github.com/sushruth/imgur-patches
-
----
-
-**[Itsthejoker's patches](https://morphe.software/add-source?github=itsthejoker/itsthejoker-patches)**
-
-- **Roost**
-
-For more information on Itsthejoker's patches: https://github.com/itsthejoker/itsthejoker-patches
 
 ---
 
