@@ -43,25 +43,55 @@ https://morphe.software/
 
 **Updated: August 17, 2026**
 
-*NEW SOURCE - iPusnas patches
+*NEW SOURCE - Flexboard
 
-*NEW APP - iPusnas in iPusnas patches
+*NEW APP - Gboard in Flexboard
 
-*NEW SOURCE - Riky patches
+*NEW APP - Feem in Rushi patches
 
-*NEW APP - 3BMeteo in Riky patches
+*NEW APP - Server Auditor in Rushi patches
 
-*NEW SOURCE - Slight patches
+*NEW APP - TikTok Lite in Rushi patches
 
-*NEW APP - AT4K Launcher in Slight patches
+*NEW APP - Proton Mail in Rushi patches
 
-*NEW APP - Sparkle TV in Slight patches
+*NEW APP - BubbleUPnP in Rushi patches
 
-*NEW APP - RS File Manager in FTL patches
+*NEW APP - AnExplorer in Rushi patches
 
-*NEW APP - AutoZen in Hooman's Patches
+*NEW APP - Cast to TV in Rushi patches
 
-*NEW APP - Google Phone in Hooman's Patches
+*NEW APP - File Manager in Rushi patches
+
+*NEW APP - meteoblue Weather in Rushi patches
+
+*NEW APP - NewsBreak Lite in Rushi patches
+
+*NEW APP - pillo in Rushi patches
+
+*NEW APP - Widget 2026 in Rushi patches
+
+*NEW APP - Hydro Coach in Rushi patches
+
+*NEW APP - Malwarebytes Mobile Security in Rushi patches
+
+*NEW APP - Proton Pass in Rushi patches
+
+*NEW APP - AppLock Watcher in Rushi patches
+
+*NEW APP - Money Manager in Rushi patches
+
+*NEW APP - Plank Workout in Rushi patches
+
+*NEW APP - Lose Weight App for Women in Rushi patches
+
+*NEW APP - Height Increase in Rushi patches
+
+*NEW APP - Home Workout in Rushi patches
+
+*NEW APP - Women Workout in Rushi patches
+
+*NEW APP - WetterOnline in Rushi patches
 
 # **Community Patch List**
 
@@ -74,7 +104,7 @@ https://morphe.software/
 - **AccuBattery**
 - **AccuWeather**
 - **Ace Ex File Manager**
-- **AdGuard for Android TV**
+- **AdGuard**
 - **Adobe Acrobat**
 - **Adobe Scan**
 - **AIDA64**
@@ -86,9 +116,11 @@ https://morphe.software/
 - **Ampere**
 - **Android Developer Verifier**
 - **AndroPods**
+- **AnExplorer**
 - **Anime Depth Wallpapers**
 - **APKMirror Installer**
 - **App Permission Manager**
+- **AppLock Watcher**
 - **Athena**
 - **Auto Cursor**
 - **Automate**
@@ -105,11 +137,12 @@ https://morphe.software/
 - **Bluetooth Volume Manager**
 - **Blurams**
 - **BlurWall**
-- **BoldVoice: American Accent**
+- **BoldVoice**
 - **Box Box**
+- **BubbleUPnP**
 - **BuzzCast**
 - **calimoto**
-- **Calm: Sleep & Meditation**
+- **Calm**
 - **Calory**
 - **CamScanner**
 - **Canva**
@@ -117,6 +150,7 @@ https://morphe.software/
 - **Carbon**
 - **Case Tracker**
 - **Cashew**
+- **Cast to TV**
 - **Charge Meter**
 - **Citizen**
 - **Citymapper**
@@ -135,6 +169,8 @@ https://morphe.software/
 - **Electron**
 - **ES File Explorer**
 - **Excel**
+- **Feem**
+- **File Manager**
 - **Fitbod**
 - **Fitia**
 - **FlightAware**
@@ -147,14 +183,15 @@ https://morphe.software/
 - **Google Photos**
 - **Greenify**
 - **HD UHD Live Wallpapers**
+- **Height Increase**
 - **Hibernator**
 - **Historical Calendar**
 - **Hola VPN Proxy Plus**
+- **Home Workout**
 - **HTTP Sniffer**
+- **Hydro Coach**
 - **Image & Video Date Fixer**
 - **Inmigreat**
-- **Inure App Manager**
-- **Inure App Manager (GitHub)**
 - **JEFIT**
 - **Kahoot!**
 - **KillApps**
@@ -165,22 +202,24 @@ https://morphe.software/
 - **Lawfully**
 - **Life360**
 - **LiveScore**
+- **Lose Weight App for Women**
 - **m-Indicator**
 - **MacroDroid**
+- **Malwarebytes Mobile Security**
 - **MANGA Plus by SHUEISHA**
-- **Mapy**
+- **Mapy.com**
 - **MaterialPods**
 - **MEGA**
 - **Messenger**
+- **meteoblue Weather**
 - **MigraConnect**
 - **MikroTik Network Tools**
 - **Minimal Widgets**
 - **ML Manager**
-- **MobiOffice- Word, Excel, Slide**
+- **MobiOffice**
 - **Monet**
+- **Money Manager**
 - **Moovit**
-- **MovieBox**
-- **MovieBox (India)**
 - **MovieBox TV**
 - **MyRadar**
 - **NAVITIME**
@@ -188,23 +227,26 @@ https://morphe.software/
 - **NetMonster**
 - **Network Guru**
 - **NewsBreak**
+- **NewsBreak Lite**
 - **Ninja VPN**
 - **NYT Games**
 - **nzb360**
 - **OBD Android**
 - **Octi**
-- **Opera News - Breaking & Local**
+- **Opera News**
 - **Oxygen Updater**
 - **Parallel Space Pro**
 - **Parcels — Package Tracker**
 - **Park4Night**
-- **PC Remote - Desktop & Phone**
+- **PC Remote**
 - **Permission Pilot**
 - **Photo Editor**
 - **Pialytic**
-- **Picture Mushroom - Mushroom ID**
-- **PictureThis - Plant Identifier**
+- **Picture Mushroom**
+- **PictureThis**
+- **pillo**
 - **Pixel Habit Tracker**
+- **Plank Workout**
 - **PLAYit**
 - **Pocket Bard**
 - **Pocket Casts**
@@ -221,6 +263,8 @@ https://morphe.software/
 - **Pocket Prep Skilled Trades**
 - **PodsLink**
 - **Police Scanner**
+- **Proton Mail**
+- **Proton Pass**
 - **Proton VPN**
 - **Proxyman**
 - **Psiphon Pro**
@@ -239,6 +283,7 @@ https://morphe.software/
 - **SCRL**
 - **SD Maid SE**
 - **Send Files To TV**
+- **Server Auditor**
 - **SHAREit Premium**
 - **Slopes**
 - **Snipd**
@@ -262,6 +307,7 @@ https://morphe.software/
 - **TeraBox**
 - **The Athletic**
 - **The Weather Channel**
+- **TikTok Lite**
 - **Today Weather**
 - **TomTom GO**
 - **Toomics**
@@ -285,9 +331,12 @@ https://morphe.software/
 - **Wavve Boating**
 - **Waze**
 - **Weawow**
+- **WetterOnline**
+- **Widget 2026**
 - **Windscribe VPN**
 - **Windy**
 - **WolframAlpha**
+- **Women Workout**
 - **Word**
 - **Yatri**
 
@@ -1177,6 +1226,14 @@ For more information on Edge Morphe Patches - by quantavil: https://github.com/q
 - **Ekşi Sözlük**
 
 For more information on Eksisozluk App Morphed Patch - by HvQ: https://github.com/HvQ/eksi-morphe
+
+---
+
+**[Flexboard](https://morphe.software/add-source?github=JZ6/Flexboard)**
+
+- **Gboard**
+
+For more information on Flexboard: https://github.com/JZ6/Flexboard
 
 ---
 
