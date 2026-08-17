@@ -43,55 +43,55 @@ https://morphe.software/
 
 **Updated: August 17, 2026**
 
-*NEW SOURCE - Flexboard
+*NEW APP - Earn to Die 2 in byehi98 patches
 
 *NEW APP - Gboard in Flexboard
 
-*NEW APP - Feem in Rushi patches
+*NEW APP - Feem in Doom's patches
 
-*NEW APP - Server Auditor in Rushi patches
+*NEW APP - Server Auditor in Doom's patches
 
-*NEW APP - TikTok Lite in Rushi patches
+*NEW APP - TikTok Lite in Doom's patches
 
-*NEW APP - Proton Mail in Rushi patches
+*NEW APP - Proton Mail in Doom's patches
 
-*NEW APP - BubbleUPnP in Rushi patches
+*NEW APP - BubbleUPnP in Doom's patches
 
-*NEW APP - AnExplorer in Rushi patches
+*NEW APP - AnExplorer in Doom's patches
 
-*NEW APP - Cast to TV in Rushi patches
+*NEW APP - Cast to TV in Doom's patches
 
-*NEW APP - File Manager in Rushi patches
+*NEW APP - File Manager in Doom's patches
 
-*NEW APP - meteoblue Weather in Rushi patches
+*NEW APP - meteoblue Weather in Doom's patches
 
-*NEW APP - NewsBreak Lite in Rushi patches
+*NEW APP - NewsBreak Lite in Doom's patches
 
-*NEW APP - pillo in Rushi patches
+*NEW APP - pillo in Doom's patches
 
-*NEW APP - Widget 2026 in Rushi patches
+*NEW APP - Widget 2026 in Doom's patches
 
-*NEW APP - Hydro Coach in Rushi patches
+*NEW APP - Hydro Coach in Doom's patches
 
-*NEW APP - Malwarebytes Mobile Security in Rushi patches
+*NEW APP - Malwarebytes Mobile Security in Doom's patches
 
-*NEW APP - Proton Pass in Rushi patches
+*NEW APP - Proton Pass in Doom's patches
 
-*NEW APP - AppLock Watcher in Rushi patches
+*NEW APP - AppLock Watcher in Doom's patches
 
-*NEW APP - Money Manager in Rushi patches
+*NEW APP - Money Manager in Doom's patches
 
-*NEW APP - Plank Workout in Rushi patches
+*NEW APP - Plank Workout in Doom's patches
 
-*NEW APP - Lose Weight App for Women in Rushi patches
+*NEW APP - Lose Weight App for Women in Doom's patches
 
-*NEW APP - Height Increase in Rushi patches
+*NEW APP - Height Increase in Doom's patches
 
-*NEW APP - Home Workout in Rushi patches
+*NEW APP - Home Workout in Doom's patches
 
-*NEW APP - Women Workout in Rushi patches
+*NEW APP - Women Workout in Doom's patches
 
-*NEW APP - WetterOnline in Rushi patches
+*NEW APP - WetterOnline in Doom's patches
 
 # **Community Patch List**
 
@@ -669,6 +669,25 @@ For more information on Android TV patches: https://github.com/ajstrick81/morphe
 
 ---
 
+**[byehi98 patches](https://morphe.software/add-source?github=byehi98/okish-morphe-patches)**
+
+- **Big Hunter**
+- **Doodle Jump**
+- **Dr. Driving**
+- **Earn to Die 2**
+- **FreeJobAlert**
+- **Hill Climb Racing**
+- **Into the Dead**
+- **Jetpack Joyride**
+- **Rodeo Stampede: Sky Zoo Safari**
+- **Smash Hit**
+- **Swordigo**
+- **TrueCloud**
+
+For more information on byehi98 patches: https://github.com/byehi98/okish-morphe-patches
+
+---
+
 **[Kondratjev Morphe Patches - by Kindratiev](https://morphe.software/add-source?github=kondratjev/morphe-patches)**
 
 - **FatSecret**
@@ -685,24 +704,6 @@ For more information on Android TV patches: https://github.com/ajstrick81/morphe
 - **Yazio**
 
 For more information on Kondratjev Morphe Patches - by Kindratiev: https://github.com/kondratjev/morphe-patches
-
----
-
-**[byehi98 patches](https://morphe.software/add-source?github=byehi98/okish-morphe-patches)**
-
-- **Big Hunter**
-- **Doodle Jump**
-- **Dr. Driving**
-- **FreeJobAlert**
-- **Hill Climb Racing**
-- **Into the Dead**
-- **Jetpack Joyride**
-- **Rodeo Stampede: Sky Zoo Safari**
-- **Smash Hit**
-- **Swordigo**
-- **TrueCloud**
-
-For more information on byehi98 patches: https://github.com/byehi98/okish-morphe-patches
 
 ---
 
