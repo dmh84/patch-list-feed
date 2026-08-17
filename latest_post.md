@@ -41,25 +41,9 @@ https://morphe.software/
 
 ---
 
-**Updated: August 16, 2026**
+**Updated: August 17, 2026**
 
-*NEW APP - Trainline in Hxreborn patches
 
-*NEW APP - ReadEra in Hxreborn patches
-
-*NEW APP - Perplexity in Hxreborn patches
-
-*NEW APP - Supreme Duelist Stickman in Miguel's patches
-
-*NEW APP - Bolpatra Nepal in Franticg33k patches
-
-*NEW APP - Samsung Keyboard in Ample
-
-*NEW APP - Big Hunter in byehi98 patches
-
-*NEW APP - BitLife in Tiaruebar1024 patches
-
-*NEW APP - All Video Downloader & Ace Player in FTL patches
 
 # **Community Patch List**
 
