@@ -43,6 +43,10 @@ https://morphe.software/
 
 **Updated: August 18, 2026**
 
+*NEW APP - Etsy in Hxreborn patches
+
+*NEW APP - QR & Barcode Scanner in Hxreborn patches
+
 *NEW APP - Suno in Alastor patches
 
 *NEW APP - Google Chrome in Alastor patches
@@ -697,6 +701,24 @@ For more information on Franticg33k patches: https://github.com/franticg33k/morp
 
 ---
 
+**[Hxreborn patches](https://morphe.software/add-source?github=hxreborn/morphe-patches)**
+
+- **Audible**
+- **Etsy**
+- **ForusApp**
+- **Perplexity**
+- **Projectivy Launcher**
+- **Proton Mail**
+- **QR & Barcode Scanner**
+- **ReadEra**
+- **Showly**
+- **Symfonium**
+- **Trainline**
+
+For more information on Hxreborn patches: https://github.com/hxreborn/morphe-patches
+
+---
+
 **[Patcheddit Patches - by Wchill](https://morphe.software/add-source?github=wchill/patcheddit)**
 
 - **BaconReader**
@@ -713,22 +735,6 @@ For more information on Franticg33k patches: https://github.com/franticg33k/morp
 **Third Party Reddit Apps Supported by Patcheddit**
 
 For more information on Patcheddit Patches - by Wchill: https://github.com/wchill/patcheddit
-
----
-
-**[Hxreborn patches](https://morphe.software/add-source?github=hxreborn/morphe-patches)**
-
-- **Audible**
-- **ForusApp**
-- **Perplexity**
-- **Projectivy Launcher**
-- **Proton Mail**
-- **ReadEra**
-- **Showly**
-- **Symfonium**
-- **Trainline**
-
-For more information on Hxreborn patches: https://github.com/hxreborn/morphe-patches
 
 ---
 
