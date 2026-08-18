@@ -41,59 +41,9 @@ https://morphe.software/
 
 ---
 
-**Updated: August 17, 2026**
+**Updated: August 18, 2026**
 
-*NEW APP - ESPNcricinfo in ESPNcricinfo patches
 
-*NEW APP - TikTok Lite in Doom's patches
-
-*NEW APP - Server Auditor in Doom's patches
-
-*NEW APP - Hydro Coach in Doom's patches
-
-*NEW APP - Feem in Doom's patches
-
-*NEW APP - Proton Mail in Doom's patches
-
-*NEW APP - BubbleUPnP in Doom's patches
-
-*NEW APP - AnExplorer in Doom's patches
-
-*NEW APP - Cast to TV in Doom's patches
-
-*NEW APP - File Manager in Doom's patches
-
-*NEW APP - meteoblue Weather in Doom's patches
-
-*NEW APP - NewsBreak Lite in Doom's patches
-
-*NEW APP - pillo in Doom's patches
-
-*NEW APP - Widget 2026 in Doom's patches
-
-*NEW APP - Malwarebytes Mobile Security in Doom's patches
-
-*NEW APP - Proton Pass in Doom's patches
-
-*NEW APP - AppLock Watcher in Doom's patches
-
-*NEW APP - Money Manager in Doom's patches
-
-*NEW APP - Plank Workout in Doom's patches
-
-*NEW APP - Lose Weight App for Women in Doom's patches
-
-*NEW APP - Height Increase in Doom's patches
-
-*NEW APP - Home Workout in Doom's patches
-
-*NEW APP - Women Workout in Doom's patches
-
-*NEW APP - VesselFinder in Hiosdra patches
-
-*NEW APP - Earn to Die 2 in byehi98 patches
-
-*NEW APP - Gboard in Flexboard
 
 # **Community Patch List**
 
