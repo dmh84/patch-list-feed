@@ -43,7 +43,11 @@ https://morphe.software/
 
 **Updated: August 18, 2026**
 
+*NEW APP - Suno in Alastor patches
 
+*NEW APP - Google Chrome in Alastor patches
+
+*NEW APP - Pixilart in Alastor patches
 
 # **Community Patch List**
 
@@ -880,6 +884,17 @@ For more information on Adobo Morphe Patches - by JKennethCarino: https://github
 
 ---
 
+**[Alastor patches](https://morphe.software/add-source?github=Alastor-Kaneki/Morphe-Patches)**
+
+- **Google Chrome**
+- **Opera GX**
+- **Pixilart**
+- **Suno**
+
+For more information on Alastor patches: https://github.com/Alastor-Kaneki/Morphe-Patches
+
+---
+
 **[xob0t Morphe Patches](https://morphe.software/add-source?github=xob0t/morphe-patches)**
 
 - **Avito**
@@ -1058,14 +1073,6 @@ For more information on Tiaruebar1024 patches: https://github.com/tiaruebar1024/
 - **ZEE5 Android TV**
 
 For more information on aapam patches: https://github.com/WZSE/aapam-patches
-
----
-
-**[Alastor patches](https://morphe.software/add-source?github=Alastor-Kaneki/Morphe-Patches)**
-
-- **Opera GX**
-
-For more information on Alastor patches: https://github.com/Alastor-Kaneki/Morphe-Patches
 
 ---
 
