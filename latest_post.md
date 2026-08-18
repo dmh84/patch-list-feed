@@ -43,6 +43,8 @@ https://morphe.software/
 
 **Updated: August 18, 2026**
 
+*NEW APP - Electron in Riky patches
+
 *NEW APP - Etsy in Hxreborn patches
 
 *NEW APP - QR & Barcode Scanner in Hxreborn patches
@@ -52,6 +54,8 @@ https://morphe.software/
 *NEW APP - Google Chrome in Alastor patches
 
 *NEW APP - Pixilart in Alastor patches
+
+*NEW APP - Electron: battery health info in Riky patches
 
 # **Community Patch List**
 
@@ -1047,6 +1051,15 @@ For more information on Piko X / Twitter and Instagram Patches - by Crimera: htt
 
 ---
 
+**[Riky patches](https://morphe.software/add-source?github=riky-dev/morphe-patches)**
+
+- **3BMeteo**
+- **Electron: battery health info**
+
+For more information on Riky patches: https://github.com/riky-dev/morphe-patches
+
+---
+
 **[Slight patches](https://morphe.software/add-source?github=HSlightsteel/slight-patches)**
 
 - **AT4K Launcher**
@@ -1399,14 +1412,6 @@ For more information on R3D PatchLab: https://github.com/xxxR3Dxxx/R3D-PatchLab
 - **Me**
 
 For more information on ReemX patches: https://github.com/ReemX/morphe-me-patches
-
----
-
-**[Riky patches](https://morphe.software/add-source?github=riky-dev/morphe-patches)**
-
-- **3BMeteo**
-
-For more information on Riky patches: https://github.com/riky-dev/morphe-patches
 
 ---
 
