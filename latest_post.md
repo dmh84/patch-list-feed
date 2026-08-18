@@ -43,15 +43,11 @@ https://morphe.software/
 
 **Updated: August 17, 2026**
 
-*NEW SOURCE - ESPNcricinfo patches
-
 *NEW APP - ESPNcricinfo in ESPNcricinfo patches
 
 *NEW APP - TikTok Lite in Doom's patches
 
 *NEW APP - Server Auditor in Doom's patches
-
-*NEW APP - WetterOnline in Doom's patches
 
 *NEW APP - Hydro Coach in Doom's patches
 
@@ -336,7 +332,6 @@ https://morphe.software/
 - **Wallverse**
 - **Wavve Boating**
 - **Weawow**
-- **WetterOnline**
 - **Widget 2026**
 - **Windscribe VPN**
 - **Windy**
