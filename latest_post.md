@@ -43,10 +43,6 @@ https://morphe.software/
 
 **Updated: August 19, 2026**
 
-*NEW SOURCE - PetalMaps patches
-
-*NEW APP - Petal Maps in PetalMaps patches
-
 *NEW APP - Kick in Hxreborn patches
 
 # **Community Patch List**
