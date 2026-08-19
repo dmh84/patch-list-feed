@@ -43,6 +43,8 @@ https://morphe.software/
 
 **Updated: August 19, 2026**
 
+*NEW APP - Vector in byehi98 patches
+
 *NEW APP - Kick in Hxreborn patches
 
 # **Community Patch List**
@@ -577,6 +579,7 @@ For more information on Paresh Patches - by Paresh: https://gitlab.com/Paresh-Ma
 - **Smash Hit**
 - **Swordigo**
 - **TrueCloud**
+- **Vector**
 
 For more information on byehi98 patches: https://github.com/byehi98/okish-morphe-patches
 
@@ -1271,14 +1274,6 @@ For more information on Gryphou patches: https://github.com/NekoGryphou/gryphous
 - **Sankaku App**
 
 For more information on HellveticaStandard patches: https://github.com/HellveticaStandard/HellveticaPatches
-
----
-
-**[Heval patches](https://morphe.software/add-source?github=heval99/morphe-patches)**
-
-- **Sofascore**
-
-For more information on Heval patches: https://github.com/heval99/morphe-patches
 
 ---
 
