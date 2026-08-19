@@ -43,7 +43,23 @@ https://morphe.software/
 
 **Updated: August 19, 2026**
 
+*NEW SOURCE - Abhishek patches
 
+*NEW APP - Harmonium in Abhishek patches
+
+*NEW APP - Rhythm with Tabla & Tanpura in Abhishek patches
+
+*NEW SOURCE - Mix patches
+
+*NEW APP - RailOne in Mix patches
+
+*NEW APP - Sync for Reddit in Mix patches
+
+*NEW APP - Trakt in Mix patches
+
+*NEW APP - Missiles in byehi98 patches
+
+*NEW APP - MovieBox in byehi98 patches
 
 # **Community Patch List**
 
@@ -561,6 +577,27 @@ For more information on Paresh Patches - by Paresh: https://gitlab.com/Paresh-Ma
 
 ---
 
+**[byehi98 patches](https://morphe.software/add-source?github=byehi98/okish-morphe-patches)**
+
+- **Big Hunter**
+- **Doodle Jump**
+- **Dr. Driving**
+- **Earn to Die 2**
+- **FreeJobAlert**
+- **Hill Climb Racing**
+- **Into the Dead**
+- **Jetpack Joyride**
+- **Missiles**
+- **MovieBox**
+- **Rodeo Stampede: Sky Zoo Safari**
+- **Smash Hit**
+- **Swordigo**
+- **TrueCloud**
+
+For more information on byehi98 patches: https://github.com/byehi98/okish-morphe-patches
+
+---
+
 **[Xtra Android Patches - by BholeyKaBhakt](https://morphe.software/add-source?github=BholeyKaBhakt/android-patches-xtra)**
 
 - **ATM Fee Saver**
@@ -618,25 +655,6 @@ For more information on Xhehab Patches: https://github.com/Xhehab/Xhehab-Patches
 - **ViX**
 
 For more information on Android TV patches: https://github.com/ajstrick81/morphe-androidtv-patches
-
----
-
-**[byehi98 patches](https://morphe.software/add-source?github=byehi98/okish-morphe-patches)**
-
-- **Big Hunter**
-- **Doodle Jump**
-- **Dr. Driving**
-- **Earn to Die 2**
-- **FreeJobAlert**
-- **Hill Climb Racing**
-- **Into the Dead**
-- **Jetpack Joyride**
-- **Rodeo Stampede: Sky Zoo Safari**
-- **Smash Hit**
-- **Swordigo**
-- **TrueCloud**
-
-For more information on byehi98 patches: https://github.com/byehi98/okish-morphe-patches
 
 ---
 
@@ -938,6 +956,16 @@ For more information on LaKaka's Shitty Patches - by LaKakaReal: https://github.
 
 ---
 
+**[Mix patches](https://morphe.software/add-source?gitlab=IMXEren/mix-patches)**
+
+- **RailOne**
+- **Sync for Reddit**
+- **Trakt**
+
+For more information on Mix patches: https://gitlab.com/IMXEren/mix-patches
+
+---
+
 **[RabehX patches](https://morphe.software/add-source?github=RabehX/rabehx-patches)**
 
 - **BaridiMob**
@@ -955,6 +983,15 @@ For more information on RabehX patches: https://github.com/RabehX/rabehx-patches
 - **Projectivy Launcher**
 
 For more information on Saiesh's Morphe Patches: https://github.com/saieshshirodkar/saiesh-morphe-patches
+
+---
+
+**[Abhishek patches](https://morphe.software/add-source?github=theabhishekbhujang/morphe-patches)**
+
+- **Harmonium**
+- **Rhythm with Tabla & Tanpura**
+
+For more information on Abhishek patches: https://github.com/theabhishekbhujang/morphe-patches
 
 ---
 
@@ -1000,15 +1037,6 @@ For more information on iHealth patches: https://github.com/bdgerszewski/morphe-
 - **Cube Solver**
 
 For more information on Logm1lo patches: https://github.com/logm1lo/logm1lo-patches
-
----
-
-**[Mix Patches - by IMXEren](https://morphe.software/add-source?github=IMXEren/mix-patches)**
-
-- **Sync for Reddit**
-- **Trakt**
-
-For more information on Mix Patches - by IMXEren: https://github.com/IMXEren/mix-patches
 
 ---
 
