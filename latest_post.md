@@ -43,6 +43,22 @@ https://morphe.software/
 
 **Updated: August 19, 2026**
 
+*NEW SOURCE - Heval patches
+
+*NEW APP - AnyDesk in Heval patches
+
+*NEW APP - BoxBox in Heval patches
+
+*NEW APP - Brave Browser in Heval patches
+
+*NEW APP - FotMob in Heval patches
+
+*NEW APP - MyFitnessPal in Heval patches
+
+*NEW APP - Saphe Link in Heval patches
+
+*NEW APP - Sofascore in Heval patches
+
 *NEW APP - Vector in byehi98 patches
 
 *NEW APP - Kick in Hxreborn patches
@@ -780,6 +796,20 @@ For more information on Binarymend Morphe Patches - by Binarymend: https://githu
 - **Truecaller**
 
 For more information on Bufferk patches: https://github.com/bufferk/morphe-patches
+
+---
+
+**[Heval patches](https://morphe.software/add-source?github=heval99/morphe-patches)**
+
+- **AnyDesk**
+- **BoxBox**
+- **Brave Browser**
+- **FotMob**
+- **MyFitnessPal**
+- **Saphe Link**
+- **Sofascore**
+
+For more information on Heval patches: https://github.com/heval99/morphe-patches
 
 ---
 
