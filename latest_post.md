@@ -41,23 +41,9 @@ https://morphe.software/
 
 ---
 
-**Updated: August 18, 2026**
+**Updated: August 19, 2026**
 
-*NEW APP - Inure App Manager in Doom's patches
 
-*NEW APP - Zutobi in Doom's patches
-
-*NEW APP - Electron in Riky patches
-
-*NEW APP - Etsy in Hxreborn patches
-
-*NEW APP - QR & Barcode Scanner in Hxreborn patches
-
-*NEW APP - Suno in Alastor patches
-
-*NEW APP - Google Chrome in Alastor patches
-
-*NEW APP - Pixilart in Alastor patches
 
 # **Community Patch List**
 
