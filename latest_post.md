@@ -43,23 +43,11 @@ https://morphe.software/
 
 **Updated: August 19, 2026**
 
-*NEW SOURCE - Abhishek patches
+*NEW SOURCE - PetalMaps patches
 
-*NEW APP - Harmonium in Abhishek patches
+*NEW APP - Petal Maps in PetalMaps patches
 
-*NEW APP - Rhythm with Tabla & Tanpura in Abhishek patches
-
-*NEW SOURCE - Mix patches
-
-*NEW APP - RailOne in Mix patches
-
-*NEW APP - Sync for Reddit in Mix patches
-
-*NEW APP - Trakt in Mix patches
-
-*NEW APP - Missiles in byehi98 patches
-
-*NEW APP - MovieBox in byehi98 patches
+*NEW APP - Kick in Hxreborn patches
 
 # **Community Patch List**
 
@@ -658,6 +646,25 @@ For more information on Android TV patches: https://github.com/ajstrick81/morphe
 
 ---
 
+**[Hxreborn patches](https://morphe.software/add-source?github=hxreborn/morphe-patches)**
+
+- **Audible**
+- **Etsy**
+- **ForusApp**
+- **Kick**
+- **Perplexity**
+- **Projectivy Launcher**
+- **Proton Mail**
+- **QR & Barcode Scanner**
+- **ReadEra**
+- **Showly**
+- **Symfonium**
+- **Trainline**
+
+For more information on Hxreborn patches: https://github.com/hxreborn/morphe-patches
+
+---
+
 **[Kondratjev Morphe Patches - by Kindratiev](https://morphe.software/add-source?github=kondratjev/morphe-patches)**
 
 - **FatSecret**
@@ -710,24 +717,6 @@ For more information on Chiggi SonyLIV Patches - by durgesh0505: https://github.
 - **Provide Lite**
 
 For more information on Franticg33k patches: https://github.com/franticg33k/morphe-patches
-
----
-
-**[Hxreborn patches](https://morphe.software/add-source?github=hxreborn/morphe-patches)**
-
-- **Audible**
-- **Etsy**
-- **ForusApp**
-- **Perplexity**
-- **Projectivy Launcher**
-- **Proton Mail**
-- **QR & Barcode Scanner**
-- **ReadEra**
-- **Showly**
-- **Symfonium**
-- **Trainline**
-
-For more information on Hxreborn patches: https://github.com/hxreborn/morphe-patches
 
 ---
 
@@ -1385,11 +1374,11 @@ For more information on NuvioTV patches: https://github.com/liongalahad/nuviotv-
 
 ---
 
-**[PetalMaps patches](https://morphe.software/add-source?github=andersonlucasg3/PetalMaps-AndroidAuto)**
+**[PetalMaps patches](https://morphe.software/add-source?github=andersonlucasg3/PetalMaps-NonHuawei)**
 
 - **Petal Maps**
 
-For more information on PetalMaps patches: https://github.com/andersonlucasg3/PetalMaps-AndroidAuto
+For more information on PetalMaps patches: https://github.com/andersonlucasg3/PetalMaps-NonHuawei
 
 ---
 
