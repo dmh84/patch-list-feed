@@ -59,10 +59,6 @@ https://morphe.software/
 
 *NEW APP - Pixilart in Alastor patches
 
-*NEW APP - Inure App Manager in Rushi's Patches - by rushiranpise
-
-*NEW APP - Zutobi in Rushi's Patches - by rushiranpise
-
 # **Community Patch List**
 
 **[Rushi's Patches - by rushiranpise](https://morphe.software/add-source?github=rushiranpise/morphe-patches)**
