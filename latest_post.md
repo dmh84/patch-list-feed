@@ -43,6 +43,14 @@ https://morphe.software/
 
 **Updated: August 19, 2026**
 
+*NEW APP - IPTV in Heval patches
+
+*NEW APP - LiveScore in Heval patches
+
+*NEW APP - 365Scores in Heval patches
+
+*NEW APP - FishBuddy in Heval patches
+
 *NEW APP - Brave Browser in Heval patches
 
 *NEW APP - Box Box in Heval patches
@@ -731,6 +739,24 @@ For more information on Franticg33k patches: https://github.com/franticg33k/morp
 
 ---
 
+**[Heval patches](https://morphe.software/add-source?github=heval99/morphe-patches)**
+
+- **365Scores**
+- **AnyDesk**
+- **BoxBox**
+- **Brave Browser**
+- **FishBuddy**
+- **FotMob**
+- **IPTV**
+- **Livescore**
+- **MyFitnessPal**
+- **Saphe Link**
+- **Sofascore**
+
+For more information on Heval patches: https://github.com/heval99/morphe-patches
+
+---
+
 **[Patcheddit Patches - by Wchill](https://morphe.software/add-source?github=wchill/patcheddit)**
 
 - **BaconReader**
@@ -792,20 +818,6 @@ For more information on Binarymend Morphe Patches - by Binarymend: https://githu
 - **Truecaller**
 
 For more information on Bufferk patches: https://github.com/bufferk/morphe-patches
-
----
-
-**[Heval patches](https://morphe.software/add-source?github=heval99/morphe-patches)**
-
-- **AnyDesk**
-- **BoxBox**
-- **Brave Browser**
-- **FotMob**
-- **MyFitnessPal**
-- **Saphe Link**
-- **Sofascore**
-
-For more information on Heval patches: https://github.com/heval99/morphe-patches
 
 ---
 
