@@ -43,9 +43,9 @@ https://morphe.software/
 
 **Updated: August 20, 2026**
 
-*NEW APP - pixiv in Lain patches
+*NEW APP - Injustice: Gods Among Us in byehi98 patches
 
-*NEW APP - pixiv in LA!N Patches - by Kiraio-Moe
+*NEW APP - pixiv in Lain patches
 
 # **Community Patch List**
 
@@ -574,6 +574,7 @@ For more information on Paresh Patches - by Paresh: https://gitlab.com/Paresh-Ma
 - **Earn to Die 2**
 - **FreeJobAlert**
 - **Hill Climb Racing**
+- **Injustice: Gods Among Us**
 - **Into the Dead**
 - **Jetpack Joyride**
 - **Missiles**
