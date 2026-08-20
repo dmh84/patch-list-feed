@@ -43,6 +43,8 @@ https://morphe.software/
 
 **Updated: August 20, 2026**
 
+*NEW APP - Nuvio in RoundSalmon4 patches
+
 *NEW APP - Injustice: Gods Among Us in byehi98 patches
 
 *NEW APP - pixiv in Lain patches
@@ -1088,6 +1090,15 @@ For more information on Riky patches: https://github.com/riky-dev/morphe-patches
 
 ---
 
+**[RoundSalmon4 patches](https://morphe.software/add-source?github=RoundSalmon4/morphe-patches-template)**
+
+- **Nuvio**
+- **SeriesGuide**
+
+For more information on RoundSalmon4 patches: https://github.com/RoundSalmon4/morphe-patches-template
+
+---
+
 **[Slight patches](https://morphe.software/add-source?github=HSlightsteel/slight-patches)**
 
 - **AT4K Launcher**
@@ -1432,14 +1443,6 @@ For more information on R3D PatchLab: https://github.com/xxxR3Dxxx/R3D-PatchLab
 - **Me**
 
 For more information on ReemX patches: https://github.com/ReemX/morphe-me-patches
-
----
-
-**[RoundSalmon4 patches](https://morphe.software/add-source?github=RoundSalmon4/morphe-patches-template)**
-
-- **SeriesGuide**
-
-For more information on RoundSalmon4 patches: https://github.com/RoundSalmon4/morphe-patches-template
 
 ---
 
