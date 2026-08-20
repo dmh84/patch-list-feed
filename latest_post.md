@@ -43,7 +43,9 @@ https://morphe.software/
 
 **Updated: August 20, 2026**
 
+*NEW APP - PortDroid in Rushi's Patches - by rushiranpise
 
+*NEW APP - Teams in Rushi's Patches - by rushiranpise
 
 # **Community Patch List**
 
@@ -216,6 +218,7 @@ https://morphe.software/
 - **Pocket Prep Skilled Trades**
 - **PodsLink**
 - **Police Scanner**
+- **PortDroid**
 - **Proton Mail**
 - **Proton Pass**
 - **Proton VPN**
@@ -254,6 +257,7 @@ https://morphe.software/
 - **Subway Now**
 - **Super File**
 - **Tag Tracker**
+- **Teams**
 - **Telegram**
 - **Telegram Plus**
 - **Telegram Web**
