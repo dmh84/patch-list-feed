@@ -41,31 +41,9 @@ https://morphe.software/
 
 ---
 
-**Updated: August 19, 2026**
+**Updated: August 20, 2026**
 
-*NEW APP - IPTV in Heval patches
 
-*NEW APP - LiveScore in Heval patches
-
-*NEW APP - 365Scores in Heval patches
-
-*NEW APP - FishBuddy in Heval patches
-
-*NEW APP - Brave Browser in Heval patches
-
-*NEW APP - Box Box in Heval patches
-
-*NEW APP - Saphe Link in Heval patches
-
-*NEW APP - FotMob in Heval patches
-
-*NEW APP - AnyDesk in Heval patches
-
-*NEW APP - MyFitnessPal in Heval patches
-
-*NEW APP - Vector in byehi98 patches
-
-*NEW APP - Kick in Hxreborn patches
 
 # **Community Patch List**
 
