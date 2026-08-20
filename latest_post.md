@@ -43,9 +43,9 @@ https://morphe.software/
 
 **Updated: August 20, 2026**
 
-*NEW APP - PortDroid in Rushi's Patches - by rushiranpise
+*NEW APP - pixiv in Lain patches
 
-*NEW APP - Teams in Rushi's Patches - by rushiranpise
+*NEW APP - pixiv in LA!N Patches - by Kiraio-Moe
 
 # **Community Patch List**
 
@@ -489,6 +489,7 @@ For more information on Morning Entree patches: https://github.com/Entree3k/Morn
 - **Paletta**
 - **Pixel Studio**
 - **PixelLab**
+- **pixiv**
 - **Sketchbook**
 - **Super Proxy**
 - **Timestamp Camera Free**
