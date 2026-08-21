@@ -43,25 +43,13 @@ https://morphe.software/
 
 **Updated: August 21, 2026**
 
-*NEW SOURCE - Anxy patches
-
-*NEW APP - After Motion Z+ in Anxy patches
-
-*NEW SOURCE - Chicco patches
-
-*NEW APP - ProxMobo in Chicco patches
-
-*NEW SOURCE - Kveld9 patches
-
-*NEW APP - Brave Private Web Browser, VPN in Kveld9 patches
-
-*NEW APP - Gboard Lite in Kveld9 patches
-
 *NEW APP - Gboard in Kveld9 patches
 
 *NEW APP - Brave Browser in Kveld9 patches
 
 *NEW APP - Alight Motion Pro in Anxy patches
+
+*NEW APP - ProxMobo in Chicco patches
 
 *NEW APP - AlpineQuest in Hxreborn patches
 
