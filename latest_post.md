@@ -43,6 +43,8 @@ https://morphe.software/
 
 **Updated: August 21, 2026**
 
+*NEW APP - BlockerX in Fluffy patches
+
 *NEW APP - Gboard in Kveld9 patches
 
 *NEW APP - Brave Browser in Kveld9 patches
@@ -1032,6 +1034,15 @@ For more information on Browzomje patches: https://github.com/browzomje/browzomj
 
 ---
 
+**[Fluffy patches](https://morphe.software/add-source?github=rabilrbl/fluffy-patches/tree/dev)**
+
+- **Alarmy**
+- **BlockerX**
+
+For more information on Fluffy patches: https://github.com/rabilrbl/fluffy-patches
+
+---
+
 **[Gryphou patches](https://morphe.software/add-source?github=NekoGryphou/gryphous-morphe-patches)**
 
 - **Crunchyroll**
@@ -1291,14 +1302,6 @@ For more information on ESPNcricinfo patches: https://github.com/isuruhg/cricinf
 - **Gboard**
 
 For more information on Flexboard: https://github.com/JZ6/Flexboard
-
----
-
-**[Fluffy patches](https://morphe.software/add-source?github=rabilrbl/fluffy-patches/tree/dev)**
-
-- **Alarmy**
-
-For more information on Fluffy patches: https://github.com/rabilrbl/fluffy-patches
 
 ---
 
