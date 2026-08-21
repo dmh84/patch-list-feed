@@ -41,21 +41,9 @@ https://morphe.software/
 
 ---
 
-**Updated: August 20, 2026**
+**Updated: August 21, 2026**
 
-*NEW APP - PicsArt in Doom's patches
 
-*NEW APP - De'Longhi Comfort in Gryphou patches
-
-*NEW APP - ZEE5 (Android TV) in Chiggi patches
-
-*NEW APP - Injustice: Gods Among Us in byehi98 patches
-
-*NEW APP - pixiv in Lain patches
-
-*NEW APP - ZEE5 (Android TV) in Chiggi SonyLIV Patches - by durgesh0505
-
-*NEW APP - PicsArt in Rushi's Patches - by rushiranpise
 
 # **Community Patch List**
 
