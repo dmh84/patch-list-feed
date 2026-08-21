@@ -43,11 +43,19 @@ https://morphe.software/
 
 **Updated: August 20, 2026**
 
-*NEW APP - Nuvio in RoundSalmon4 patches
+*NEW APP - PicsArt in Doom's patches
+
+*NEW APP - De'Longhi Comfort in Gryphou patches
+
+*NEW APP - ZEE5 (Android TV) in Chiggi patches
 
 *NEW APP - Injustice: Gods Among Us in byehi98 patches
 
 *NEW APP - pixiv in Lain patches
+
+*NEW APP - ZEE5 (Android TV) in Chiggi SonyLIV Patches - by durgesh0505
+
+*NEW APP - PicsArt in Rushi's Patches - by rushiranpise
 
 # **Community Patch List**
 
@@ -199,6 +207,7 @@ https://morphe.software/
 - **Permission Pilot**
 - **Photo Editor**
 - **Pialytic**
+- **PicsArt**
 - **Picture Mushroom**
 - **PictureThis**
 - **pillo**
@@ -651,6 +660,25 @@ For more information on Android TV patches: https://github.com/ajstrick81/morphe
 
 ---
 
+**[Chiggi SonyLIV Patches - by durgesh0505](https://morphe.software/add-source?github=durgesh0505/chiggi_morphe_patches)**
+
+- **Arrow Puzzle**
+- **AYA Baby AI**
+- **CrazyGames**
+- **Cry Analyzer**
+- **Does Not Commute**
+- **JioHotstar (Android TV)**
+- **Jiotv+: LiveTV & OTT (Android TV)**
+- **Nutrilio**
+- **SonyLIV (Android TV)**
+- **Threads**
+- **Vi Movies and TV (Android TV)**
+- **ZEE5 (Android TV)**
+
+For more information on Chiggi SonyLIV Patches - by durgesh0505: https://github.com/durgesh0505/chiggi_morphe_patches
+
+---
+
 **[Hxreborn patches](https://morphe.software/add-source?github=hxreborn/morphe-patches)**
 
 - **Audible**
@@ -686,24 +714,6 @@ For more information on Hxreborn patches: https://github.com/hxreborn/morphe-pat
 - **Yazio**
 
 For more information on Kondratjev Morphe Patches - by Kindratiev: https://github.com/kondratjev/morphe-patches
-
----
-
-**[Chiggi SonyLIV Patches - by durgesh0505](https://morphe.software/add-source?github=durgesh0505/chiggi_morphe_patches)**
-
-- **Arrow Puzzle**
-- **AYA Baby AI**
-- **CrazyGames**
-- **Cry Analyzer**
-- **Does Not Commute**
-- **JioHotstar**
-- **Jiotv+: LiveTV & OTT**
-- **Nutrilio**
-- **SonyLIV**
-- **Threads**
-- **Vi Movies and TV**
-
-For more information on Chiggi SonyLIV Patches - by durgesh0505: https://github.com/durgesh0505/chiggi_morphe_patches
 
 ---
 
@@ -1025,6 +1035,15 @@ For more information on Browzomje patches: https://github.com/browzomje/browzomj
 
 ---
 
+**[Gryphou patches](https://morphe.software/add-source?github=NekoGryphou/gryphous-morphe-patches)**
+
+- **Crunchyroll**
+- **De'Longhi Comfort**
+
+For more information on Gryphou patches: https://github.com/NekoGryphou/gryphous-morphe-patches
+
+---
+
 **[hu-liberator](https://morphe.software/add-source?github=hu-liberator/patches)**
 
 - **Időkép**
@@ -1087,15 +1106,6 @@ For more information on Piko X / Twitter and Instagram Patches - by Crimera: htt
 - **Electron: battery health info**
 
 For more information on Riky patches: https://github.com/riky-dev/morphe-patches
-
----
-
-**[RoundSalmon4 patches](https://morphe.software/add-source?github=RoundSalmon4/morphe-patches-template)**
-
-- **Nuvio**
-- **SeriesGuide**
-
-For more information on RoundSalmon4 patches: https://github.com/RoundSalmon4/morphe-patches-template
 
 ---
 
@@ -1294,14 +1304,6 @@ For more information on Google feed patches: https://github.com/Ripthulhu/morphe
 
 ---
 
-**[Gryphou patches](https://morphe.software/add-source?github=NekoGryphou/gryphous-morphe-patches)**
-
-- **Crunchyroll**
-
-For more information on Gryphou patches: https://github.com/NekoGryphou/gryphous-morphe-patches
-
----
-
 **[HellveticaStandard patches](https://morphe.software/add-source?github=HellveticaStandard/HellveticaPatches)**
 
 - **Sankaku App**
@@ -1443,6 +1445,14 @@ For more information on R3D PatchLab: https://github.com/xxxR3Dxxx/R3D-PatchLab
 - **Me**
 
 For more information on ReemX patches: https://github.com/ReemX/morphe-me-patches
+
+---
+
+**[RoundSalmon4 patches](https://morphe.software/add-source?github=RoundSalmon4/morphe-patches-template)**
+
+- **SeriesGuide**
+
+For more information on RoundSalmon4 patches: https://github.com/RoundSalmon4/morphe-patches-template
 
 ---
 
