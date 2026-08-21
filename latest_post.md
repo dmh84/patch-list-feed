@@ -43,7 +43,27 @@ https://morphe.software/
 
 **Updated: August 21, 2026**
 
+*NEW SOURCE - Anxy patches
 
+*NEW APP - After Motion Z+ in Anxy patches
+
+*NEW SOURCE - Chicco patches
+
+*NEW APP - ProxMobo in Chicco patches
+
+*NEW SOURCE - Kveld9 patches
+
+*NEW APP - Brave Private Web Browser, VPN in Kveld9 patches
+
+*NEW APP - Gboard Lite in Kveld9 patches
+
+*NEW APP - Gboard in Kveld9 patches
+
+*NEW APP - Brave Browser in Kveld9 patches
+
+*NEW APP - Alight Motion Pro in Anxy patches
+
+*NEW APP - AlpineQuest in Hxreborn patches
 
 # **Community Patch List**
 
@@ -609,6 +629,26 @@ For more information on Xtra Android Patches - by BholeyKaBhakt: https://github.
 
 ---
 
+**[Hxreborn patches](https://morphe.software/add-source?github=hxreborn/morphe-patches)**
+
+- **AlpineQuest**
+- **Audible**
+- **Etsy**
+- **ForusApp**
+- **Kick**
+- **Perplexity**
+- **Projectivy Launcher**
+- **Proton Mail**
+- **QR & Barcode Scanner**
+- **ReadEra**
+- **Showly**
+- **Symfonium**
+- **Trainline**
+
+For more information on Hxreborn patches: https://github.com/hxreborn/morphe-patches
+
+---
+
 **[Xhehab Patches](https://morphe.software/add-source?github=Xhehab/Xhehab-Patches)**
 
 - **BASE Strength AI**
@@ -664,25 +704,6 @@ For more information on Android TV patches: https://github.com/ajstrick81/morphe
 - **ZEE5 (Android TV)**
 
 For more information on Chiggi SonyLIV Patches - by durgesh0505: https://github.com/durgesh0505/chiggi_morphe_patches
-
----
-
-**[Hxreborn patches](https://morphe.software/add-source?github=hxreborn/morphe-patches)**
-
-- **Audible**
-- **Etsy**
-- **ForusApp**
-- **Kick**
-- **Perplexity**
-- **Projectivy Launcher**
-- **Proton Mail**
-- **QR & Barcode Scanner**
-- **ReadEra**
-- **Showly**
-- **Symfonium**
-- **Trainline**
-
-For more information on Hxreborn patches: https://github.com/hxreborn/morphe-patches
 
 ---
 
@@ -1050,6 +1071,15 @@ For more information on iHealth patches: https://github.com/bdgerszewski/morphe-
 
 ---
 
+**[Kveld9 patches](https://morphe.software/add-source?github=kveld9/kveld-morphe-patches)**
+
+- **Brave Private Web Browser, VPN**
+- **Gboard Lite**
+
+For more information on Kveld9 patches: https://github.com/kveld9/kveld-morphe-patches
+
+---
+
 **[Logm1lo patches](https://morphe.software/add-source?github=logm1lo/logm1lo-patches)**
 
 - **Calistree**
@@ -1172,6 +1202,14 @@ For more information on Ang3lo's patches: https://github.com/ang3lo-azevedo/morp
 
 ---
 
+**[Anxy patches](https://morphe.software/add-source?github=anxyis/anxy-patches)**
+
+- **After Motion Z+**
+
+For more information on Anxy patches: https://github.com/anxyis/anxy-patches
+
+---
+
 **[Atharv patches](https://morphe.software/add-source?github=madhu-gowda6/atharv-patches)**
 
 - **Ola Electric**
@@ -1185,6 +1223,14 @@ For more information on Atharv patches: https://github.com/madhu-gowda6/atharv-p
 - **Waking Up**
 
 For more information on braiNtropy patches: https://github.com/braiNtropy/braintropy-patches
+
+---
+
+**[Chicco patches](https://morphe.software/add-source?github=chicco-carone/morphe-patches-chicco)**
+
+- **ProxMobo**
+
+For more information on Chicco patches: https://github.com/chicco-carone/morphe-patches-chicco
 
 ---
 
