@@ -41,23 +41,9 @@ https://morphe.software/
 
 ---
 
-**Updated: August 21, 2026**
+**Updated: August 22, 2026**
 
-*NEW APP - MyAnimeList in Doom's patches
 
-*NEW APP - DramaBox in Doom's patches
-
-*NEW APP - BlockerX in Fluffy patches
-
-*NEW APP - Gboard in Kveld9 patches
-
-*NEW APP - Brave Browser in Kveld9 patches
-
-*NEW APP - Alight Motion Pro in Anxy patches
-
-*NEW APP - ProxMobo in Chicco patches
-
-*NEW APP - AlpineQuest in Hxreborn patches
 
 # **Community Patch List**
 
