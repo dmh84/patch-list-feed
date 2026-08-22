@@ -43,6 +43,10 @@ https://morphe.software/
 
 **Updated: August 21, 2026**
 
+*NEW APP - MyAnimeList in Doom's patches
+
+*NEW APP - DramaBox in Doom's patches
+
 *NEW APP - BlockerX in Fluffy patches
 
 *NEW APP - Gboard in Kveld9 patches
@@ -54,6 +58,10 @@ https://morphe.software/
 *NEW APP - ProxMobo in Chicco patches
 
 *NEW APP - AlpineQuest in Hxreborn patches
+
+*NEW APP - DramaBox in Rushi's Patches - by rushiranpise
+
+*NEW APP - MyAnimeList in Rushi's Patches - by rushiranpise
 
 # **Community Patch List**
 
@@ -126,6 +134,7 @@ https://morphe.software/
 - **Cube Solver**
 - **Dailyhunt**
 - **Depth Live Wallpaper**
+- **DramaBox**
 - **Drivvo**
 - **Duolingo**
 - **Electron**
@@ -184,6 +193,7 @@ https://morphe.software/
 - **Money Manager**
 - **Moovit**
 - **MovieBox TV**
+- **MyAnimeList**
 - **MyRadar**
 - **NAVITIME**
 - **NetGuard**
