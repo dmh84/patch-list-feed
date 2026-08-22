@@ -59,10 +59,6 @@ https://morphe.software/
 
 *NEW APP - AlpineQuest in Hxreborn patches
 
-*NEW APP - DramaBox in Rushi's Patches - by rushiranpise
-
-*NEW APP - MyAnimeList in Rushi's Patches - by rushiranpise
-
 # **Community Patch List**
 
 **[Rushi's Patches - by rushiranpise](https://morphe.software/add-source?github=rushiranpise/morphe-patches)**
