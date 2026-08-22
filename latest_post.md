@@ -43,7 +43,13 @@ https://morphe.software/
 
 **Updated: August 22, 2026**
 
+*NEW SOURCE - HH patches
 
+*NEW APP - Punge in HH patches
+
+*NEW APP - Octopi Launcher in Doom's patches
+
+*NEW APP - Octopi Launcher in Rushi's Patches - by rushiranpise
 
 # **Community Patch List**
 
@@ -188,6 +194,7 @@ https://morphe.software/
 - **nzb360**
 - **OBD Android**
 - **Octi**
+- **Octopi Launcher**
 - **Opera News**
 - **Oxygen Updater**
 - **Parallel Space Pro**
@@ -1326,6 +1333,14 @@ For more information on Google feed patches: https://github.com/Ripthulhu/morphe
 - **Sankaku App**
 
 For more information on HellveticaStandard patches: https://github.com/HellveticaStandard/HellveticaPatches
+
+---
+
+**[HH patches](https://morphe.software/add-source?github=hhawkinsau/hh-patches)**
+
+- **Punge**
+
+For more information on HH patches: https://github.com/hhawkinsau/hh-patches
 
 ---
 
