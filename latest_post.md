@@ -43,25 +43,19 @@ https://morphe.software/
 
 **Updated: August 23, 2026**
 
-*NEW SOURCE - Beetle patches
-
-*NEW APP - Slowly in Beetle patches
-
-*NEW SOURCE - Dr4w patches
+*NEW APP - Plague Inc. in byehi98 patches
 
 *NEW APP - NextGP | Calendar F1 MotoGP in Dr4w patches
 
-*NEW SOURCE - RhubarbShoelaces patches
+*NEW APP - Tetrd in XTapped patches
+
+*NEW APP - MotionCam Pro Trial in XTapped patches
+
+*NEW APP - Slowly in Beetle patches
 
 *NEW APP - Boost for Reddit in RhubarbShoelaces patches
 
 *NEW APP - theScore in RhubarbShoelaces patches
-
-*NEW SOURCE - XTapped patches
-
-*NEW APP - MotionCam Pro Trial in XTapped patches
-
-*NEW APP - Tetrd in XTapped patches
 
 # **Community Patch List**
 
@@ -599,6 +593,7 @@ For more information on Paresh Patches - by Paresh: https://gitlab.com/Paresh-Ma
 - **Jetpack Joyride**
 - **Missiles**
 - **MovieBox**
+- **Plague Inc.**
 - **Rodeo Stampede: Sky Zoo Safari**
 - **Smash Hit**
 - **Swordigo**
