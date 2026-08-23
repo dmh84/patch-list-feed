@@ -41,11 +41,9 @@ https://morphe.software/
 
 ---
 
-**Updated: August 22, 2026**
+**Updated: August 23, 2026**
 
-*NEW APP - Punge in HH patches
 
-*NEW APP - Octopi Launcher in Doom's patches
 
 # **Community Patch List**
 
