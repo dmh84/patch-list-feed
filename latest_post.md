@@ -43,7 +43,25 @@ https://morphe.software/
 
 **Updated: August 23, 2026**
 
+*NEW SOURCE - Beetle patches
 
+*NEW APP - Slowly in Beetle patches
+
+*NEW SOURCE - Dr4w patches
+
+*NEW APP - NextGP | Calendar F1 MotoGP in Dr4w patches
+
+*NEW SOURCE - RhubarbShoelaces patches
+
+*NEW APP - Boost for Reddit in RhubarbShoelaces patches
+
+*NEW APP - theScore in RhubarbShoelaces patches
+
+*NEW SOURCE - XTapped patches
+
+*NEW APP - MotionCam Pro Trial in XTapped patches
+
+*NEW APP - Tetrd in XTapped patches
 
 # **Community Patch List**
 
@@ -1110,6 +1128,15 @@ For more information on Piko X / Twitter and Instagram Patches - by Crimera: htt
 
 ---
 
+**[RhubarbShoelaces patches](https://morphe.software/add-source?github=rhubarbshoelaces/morphe-patches)**
+
+- **Boost for Reddit**
+- **theScore**
+
+For more information on RhubarbShoelaces patches: https://github.com/rhubarbshoelaces/morphe-patches
+
+---
+
 **[Riky patches](https://morphe.software/add-source?github=riky-dev/morphe-patches)**
 
 - **3BMeteo**
@@ -1143,6 +1170,15 @@ For more information on Stylus: https://github.com/ch3thanhs/stylus
 - **Devices Tycoon**
 
 For more information on Tiaruebar1024 patches: https://github.com/tiaruebar1024/tiaruebar-patches
+
+---
+
+**[XTapped patches](https://morphe.software/add-source?github=XTapped/morphe-patches)**
+
+- **MotionCam Pro Trial**
+- **Tetrd**
+
+For more information on XTapped patches: https://github.com/XTapped/morphe-patches
 
 ---
 
@@ -1210,6 +1246,14 @@ For more information on Atharv patches: https://github.com/madhu-gowda6/atharv-p
 
 ---
 
+**[Beetle patches](https://morphe.software/add-source?github=homelander11/beetle-patches)**
+
+- **Slowly**
+
+For more information on Beetle patches: https://github.com/homelander11/beetle-patches
+
+---
+
 **[braiNtropy patches](https://morphe.software/add-source?github=braiNtropy/braintropy-patches)**
 
 - **Waking Up**
@@ -1255,6 +1299,14 @@ For more information on d0nj patches: https://github.com/d0nj/morphe-patches
 - **DBT Coach**
 
 For more information on DBT Coach patches: https://github.com/mxkrgt/dbtcoach-morphe-patches
+
+---
+
+**[Dr4w patches](https://morphe.software/add-source?github=Dr4w/morphe-patches)**
+
+- **NextGP | Calendar F1 MotoGP**
+
+For more information on Dr4w patches: https://github.com/Dr4w/morphe-patches
 
 ---
 
