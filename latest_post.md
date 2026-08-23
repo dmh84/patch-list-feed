@@ -43,6 +43,14 @@ https://morphe.software/
 
 **Updated: August 23, 2026**
 
+*NEW APP - komoot in Riky patches
+
+*NEW APP - Cx File Explorer in Hxreborn patches
+
+*NEW APP - Rubber Bands in Hxreborn patches
+
+*NEW APP - Notesnook in Hxreborn patches
+
 *NEW APP - Plague Inc. in byehi98 patches
 
 *NEW APP - NextGP | Calendar F1 MotoGP in Dr4w patches
@@ -215,7 +223,6 @@ https://morphe.software/
 - **PictureThis**
 - **pillo**
 - **Pixel Habit Tracker**
-- **Plank Workout**
 - **PLAYit**
 - **Pocket Bard**
 - **Pocket Casts**
@@ -604,6 +611,29 @@ For more information on byehi98 patches: https://github.com/byehi98/okish-morphe
 
 ---
 
+**[Hxreborn patches](https://morphe.software/add-source?github=hxreborn/morphe-patches)**
+
+- **AlpineQuest**
+- **Audible**
+- **Cx File Explorer**
+- **Etsy**
+- **ForusApp**
+- **Kick**
+- **Notesnook**
+- **Perplexity**
+- **Projectivy Launcher**
+- **Proton Mail**
+- **QR & Barcode Scanner**
+- **ReadEra**
+- **Rubber Bands**
+- **Showly**
+- **Symfonium**
+- **Trainline**
+
+For more information on Hxreborn patches: https://github.com/hxreborn/morphe-patches
+
+---
+
 **[Xtra Android Patches - by BholeyKaBhakt](https://morphe.software/add-source?github=BholeyKaBhakt/android-patches-xtra)**
 
 - **ATM Fee Saver**
@@ -622,26 +652,6 @@ For more information on byehi98 patches: https://github.com/byehi98/okish-morphe
 - **vpnify**
 
 For more information on Xtra Android Patches - by BholeyKaBhakt: https://github.com/BholeyKaBhakt/android-patches-xtra
-
----
-
-**[Hxreborn patches](https://morphe.software/add-source?github=hxreborn/morphe-patches)**
-
-- **AlpineQuest**
-- **Audible**
-- **Etsy**
-- **ForusApp**
-- **Kick**
-- **Perplexity**
-- **Projectivy Launcher**
-- **Proton Mail**
-- **QR & Barcode Scanner**
-- **ReadEra**
-- **Showly**
-- **Symfonium**
-- **Trainline**
-
-For more information on Hxreborn patches: https://github.com/hxreborn/morphe-patches
 
 ---
 
@@ -1003,6 +1013,16 @@ For more information on RabehX patches: https://github.com/RabehX/rabehx-patches
 
 ---
 
+**[Riky patches](https://morphe.software/add-source?github=riky-dev/morphe-patches)**
+
+- **3BMeteo**
+- **Electron: battery health info**
+- **Komoot**
+
+For more information on Riky patches: https://github.com/riky-dev/morphe-patches
+
+---
+
 **[Saiesh's Morphe Patches](https://morphe.software/add-source?github=saieshshirodkar/saiesh-morphe-patches)**
 
 - **AT4K Launcher**
@@ -1129,15 +1149,6 @@ For more information on Piko X / Twitter and Instagram Patches - by Crimera: htt
 - **theScore**
 
 For more information on RhubarbShoelaces patches: https://github.com/rhubarbshoelaces/morphe-patches
-
----
-
-**[Riky patches](https://morphe.software/add-source?github=riky-dev/morphe-patches)**
-
-- **3BMeteo**
-- **Electron: battery health info**
-
-For more information on Riky patches: https://github.com/riky-dev/morphe-patches
 
 ---
 
