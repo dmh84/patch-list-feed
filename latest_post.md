@@ -41,29 +41,17 @@ https://morphe.software/
 
 ---
 
-**Updated: August 23, 2026**
+**Updated: August 24, 2026**
 
-*NEW APP - komoot in Riky patches
+*NEW APP - CapCut in Riky patches
 
-*NEW APP - Cx File Explorer in Hxreborn patches
+*NEW APP - DooFlix in Rushi's Patches - by rushiranpise
 
-*NEW APP - Rubber Bands in Hxreborn patches
+*NEW APP - MovieBox in Rushi's Patches - by rushiranpise
 
-*NEW APP - Notesnook in Hxreborn patches
+*NEW APP - MovieBox India in Rushi's Patches - by rushiranpise
 
-*NEW APP - Plague Inc. in byehi98 patches
-
-*NEW APP - NextGP | Calendar F1 MotoGP in Dr4w patches
-
-*NEW APP - Tetrd in XTapped patches
-
-*NEW APP - MotionCam Pro Trial in XTapped patches
-
-*NEW APP - Slowly in Beetle patches
-
-*NEW APP - Boost for Reddit in RhubarbShoelaces patches
-
-*NEW APP - theScore in RhubarbShoelaces patches
+*NEW APP - Nova Launcher in Rushi's Patches - by rushiranpise
 
 # **Community Patch List**
 
@@ -136,6 +124,7 @@ https://morphe.software/
 - **Cube Solver**
 - **Dailyhunt**
 - **Depth Live Wallpaper**
+- **DooFlix**
 - **DramaBox**
 - **Drivvo**
 - **Duolingo**
@@ -194,6 +183,8 @@ https://morphe.software/
 - **Monet**
 - **Money Manager**
 - **Moovit**
+- **MovieBox**
+- **MovieBox India**
 - **MovieBox TV**
 - **MyAnimeList**
 - **MyRadar**
@@ -204,6 +195,7 @@ https://morphe.software/
 - **NewsBreak**
 - **NewsBreak Lite**
 - **Ninja VPN**
+- **Nova Launcher**
 - **NYT Games**
 - **nzb360**
 - **OBD Android**
@@ -950,6 +942,17 @@ For more information on Alastor patches: https://github.com/Alastor-Kaneki/Morph
 
 ---
 
+**[Riky patches](https://morphe.software/add-source?github=riky-dev/morphe-patches)**
+
+- **3BMeteo**
+- **CapCut**
+- **Electron: battery health info**
+- **Komoot**
+
+For more information on Riky patches: https://github.com/riky-dev/morphe-patches
+
+---
+
 **[xob0t Morphe Patches](https://morphe.software/add-source?github=xob0t/morphe-patches)**
 
 - **Avito**
@@ -1010,16 +1013,6 @@ For more information on Mix patches: https://gitlab.com/IMXEren/mix-patches
 - **Webetu**
 
 For more information on RabehX patches: https://github.com/RabehX/rabehx-patches
-
----
-
-**[Riky patches](https://morphe.software/add-source?github=riky-dev/morphe-patches)**
-
-- **3BMeteo**
-- **Electron: battery health info**
-- **Komoot**
-
-For more information on Riky patches: https://github.com/riky-dev/morphe-patches
 
 ---
 
