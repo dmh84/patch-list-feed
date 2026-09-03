@@ -21,54 +21,69 @@ To see all available sources and supported apps, visit the Morphe patches websit
 
 ## September 2, 2026
 
+### New Sources
+
+- [**aapam patches**](https://morphe.software/add-source?github=WZSE/aapam-patches)
+  - Prime Video Android TV
+  - ZEE5 Android TV
+- [**PsychonautWiki patches**](https://morphe.software/add-source?github=adderalladmiral/psychonaut-journal-patches)
+  - Journal
+- [**PyFlat patches**](https://morphe.software/add-source?github=PyFlat-JR/Morphe-Patches)
+  - kicker Fußball News
+- [**Smart Launcher patches**](https://morphe.software/add-source?github=thejaustin/smartlauncher-morphe-patches)
+  - Smart Launcher 6
+
 ### New Apps
 
-- **aapam patches**
-  - Prime Video (Android TV)
 - **Ample Patches - by naijun0403**
   - StarNote
-- **Bruddas patches**
-  - PrinterShare
-  - Unit Converter
 - **Morning Entree patches**
   - Droplert
   - Fylo — File Manager
-- **PsychonautWiki patches**
-  - Journal
-- **PyFlat patches**
-  - kicker Fußball News
-- **Smart Launcher patches**
-  - Smart Launcher
 
 ## September 1, 2026
+
+### New Sources
+
+- [**Bruddas patches**](https://morphe.software/add-source?github=bruddaa/bruddas-morphe-patches)
+  - Music player
+  - PrinterShare
+  - Unit Converter
+- [**Mix patches**](https://morphe.software/add-source?gitlab=IMXEren/mix-patches)
+  - iPay Sri Lanka
+  - RailOne
+  - Sync for Reddit
+  - Trakt
+- [**Oraimo patches**](https://morphe.software/add-source?github=benzophury/oraimo-health-morphe-patches)
+  - oraimo health
 
 ### New Apps
 
 - **Ample Patches - by naijun0403**
   - KakaoMap
-- **Bruddas patches**
-  - Music player
-- **FTL patches**
-  - WPSApp Pro
 - **Hoo-dles Patches**
   - ASL Bloom
-- **Legendsciber's patches**
-  - Shadow Fight 2
-- **Mix patches**
-  - iPay Sri Lanka
-- **Oraimo patches**
-  - oraimo health
 
 ## August 31, 2026
 
-### New Apps
+### New Source
 
-- **FTL patches**
-  - File Manager - XFolder
-- **Legendsciber's patches**
+- [**Legendsciber's patches**](https://morphe.software/add-source?github=legendsciber/morphe-patches)
+  - Block Blast
   - Extreme Car Driving Simulator
+  - Hill Climb Racing
+  - Shadow Fight 2
+  - Smash Hit
+  - Toolbox for Minecraft PE
 
 ## August 30, 2026
+
+### New Sources
+
+- [**DiskWala patches**](https://morphe.software/add-source?github=kuntal-devrat/diskwala-patches)
+  - DiskWala
+- [**IPTV patches**](https://morphe.software/add-source?github=Okazakee/iptv-morphe-patches)
+  - IPTV Pro Stream Player
 
 ### New Apps
 
@@ -76,21 +91,20 @@ To see all available sources and supported apps, visit the Morphe patches websit
   - Alto's Adventure
   - Alto's Odyssey
   - Traffic Rider
-- **DiskWala patches**
-  - DiskWala
-- **FTL patches**
-  - Bangla Dictionary
-  - WiFi Analyzer
-  - WIFI WPS WPA TESTER
 - **Hxreborn patches**
   - RateGlance
-- **IPTV patches**
-  - IPTV Pro Stream Player
 - **Morning Entree patches**
   - Google Phone
   - Google Recorder
 
 ## August 29, 2026
+
+### New Source
+
+- [**XTapped patches**](https://morphe.software/add-source?github=XTapped/morphe-patches)
+  - Gboard
+  - MotionCam Pro Trial
+  - Tetrd
 
 ### New Apps
 
@@ -98,32 +112,53 @@ To see all available sources and supported apps, visit the Morphe patches websit
   - Fancy Pants Adventures
 - **Stylus**
   - Instagram
-- **XTapped patches**
-  - Gboard
 
 ## August 28, 2026
 
-### New Apps
+### New Sources
 
-- **Anime Witcher patches**
+- [**Anime Witcher patches**](https://morphe.software/add-source?github=catsmoker/anime-witcher-patches)
   - Anime Witcher
-- **DanielTheManiel's patches**
+- [**DanielTheManiel's patches**](https://morphe.software/add-source?github=Dan1elTheMan1el/Morphe-Patches)
   - Custom Keyboard Designer
-- **FTL patches**
+  - DeFit
+  - PokeRaid - for Pokémon GO Raid
+- [**FTL patches**](https://morphe.software/add-source?github=BlazeFTL/FTL-Patches)
+  - All Video Downloader & Ace Player
+  - Ampere
+  - Bangla Dictionary
+  - Calendar
+  - ES File Explorer
+  - File Manager - XFolder
+  - MiXplorer
+  - MX Player Pro
+  - RS File Manager
+  - SnapTube
   - Video Downloader
+  - WiFi Analyzer
+  - WIFI WPS WPA TESTER
+  - WPSApp Pro
+  - Xender
+- [**JCat's patches**](https://morphe.software/add-source?github=jaredcat/morphe-patches)
+  - ASL Bloom
+  - Expand
+  - Lumenate
+- [**Kveld9 patches**](https://morphe.software/add-source?github=kveld9/kveld-morphe-patches)
+  - Brave Private Web Browser, VPN
+  - Gboard Lite
+  - Vivaldi Browser Snapshot
+- [**MobilKincstár patches**](https://morphe.software/add-source?github=csagataj2/morphe-patches)
+  - MobilKincstár
+- [**NullWaypoint patches**](https://morphe.software/add-source?github=NullWaypoint/morphe-patches)
+  - Crunchyroll
+- [**RuStore privacy patches**](https://morphe.software/add-source?github=Freeman022026/rustore-privacy-patches)
+  - RuStore
+- [**Subenoeva patches**](https://morphe.software/add-source?github=subenoeva/roadsync-patches)
+  - RoadSync
+- [**T2C patches**](https://morphe.software/add-source?github=dumb-software/T2C-App-Patch-Morphe)
+  - T2C
+
+### New App
+
 - **Hoo-dles Patches**
   - Bend
-- **JCat's patches**
-  - ASL Bloom
-- **Kveld9 patches**
-  - Vivaldi Browser Snapshot
-- **MobilKincstár patches**
-  - MobilKincstár
-- **NullWaypoint patches**
-  - Crunchyroll
-- **RuStore privacy patches**
-  - RuStore
-- **Subenoeva patches**
-  - RoadSync
-- **T2C patches**
-  - T2C
