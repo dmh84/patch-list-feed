@@ -14,10 +14,12 @@ To see all available sources and supported apps, visit the Morphe patches websit
 
 ## September 3, 2026
 
-### New App
+### New Apps
 
 - **Franticg33k patches**
   - Fricam
+- **zPatches**
+  - Undercover
 
 ## September 2, 2026
 
