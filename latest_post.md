@@ -37,6 +37,9 @@ To see all available sources and supported apps, visit the Morphe patches websit
 
 - **Ample Patches - by naijun0403**
   - StarNote
+- **Bruddas patches**
+  - PrinterShare
+  - Unit Converter
 - **Morning Entree patches**
   - Droplert
   - Fylo — File Manager
@@ -61,8 +64,12 @@ To see all available sources and supported apps, visit the Morphe patches websit
 
 - **Ample Patches - by naijun0403**
   - KakaoMap
+- **FTL patches**
+  - WPSApp Pro
 - **Hoo-dles Patches**
   - ASL Bloom
+- **Legendsciber's patches**
+  - Shadow Fight 2
 
 ## August 31, 2026
 
@@ -75,6 +82,11 @@ To see all available sources and supported apps, visit the Morphe patches websit
   - Shadow Fight 2
   - Smash Hit
   - Toolbox for Minecraft PE
+
+### New App
+
+- **FTL patches**
+  - File Manager - XFolder
 
 ## August 30, 2026
 
@@ -91,6 +103,10 @@ To see all available sources and supported apps, visit the Morphe patches websit
   - Alto's Adventure
   - Alto's Odyssey
   - Traffic Rider
+- **FTL patches**
+  - Bangla Dictionary
+  - WiFi Analyzer
+  - WIFI WPS WPA TESTER
 - **Hxreborn patches**
   - RateGlance
 - **Morning Entree patches**
