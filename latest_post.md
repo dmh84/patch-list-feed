@@ -12,6 +12,13 @@ To see all available sources and supported apps, visit the Morphe patches websit
 
 ---
 
+## September 4, 2026
+
+### New Source
+
+- [**Mvaishak patches**](https://morphe.software/add-source?github=mvaishak/letterboxd-morphe-patches)
+  - [Letterboxd](https://morphe-patches.software/?app=com.letterboxd.letterboxd#whats-new)
+
 ## September 3, 2026
 
 ### New Apps
