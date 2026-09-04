@@ -19,6 +19,11 @@ To see all available sources and supported apps, visit the Morphe patches websit
 - [**Mvaishak patches**](https://morphe.software/add-source?github=mvaishak/letterboxd-morphe-patches)
   - [Letterboxd](https://morphe-patches.software/?app=com.letterboxd.letterboxd#whats-new)
 
+### New App
+
+- **FTL patches**
+  - [MX Player](https://morphe-patches.software/?app=com.mxtech.videoplayer.ad#whats-new)
+
 ## September 3, 2026
 
 ### New Apps
@@ -156,6 +161,7 @@ To see all available sources and supported apps, visit the Morphe patches websit
   - [ES File Explorer](https://morphe-patches.software/?app=com.estrongs.android.pop#whats-new)
   - [File Manager - XFolder](https://morphe-patches.software/?app=files.fileexplorer.filemanager#whats-new)
   - [MiXplorer](https://morphe-patches.software/?app=com.mixplorer#whats-new)
+  - [MX Player](https://morphe-patches.software/?app=com.mxtech.videoplayer.ad#whats-new)
   - [MX Player Pro](https://morphe-patches.software/?app=com.mxtech.videoplayer.pro#whats-new)
   - [RS File Manager](https://morphe-patches.software/?app=com.rs.explorer.filemanager#whats-new)
   - [SnapTube](https://morphe-patches.software/?app=com.snaptube.premium#whats-new)
