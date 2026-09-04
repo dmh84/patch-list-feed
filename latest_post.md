@@ -14,8 +14,12 @@ To see all available sources and supported apps, visit the Morphe patches websit
 
 ## September 4, 2026
 
-### New Source
+### New Sources
 
+- [**Epxec patches**](https://morphe.software/add-source?github=epxec/android-patches)
+  - [Decompile](https://morphe-patches.software/?app=com.apktools.app.decompile#whats-new)
+  - [Remindio](https://morphe-patches.software/?app=dmytro.palamarchuk.dailyreminder#whats-new)
+  - [Touch The Notch](https://morphe-patches.software/?app=com.notch.touch#whats-new)
 - [**Mvaishak patches**](https://morphe.software/add-source?github=mvaishak/letterboxd-morphe-patches)
   - [Letterboxd](https://morphe-patches.software/?app=com.letterboxd.letterboxd#whats-new)
 
