@@ -49,6 +49,11 @@ To see all available sources and supported apps, visit the Morphe patches websit
 - [**Supreme patches**](https://morphe.software/add-source?github=drnhzn/supreme-patches)
   - [Reclub](https://morphe-patches.software/?app=co.reclub#whats-new)
 
+### New App
+
+- **Android TV patches**
+  - [ESPN](https://morphe-patches.software/?app=com.espn.score_center#whats-new)
+
 ## September 4, 2026
 
 ### New Sources
