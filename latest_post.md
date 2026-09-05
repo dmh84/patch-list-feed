@@ -1,8 +1,38 @@
+# Morphe Manager
+
+https://morphe.software/
+
+## Enable Expert Mode
+
+1. Open Morphe Manager.
+2. Click the settings button (bottom right).
+3. Locate Expert settings.
+4. Toggle Expert mode to on.
+5. Click Enable.
+
+## How to Add Patches
+
+1. Click on the patch source you want to add from the recent updates below, or from the Morphe patches website.
+2. The Add Patch Source page opens.
+3. Click Open in Morphe.
+4. Morphe opens to the Add Source page.
+5. Click Add (bottom right).
+
+## Optional Steps if You Want to Use Pre-release Patches
+
+1. Open Morphe Manager.
+2. Click the folder icon (bottom left).
+3. Click the down arrow next to the patch source you want to use for pre-release patches.
+4. Enable "Use pre-release patches" by clicking the toggle button.
+5. Click Enable to confirm.
+
+---
+
 # Morphe Patch Updates
 
 A rolling 14-day view of the latest additions and changes from the Morphe patches website. Older updates are automatically removed as new ones are added.
 
-To keep the post useful and easy to maintain, it now focuses on recent updates rather than the full patch catalog.
+To keep the post useful and easy to maintain, this section focuses on recent updates rather than the full patch catalog.
 
 To see all available sources and supported apps, visit the Morphe patches website.
 
