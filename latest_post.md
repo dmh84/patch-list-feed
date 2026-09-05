@@ -297,10 +297,12 @@ To see all available sources and supported apps, visit the Morphe patches websit
   - [Settle Up](https://morphe-patches.software/?app=cz.destil.settleup#whats-new)
 - **Legendsciber's patches**
   - [Block Blast](https://morphe-patches.software/?app=com.block.juggle#whats-new)
+  - Block Blast!
 - **Morning Entree patches**
   - [AIO Launcher](https://morphe-patches.software/?app=ru.execbit.aiolauncher#whats-new)
   - [Niagara Launcher](https://morphe-patches.software/?app=bitpit.launcher#whats-new)
   - [Smart Launcher](https://morphe-patches.software/?app=ginlemon.flowerfree#whats-new)
+  - Smart Launcher 6
   - [Square Home 2](https://morphe-patches.software/?app=com.ss.squarehome2#whats-new)
 - **Riky patches**
   - [CapCut](https://morphe-patches.software/?app=com.lemon.lvoverseas#whats-new)
@@ -399,4 +401,5 @@ To see all available sources and supported apps, visit the Morphe patches websit
   - [Notesnook](https://morphe-patches.software/?app=com.streetwriters.notesnook#whats-new)
   - [Rubber Bands](https://morphe-patches.software/?app=app.rubberbands.fit#whats-new)
 - **Riky patches**
+  - [Komoot](https://morphe-patches.software/?app=de.komoot.android#whats-new)
   - [Komoot](https://morphe-patches.software/?app=de.komoot.android#whats-new)
