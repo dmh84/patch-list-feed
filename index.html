@@ -1,0 +1,207 @@
+<!doctype html>
+<html lang="en">
+<head>
+  <meta charset="utf-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1" />
+  <title>Morphe Reddit Post Helper</title>
+
+  <style>
+    :root {
+      color-scheme: light dark;
+      font-family: Arial, Helvetica, sans-serif;
+    }
+
+    body {
+      margin: 0;
+      padding: 24px;
+      background: #f5f5f5;
+      color: #111;
+    }
+
+    .wrap {
+      max-width: 900px;
+      margin: 0 auto;
+    }
+
+    .card {
+      background: #fff;
+      border: 1px solid #ddd;
+      border-radius: 14px;
+      padding: 20px;
+      box-shadow: 0 3px 12px rgba(0, 0, 0, 0.06);
+    }
+
+    h1 {
+      margin-top: 0;
+      font-size: 28px;
+    }
+
+    .status {
+      margin: 10px 0 18px;
+      color: #555;
+      font-size: 14px;
+    }
+
+    button {
+      width: 100%;
+      border: 0;
+      border-radius: 12px;
+      padding: 16px;
+      font-size: 18px;
+      font-weight: 700;
+      cursor: pointer;
+      background: #ff4500;
+      color: white;
+      margin-bottom: 18px;
+    }
+
+    button:active {
+      transform: scale(0.99);
+    }
+
+    textarea {
+      box-sizing: border-box;
+      width: 100%;
+      min-height: 60vh;
+      resize: vertical;
+      border: 1px solid #ccc;
+      border-radius: 10px;
+      padding: 14px;
+      font-family: monospace;
+      font-size: 14px;
+      line-height: 1.45;
+      background: #fafafa;
+      color: #111;
+    }
+
+    .small {
+      margin-top: 14px;
+      font-size: 13px;
+      color: #666;
+    }
+
+    @media (prefers-color-scheme: dark) {
+      body {
+        background: #111;
+        color: #eee;
+      }
+
+      .card {
+        background: #1b1b1b;
+        border-color: #333;
+      }
+
+      .status,
+      .small {
+        color: #bbb;
+      }
+
+      textarea {
+        background: #111;
+        color: #eee;
+        border-color: #444;
+      }
+    }
+  </style>
+</head>
+
+<body>
+  <div class="wrap">
+    <div class="card">
+      <h1>Morphe Reddit Post Helper</h1>
+
+      <div id="status" class="status">
+        Loading latest Reddit post...
+      </div>
+
+      <button id="copyButton" type="button">
+        Copy Reddit Post
+      </button>
+
+      <textarea
+        id="postText"
+        readonly
+        spellcheck="false"
+        aria-label="Latest Reddit post"
+      ></textarea>
+
+      <div class="small">
+        This page automatically loads the latest generated Reddit post.
+      </div>
+    </div>
+  </div>
+
+  <script>
+    const FEED_URL = './latest_post.md';
+
+    const statusEl = document.getElementById('status');
+    const copyButton = document.getElementById('copyButton');
+    const postText = document.getElementById('postText');
+
+    async function loadPost() {
+      try {
+        const cacheBust = Date.now();
+        const response = await fetch(
+          `${FEED_URL}?updated=${cacheBust}`,
+          { cache: 'no-store' }
+        );
+
+        if (!response.ok) {
+          throw new Error(
+            `Could not load post: ${response.status}`
+          );
+        }
+
+        const text = (await response.text()).trim();
+
+        if (!text) {
+          throw new Error('The generated post is empty.');
+        }
+
+        postText.value = text;
+
+        statusEl.textContent =
+          `Loaded latest post • ${new Date().toLocaleString()}`;
+      } catch (error) {
+        console.error(error);
+        statusEl.textContent =
+          'Could not load the latest post. Refresh the page and try again.';
+      }
+    }
+
+    async function copyPost() {
+      const text = postText.value;
+
+      if (!text) {
+        return;
+      }
+
+      try {
+        await navigator.clipboard.writeText(text);
+
+        copyButton.textContent = 'Copied!';
+        setTimeout(() => {
+          copyButton.textContent = 'Copy Reddit Post';
+        }, 1800);
+      } catch (error) {
+        postText.focus();
+        postText.select();
+
+        const worked = document.execCommand('copy');
+
+        copyButton.textContent = worked
+          ? 'Copied!'
+          : 'Select All and Copy';
+
+        setTimeout(() => {
+          copyButton.textContent = 'Copy Reddit Post';
+        }, 1800);
+      }
+    }
+
+    copyButton.addEventListener('click', copyPost);
+
+    loadPost();
+  </script>
+</body>
+</html>
