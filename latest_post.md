@@ -52,7 +52,7 @@ To see all available sources and supported apps, visit the Morphe patches websit
 ### New App
 
 - **Android TV patches**
-  - ESPN Android TV
+  - [ESPN](https://morphe-patches.software/?app=com.espn.score_center#whats-new)
 
 ## September 4, 2026
 
@@ -257,11 +257,11 @@ To see all available sources and supported apps, visit the Morphe patches websit
 - **Kecerim's patches**
   - [Settle Up](https://morphe-patches.software/?app=cz.destil.settleup#whats-new)
 - **Legendsciber's patches**
-  - Block Blast!
+  - [Block Blast](https://morphe-patches.software/?app=com.block.juggle#whats-new)
 - **Morning Entree patches**
   - [AIO Launcher](https://morphe-patches.software/?app=ru.execbit.aiolauncher#whats-new)
   - [Niagara Launcher](https://morphe-patches.software/?app=bitpit.launcher#whats-new)
-  - Smart Launcher 6
+  - [Smart Launcher](https://morphe-patches.software/?app=ginlemon.flowerfree#whats-new)
   - [Square Home 2](https://morphe-patches.software/?app=com.ss.squarehome2#whats-new)
 - **Riky patches**
   - [CapCut](https://morphe-patches.software/?app=com.lemon.lvoverseas#whats-new)
