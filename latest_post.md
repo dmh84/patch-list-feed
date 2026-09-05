@@ -44,8 +44,13 @@ To keep the post useful and easy to maintain, this section focuses on recent upd
 
 ## September 5, 2026
 
-### New Source
+### New Sources
 
+- [**Alalloush patches**](https://morphe.software/add-source?github=alalloush/xperia-1v-camera-patches)
+  - [Photography Pro](https://morphe-patches.software/?app=com.sonymobile.photopro#whats-new)
+  - [Sony Camera](https://morphe-patches.software/?app=jp.co.sony.mc.cameraapp#whats-new)
+- [**Discord patches**](https://morphe.software/add-source?github=jrddupont/discord-patches)
+  - [Discord](https://morphe-patches.software/?app=com.discord#whats-new)
 - [**Supreme patches**](https://morphe.software/add-source?github=drnhzn/supreme-patches)
   - [Reclub](https://morphe-patches.software/?app=co.reclub#whats-new)
 
