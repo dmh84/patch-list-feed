@@ -42,17 +42,26 @@
       font-size: 14px;
     }
 
+    .button-row {
+      display: grid;
+      gap: 12px;
+      margin-bottom: 18px;
+    }
+
     button {
       width: 100%;
       border: 0;
       border-radius: 12px;
       padding: 16px;
-      font-size: 18px;
+      font-size: 17px;
       font-weight: 700;
       cursor: pointer;
       background: #ff4500;
       color: white;
-      margin-bottom: 18px;
+    }
+
+    button.secondary {
+      background: #444;
     }
 
     button:active {
@@ -114,9 +123,15 @@
         Loading latest Reddit post...
       </div>
 
-      <button id="copyButton" type="button">
-        Copy Reddit Post
-      </button>
+      <div class="button-row">
+        <button id="copyDesktopButton" type="button">
+          Copy for Desktop / Web
+        </button>
+
+        <button id="copyMobileButton" class="secondary" type="button">
+          Copy for Reddit Mobile
+        </button>
+      </div>
 
       <textarea
         id="postText"
@@ -126,7 +141,7 @@
       ></textarea>
 
       <div class="small">
-        This page automatically loads the latest generated Reddit post.
+        Desktop/Web keeps Reddit Markdown. Mobile converts it to clean plain text.
       </div>
     </div>
   </div>
@@ -135,12 +150,16 @@
     const FEED_URL = './latest_post.md';
 
     const statusEl = document.getElementById('status');
-    const copyButton = document.getElementById('copyButton');
+    const copyDesktopButton = document.getElementById('copyDesktopButton');
+    const copyMobileButton = document.getElementById('copyMobileButton');
     const postText = document.getElementById('postText');
+
+    let latestMarkdown = '';
 
     async function loadPost() {
       try {
         const cacheBust = Date.now();
+
         const response = await fetch(
           `${FEED_URL}?updated=${cacheBust}`,
           { cache: 'no-store' }
@@ -158,20 +177,92 @@
           throw new Error('The generated post is empty.');
         }
 
+        latestMarkdown = text;
         postText.value = text;
 
         statusEl.textContent =
           `Loaded latest post • ${new Date().toLocaleString()}`;
       } catch (error) {
         console.error(error);
+
         statusEl.textContent =
           'Could not load the latest post. Refresh the page and try again.';
       }
     }
 
-    async function copyPost() {
-      const text = postText.value;
+    function markdownToMobileText(markdown) {
+      const lines = markdown.replace(/\r\n/g, '\n').split('\n');
+      const output = [];
 
+      for (const rawLine of lines) {
+        let line = rawLine;
+
+        if (!line.trim()) {
+          output.push('');
+          continue;
+        }
+
+        if (line.trim() === '---') {
+          output.push('');
+          output.push('────────────────────────');
+          output.push('');
+          continue;
+        }
+
+        const headingMatch = line.match(/^(#{1,3})\s*(.+)$/);
+
+        if (headingMatch) {
+          let headingText = headingMatch[2]
+            .replace(/\*\*/g, '')
+            .trim();
+
+          output.push(headingText.toUpperCase());
+          output.push('');
+          continue;
+        }
+
+        line = line.replace(
+          /\[\*\*([^\]]+?)\*\*\]\((https?:\/\/[^)]+)\)/g,
+          (_, text, url) => `${text}\n${url}`
+        );
+
+        line = line.replace(
+          /\*\*\[([^\]]+)\]\((https?:\/\/[^)]+)\)\*\*/g,
+          (_, text, url) => `${text}\n${url}`
+        );
+
+        line = line.replace(
+          /\[([^\]]+)\]\((https?:\/\/[^)]+)\)/g,
+          (_, text, url) => `${text}\n${url}`
+        );
+
+        line = line.replace(/\*\*([^*]+)\*\*/g, '$1');
+
+        const bulletMatch = line.match(/^(\s*)[-*]\s+(.+)$/);
+
+        if (bulletMatch) {
+          const indent = bulletMatch[1].length;
+          const content = bulletMatch[2];
+
+          if (indent > 0) {
+            output.push(`   • ${content}`);
+          } else {
+            output.push(`• ${content}`);
+          }
+
+          continue;
+        }
+
+        output.push(line);
+      }
+
+      return output
+        .join('\n')
+        .replace(/\n{3,}/g, '\n\n')
+        .trim();
+    }
+
+    async function copyText(text, button, originalLabel) {
       if (!text) {
         return;
       }
@@ -179,27 +270,46 @@
       try {
         await navigator.clipboard.writeText(text);
 
-        copyButton.textContent = 'Copied!';
+        button.textContent = 'Copied!';
+
         setTimeout(() => {
-          copyButton.textContent = 'Copy Reddit Post';
+          button.textContent = originalLabel;
         }, 1800);
       } catch (error) {
+        postText.value = text;
         postText.focus();
         postText.select();
 
         const worked = document.execCommand('copy');
 
-        copyButton.textContent = worked
+        button.textContent = worked
           ? 'Copied!'
           : 'Select All and Copy';
 
         setTimeout(() => {
-          copyButton.textContent = 'Copy Reddit Post';
+          button.textContent = originalLabel;
+          postText.value = latestMarkdown;
         }, 1800);
       }
     }
 
-    copyButton.addEventListener('click', copyPost);
+    copyDesktopButton.addEventListener('click', () => {
+      copyText(
+        latestMarkdown,
+        copyDesktopButton,
+        'Copy for Desktop / Web'
+      );
+    });
+
+    copyMobileButton.addEventListener('click', () => {
+      const mobileText = markdownToMobileText(latestMarkdown);
+
+      copyText(
+        mobileText,
+        copyMobileButton,
+        'Copy for Reddit Mobile'
+      );
+    });
 
     loadPost();
   </script>
