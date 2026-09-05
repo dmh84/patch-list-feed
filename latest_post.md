@@ -49,8 +49,10 @@ To keep the post useful and easy to maintain, this section focuses on recent upd
 - [**Supreme patches**](https://morphe.software/add-source?github=drnhzn/supreme-patches)
   - [Reclub](https://morphe-patches.software/?app=co.reclub#whats-new)
 
-### New App
+### New Apps
 
+- **aapam patches**
+  - [Telegram](https://morphe-patches.software/?app=org.telegram.messenger.web#whats-new)
 - **Android TV patches**
   - [ESPN](https://morphe-patches.software/?app=com.espn.score_center#whats-new)
 
