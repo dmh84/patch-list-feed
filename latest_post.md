@@ -34,7 +34,7 @@ A rolling 14-day view of the latest additions and changes from the Morphe patche
 
 To keep the post useful and easy to maintain, this section focuses on recent updates rather than the full patch catalog.
 
-To see all available sources and supported apps, visit the Morphe patches website.
+### To see all available sources and supported apps, visit the Morphe patches website.
 
 **Website:** [Morphe Patches](https://morphe-patches.software)
 
