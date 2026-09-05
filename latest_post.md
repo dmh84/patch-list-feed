@@ -42,6 +42,13 @@ To see all available sources and supported apps, visit the Morphe patches websit
 
 ---
 
+## September 5, 2026
+
+### New Source
+
+- [**Supreme patches**](https://morphe.software/add-source?github=drnhzn/supreme-patches)
+  - [Reclub](https://morphe-patches.software/?app=co.reclub#whats-new)
+
 ## September 4, 2026
 
 ### New Sources
