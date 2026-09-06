@@ -44,6 +44,12 @@ To keep the post useful and easy to maintain, this section focuses on recent upd
 
 ## September 6, 2026
 
+### New Source
+
+- [**Ryuya0124 patches**](https://morphe.software/add-source?github=ryuya0124/gemini-microg-patches)
+  - [Google](https://morphe-patches.software/?app=com.google.android.googlequicksearchbox#whats-new)
+  - [Google Gemini](https://morphe-patches.software/?app=com.google.android.apps.bard#whats-new)
+
 ### New App
 
 - **byehi98 patches**
