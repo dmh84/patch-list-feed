@@ -42,6 +42,13 @@ To keep the post useful and easy to maintain, this section focuses on recent upd
 
 ---
 
+## September 6, 2026
+
+### New App
+
+- **byehi98 patches**
+  - [Burrito Bison: Launcha Libre](https://morphe-patches.software/?app=com.kongregate.mobile.burritobison3.google#whats-new)
+
 ## September 5, 2026
 
 ### New Sources
