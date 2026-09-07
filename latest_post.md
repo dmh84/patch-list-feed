@@ -50,10 +50,12 @@ To keep the post useful and easy to maintain, this section focuses on recent upd
   - [Google](https://morphe-patches.software/?app=com.google.android.googlequicksearchbox#whats-new)
   - [Google Gemini](https://morphe-patches.software/?app=com.google.android.apps.bard#whats-new)
 
-### New App
+### New Apps
 
 - **byehi98 patches**
   - [Burrito Bison: Launcha Libre](https://morphe-patches.software/?app=com.kongregate.mobile.burritobison3.google#whats-new)
+- **DanielTheManiel's patches**
+  - [Counter](https://morphe-patches.software/?app=com.izorg.munchkin#whats-new)
 
 ## September 5, 2026
 
@@ -249,6 +251,7 @@ To keep the post useful and easy to maintain, this section focuses on recent upd
 - [**canh0chua patches**](https://morphe.software/add-source?github=canh0chua/Morphe-patches)
   - [Viber](https://morphe-patches.software/?app=com.viber.voip#whats-new)
 - [**DanielTheManiel's patches**](https://morphe.software/add-source?github=Dan1elTheMan1el/Morphe-Patches)
+  - [Counter](https://morphe-patches.software/?app=com.izorg.munchkin#whats-new)
   - [Custom Keyboard Designer](https://morphe-patches.software/?app=de.humbergsoftware.keyboarddesigner#whats-new)
   - [DeFit](https://morphe-patches.software/?app=com.fitness.debugger#whats-new)
   - [PokeRaid - for Pokémon GO Raid](https://morphe-patches.software/?app=me.pokeraid#whats-new)
@@ -324,30 +327,3 @@ To keep the post useful and easy to maintain, this section focuses on recent upd
   - [Bandcamp](https://morphe-patches.software/?app=com.bandcamp.android#whats-new)
 - **Shuhaib's patches**
   - [Melon VPN](https://morphe-patches.software/?app=com.vpnbottle.melon.free.unblock.fast.vpn#whats-new)
-
-## August 24, 2026
-
-### New Sources
-
-- [**Aimal patches**](https://morphe.software/add-source?github=hashtagbasit/aimal-patches)
-  - [Crunchyroll](https://morphe-patches.software/?app=com.crunchyroll.crunchyroid#whats-new)
-  - [Disney+](https://morphe-patches.software/?app=com.disney.disneyplus#whats-new)
-  - [HBO Max](https://morphe-patches.software/?app=com.wbd.stream#whats-new)
-  - [Viki](https://morphe-patches.software/?app=com.viki.android#whats-new)
-- [**Shuhaib's patches**](https://morphe.software/add-source?github=shuhaibnc/morphe-patches)
-  - [apk-signer](https://morphe-patches.software/?app=com.haibison.apksigner#whats-new)
-  - [CandyLink VPN](https://morphe-patches.software/?app=com.candylink.openvpn#whats-new)
-  - [Manglish Keyboard](https://morphe-patches.software/?app=com.clusterdev.malayalamkeyboard#whats-new)
-  - [Melon VPN](https://morphe-patches.software/?app=com.vpnbottle.melon.free.unblock.fast.vpn#whats-new)
-  - [Sticker Maker](https://morphe-patches.software/?app=com.marsvard.stickermakerforwhatsapp#whats-new)
-
-### New Apps
-
-- **Alastor patches**
-  - [Mods AddOns for Minecraft PE](https://morphe-patches.software/?app=com.ultimategamestudio.mcpecenter.mods#whats-new)
-- **byehi98 patches**
-  - [Tentacle Wars](https://morphe-patches.software/?app=com.fdgentertainment.tentaclewars.gp.free#whats-new)
-- **FTL patches**
-  - [Calendar](https://morphe-patches.software/?app=calendar.agenda.schedule.event.advance.calendar.planner#whats-new)
-- **Hoo-dles Patches**
-  - [Bunpo](https://morphe-patches.software/?app=com.bunpoapp#whats-new)
