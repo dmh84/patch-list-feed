@@ -42,6 +42,13 @@ To keep the post useful and easy to maintain, this section focuses on recent upd
 
 ---
 
+## September 7, 2026
+
+### New App
+
+- **byehi98 patches**
+  - [Prince of Persia: The Lost Crown](https://morphe-patches.software/?app=com.ubisoft.princeofpersia.thelostcrown.mobile.action.adventure.platform#whats-new)
+
 ## September 6, 2026
 
 ### New Source
