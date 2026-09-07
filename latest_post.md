@@ -48,6 +48,8 @@ To keep the post useful and easy to maintain, this section focuses on recent upd
 
 - **byehi98 patches**
   - [Prince of Persia: The Lost Crown](https://morphe-patches.software/?app=com.ubisoft.princeofpersia.thelostcrown.mobile.action.adventure.platform#whats-new)
+- **Hxreborn patches**
+  - [Quranify](https://morphe-patches.software/?app=com.mchutov.Quranify#whats-new)
 - **Miguel's patches**
   - [Duck Life 6: Space](https://morphe-patches.software/?app=com.mad.DuckLifeSpace#whats-new)
   - [Lara Croft: Guardian of Light](https://morphe-patches.software/?app=com.feralinteractive.laracroftgol_android#whats-new)
