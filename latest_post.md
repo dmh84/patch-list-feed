@@ -111,7 +111,7 @@ To keep the post useful and easy to maintain, this section focuses on recent upd
 - **aapam patches**
   - [Telegram](https://morphe-patches.software/?app=org.telegram.messenger.web#whats-new)
 - **Android TV patches**
-  - [ESPN](https://morphe-patches.software/?app=com.espn.score_center#whats-new)
+  - com.espn.score_center
 
 ## September 4, 2026
 
