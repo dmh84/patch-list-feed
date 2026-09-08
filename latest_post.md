@@ -42,6 +42,31 @@ To keep the post useful and easy to maintain, this section focuses on recent upd
 
 ---
 
+## September 8, 2026
+
+### New Sources
+
+- [**AFFiNE patches**](https://morphe.software/add-source?github=picarica/My-moprhe-patches)
+  - [AFFiNE](https://morphe-patches.software/?app=app.affine.pro#whats-new)
+- [**FriendsTurner patches**](https://morphe.software/add-source?github=miketweaver/friendsturner-patches)
+  - [FriendsTurner](https://morphe-patches.software/?app=com.peter890331.friendsturner.app#whats-new)
+- [**Psylos patches**](https://morphe.software/add-source?github=lootdev78/psylos-morphe-patches)
+  - [SoundCloud](https://morphe-patches.software/?app=com.soundcloud.android#whats-new)
+- [**RingConn patches**](https://morphe.software/add-source?github=DarioDKM/ringconn-patches)
+  - [RingConn](https://morphe-patches.software/?app=com.gdjztech.ringconn#whats-new)
+- [**Spotify TV patches**](https://morphe.software/add-source?github=ethan-manny/spotify-tv-crossfade)
+  - [Spotify (TV)](https://morphe-patches.software/?app=com.spotify.tv.android#whats-new)
+- [**Yann’s patches**](https://morphe.software/add-source?github=yann-soliman/morphe-patches)
+  - [Keepcool](https://morphe-patches.software/?app=fr.keepcool.memberapp#whats-new)
+
+### New Apps
+
+- **Ample Patches - by naijun0403**
+  - [NAVER Map](https://morphe-patches.software/?app=com.nhn.android.nmap#whats-new)
+- **Hxreborn patches**
+  - [BetterSleep](https://morphe-patches.software/?app=ipnossoft.rma.free#whats-new)
+  - [RISE Sleep Tracker](https://morphe-patches.software/?app=com.risesci.nyx#whats-new)
+
 ## September 7, 2026
 
 ### New Apps
@@ -121,8 +146,6 @@ To keep the post useful and easy to maintain, this section focuses on recent upd
   - [Journal](https://morphe-patches.software/?app=com.isaakhanimann.journal#whats-new)
 - [**PyFlat patches**](https://morphe.software/add-source?github=PyFlat-JR/Morphe-Patches)
   - [kicker Fußball News](https://morphe-patches.software/?app=com.netbiscuits.kicker#whats-new)
-- [**Smart Launcher patches**](https://morphe.software/add-source?github=thejaustin/smartlauncher-morphe-patches)
-  - [Smart Launcher 6](https://morphe-patches.software/?app=ginlemon.flowerfree#whats-new)
 
 ### New Apps
 
