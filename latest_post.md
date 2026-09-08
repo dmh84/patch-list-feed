@@ -48,8 +48,6 @@ To keep the post useful and easy to maintain, this section focuses on recent upd
 
 - [**AFFiNE patches**](https://morphe.software/add-source?github=picarica/My-moprhe-patches)
   - [AFFiNE](https://morphe-patches.software/?app=app.affine.pro#whats-new)
-- [**FriendsTurner patches**](https://morphe.software/add-source?github=miketweaver/friendsturner-patches)
-  - [FriendsTurner](https://morphe-patches.software/?app=com.peter890331.friendsturner.app#whats-new)
 - [**Psylos patches**](https://morphe.software/add-source?github=lootdev78/psylos-morphe-patches)
   - [SoundCloud](https://morphe-patches.software/?app=com.soundcloud.android#whats-new)
 - [**RingConn patches**](https://morphe.software/add-source?github=DarioDKM/ringconn-patches)
@@ -63,9 +61,15 @@ To keep the post useful and easy to maintain, this section focuses on recent upd
 
 - **Ample Patches - by naijun0403**
   - [NAVER Map](https://morphe-patches.software/?app=com.nhn.android.nmap#whats-new)
+- **Chiggi SonyLIV Patches - by durgesh0505**
+  - [Phone by Google](https://morphe-patches.software/?app=com.google.android.dialer#whats-new)
 - **Hxreborn patches**
   - [BetterSleep](https://morphe-patches.software/?app=ipnossoft.rma.free#whats-new)
   - [RISE Sleep Tracker](https://morphe-patches.software/?app=com.risesci.nyx#whats-new)
+- **Miguel's patches**
+  - [Duck Life 4](https://morphe-patches.software/?app=com.mad.ducklife#whats-new)
+- **Morning Entree patches**
+  - [Gym Workout](https://morphe-patches.software/?app=gymworkout.gym.gymlog.gymtrainer#whats-new)
 
 ## September 7, 2026
 
@@ -215,8 +219,8 @@ To keep the post useful and easy to maintain, this section focuses on recent upd
 - **Hxreborn patches**
   - [RateGlance](https://morphe-patches.software/?app=com.sry.rateglance#whats-new)
 - **Morning Entree patches**
-  - [Google Phone](https://morphe-patches.software/?app=com.google.android.dialer#whats-new)
   - [Google Recorder](https://morphe-patches.software/?app=com.google.android.apps.recorder#whats-new)
+  - Phone by Google
 
 ## August 29, 2026
 
