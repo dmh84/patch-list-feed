@@ -42,6 +42,13 @@ To keep the post useful and easy to maintain, this section focuses on recent upd
 
 ---
 
+## September 9, 2026
+
+### New App
+
+- **d0nj patches**
+  - [Niagara Launcher](https://morphe-patches.software/?app=bitpit.launcher#whats-new)
+
 ## September 8, 2026
 
 ### New Sources
