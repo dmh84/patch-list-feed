@@ -44,10 +44,12 @@ To keep the post useful and easy to maintain, this section focuses on recent upd
 
 ## September 9, 2026
 
-### New App
+### New Apps
 
 - **d0nj patches**
   - [Niagara Launcher](https://morphe-patches.software/?app=bitpit.launcher#whats-new)
+- **Shuhaib's patches**
+  - [Footej Camera](https://morphe-patches.software/?app=com.footej.camera#whats-new)
 
 ## September 8, 2026
 
