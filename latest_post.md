@@ -61,8 +61,6 @@ To keep the post useful and easy to maintain, this section focuses on recent upd
 
 - **Ample Patches - by naijun0403**
   - [NAVER Map](https://morphe-patches.software/?app=com.nhn.android.nmap#whats-new)
-- **Chiggi SonyLIV Patches - by durgesh0505**
-  - [Phone by Google](https://morphe-patches.software/?app=com.google.android.dialer#whats-new)
 - **Hxreborn patches**
   - [BetterSleep](https://morphe-patches.software/?app=ipnossoft.rma.free#whats-new)
   - [RISE Sleep Tracker](https://morphe-patches.software/?app=com.risesci.nyx#whats-new)
@@ -219,8 +217,8 @@ To keep the post useful and easy to maintain, this section focuses on recent upd
 - **Hxreborn patches**
   - [RateGlance](https://morphe-patches.software/?app=com.sry.rateglance#whats-new)
 - **Morning Entree patches**
+  - [Google Phone](https://morphe-patches.software/?app=com.google.android.dialer#whats-new)
   - [Google Recorder](https://morphe-patches.software/?app=com.google.android.apps.recorder#whats-new)
-  - Phone by Google
 
 ## August 29, 2026
 
@@ -280,52 +278,3 @@ To keep the post useful and easy to maintain, this section focuses on recent upd
   - [Merlin Bird ID](https://morphe-patches.software/?app=com.labs.merlinbirdid.app#whats-new)
 - **Legendsciber's patches**
   - [Smash Hit](https://morphe-patches.software/?app=com.mediocre.smashhit#whats-new)
-
-## August 26, 2026
-
-### New Sources
-
-- [**AZK patches**](https://morphe.software/add-source?github=AzukiSensei/aniskip-stremio)
-  - [Stremio](https://morphe-patches.software/?app=com.stremio.one#whats-new)
-- [**canh0chua patches**](https://morphe.software/add-source?github=canh0chua/Morphe-patches)
-  - [Viber](https://morphe-patches.software/?app=com.viber.voip#whats-new)
-- [**DanielTheManiel's patches**](https://morphe.software/add-source?github=Dan1elTheMan1el/Morphe-Patches)
-  - [Counter](https://morphe-patches.software/?app=com.izorg.munchkin#whats-new)
-  - [Custom Keyboard Designer](https://morphe-patches.software/?app=de.humbergsoftware.keyboarddesigner#whats-new)
-  - [DeFit](https://morphe-patches.software/?app=com.fitness.debugger#whats-new)
-  - [PokeRaid - for Pokémon GO Raid](https://morphe-patches.software/?app=me.pokeraid#whats-new)
-- [**Educal patches**](https://morphe.software/add-source?github=Educal72/educal-patches)
-  - [Viddit](https://morphe-patches.software/?app=aculix.viddit.downloader#whats-new)
-- [**Jackblk's patches**](https://morphe.software/add-source?github=jackblk/morphe-patches)
-  - [Sleepa](https://morphe-patches.software/?app=net.relaxio.sleepo#whats-new)
-- [**JCat's patches**](https://morphe.software/add-source?github=jaredcat/morphe-patches)
-  - [ASL Bloom](https://morphe-patches.software/?app=com.toleio.us#whats-new)
-  - [Expand](https://morphe-patches.software/?app=org.monroeinstitute.expand#whats-new)
-  - [Lumenate](https://morphe-patches.software/?app=com.lumenate.lumenateaa#whats-new)
-- [**V4n1X patches**](https://morphe.software/add-source?github=V4n1X/morphe-patches)
-  - [SoundCloud](https://morphe-patches.software/?app=com.soundcloud.android#whats-new)
-
-### New Apps
-
-- **byehi98 patches**
-  - [HAAK](https://morphe-patches.software/?app=com.blingame.haaktestb#whats-new)
-  - [Only One](https://morphe-patches.software/?app=com.rebelbinary.onlyone#whats-new)
-- **FTL patches**
-  - [Ampere](https://morphe-patches.software/?app=com.gombosdev.ampere#whats-new)
-- **Hoo-dles Patches**
-  - [Lingodeer](https://morphe-patches.software/?app=com.lingodeer#whats-new)
-- **Hxreborn patches**
-  - [Photo Editor Pro](https://morphe-patches.software/?app=photo.editor.photoeditor.photoeditorpro#whats-new)
-- **Kecerim's patches**
-  - [Settle Up](https://morphe-patches.software/?app=cz.destil.settleup#whats-new)
-- **Legendsciber's patches**
-  - [Block Blast](https://morphe-patches.software/?app=com.block.juggle#whats-new)
-- **Morning Entree patches**
-  - [AIO Launcher](https://morphe-patches.software/?app=ru.execbit.aiolauncher#whats-new)
-  - [Niagara Launcher](https://morphe-patches.software/?app=bitpit.launcher#whats-new)
-  - [Smart Launcher](https://morphe-patches.software/?app=ginlemon.flowerfree#whats-new)
-  - [Square Home 2](https://morphe-patches.software/?app=com.ss.squarehome2#whats-new)
-- **Riky patches**
-  - [CapCut](https://morphe-patches.software/?app=com.lemon.lvoverseas#whats-new)
-- **Shuhaib's patches**
-  - [apk-signer](https://morphe-patches.software/?app=com.haibison.apksigner#whats-new)
