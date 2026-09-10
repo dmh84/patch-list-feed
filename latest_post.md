@@ -42,6 +42,18 @@ To keep the post useful and easy to maintain, this section focuses on recent upd
 
 ---
 
+## September 10, 2026
+
+### New Source
+
+- [**Patchweaver**](https://morphe.software/add-source?github=ispacecase/patchweaver)
+  - [F-Droid](https://morphe-patches.software/?app=org.fdroid.fdroid#whats-new)
+
+### New App
+
+- **Epxec patches**
+  - [Halo Reels Pro](https://morphe-patches.software/?app=com.halo.reels.movie.fast.pro#whats-new)
+
 ## September 9, 2026
 
 ### New Apps
@@ -130,6 +142,7 @@ To keep the post useful and easy to maintain, this section focuses on recent upd
 
 - [**Epxec patches**](https://morphe.software/add-source?github=epxec/android-patches)
   - [Decompile](https://morphe-patches.software/?app=com.apktools.app.decompile#whats-new)
+  - [Halo Reels Pro](https://morphe-patches.software/?app=com.halo.reels.movie.fast.pro#whats-new)
   - [Remindio](https://morphe-patches.software/?app=dmytro.palamarchuk.dailyreminder#whats-new)
   - [Touch The Notch](https://morphe-patches.software/?app=com.notch.touch#whats-new)
 - [**Mvaishak patches**](https://morphe.software/add-source?github=mvaishak/letterboxd-morphe-patches)
