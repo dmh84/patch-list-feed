@@ -49,10 +49,13 @@ To keep the post useful and easy to maintain, this section focuses on recent upd
 - [**Patchweaver**](https://morphe.software/add-source?github=ispacecase/patchweaver)
   - [F-Droid](https://morphe-patches.software/?app=org.fdroid.fdroid#whats-new)
 
-### New App
+### New Apps
 
 - **Epxec patches**
   - [Halo Reels Pro](https://morphe-patches.software/?app=com.halo.reels.movie.fast.pro#whats-new)
+- **Kveld9 patches**
+  - [Hevy - Gym Log Workout Tracker](https://morphe-patches.software/?app=com.hevy#whats-new)
+  - [Vivaldi Browser - Fast & Safe](https://morphe-patches.software/?app=com.vivaldi.browser#whats-new)
 
 ## September 9, 2026
 
@@ -252,33 +255,3 @@ To keep the post useful and easy to maintain, this section focuses on recent upd
   - [Instagram](https://morphe-patches.software/?app=com.instagram.android#whats-new)
 - **XTapped patches**
   - [Gboard](https://morphe-patches.software/?app=com.google.android.inputmethod.latin#whats-new)
-
-## August 28, 2026
-
-### New Sources
-
-- [**Anime Witcher patches**](https://morphe.software/add-source?github=catsmoker/anime-witcher-patches)
-  - [Anime Witcher](https://morphe-patches.software/?app=com.anime.witcher#whats-new)
-- [**MobilKincstár patches**](https://morphe.software/add-source?github=csagataj2/morphe-patches)
-  - [MobilKincstár](https://morphe-patches.software/?app=hu.dorsum.clavis.kincstar.mobile#whats-new)
-- [**NullWaypoint patches**](https://morphe.software/add-source?github=NullWaypoint/morphe-patches)
-  - [Crunchyroll](https://morphe-patches.software/?app=com.crunchyroll.crunchyroid#whats-new)
-- [**RuStore privacy patches**](https://morphe.software/add-source?github=Freeman022026/rustore-privacy-patches)
-  - [RuStore](https://morphe-patches.software/?app=ru.vk.store#whats-new)
-- [**Subenoeva patches**](https://morphe.software/add-source?github=subenoeva/roadsync-patches)
-  - [RoadSync](https://morphe-patches.software/?app=com.honda.ms.dm.sab#whats-new)
-- [**T2C patches**](https://morphe.software/add-source?github=dumb-software/T2C-App-Patch-Morphe)
-  - [T2C](https://morphe-patches.software/?app=fr.t2c.t2c#whats-new)
-
-### New Apps
-
-- **DanielTheManiel's patches**
-  - [Custom Keyboard Designer](https://morphe-patches.software/?app=de.humbergsoftware.keyboarddesigner#whats-new)
-- **FTL patches**
-  - [Video Downloader](https://morphe-patches.software/?app=video.downloader.videodownloader#whats-new)
-- **Hoo-dles Patches**
-  - [Bend](https://morphe-patches.software/?app=com.bowerydigital.bend#whats-new)
-- **JCat's patches**
-  - [ASL Bloom](https://morphe-patches.software/?app=com.toleio.us#whats-new)
-- **Kveld9 patches**
-  - [Vivaldi Browser Snapshot](https://morphe-patches.software/?app=com.vivaldi.browser.snapshot#whats-new)
