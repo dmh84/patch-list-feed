@@ -1,6 +1,11 @@
-# Morphe Manager
+# Go here to see all apps that Morphe can patch:
+# https://morphe-patches.software
 
-https://morphe.software/
+---
+
+**Support Morphe:** [Donate](https://morphe.software/donate)
+
+---
 
 ## Enable Expert Mode
 
@@ -34,12 +39,6 @@ A rolling 14-day view of the latest additions and changes from the Morphe patche
 
 To keep the post useful and easy to maintain, this section focuses on recent updates rather than the full patch catalog.
 
-# To see all available sources and supported apps, visit the Morphe patches website.
-
-**Website:** [Morphe Patches](https://morphe-patches.software)
-
-**Support Morphe:** [Donate](https://morphe.software/donate)
-
 ---
 
 ## September 11, 2026
@@ -53,6 +52,10 @@ To keep the post useful and easy to maintain, this section focuses on recent upd
 - **Hxreborn patches**
   - [DWG FastView](https://morphe-patches.software/?app=com.gstarmc.android#whats-new)
   - [MovieBox](https://morphe-patches.software/?app=com.community.oneroom#whats-new)
+- **Shuhaib's patches**
+  - [Beat.ly](https://morphe-patches.software/?app=vinkle.video.editor#whats-new)
+  - [Mvideo](https://morphe-patches.software/?app=music.videomaker.slideshow#whats-new)
+  - [Reverso Context](https://morphe-patches.software/?app=com.softissimo.reverso.context#whats-new)
 
 ## September 10, 2026
 
