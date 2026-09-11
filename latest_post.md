@@ -43,6 +43,14 @@ To keep the post useful and easy to maintain, this section focuses on recent upd
 
 ## September 11, 2026
 
+### New Sources
+
+- [**Haiagaru patches**](https://morphe.software/add-source?github=areteruhiro/Haiagaru-Morphe)
+  - [ChMate](https://morphe-patches.software/?app=jp.co.airfront.android.a2chMate#whats-new)
+- [**Zeldris patches**](https://morphe.software/add-source?github=zeldrisho/morphe-patches)
+  - [Threads](https://morphe-patches.software/?app=com.instagram.barcelona#whats-new)
+  - [Zalo](https://morphe-patches.software/?app=com.zing.zalo#whats-new)
+
 ### New Apps
 
 - **aapam patches**
