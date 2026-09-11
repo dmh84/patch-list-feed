@@ -42,6 +42,18 @@ To keep the post useful and easy to maintain, this section focuses on recent upd
 
 ---
 
+## September 11, 2026
+
+### New Apps
+
+- **aapam patches**
+  - [Coloring and Learn](https://morphe-patches.software/?app=com.orange.coloring.learn.kids#whats-new)
+- **Epxec patches**
+  - [FreeReels](https://morphe-patches.software/?app=com.freereels.app#whats-new)
+- **Hxreborn patches**
+  - [DWG FastView](https://morphe-patches.software/?app=com.gstarmc.android#whats-new)
+  - [MovieBox](https://morphe-patches.software/?app=com.community.oneroom#whats-new)
+
 ## September 10, 2026
 
 ### New Source
@@ -145,6 +157,7 @@ To keep the post useful and easy to maintain, this section focuses on recent upd
 
 - [**Epxec patches**](https://morphe.software/add-source?github=epxec/android-patches)
   - [Decompile](https://morphe-patches.software/?app=com.apktools.app.decompile#whats-new)
+  - [FreeReels](https://morphe-patches.software/?app=com.freereels.app#whats-new)
   - [Halo Reels Pro](https://morphe-patches.software/?app=com.halo.reels.movie.fast.pro#whats-new)
   - [Remindio](https://morphe-patches.software/?app=dmytro.palamarchuk.dailyreminder#whats-new)
   - [Touch The Notch](https://morphe-patches.software/?app=com.notch.touch#whats-new)
