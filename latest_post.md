@@ -57,6 +57,11 @@ To keep the post useful and easy to maintain, this section focuses on recent upd
   - [Peafowl Theme Maker for EMUI](https://morphe-patches.software/?app=h7.hamzio.emuithemeotg#whats-new)
   - [Pillo](https://morphe-patches.software/?app=xyz.rtrvr.pillo#whats-new)
 
+### New App
+
+- **Hxreborn patches**
+  - [1Weather](https://morphe-patches.software/?app=com.handmark.expressweather#whats-new)
+
 ## September 11, 2026
 
 ### New Sources
