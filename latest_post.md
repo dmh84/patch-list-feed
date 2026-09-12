@@ -41,6 +41,22 @@ To keep the post useful and easy to maintain, this section focuses on recent upd
 
 ---
 
+## September 12, 2026
+
+### New Sources
+
+- [**Asken patches**](https://morphe.software/add-source?github=Nerahikada/asken-patches)
+  - [あすけん](https://morphe-patches.software/?app=jp.co.greenhouse.asken#whats-new)
+- [**Ekispert Wear patches**](https://morphe.software/add-source?github=Sfehhrths/ekispert-morphe-patches)
+  - [駅すぱあと](https://morphe-patches.software/?app=jp.co.val.expert.android.aio#whats-new)
+- [**Kanup4m patches**](https://morphe.software/add-source?github=kanup4m/morphe-patches)
+  - [Seven](https://morphe-patches.software/?app=se.perigee.android.seven#whats-new)
+- [**LOCKhart07 patches**](https://morphe.software/add-source?github=LOCKhart07/morphe-patches)
+  - [Heads Up!](https://morphe-patches.software/?app=com.wb.headsup#whats-new)
+- [**Santodan patches**](https://morphe.software/add-source?github=Santodan/santodan-patches)
+  - [Peafowl Theme Maker for EMUI](https://morphe-patches.software/?app=h7.hamzio.emuithemeotg#whats-new)
+  - [Pillo](https://morphe-patches.software/?app=xyz.rtrvr.pillo#whats-new)
+
 ## September 11, 2026
 
 ### New Sources
