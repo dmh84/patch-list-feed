@@ -41,6 +41,13 @@ To keep the post useful and easy to maintain, this section focuses on recent upd
 
 ---
 
+## September 13, 2026
+
+### New Source
+
+- [**Hushfeed**](https://morphe.software/add-source?github=SysAdminDoc/hushfeed)
+  - [TikTok](https://morphe-patches.software/?app=com.zhiliaoapp.musically#whats-new)
+
 ## September 12, 2026
 
 ### New Sources
