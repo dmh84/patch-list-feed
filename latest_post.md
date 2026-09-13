@@ -57,10 +57,12 @@ To keep the post useful and easy to maintain, this section focuses on recent upd
   - [Peafowl Theme Maker for EMUI](https://morphe-patches.software/?app=h7.hamzio.emuithemeotg#whats-new)
   - [Pillo](https://morphe-patches.software/?app=xyz.rtrvr.pillo#whats-new)
 
-### New App
+### New Apps
 
 - **Hxreborn patches**
   - [1Weather](https://morphe-patches.software/?app=com.handmark.expressweather#whats-new)
+- **Kveld9 patches**
+  - [TikTok](https://morphe-patches.software/?app=com.zhiliaoapp.musically#whats-new)
 
 ## September 11, 2026
 
@@ -251,8 +253,6 @@ To keep the post useful and easy to maintain, this section focuses on recent upd
   - [WPSApp Pro](https://morphe-patches.software/?app=com.themausoft.wpsapppro#whats-new)
 - **Hoo-dles Patches**
   - [ASL Bloom](https://morphe-patches.software/?app=com.toleio.us#whats-new)
-- **Legendsciber's patches**
-  - [Shadow Fight 2](https://morphe-patches.software/?app=com.nekki.shadowfight#whats-new)
 - **Mix patches**
   - [iPay Sri Lanka](https://morphe-patches.software/?app=com.ipay.mobile#whats-new)
 
@@ -264,28 +264,3 @@ To keep the post useful and easy to maintain, this section focuses on recent upd
   - [File Manager - XFolder](https://morphe-patches.software/?app=files.fileexplorer.filemanager#whats-new)
 - **Legendsciber's patches**
   - [Extreme Car Driving Simulator](https://morphe-patches.software/?app=com.aim.racing#whats-new)
-
-## August 30, 2026
-
-### New Sources
-
-- [**DiskWala patches**](https://morphe.software/add-source?github=kuntal-devrat/diskwala-patches)
-  - [DiskWala](https://morphe-patches.software/?app=com.diskwalaapp#whats-new)
-- [**IPTV patches**](https://morphe.software/add-source?github=Okazakee/iptv-morphe-patches)
-  - [IPTV Pro Stream Player](https://morphe-patches.software/?app=com.iptvprostreamplayer.v1#whats-new)
-
-### New Apps
-
-- **byehi98 patches**
-  - [Alto's Adventure](https://morphe-patches.software/?app=com.noodlecake.altosadventure#whats-new)
-  - [Alto's Odyssey](https://morphe-patches.software/?app=com.noodlecake.altosodyssey#whats-new)
-  - [Traffic Rider](https://morphe-patches.software/?app=com.skgames.trafficrider#whats-new)
-- **FTL patches**
-  - [Bangla Dictionary](https://morphe-patches.software/?app=com.hdictionary.bn#whats-new)
-  - [WiFi Analyzer](https://morphe-patches.software/?app=abdelrahman.wifianalyzerpro#whats-new)
-  - [WIFI WPS WPA TESTER](https://morphe-patches.software/?app=com.tester.wpswpatester#whats-new)
-- **Hxreborn patches**
-  - [RateGlance](https://morphe-patches.software/?app=com.sry.rateglance#whats-new)
-- **Morning Entree patches**
-  - [Google Phone](https://morphe-patches.software/?app=com.google.android.dialer#whats-new)
-  - [Google Recorder](https://morphe-patches.software/?app=com.google.android.apps.recorder#whats-new)
