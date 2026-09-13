@@ -48,12 +48,19 @@ To keep the post useful and easy to maintain, this section focuses on recent upd
 - [**Hushfeed**](https://morphe.software/add-source?github=SysAdminDoc/hushfeed)
   - [TikTok](https://morphe-patches.software/?app=com.zhiliaoapp.musically#whats-new)
 
+### New Apps
+
+- **byehi98 patches**
+  - [Aliens Drive Me Crazy](https://morphe-patches.software/?app=com.rebeltwins.aliensdrivemecrazy#whats-new)
+- **FTL patches**
+  - [ImpoStack: PDF Imposition](https://morphe-patches.software/?app=com.bytedz.printflow#whats-new)
+- **Legendsciber's patches**
+  - [Shadow Fight 2](https://morphe-patches.software/?app=com.nekki.shadowfight#whats-new)
+
 ## September 12, 2026
 
 ### New Sources
 
-- [**Asken patches**](https://morphe.software/add-source?github=Nerahikada/asken-patches)
-  - [あすけん](https://morphe-patches.software/?app=jp.co.greenhouse.asken#whats-new)
 - [**Ekispert Wear patches**](https://morphe.software/add-source?github=Sfehhrths/ekispert-morphe-patches)
   - [駅すぱあと](https://morphe-patches.software/?app=jp.co.val.expert.android.aio#whats-new)
 - [**Kanup4m patches**](https://morphe.software/add-source?github=kanup4m/morphe-patches)
