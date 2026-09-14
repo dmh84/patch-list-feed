@@ -41,6 +41,20 @@ To keep the post useful and easy to maintain, this section focuses on recent upd
 
 ---
 
+## September 14, 2026
+
+### New Apps
+
+- **Edge Morphe Patches - by quantavil**
+  - [Microsoft Edge Canary](https://morphe-patches.software/?app=com.microsoft.emmx.canary#whats-new)
+- **Epxec patches**
+  - [Daylio](https://morphe-patches.software/?app=net.daylio#whats-new)
+  - [XEQ Equalizer](https://morphe-patches.software/?app=com.frack.xeq#whats-new)
+- **Hxreborn patches**
+  - [VPN Super Unlimited Proxy](https://morphe-patches.software/?app=com.free.vpn.super.hotspot.open#whats-new)
+- **Shuhaib's patches**
+  - [FFmpeg Media Encoder](https://morphe-patches.software/?app=com.silentlexx.ffmpeggui#whats-new)
+
 ## September 13, 2026
 
 ### New Source
@@ -204,11 +218,13 @@ To keep the post useful and easy to maintain, this section focuses on recent upd
 ### New Sources
 
 - [**Epxec patches**](https://morphe.software/add-source?github=epxec/android-patches)
+  - [Daylio](https://morphe-patches.software/?app=net.daylio#whats-new)
   - [Decompile](https://morphe-patches.software/?app=com.apktools.app.decompile#whats-new)
   - [FreeReels](https://morphe-patches.software/?app=com.freereels.app#whats-new)
   - [Halo Reels Pro](https://morphe-patches.software/?app=com.halo.reels.movie.fast.pro#whats-new)
   - [Remindio](https://morphe-patches.software/?app=dmytro.palamarchuk.dailyreminder#whats-new)
   - [Touch The Notch](https://morphe-patches.software/?app=com.notch.touch#whats-new)
+  - [XEQ Equalizer](https://morphe-patches.software/?app=com.frack.xeq#whats-new)
 - [**Mvaishak patches**](https://morphe.software/add-source?github=mvaishak/letterboxd-morphe-patches)
   - [Letterboxd](https://morphe-patches.software/?app=com.letterboxd.letterboxd#whats-new)
 
