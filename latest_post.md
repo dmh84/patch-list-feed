@@ -45,10 +45,13 @@ To keep the post useful and easy to maintain, this section focuses on recent upd
 
 ### New Apps
 
+- **Android TV patches**
+  - com.twentyfouri.tvbridge.rte
 - **Edge Morphe Patches - by quantavil**
   - [Microsoft Edge Canary](https://morphe-patches.software/?app=com.microsoft.emmx.canary#whats-new)
 - **Epxec patches**
   - [Daylio](https://morphe-patches.software/?app=net.daylio#whats-new)
+  - [Wavelet](https://morphe-patches.software/?app=com.pittvandewitt.wavelet#whats-new)
   - [XEQ Equalizer](https://morphe-patches.software/?app=com.frack.xeq#whats-new)
 - **Hxreborn patches**
   - [VPN Super Unlimited Proxy](https://morphe-patches.software/?app=com.free.vpn.super.hotspot.open#whats-new)
@@ -224,6 +227,7 @@ To keep the post useful and easy to maintain, this section focuses on recent upd
   - [Halo Reels Pro](https://morphe-patches.software/?app=com.halo.reels.movie.fast.pro#whats-new)
   - [Remindio](https://morphe-patches.software/?app=dmytro.palamarchuk.dailyreminder#whats-new)
   - [Touch The Notch](https://morphe-patches.software/?app=com.notch.touch#whats-new)
+  - [Wavelet](https://morphe-patches.software/?app=com.pittvandewitt.wavelet#whats-new)
   - [XEQ Equalizer](https://morphe-patches.software/?app=com.frack.xeq#whats-new)
 - [**Mvaishak patches**](https://morphe.software/add-source?github=mvaishak/letterboxd-morphe-patches)
   - [Letterboxd](https://morphe-patches.software/?app=com.letterboxd.letterboxd#whats-new)
@@ -263,25 +267,3 @@ To keep the post useful and easy to maintain, this section focuses on recent upd
 - **Morning Entree patches**
   - [Droplert](https://morphe-patches.software/?app=com.shahzaman.pricetracker#whats-new)
   - [Fylo — File Manager](https://morphe-patches.software/?app=com.aeroloom.fylofilemanager#whats-new)
-
-## September 1, 2026
-
-### New Sources
-
-- [**Bruddas patches**](https://morphe.software/add-source?github=bruddaa/bruddas-morphe-patches)
-  - [Music player](https://morphe-patches.software/?app=com.media.music.mp3.musicplayer#whats-new)
-  - [PrinterShare](https://morphe-patches.software/?app=com.dynamixsoftware.printershare#whats-new)
-  - [Unit Converter](https://morphe-patches.software/?app=com.veewalabs.unitconverter#whats-new)
-- [**Oraimo patches**](https://morphe.software/add-source?github=benzophury/oraimo-health-morphe-patches)
-  - [oraimo health](https://morphe-patches.software/?app=com.transsion.oraimohealth#whats-new)
-
-### New Apps
-
-- **Ample Patches - by naijun0403**
-  - [KakaoMap](https://morphe-patches.software/?app=net.daum.android.map#whats-new)
-- **FTL patches**
-  - [WPSApp Pro](https://morphe-patches.software/?app=com.themausoft.wpsapppro#whats-new)
-- **Hoo-dles Patches**
-  - [ASL Bloom](https://morphe-patches.software/?app=com.toleio.us#whats-new)
-- **Mix patches**
-  - [iPay Sri Lanka](https://morphe-patches.software/?app=com.ipay.mobile#whats-new)
