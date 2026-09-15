@@ -52,6 +52,8 @@ To keep the post useful and easy to maintain, this section focuses on recent upd
 
 ### New Apps
 
+- **Andrew's patches**
+  - [Facebook](https://morphe-patches.software/?app=com.facebook.katana#whats-new)
 - **braiNtropy patches**
   - [Tracearr](https://morphe-patches.software/?app=com.tracearr.mobile#whats-new)
 - **Epxec patches**
