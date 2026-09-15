@@ -60,6 +60,7 @@ To keep the post useful and easy to maintain, this section focuses on recent upd
   - [Todaii Japanese](https://morphe-patches.software/?app=mobi.eup.jpnews#whats-new)
 - **Yann’s patches**
   - [Marine Weather](https://morphe-patches.software/?app=com.lachainemeteo.marine.androidapp#whats-new)
+  - [Meteo Consult](https://morphe-patches.software/?app=com.meteoconsult.androidapp#whats-new)
 
 ## September 14, 2026
 
@@ -178,6 +179,7 @@ To keep the post useful and easy to maintain, this section focuses on recent upd
 - [**Yann’s patches**](https://morphe.software/add-source?github=yann-soliman/morphe-patches)
   - [Keepcool](https://morphe-patches.software/?app=fr.keepcool.memberapp#whats-new)
   - [Marine Weather](https://morphe-patches.software/?app=com.lachainemeteo.marine.androidapp#whats-new)
+  - [Meteo Consult](https://morphe-patches.software/?app=com.meteoconsult.androidapp#whats-new)
 
 ### New Apps
 
