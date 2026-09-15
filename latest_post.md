@@ -41,6 +41,24 @@ To keep the post useful and easy to maintain, this section focuses on recent upd
 
 ---
 
+## September 15, 2026
+
+### New Sources
+
+- [**Fripe070 patches**](https://morphe.software/add-source?github=Fripe070/PixivPatches)
+  - [Pixiv](https://morphe-patches.software/?app=jp.pxv.android#whats-new)
+- [**UniPatches**](https://morphe.software/add-source?github=Zanuaimi/UniPatches)
+  - [Hill Climb Racing](https://morphe-patches.software/?app=com.fingersoft.hillclimb#whats-new)
+
+### New Apps
+
+- **braiNtropy patches**
+  - [Tracearr](https://morphe-patches.software/?app=com.tracearr.mobile#whats-new)
+- **Epxec patches**
+  - [Todaii Japanese](https://morphe-patches.software/?app=mobi.eup.jpnews#whats-new)
+- **Yann’s patches**
+  - [Marine Weather](https://morphe-patches.software/?app=com.lachainemeteo.marine.androidapp#whats-new)
+
 ## September 14, 2026
 
 ### New Apps
@@ -157,6 +175,7 @@ To keep the post useful and easy to maintain, this section focuses on recent upd
   - [Spotify (TV)](https://morphe-patches.software/?app=com.spotify.tv.android#whats-new)
 - [**Yann’s patches**](https://morphe.software/add-source?github=yann-soliman/morphe-patches)
   - [Keepcool](https://morphe-patches.software/?app=fr.keepcool.memberapp#whats-new)
+  - [Marine Weather](https://morphe-patches.software/?app=com.lachainemeteo.marine.androidapp#whats-new)
 
 ### New Apps
 
@@ -226,6 +245,7 @@ To keep the post useful and easy to maintain, this section focuses on recent upd
   - [FreeReels](https://morphe-patches.software/?app=com.freereels.app#whats-new)
   - [Halo Reels Pro](https://morphe-patches.software/?app=com.halo.reels.movie.fast.pro#whats-new)
   - [Remindio](https://morphe-patches.software/?app=dmytro.palamarchuk.dailyreminder#whats-new)
+  - [Todaii Japanese](https://morphe-patches.software/?app=mobi.eup.jpnews#whats-new)
   - [Touch The Notch](https://morphe-patches.software/?app=com.notch.touch#whats-new)
   - [Wavelet](https://morphe-patches.software/?app=com.pittvandewitt.wavelet#whats-new)
   - [XEQ Equalizer](https://morphe-patches.software/?app=com.frack.xeq#whats-new)
