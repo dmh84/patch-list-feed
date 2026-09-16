@@ -43,10 +43,16 @@ To keep the post useful and easy to maintain, this section focuses on recent upd
 
 ## September 16, 2026
 
-### New App
+### New Apps
 
+- **byehi98 patches**
+  - [Dan the Man](https://morphe-patches.software/?app=com.halfbrick.dantheman#whats-new)
 - **Epxec patches**
   - [Wallet](https://morphe-patches.software/?app=com.droid4you.application.wallet#whats-new)
+- **Santodan patches**
+  - [Reddit](https://morphe-patches.software/?app=com.reddit.frontpage#whats-new)
+- **Yann’s patches**
+  - [Leboncoin](https://morphe-patches.software/?app=fr.leboncoin#whats-new)
 
 ## September 15, 2026
 
@@ -66,7 +72,6 @@ To keep the post useful and easy to maintain, this section focuses on recent upd
 - **Epxec patches**
   - [Todaii Japanese](https://morphe-patches.software/?app=mobi.eup.jpnews#whats-new)
 - **Yann’s patches**
-  - [Marine Weather](https://morphe-patches.software/?app=com.lachainemeteo.marine.androidapp#whats-new)
   - [Meteo Consult](https://morphe-patches.software/?app=com.meteoconsult.androidapp#whats-new)
 
 ## September 14, 2026
@@ -115,6 +120,7 @@ To keep the post useful and easy to maintain, this section focuses on recent upd
 - [**Santodan patches**](https://morphe.software/add-source?github=Santodan/santodan-patches)
   - [Peafowl Theme Maker for EMUI](https://morphe-patches.software/?app=h7.hamzio.emuithemeotg#whats-new)
   - [Pillo](https://morphe-patches.software/?app=xyz.rtrvr.pillo#whats-new)
+  - [Reddit](https://morphe-patches.software/?app=com.reddit.frontpage#whats-new)
 
 ### New Apps
 
@@ -185,7 +191,7 @@ To keep the post useful and easy to maintain, this section focuses on recent upd
   - [Spotify (TV)](https://morphe-patches.software/?app=com.spotify.tv.android#whats-new)
 - [**Yann’s patches**](https://morphe.software/add-source?github=yann-soliman/morphe-patches)
   - [Keepcool](https://morphe-patches.software/?app=fr.keepcool.memberapp#whats-new)
-  - [Marine Weather](https://morphe-patches.software/?app=com.lachainemeteo.marine.androidapp#whats-new)
+  - [Leboncoin](https://morphe-patches.software/?app=fr.leboncoin#whats-new)
   - [Meteo Consult](https://morphe-patches.software/?app=com.meteoconsult.androidapp#whats-new)
 
 ### New Apps
