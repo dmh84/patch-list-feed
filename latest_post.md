@@ -41,6 +41,13 @@ To keep the post useful and easy to maintain, this section focuses on recent upd
 
 ---
 
+## September 16, 2026
+
+### New App
+
+- **Epxec patches**
+  - [Wallet](https://morphe-patches.software/?app=com.droid4you.application.wallet#whats-new)
+
 ## September 15, 2026
 
 ### New Sources
@@ -251,6 +258,7 @@ To keep the post useful and easy to maintain, this section focuses on recent upd
   - [Remindio](https://morphe-patches.software/?app=dmytro.palamarchuk.dailyreminder#whats-new)
   - [Todaii Japanese](https://morphe-patches.software/?app=mobi.eup.jpnews#whats-new)
   - [Touch The Notch](https://morphe-patches.software/?app=com.notch.touch#whats-new)
+  - [Wallet](https://morphe-patches.software/?app=com.droid4you.application.wallet#whats-new)
   - [Wavelet](https://morphe-patches.software/?app=com.pittvandewitt.wavelet#whats-new)
   - [XEQ Equalizer](https://morphe-patches.software/?app=com.frack.xeq#whats-new)
 - [**Mvaishak patches**](https://morphe.software/add-source?github=mvaishak/letterboxd-morphe-patches)
