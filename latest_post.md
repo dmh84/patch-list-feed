@@ -48,7 +48,10 @@ To keep the post useful and easy to maintain, this section focuses on recent upd
 - **byehi98 patches**
   - [Dan the Man](https://morphe-patches.software/?app=com.halfbrick.dantheman#whats-new)
 - **Epxec patches**
+  - [Vaulty](https://morphe-patches.software/?app=com.theronrogers.vaultyfree#whats-new)
   - [Wallet](https://morphe-patches.software/?app=com.droid4you.application.wallet#whats-new)
+- **Legendsciber's patches**
+  - [Red Ball 4](https://morphe-patches.software/?app=com.FDGEntertainment.redball4.gp#whats-new)
 - **Santodan patches**
   - [Reddit](https://morphe-patches.software/?app=com.reddit.frontpage#whats-new)
 - **Yann’s patches**
@@ -104,8 +107,6 @@ To keep the post useful and easy to maintain, this section focuses on recent upd
   - [Aliens Drive Me Crazy](https://morphe-patches.software/?app=com.rebeltwins.aliensdrivemecrazy#whats-new)
 - **FTL patches**
   - [ImpoStack: PDF Imposition](https://morphe-patches.software/?app=com.bytedz.printflow#whats-new)
-- **Legendsciber's patches**
-  - [Shadow Fight 2](https://morphe-patches.software/?app=com.nekki.shadowfight#whats-new)
 
 ## September 12, 2026
 
@@ -264,6 +265,7 @@ To keep the post useful and easy to maintain, this section focuses on recent upd
   - [Remindio](https://morphe-patches.software/?app=dmytro.palamarchuk.dailyreminder#whats-new)
   - [Todaii Japanese](https://morphe-patches.software/?app=mobi.eup.jpnews#whats-new)
   - [Touch The Notch](https://morphe-patches.software/?app=com.notch.touch#whats-new)
+  - [Vaulty](https://morphe-patches.software/?app=com.theronrogers.vaultyfree#whats-new)
   - [Wallet](https://morphe-patches.software/?app=com.droid4you.application.wallet#whats-new)
   - [Wavelet](https://morphe-patches.software/?app=com.pittvandewitt.wavelet#whats-new)
   - [XEQ Equalizer](https://morphe-patches.software/?app=com.frack.xeq#whats-new)
