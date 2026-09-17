@@ -45,6 +45,15 @@ To keep the post useful and easy to maintain, this section focuses on recent upd
 
 ### New Apps
 
+- **Heval patches**
+  - [Aqua Mail](https://morphe-patches.software/?app=org.kman.AquaMail#whats-new)
+  - [EasyNotes](https://morphe-patches.software/?app=easynotes.notes.notepad.notebook.privatenotes.note#whats-new)
+  - [FairEmail](https://morphe-patches.software/?app=eu.faircode.email#whats-new)
+  - [LibrePods](https://morphe-patches.software/?app=me.kavishdevar.librepods#whats-new)
+  - [Monefy](https://morphe-patches.software/?app=com.monefy.app.lite#whats-new)
+  - [Swift Backup](https://morphe-patches.software/?app=org.swiftapps.swiftbackup#whats-new)
+  - [Tasker](https://morphe-patches.software/?app=net.dinglisch.android.taskerm#whats-new)
+  - [Weather Underground](https://morphe-patches.software/?app=com.wunderground.android.weather#whats-new)
 - **Hxreborn patches**
   - [Ringtone Maker](https://morphe-patches.software/?app=ringtonemaker.musiccutter.customringtones.freeringtonemaker#whats-new)
 - **Transit patches**
