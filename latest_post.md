@@ -43,6 +43,11 @@ To keep the post useful and easy to maintain, this section focuses on recent upd
 
 ## September 16, 2026
 
+### New Source
+
+- [**Amitaisela patches**](https://morphe.software/add-source?github=Amitaisela/travian-morphe-patches)
+  - [Travian: Legends](https://morphe-patches.software/?app=com.traviangames.travianlegendsmobile#whats-new)
+
 ### New Apps
 
 - **byehi98 patches**
@@ -51,6 +56,7 @@ To keep the post useful and easy to maintain, this section focuses on recent upd
   - [Vaulty](https://morphe-patches.software/?app=com.theronrogers.vaultyfree#whats-new)
   - [Wallet](https://morphe-patches.software/?app=com.droid4you.application.wallet#whats-new)
 - **Legendsciber's patches**
+  - [Clumsy Ninja](https://morphe-patches.software/?app=com.naturalmotion.clumsyninja#whats-new)
   - [Red Ball 4](https://morphe-patches.software/?app=com.FDGEntertainment.redball4.gp#whats-new)
 - **Santodan patches**
   - [Reddit](https://morphe-patches.software/?app=com.reddit.frontpage#whats-new)
@@ -276,12 +282,3 @@ To keep the post useful and easy to maintain, this section focuses on recent upd
 
 - **FTL patches**
   - [MX Player](https://morphe-patches.software/?app=com.mxtech.videoplayer.ad#whats-new)
-
-## September 3, 2026
-
-### New Apps
-
-- **Franticg33k patches**
-  - [Fricam](https://morphe-patches.software/?app=com.tgezginis.fricam#whats-new)
-- **zPatches**
-  - [Undercover](https://morphe-patches.software/?app=com.yanstarstudio.joss.undercover#whats-new)
