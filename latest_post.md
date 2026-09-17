@@ -43,8 +43,10 @@ To keep the post useful and easy to maintain, this section focuses on recent upd
 
 ## September 17, 2026
 
-### New App
+### New Apps
 
+- **Hxreborn patches**
+  - [Ringtone Maker](https://morphe-patches.software/?app=ringtonemaker.musiccutter.customringtones.freeringtonemaker#whats-new)
 - **Transit patches**
   - io.stark.admob
 
