@@ -41,6 +41,13 @@ To keep the post useful and easy to maintain, this section focuses on recent upd
 
 ---
 
+## September 17, 2026
+
+### New App
+
+- **Transit patches**
+  - io.stark.admob
+
 ## September 16, 2026
 
 ### New Source
