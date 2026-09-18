@@ -50,6 +50,11 @@ To keep the post useful and easy to maintain, this section focuses on recent upd
 - [**Ryley patches**](https://morphe.software/add-source?github=LimeLimes/cbc-patches)
   - [CBC News](https://morphe-patches.software/?app=ca.cbc.mobile.android.cbcnewsandroidwebview#whats-new)
 
+### New App
+
+- **byehi98 patches**
+  - [Swift Backup](https://morphe-patches.software/?app=org.swiftapps.swiftbackup#whats-new)
+
 ## September 17, 2026
 
 ### New Apps
