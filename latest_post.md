@@ -56,6 +56,8 @@ To keep the post useful and easy to maintain, this section focuses on recent upd
   - [Weather Underground](https://morphe-patches.software/?app=com.wunderground.android.weather#whats-new)
 - **Hxreborn patches**
   - [Ringtone Maker](https://morphe-patches.software/?app=ringtonemaker.musiccutter.customringtones.freeringtonemaker#whats-new)
+- **Legendsciber's patches**
+  - [Dan The Man](https://morphe-patches.software/?app=com.halfbrick.dantheman#whats-new)
 - **Transit patches**
   - io.stark.admob
 
@@ -74,7 +76,6 @@ To keep the post useful and easy to maintain, this section focuses on recent upd
   - [Vaulty](https://morphe-patches.software/?app=com.theronrogers.vaultyfree#whats-new)
   - [Wallet](https://morphe-patches.software/?app=com.droid4you.application.wallet#whats-new)
 - **Legendsciber's patches**
-  - [Clumsy Ninja](https://morphe-patches.software/?app=com.naturalmotion.clumsyninja#whats-new)
   - [Red Ball 4](https://morphe-patches.software/?app=com.FDGEntertainment.redball4.gp#whats-new)
 - **Santodan patches**
   - [Reddit](https://morphe-patches.software/?app=com.reddit.frontpage#whats-new)
@@ -94,8 +95,6 @@ To keep the post useful and easy to maintain, this section focuses on recent upd
 
 - **Andrew's patches**
   - [Facebook](https://morphe-patches.software/?app=com.facebook.katana#whats-new)
-- **braiNtropy patches**
-  - [Tracearr](https://morphe-patches.software/?app=com.tracearr.mobile#whats-new)
 - **Epxec patches**
   - [Todaii Japanese](https://morphe-patches.software/?app=mobi.eup.jpnews#whats-new)
 - **Yann’s patches**
@@ -276,27 +275,3 @@ To keep the post useful and easy to maintain, this section focuses on recent upd
   - [Telegram](https://morphe-patches.software/?app=org.telegram.messenger.web#whats-new)
 - **Android TV patches**
   - com.espn.score_center
-
-## September 4, 2026
-
-### New Sources
-
-- [**Epxec patches**](https://morphe.software/add-source?github=epxec/android-patches)
-  - [Daylio](https://morphe-patches.software/?app=net.daylio#whats-new)
-  - [Decompile](https://morphe-patches.software/?app=com.apktools.app.decompile#whats-new)
-  - [FreeReels](https://morphe-patches.software/?app=com.freereels.app#whats-new)
-  - [Halo Reels Pro](https://morphe-patches.software/?app=com.halo.reels.movie.fast.pro#whats-new)
-  - [Remindio](https://morphe-patches.software/?app=dmytro.palamarchuk.dailyreminder#whats-new)
-  - [Todaii Japanese](https://morphe-patches.software/?app=mobi.eup.jpnews#whats-new)
-  - [Touch The Notch](https://morphe-patches.software/?app=com.notch.touch#whats-new)
-  - [Vaulty](https://morphe-patches.software/?app=com.theronrogers.vaultyfree#whats-new)
-  - [Wallet](https://morphe-patches.software/?app=com.droid4you.application.wallet#whats-new)
-  - [Wavelet](https://morphe-patches.software/?app=com.pittvandewitt.wavelet#whats-new)
-  - [XEQ Equalizer](https://morphe-patches.software/?app=com.frack.xeq#whats-new)
-- [**Mvaishak patches**](https://morphe.software/add-source?github=mvaishak/letterboxd-morphe-patches)
-  - [Letterboxd](https://morphe-patches.software/?app=com.letterboxd.letterboxd#whats-new)
-
-### New App
-
-- **FTL patches**
-  - [MX Player](https://morphe-patches.software/?app=com.mxtech.videoplayer.ad#whats-new)
