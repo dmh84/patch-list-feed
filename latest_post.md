@@ -55,8 +55,12 @@ To keep the post useful and easy to maintain, this section focuses on recent upd
 - [**Nai's Extra patches**](https://morphe.software/add-source?github=Nai64/Nai64ExtraPatches)
   - [Bandcamp](https://morphe-patches.software/?app=com.bandcamp.android#whats-new)
 
-### New App
+### New Apps
 
+- **Heval patches**
+  - [jetAudio](https://morphe-patches.software/?app=com.jetappfactory.jetaudio#whats-new)
+  - [Textra](https://morphe-patches.software/?app=com.textra#whats-new)
+  - [Unified Remote](https://morphe-patches.software/?app=com.Relmtech.Remote#whats-new)
 - **Hxreborn patches**
   - [vpnify](https://morphe-patches.software/?app=com.vpn.free.hotspot.secure.vpnify#whats-new)
 
