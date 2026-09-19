@@ -47,8 +47,18 @@ To keep the post useful and easy to maintain, this section focuses on recent upd
 
 - [**AIS patches**](https://morphe.software/add-source?github=RjBiermann/brave-waffle)
   - [AIS](https://morphe-patches.software/?app=com.streamdev.aiostreamer#whats-new)
+- [**Ak800i patches**](https://morphe.software/add-source?github=ak800i/mixplorer-patches-for-morphe)
+  - [MiXplorer](https://morphe-patches.software/?app=com.mixplorer#whats-new)
+  - [MiXplorer Beta](https://morphe-patches.software/?app=com.mixplorer.beta#whats-new)
 - [**Foxxo patches**](https://morphe.software/add-source?github=FoxxoOwO/foxxo-patches)
   - [AI Plant Doctor](https://morphe-patches.software/?app=me.jodoin.aiplantdoctor#whats-new)
+- [**Nai's Extra patches**](https://morphe.software/add-source?github=Nai64/Nai64ExtraPatches)
+  - [Bandcamp](https://morphe-patches.software/?app=com.bandcamp.android#whats-new)
+
+### New App
+
+- **Hxreborn patches**
+  - [vpnify](https://morphe-patches.software/?app=com.vpn.free.hotspot.secure.vpnify#whats-new)
 
 ## September 18, 2026
 
