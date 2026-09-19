@@ -41,6 +41,15 @@ To keep the post useful and easy to maintain, this section focuses on recent upd
 
 ---
 
+## September 19, 2026
+
+### New Sources
+
+- [**AIS patches**](https://morphe.software/add-source?github=RjBiermann/brave-waffle)
+  - [AIS](https://morphe-patches.software/?app=com.streamdev.aiostreamer#whats-new)
+- [**Foxxo patches**](https://morphe.software/add-source?github=FoxxoOwO/foxxo-patches)
+  - [AI Plant Doctor](https://morphe-patches.software/?app=me.jodoin.aiplantdoctor#whats-new)
+
 ## September 18, 2026
 
 ### New Sources
@@ -59,8 +68,6 @@ To keep the post useful and easy to maintain, this section focuses on recent upd
   - [Flashscore](https://morphe-patches.software/?app=eu.livesport.FlashScore_com#whats-new)
   - [OneFootball](https://morphe-patches.software/?app=de.motain.iliga#whats-new)
   - [OsmAnd](https://morphe-patches.software/?app=net.osmand#whats-new)
-- **Smart Launcher patches**
-  - [AI Plant Doctor](https://morphe-patches.software/?app=me.jodoin.aiplantdoctor#whats-new)
 
 ## September 17, 2026
 
