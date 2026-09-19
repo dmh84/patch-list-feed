@@ -50,10 +50,17 @@ To keep the post useful and easy to maintain, this section focuses on recent upd
 - [**Ryley patches**](https://morphe.software/add-source?github=LimeLimes/cbc-patches)
   - [CBC News](https://morphe-patches.software/?app=ca.cbc.mobile.android.cbcnewsandroidwebview#whats-new)
 
-### New App
+### New Apps
 
 - **byehi98 patches**
   - [Swift Backup](https://morphe-patches.software/?app=org.swiftapps.swiftbackup#whats-new)
+- **Heval patches**
+  - [Bluecoins](https://morphe-patches.software/?app=com.rammigsoftware.bluecoins#whats-new)
+  - [Flashscore](https://morphe-patches.software/?app=eu.livesport.FlashScore_com#whats-new)
+  - [OneFootball](https://morphe-patches.software/?app=de.motain.iliga#whats-new)
+  - [OsmAnd](https://morphe-patches.software/?app=net.osmand#whats-new)
+- **Smart Launcher patches**
+  - [AI Plant Doctor](https://morphe-patches.software/?app=me.jodoin.aiplantdoctor#whats-new)
 
 ## September 17, 2026
 
@@ -65,7 +72,6 @@ To keep the post useful and easy to maintain, this section focuses on recent upd
   - [FairEmail](https://morphe-patches.software/?app=eu.faircode.email#whats-new)
   - [LibrePods](https://morphe-patches.software/?app=me.kavishdevar.librepods#whats-new)
   - [Monefy](https://morphe-patches.software/?app=com.monefy.app.lite#whats-new)
-  - [Swift Backup](https://morphe-patches.software/?app=org.swiftapps.swiftbackup#whats-new)
   - [Tasker](https://morphe-patches.software/?app=net.dinglisch.android.taskerm#whats-new)
   - [Weather Underground](https://morphe-patches.software/?app=com.wunderground.android.weather#whats-new)
 - **Hxreborn patches**
@@ -270,22 +276,3 @@ To keep the post useful and easy to maintain, this section focuses on recent upd
   - [Burrito Bison: Launcha Libre](https://morphe-patches.software/?app=com.kongregate.mobile.burritobison3.google#whats-new)
 - **DanielTheManiel's patches**
   - [Counter](https://morphe-patches.software/?app=com.izorg.munchkin#whats-new)
-
-## September 5, 2026
-
-### New Sources
-
-- [**Alalloush patches**](https://morphe.software/add-source?github=alalloush/xperia-1v-camera-patches)
-  - [Photography Pro](https://morphe-patches.software/?app=com.sonymobile.photopro#whats-new)
-  - [Sony Camera](https://morphe-patches.software/?app=jp.co.sony.mc.cameraapp#whats-new)
-- [**Discord patches**](https://morphe.software/add-source?github=jrddupont/discord-patches)
-  - [Discord](https://morphe-patches.software/?app=com.discord#whats-new)
-- [**Supreme patches**](https://morphe.software/add-source?github=drnhzn/supreme-patches)
-  - [Reclub](https://morphe-patches.software/?app=co.reclub#whats-new)
-
-### New Apps
-
-- **aapam patches**
-  - [Telegram](https://morphe-patches.software/?app=org.telegram.messenger.web#whats-new)
-- **Android TV patches**
-  - com.espn.score_center
