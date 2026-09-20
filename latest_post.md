@@ -63,6 +63,8 @@ To keep the post useful and easy to maintain, this section focuses on recent upd
   - [Unified Remote](https://morphe-patches.software/?app=com.Relmtech.Remote#whats-new)
 - **Hxreborn patches**
   - [vpnify](https://morphe-patches.software/?app=com.vpn.free.hotspot.secure.vpnify#whats-new)
+- **Legendsciber's patches**
+  - [World Soccer Champs](https://morphe-patches.software/?app=com.monkeyibrow.worldsoccerchamps#whats-new)
 
 ## September 18, 2026
 
@@ -282,18 +284,3 @@ To keep the post useful and easy to maintain, this section focuses on recent upd
 - **Miguel's patches**
   - [Duck Life 6: Space](https://morphe-patches.software/?app=com.mad.DuckLifeSpace#whats-new)
   - [Lara Croft: Guardian of Light](https://morphe-patches.software/?app=com.feralinteractive.laracroftgol_android#whats-new)
-
-## September 6, 2026
-
-### New Source
-
-- [**Ryuya0124 patches**](https://morphe.software/add-source?github=ryuya0124/gemini-microg-patches)
-  - [Google](https://morphe-patches.software/?app=com.google.android.googlequicksearchbox#whats-new)
-  - [Google Gemini](https://morphe-patches.software/?app=com.google.android.apps.bard#whats-new)
-
-### New Apps
-
-- **byehi98 patches**
-  - [Burrito Bison: Launcha Libre](https://morphe-patches.software/?app=com.kongregate.mobile.burritobison3.google#whats-new)
-- **DanielTheManiel's patches**
-  - [Counter](https://morphe-patches.software/?app=com.izorg.munchkin#whats-new)
