@@ -58,10 +58,15 @@ To keep the post useful and easy to maintain, this section focuses on recent upd
 - [**Nickcomua patches**](https://morphe.software/add-source?github=nickcomua/airofit-pro2-morphe-patches)
   - [Airofit Elite](https://morphe-patches.software/?app=com.airofit.elite#whats-new)
 
-### New App
+### New Apps
 
 - **byehi98 patches**
   - [Into the Dead 2](https://morphe-patches.software/?app=com.pikpok.dr2.play#whats-new)
+- **Hxreborn patches**
+  - [atvTools](https://morphe-patches.software/?app=dev.vodik7.atvtools#whats-new)
+  - [Klassik Radio+](https://morphe-patches.software/?app=de.klassikradio.app#whats-new)
+- **Shuhaib's patches**
+  - [Vidma](https://morphe-patches.software/?app=vidma.video.editor.videomaker#whats-new)
 
 ## September 19, 2026
 
