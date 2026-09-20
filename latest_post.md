@@ -41,6 +41,28 @@ To keep the post useful and easy to maintain, this section focuses on recent upd
 
 ---
 
+## September 20, 2026
+
+### New Sources
+
+- [**Akash Sriram patches**](https://morphe.software/add-source?github=Akash-Sriram/morphe-google-photos)
+  - [Google Photos](https://morphe-patches.software/?app=com.google.android.apps.photos#whats-new)
+- [**Dowjames patches**](https://morphe.software/add-source?github=dowjames/morphe-patches)
+  - [Pool Math](https://morphe-patches.software/?app=com.troublefreepool.poolmath#whats-new)
+  - [PreMom](https://morphe-patches.software/?app=premom.eh.com.ehpremomapp#whats-new)
+  - [Think Dirty](https://morphe-patches.software/?app=com.thinkdirty.thinkdirtyapp#whats-new)
+  - [Waze](https://morphe-patches.software/?app=com.waze#whats-new)
+  - [Yuka](https://morphe-patches.software/?app=io.yuka.android#whats-new)
+- [**JPTT patches**](https://morphe.software/add-source?github=lchanc3/morphe-patches)
+  - [JPTT](https://morphe-patches.software/?app=com.joshua.jptt#whats-new)
+- [**Nickcomua patches**](https://morphe.software/add-source?github=nickcomua/airofit-pro2-morphe-patches)
+  - [Airofit Elite](https://morphe-patches.software/?app=com.airofit.elite#whats-new)
+
+### New App
+
+- **byehi98 patches**
+  - [Into the Dead 2](https://morphe-patches.software/?app=com.pikpok.dr2.play#whats-new)
+
 ## September 19, 2026
 
 ### New Sources
@@ -49,7 +71,6 @@ To keep the post useful and easy to maintain, this section focuses on recent upd
   - [AIS](https://morphe-patches.software/?app=com.streamdev.aiostreamer#whats-new)
 - [**Ak800i patches**](https://morphe.software/add-source?github=ak800i/mixplorer-patches-for-morphe)
   - [MiXplorer](https://morphe-patches.software/?app=com.mixplorer#whats-new)
-  - [MiXplorer Beta](https://morphe-patches.software/?app=com.mixplorer.beta#whats-new)
 - [**Foxxo patches**](https://morphe.software/add-source?github=FoxxoOwO/foxxo-patches)
   - [AI Plant Doctor](https://morphe-patches.software/?app=me.jodoin.aiplantdoctor#whats-new)
 - [**Nai's Extra patches**](https://morphe.software/add-source?github=Nai64/Nai64ExtraPatches)
