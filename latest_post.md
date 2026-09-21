@@ -43,8 +43,18 @@ To keep the post useful and easy to maintain, this section focuses on recent upd
 
 ## September 21, 2026
 
-### New App
+### New Source
 
+- [**Wagg13Patch patches**](https://morphe.software/add-source?github=WaggBR/Wagg13Patch_Morphe)
+  - [Bisbi](https://morphe-patches.software/?app=com.nouxi.bisbi#whats-new)
+  - [Native Camera](https://morphe-patches.software/?app=com.rawcam.app#whats-new)
+  - [Tinder](https://morphe-patches.software/?app=com.tinder#whats-new)
+
+### New Apps
+
+- **Hxreborn patches**
+  - [MyMoveset](https://morphe-patches.software/?app=com.soulbreakers.mymoveset#whats-new)
+  - [Realme Link](https://morphe-patches.software/?app=com.realme.link#whats-new)
 - **Proxma patches**
   - [OLX](https://morphe-patches.software/?app=com.olx.pk#whats-new)
 
