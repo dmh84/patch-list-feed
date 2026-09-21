@@ -62,6 +62,8 @@ To keep the post useful and easy to maintain, this section focuses on recent upd
 
 - **byehi98 patches**
   - [Into the Dead 2](https://morphe-patches.software/?app=com.pikpok.dr2.play#whats-new)
+- **De-Vanced Patches - by RookieEnough**
+  - [Peacock TV](https://morphe-patches.software/?app=com.peacocktv.peacockandroid#whats-new)
 - **Hxreborn patches**
   - [atvTools](https://morphe-patches.software/?app=dev.vodik7.atvtools#whats-new)
   - [Klassik Radio+](https://morphe-patches.software/?app=de.klassikradio.app#whats-new)
@@ -298,15 +300,3 @@ To keep the post useful and easy to maintain, this section focuses on recent upd
   - [Duck Life 4](https://morphe-patches.software/?app=com.mad.ducklife#whats-new)
 - **Morning Entree patches**
   - [Gym Workout](https://morphe-patches.software/?app=gymworkout.gym.gymlog.gymtrainer#whats-new)
-
-## September 7, 2026
-
-### New Apps
-
-- **byehi98 patches**
-  - [Prince of Persia: The Lost Crown](https://morphe-patches.software/?app=com.ubisoft.princeofpersia.thelostcrown.mobile.action.adventure.platform#whats-new)
-- **Hxreborn patches**
-  - [Quranify](https://morphe-patches.software/?app=com.mchutov.Quranify#whats-new)
-- **Miguel's patches**
-  - [Duck Life 6: Space](https://morphe-patches.software/?app=com.mad.DuckLifeSpace#whats-new)
-  - [Lara Croft: Guardian of Light](https://morphe-patches.software/?app=com.feralinteractive.laracroftgol_android#whats-new)
