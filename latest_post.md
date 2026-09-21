@@ -41,6 +41,13 @@ To keep the post useful and easy to maintain, this section focuses on recent upd
 
 ---
 
+## September 21, 2026
+
+### New App
+
+- **Proxma patches**
+  - [OLX](https://morphe-patches.software/?app=com.olx.pk#whats-new)
+
 ## September 20, 2026
 
 ### New Sources
