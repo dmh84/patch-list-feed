@@ -41,6 +41,31 @@ To keep the post useful and easy to maintain, this section focuses on recent upd
 
 ---
 
+## September 22, 2026
+
+### New Sources
+
+- [**Debakar patches**](https://morphe.software/add-source?github=debakarr/morphe-patches)
+  - [Amazon India](https://morphe-patches.software/?app=in.amazon.mShop.android.shopping#whats-new)
+  - [Amazon Shopping](https://morphe-patches.software/?app=com.amazon.mShop.android.shopping#whats-new)
+  - [Flipkart](https://morphe-patches.software/?app=com.flipkart.android#whats-new)
+- [**Dudek patches**](https://morphe.software/add-source?github=dawidd612/dudeks-morphe-patches)
+  - [AndroPods](https://morphe-patches.software/?app=pro.vitalii.andropods#whats-new)
+  - [Instagram](https://morphe-patches.software/?app=com.instagram.android#whats-new)
+  - [Mapa Turystyczna](https://morphe-patches.software/?app=pl.mapa_turystyczna.app#whats-new)
+  - [TikTok](https://morphe-patches.software/?app=com.zhiliaoapp.musically#whats-new)
+- [**Jacobs patches**](https://morphe.software/add-source?github=JacobPlaysGames/CrimeRadar-Morphe-Patches)
+  - [CrimeRadar](https://morphe-patches.software/?app=com.newsbreak.crimeradar#whats-new)
+  - [Scanner Radio](https://morphe-patches.software/?app=com.scannerradio#whats-new)
+
+### New Apps
+
+- **Epxec patches**
+  - [Mazii](https://morphe-patches.software/?app=com.mazii.dictionary#whats-new)
+- **Hxreborn patches**
+  - [AtloMaps](https://morphe-patches.software/?app=com.atlogis.atlomaps#whats-new)
+  - [Proton Pass](https://morphe-patches.software/?app=proton.android.pass#whats-new)
+
 ## September 21, 2026
 
 ### New Source
