@@ -52,6 +52,8 @@ To keep the post useful and easy to maintain, this section focuses on recent upd
 
 ### New Apps
 
+- **Chiggi SonyLIV Patches - by durgesh0505**
+  - [Big Hunter](https://morphe-patches.software/?app=com.kakarod.bighunter#whats-new)
 - **D-moniak patches**
   - [CoinSnap](https://morphe-patches.software/?app=com.coinidentifyer.ai#whats-new)
 - **Hxreborn patches**
@@ -291,32 +293,3 @@ To keep the post useful and easy to maintain, this section focuses on recent upd
   - [Niagara Launcher](https://morphe-patches.software/?app=bitpit.launcher#whats-new)
 - **Shuhaib's patches**
   - [Footej Camera](https://morphe-patches.software/?app=com.footej.camera#whats-new)
-
-## September 8, 2026
-
-### New Sources
-
-- [**AFFiNE patches**](https://morphe.software/add-source?github=picarica/My-moprhe-patches)
-  - [AFFiNE](https://morphe-patches.software/?app=app.affine.pro#whats-new)
-- [**Psylos patches**](https://morphe.software/add-source?github=lootdev78/psylos-morphe-patches)
-  - [SoundCloud](https://morphe-patches.software/?app=com.soundcloud.android#whats-new)
-- [**RingConn patches**](https://morphe.software/add-source?github=DarioDKM/ringconn-patches)
-  - [RingConn](https://morphe-patches.software/?app=com.gdjztech.ringconn#whats-new)
-- [**Spotify TV patches**](https://morphe.software/add-source?github=ethan-manny/spotify-tv-crossfade)
-  - [Spotify (TV)](https://morphe-patches.software/?app=com.spotify.tv.android#whats-new)
-- [**Yann’s patches**](https://morphe.software/add-source?github=yann-soliman/morphe-patches)
-  - [Keepcool](https://morphe-patches.software/?app=fr.keepcool.memberapp#whats-new)
-  - [Leboncoin](https://morphe-patches.software/?app=fr.leboncoin#whats-new)
-  - [Meteo Consult](https://morphe-patches.software/?app=com.meteoconsult.androidapp#whats-new)
-
-### New Apps
-
-- **Ample Patches - by naijun0403**
-  - [NAVER Map](https://morphe-patches.software/?app=com.nhn.android.nmap#whats-new)
-- **Hxreborn patches**
-  - [BetterSleep](https://morphe-patches.software/?app=ipnossoft.rma.free#whats-new)
-  - [RISE Sleep Tracker](https://morphe-patches.software/?app=com.risesci.nyx#whats-new)
-- **Miguel's patches**
-  - [Duck Life 4](https://morphe-patches.software/?app=com.mad.ducklife#whats-new)
-- **Morning Entree patches**
-  - [Gym Workout](https://morphe-patches.software/?app=gymworkout.gym.gymlog.gymtrainer#whats-new)
