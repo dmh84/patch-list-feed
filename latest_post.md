@@ -51,6 +51,7 @@ To keep the post useful and easy to maintain, this section focuses on recent upd
   - [Flipkart](https://morphe-patches.software/?app=com.flipkart.android#whats-new)
 - [**Dudek patches**](https://morphe.software/add-source?github=dawidd612/dudeks-morphe-patches)
   - [AndroPods](https://morphe-patches.software/?app=pro.vitalii.andropods#whats-new)
+  - [Gardenscapes](https://morphe-patches.software/?app=com.playrix.gardenscapes#whats-new)
   - [Instagram](https://morphe-patches.software/?app=com.instagram.android#whats-new)
   - [Mapa Turystyczna](https://morphe-patches.software/?app=pl.mapa_turystyczna.app#whats-new)
   - [TikTok](https://morphe-patches.software/?app=com.zhiliaoapp.musically#whats-new)
@@ -65,6 +66,8 @@ To keep the post useful and easy to maintain, this section focuses on recent upd
 - **Hxreborn patches**
   - [AtloMaps](https://morphe-patches.software/?app=com.atlogis.atlomaps#whats-new)
   - [Proton Pass](https://morphe-patches.software/?app=proton.android.pass#whats-new)
+- **Shuhaib's patches**
+  - [Video to MP3](https://morphe-patches.software/?app=mp3videoconverter.videotomp3.videotomp3converter#whats-new)
 
 ## September 21, 2026
 
@@ -137,8 +140,6 @@ To keep the post useful and easy to maintain, this section focuses on recent upd
   - [Unified Remote](https://morphe-patches.software/?app=com.Relmtech.Remote#whats-new)
 - **Hxreborn patches**
   - [vpnify](https://morphe-patches.software/?app=com.vpn.free.hotspot.secure.vpnify#whats-new)
-- **Legendsciber's patches**
-  - [World Soccer Champs](https://morphe-patches.software/?app=com.monkeyibrow.worldsoccerchamps#whats-new)
 
 ## September 18, 2026
 
