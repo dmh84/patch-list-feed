@@ -52,6 +52,8 @@ To keep the post useful and easy to maintain, this section focuses on recent upd
 
 ### New Apps
 
+- **D-moniak patches**
+  - [CoinSnap](https://morphe-patches.software/?app=com.coinidentifyer.ai#whats-new)
 - **Hxreborn patches**
   - [MyMoveset](https://morphe-patches.software/?app=com.soulbreakers.mymoveset#whats-new)
   - [Realme Link](https://morphe-patches.software/?app=com.realme.link#whats-new)
@@ -116,6 +118,7 @@ To keep the post useful and easy to maintain, this section focuses on recent upd
 ### New Sources
 
 - [**D-moniak patches**](https://morphe.software/add-source?github=SatanMerde/D-moniakPatches)
+  - [CoinSnap](https://morphe-patches.software/?app=com.coinidentifyer.ai#whats-new)
   - [Hungry Shark World](https://morphe-patches.software/?app=com.ubisoft.hungrysharkworld#whats-new)
 - [**Ryley patches**](https://morphe.software/add-source?github=LimeLimes/cbc-patches)
   - [CBC News](https://morphe-patches.software/?app=ca.cbc.mobile.android.cbcnewsandroidwebview#whats-new)
