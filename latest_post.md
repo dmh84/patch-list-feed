@@ -54,6 +54,18 @@ To keep the post useful and easy to maintain, this section focuses on recent upd
 - [**Virzak patches**](https://morphe.software/add-source?github=virzak/morphe-patches)
   - [RuTube](https://morphe-patches.software/?app=ru.rutube.app#whats-new)
 
+### New Apps
+
+- **byehi98 patches**
+  - [Crossy Road](https://morphe-patches.software/?app=com.yodo1.crossyroad#whats-new)
+- **Legendsciber's patches**
+  - [Soccer Star](https://morphe-patches.software/?app=com.soccer.score.star#whats-new)
+- **Riky patches**
+  - [VN](https://morphe-patches.software/?app=com.frontrow.vlog#whats-new)
+- **Shuhaib's patches**
+  - [GoCut](https://morphe-patches.software/?app=com.videoedit.gocut#whats-new)
+  - [OviCut](https://morphe-patches.software/?app=video.editor.videoeditor.musicvideoeditor#whats-new)
+
 ## September 22, 2026
 
 ### New Sources
