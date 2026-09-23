@@ -41,6 +41,19 @@ To keep the post useful and easy to maintain, this section focuses on recent upd
 
 ---
 
+## September 23, 2026
+
+### New Sources
+
+- [**Anilili patches**](https://morphe.software/add-source?github=thegibbonn/morphe-patches-anilili)
+  - [Anilili](https://morphe-patches.software/?app=com.miruronative#whats-new)
+- [**Duy patches**](https://morphe.software/add-source?github=phamleduy04/duy-patches)
+  - [FlightConnections](https://morphe-patches.software/?app=com.flightconnections#whats-new)
+- [**Jeff-tek patches**](https://morphe.software/add-source?github=Jeff-tek/jeff-patches)
+  - [MP3 Cutter and Ringtone Maker](https://morphe-patches.software/?app=ringtone.maker.mp3.cutter.audio#whats-new)
+- [**Virzak patches**](https://morphe.software/add-source?github=virzak/morphe-patches)
+  - [RuTube](https://morphe-patches.software/?app=ru.rutube.app#whats-new)
+
 ## September 22, 2026
 
 ### New Sources
