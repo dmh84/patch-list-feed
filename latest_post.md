@@ -51,6 +51,8 @@ To keep the post useful and easy to maintain, this section focuses on recent upd
   - [FlightConnections](https://morphe-patches.software/?app=com.flightconnections#whats-new)
 - [**Jeff-tek patches**](https://morphe.software/add-source?github=Jeff-tek/jeff-patches)
   - [MP3 Cutter and Ringtone Maker](https://morphe-patches.software/?app=ringtone.maker.mp3.cutter.audio#whats-new)
+- [**Supperelias2 patches**](https://morphe.software/add-source?github=Supperelias2/sbs-morphe-patches)
+  - [SBS On Demand](https://morphe-patches.software/?app=com.sbs.ondemand.android#whats-new)
 - [**Virzak patches**](https://morphe.software/add-source?github=virzak/morphe-patches)
   - [RuTube](https://morphe-patches.software/?app=ru.rutube.app#whats-new)
 
