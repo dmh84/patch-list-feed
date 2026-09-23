@@ -66,6 +66,9 @@ To keep the post useful and easy to maintain, this section focuses on recent upd
 - **Hxreborn patches**
   - [AtloMaps](https://morphe-patches.software/?app=com.atlogis.atlomaps#whats-new)
   - [Proton Pass](https://morphe-patches.software/?app=proton.android.pass#whats-new)
+- **Kveld9 patches**
+  - [NokoPrint - WiFi, Bluetooth, USB](https://morphe-patches.software/?app=com.nokoprint#whats-new)
+  - [Xiaomi Earbuds](https://morphe-patches.software/?app=com.mi.earphone#whats-new)
 - **Shuhaib's patches**
   - [Video to MP3](https://morphe-patches.software/?app=mp3videoconverter.videotomp3.videotomp3converter#whats-new)
 
@@ -310,12 +313,3 @@ To keep the post useful and easy to maintain, this section focuses on recent upd
 - **Kveld9 patches**
   - [Hevy - Gym Log Workout Tracker](https://morphe-patches.software/?app=com.hevy#whats-new)
   - [Vivaldi Browser - Fast & Safe](https://morphe-patches.software/?app=com.vivaldi.browser#whats-new)
-
-## September 9, 2026
-
-### New Apps
-
-- **d0nj patches**
-  - [Niagara Launcher](https://morphe-patches.software/?app=bitpit.launcher#whats-new)
-- **Shuhaib's patches**
-  - [Footej Camera](https://morphe-patches.software/?app=com.footej.camera#whats-new)
