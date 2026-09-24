@@ -41,6 +41,25 @@ To keep the post useful and easy to maintain, this section focuses on recent upd
 
 ---
 
+## September 24, 2026
+
+### New Sources
+
+- [**Giaaaacomo**](https://morphe.software/add-source?github=giaaaacomo/nifty-patches-selection)
+  - [Instagram](https://morphe-patches.software/?app=com.instagram.android#whats-new)
+  - [Samsung Daily Board](https://morphe-patches.software/?app=com.samsung.android.homemode#whats-new)
+- [**Nagol12344**](https://morphe.software/add-source?github=Nagol12344/patch)
+  - [Better Place](https://morphe-patches.software/?app=com.bplace#whats-new)
+- [**Testiwy268**](https://morphe.software/add-source?github=testiwy268/morphe-patches)
+  - [Dual Space: Multi App Clone](https://morphe-patches.software/?app=com.xunijun.app.gp#whats-new)
+- [**TimBuckrue**](https://morphe.software/add-source?github=TimBuckrue/nyt-games-vrr-patch)
+  - [NYT Games](https://morphe-patches.software/?app=com.nytimes.crossword#whats-new)
+
+### New App
+
+- **Epxec**
+  - [An Elmwood Trail](https://morphe-patches.software/?app=com.techyonic.textbasedrpg#whats-new)
+
 ## September 23, 2026
 
 ### New Sources
