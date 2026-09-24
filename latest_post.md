@@ -55,10 +55,14 @@ To keep the post useful and easy to maintain, this section focuses on recent upd
 - [**TimBuckrue**](https://morphe.software/add-source?github=TimBuckrue/nyt-games-vrr-patch)
   - [NYT Games](https://morphe-patches.software/?app=com.nytimes.crossword#whats-new)
 
-### New App
+### New Apps
 
 - **Epxec**
   - [An Elmwood Trail](https://morphe-patches.software/?app=com.techyonic.textbasedrpg#whats-new)
+- **Legendsciber's**
+  - [Aphelion](https://morphe-patches.software/?app=com.wave.aphelion#whats-new)
+- **Shuhaib's**
+  - [Facebook Lite](https://morphe-patches.software/?app=com.facebook.lite#whats-new)
 
 ## September 23, 2026
 
