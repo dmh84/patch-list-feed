@@ -54,6 +54,14 @@ To keep the post useful and easy to maintain, this section focuses on recent upd
   - [Stick War: Legacy](https://morphe-patches.software/?app=com.maxgames.stickwarlegacy#whats-new)
 - **byehi98**
   - [Subway Surfers](https://morphe-patches.software/?app=com.kiloo.subwaysurf#whats-new)
+- **D-moniak**
+  - [Hungry Shark Evolution](https://morphe-patches.software/?app=com.fgol.HungrySharkEvolution#whats-new)
+  - [Hungry Shark Heroes](https://morphe-patches.software/?app=com.ubisoft.hungrysharkheroes#whats-new)
+  - [Shades: Shadow Fight Roguelike](https://morphe-patches.software/?app=com.nekki.shadowfight.shades#whats-new)
+  - [Shadow Fight 2](https://morphe-patches.software/?app=com.nekki.shadowfight#whats-new)
+  - [Shadow Fight 2 Special Edition](https://morphe-patches.software/?app=com.nekki.shadowfight2.specialedition#whats-new)
+  - [Shadow Fight 3](https://morphe-patches.software/?app=com.nekki.shadowfight3#whats-new)
+  - [Shadow Fight 4: Arena](https://morphe-patches.software/?app=com.nekki.shadowfightarena#whats-new)
 - **Foxxo**
   - [Instagram](https://morphe-patches.software/?app=com.instagram.android#whats-new)
 - **Santodan**
@@ -242,7 +250,14 @@ To keep the post useful and easy to maintain, this section focuses on recent upd
 
 - [**D-moniak**](https://morphe.software/add-source?github=SatanMerde/D-moniakPatches)
   - [CoinSnap](https://morphe-patches.software/?app=com.coinidentifyer.ai#whats-new)
+  - [Hungry Shark Evolution](https://morphe-patches.software/?app=com.fgol.HungrySharkEvolution#whats-new)
+  - [Hungry Shark Heroes](https://morphe-patches.software/?app=com.ubisoft.hungrysharkheroes#whats-new)
   - [Hungry Shark World](https://morphe-patches.software/?app=com.ubisoft.hungrysharkworld#whats-new)
+  - [Shades: Shadow Fight Roguelike](https://morphe-patches.software/?app=com.nekki.shadowfight.shades#whats-new)
+  - [Shadow Fight 2](https://morphe-patches.software/?app=com.nekki.shadowfight#whats-new)
+  - [Shadow Fight 2 Special Edition](https://morphe-patches.software/?app=com.nekki.shadowfight2.specialedition#whats-new)
+  - [Shadow Fight 3](https://morphe-patches.software/?app=com.nekki.shadowfight3#whats-new)
+  - [Shadow Fight 4: Arena](https://morphe-patches.software/?app=com.nekki.shadowfightarena#whats-new)
 - [**Ryley**](https://morphe.software/add-source?github=LimeLimes/cbc-patches)
   - [CBC News](https://morphe-patches.software/?app=ca.cbc.mobile.android.cbcnewsandroidwebview#whats-new)
 
