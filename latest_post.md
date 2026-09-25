@@ -61,6 +61,9 @@ To keep the post useful and easy to maintain, this section focuses on recent upd
   - [An Elmwood Trail](https://morphe-patches.software/?app=com.techyonic.textbasedrpg#whats-new)
 - **Legendsciber's**
   - [Aphelion](https://morphe-patches.software/?app=com.wave.aphelion#whats-new)
+  - [Hungry Shark](https://morphe-patches.software/?app=com.fgol.HungrySharkEvolution#whats-new)
+- **Oyasumi**
+  - [ADM](https://morphe-patches.software/?app=com.dv.adm#whats-new)
 - **Shuhaib's**
   - [Facebook Lite](https://morphe-patches.software/?app=com.facebook.lite#whats-new)
 
@@ -89,7 +92,7 @@ To keep the post useful and easy to maintain, this section focuses on recent upd
   - [Kabbik](https://morphe-patches.software/?app=com.kabbik.app#whats-new)
   - [Shadhin](https://morphe-patches.software/?app=com.gm.shadhin#whats-new)
 - [**Oyasumi**](https://morphe.software/add-source?github=dunecache/oyasumi-patches)
-  - [Djezzy](https://morphe-patches.software/?app=com.djezzy.internet#whats-new)
+  - [ADM](https://morphe-patches.software/?app=com.dv.adm#whats-new)
   - [Goodnight](https://morphe-patches.software/?app=com.one.goodnight#whats-new)
 - [**Supperelias2**](https://morphe.software/add-source?github=Supperelias2/sbs-morphe-patches)
   - [SBS On Demand](https://morphe-patches.software/?app=com.sbs.ondemand.android#whats-new)
@@ -344,27 +347,3 @@ To keep the post useful and easy to maintain, this section focuses on recent upd
   - [1Weather](https://morphe-patches.software/?app=com.handmark.expressweather#whats-new)
 - **Kveld9**
   - [TikTok](https://morphe-patches.software/?app=com.zhiliaoapp.musically#whats-new)
-
-## September 11, 2026
-
-### New Sources
-
-- [**Haiagaru**](https://morphe.software/add-source?github=areteruhiro/Haiagaru-Morphe)
-  - [ChMate](https://morphe-patches.software/?app=jp.co.airfront.android.a2chMate#whats-new)
-- [**Zeldris**](https://morphe.software/add-source?github=zeldrisho/morphe-patches)
-  - [Threads](https://morphe-patches.software/?app=com.instagram.barcelona#whats-new)
-  - [Zalo](https://morphe-patches.software/?app=com.zing.zalo#whats-new)
-
-### New Apps
-
-- **aapam**
-  - [Coloring and Learn](https://morphe-patches.software/?app=com.orange.coloring.learn.kids#whats-new)
-- **Epxec**
-  - [FreeReels](https://morphe-patches.software/?app=com.freereels.app#whats-new)
-- **Hxreborn**
-  - [DWG FastView](https://morphe-patches.software/?app=com.gstarmc.android#whats-new)
-  - [MovieBox](https://morphe-patches.software/?app=com.community.oneroom#whats-new)
-- **Shuhaib's**
-  - [Beat.ly](https://morphe-patches.software/?app=vinkle.video.editor#whats-new)
-  - [Mvideo](https://morphe-patches.software/?app=music.videomaker.slideshow#whats-new)
-  - [Reverso Context](https://morphe-patches.software/?app=com.softissimo.reverso.context#whats-new)
