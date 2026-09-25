@@ -41,6 +41,24 @@ To keep the post useful and easy to maintain, this section focuses on recent upd
 
 ---
 
+## September 25, 2026
+
+### New Source
+
+- [**Akshayykadam**](https://morphe.software/add-source?github=Akshayykadam/Pixel-Camera)
+  - [Pixel Camera](https://morphe-patches.software/?app=com.google.android.GoogleCamera#whats-new)
+
+### New Apps
+
+- **AFFiNE**
+  - [Stick War: Legacy](https://morphe-patches.software/?app=com.maxgames.stickwarlegacy#whats-new)
+- **byehi98**
+  - [Subway Surfers](https://morphe-patches.software/?app=com.kiloo.subwaysurf#whats-new)
+- **Foxxo**
+  - [Instagram](https://morphe-patches.software/?app=com.instagram.android#whats-new)
+- **Santodan**
+  - [NuvioTV](https://morphe-patches.software/?app=com.nuvio.tv#whats-new)
+
 ## September 24, 2026
 
 ### New Sources
@@ -205,6 +223,7 @@ To keep the post useful and easy to maintain, this section focuses on recent upd
   - [MiXplorer](https://morphe-patches.software/?app=com.mixplorer#whats-new)
 - [**Foxxo**](https://morphe.software/add-source?github=FoxxoOwO/foxxo-patches)
   - [AI Plant Doctor](https://morphe-patches.software/?app=me.jodoin.aiplantdoctor#whats-new)
+  - [Instagram](https://morphe-patches.software/?app=com.instagram.android#whats-new)
 - [**Nai's Extra**](https://morphe.software/add-source?github=Nai64/Nai64ExtraPatches)
   - [Bandcamp](https://morphe-patches.software/?app=com.bandcamp.android#whats-new)
 
@@ -337,6 +356,7 @@ To keep the post useful and easy to maintain, this section focuses on recent upd
 - [**LOCKhart07**](https://morphe.software/add-source?github=LOCKhart07/morphe-patches)
   - [Heads Up!](https://morphe-patches.software/?app=com.wb.headsup#whats-new)
 - [**Santodan**](https://morphe.software/add-source?github=Santodan/santodan-patches)
+  - [NuvioTV](https://morphe-patches.software/?app=com.nuvio.tv#whats-new)
   - [Peafowl Theme Maker for EMUI](https://morphe-patches.software/?app=h7.hamzio.emuithemeotg#whats-new)
   - [Pillo](https://morphe-patches.software/?app=xyz.rtrvr.pillo#whats-new)
   - [Reddit](https://morphe-patches.software/?app=com.reddit.frontpage#whats-new)
