@@ -43,10 +43,14 @@ To keep the post useful and easy to maintain, this section focuses on recent upd
 
 ## September 25, 2026
 
-### New Source
+### New Sources
 
 - [**Akshayykadam**](https://morphe.software/add-source?github=Akshayykadam/Pixel-Camera)
   - [Pixel Camera](https://morphe-patches.software/?app=com.google.android.GoogleCamera#whats-new)
+- [**Bearinmind**](https://morphe.software/add-source?github=bearinmindcat/morphe-patches)
+  - [Google Maps](https://morphe-patches.software/?app=com.google.android.apps.maps#whats-new)
+- [**Hushfacebook**](https://morphe.software/add-source?github=SysAdminDoc/Hushfacebook)
+  - [Facebook](https://morphe-patches.software/?app=com.facebook.katana#whats-new)
 
 ### New Apps
 
@@ -372,26 +376,3 @@ To keep the post useful and easy to maintain, this section focuses on recent upd
   - [Aliens Drive Me Crazy](https://morphe-patches.software/?app=com.rebeltwins.aliensdrivemecrazy#whats-new)
 - **FTL**
   - [ImpoStack: PDF Imposition](https://morphe-patches.software/?app=com.bytedz.printflow#whats-new)
-
-## September 12, 2026
-
-### New Sources
-
-- [**Ekispert Wear**](https://morphe.software/add-source?github=Sfehhrths/ekispert-morphe-patches)
-  - [駅すぱあと](https://morphe-patches.software/?app=jp.co.val.expert.android.aio#whats-new)
-- [**Kanup4m**](https://morphe.software/add-source?github=kanup4m/morphe-patches)
-  - [Seven](https://morphe-patches.software/?app=se.perigee.android.seven#whats-new)
-- [**LOCKhart07**](https://morphe.software/add-source?github=LOCKhart07/morphe-patches)
-  - [Heads Up!](https://morphe-patches.software/?app=com.wb.headsup#whats-new)
-- [**Santodan**](https://morphe.software/add-source?github=Santodan/santodan-patches)
-  - [NuvioTV](https://morphe-patches.software/?app=com.nuvio.tv#whats-new)
-  - [Peafowl Theme Maker for EMUI](https://morphe-patches.software/?app=h7.hamzio.emuithemeotg#whats-new)
-  - [Pillo](https://morphe-patches.software/?app=xyz.rtrvr.pillo#whats-new)
-  - [Reddit](https://morphe-patches.software/?app=com.reddit.frontpage#whats-new)
-
-### New Apps
-
-- **Hxreborn**
-  - [1Weather](https://morphe-patches.software/?app=com.handmark.expressweather#whats-new)
-- **Kveld9**
-  - [TikTok](https://morphe-patches.software/?app=com.zhiliaoapp.musically#whats-new)
