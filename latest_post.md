@@ -54,6 +54,7 @@ To keep the post useful and easy to maintain, this section focuses on recent upd
   - [Device Info](https://morphe-patches.software/?app=com.liuzh.deviceinfo#whats-new)
   - [MagoVideo](https://morphe-patches.software/?app=mobi.charmer.magovideo#whats-new)
   - [Music Pitcher Radio](https://morphe-patches.software/?app=com.appums.music_pitcher_radio#whats-new)
+  - [Video Guru](https://morphe-patches.software/?app=videoeditor.videomaker.videoeditorforyoutube#whats-new)
 - [**newuser7171**](https://morphe.software/add-source?github=newuser7171/telegram-morphe-patches-)
   - [Telegram](https://morphe-patches.software/?app=org.telegram.messenger#whats-new)
   - [Telegram Plus](https://morphe-patches.software/?app=org.telegram.plus#whats-new)
@@ -78,6 +79,8 @@ To keep the post useful and easy to maintain, this section focuses on recent upd
 
 - **byehi98**
   - [Traffic Racer](https://morphe-patches.software/?app=com.skgames.trafficracer#whats-new)
+- **Hxreborn**
+  - [Proton VPN](https://morphe-patches.software/?app=ch.protonvpn.android#whats-new)
 - **JPTT**
   - [Local Dream](https://morphe-patches.software/?app=io.github.xororz.localdream#whats-new)
 
