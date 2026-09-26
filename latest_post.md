@@ -78,41 +78,8 @@ To keep the post useful and easy to maintain, this section focuses on recent upd
 
 - **byehi98**
   - [Traffic Racer](https://morphe-patches.software/?app=com.skgames.trafficracer#whats-new)
-- **D-moniak**
-  - [Alto's Adventure](https://morphe-patches.software/?app=com.noodlecake.altosadventure#whats-new)
-  - [ChatGPT](https://morphe-patches.software/?app=com.openai.chatgpt#whats-new)
-  - [Duolingo](https://morphe-patches.software/?app=com.duolingo#whats-new)
-  - [Google Gemini](https://morphe-patches.software/?app=com.google.android.apps.bard#whats-new)
-  - [Google Maps](https://morphe-patches.software/?app=com.google.android.apps.maps#whats-new)
-  - [Google Photos](https://morphe-patches.software/?app=com.google.android.apps.photos#whats-new)
-  - [Hill Climb Racing](https://morphe-patches.software/?app=com.fingersoft.hillclimb#whats-new)
-  - [Jetpack Joyride](https://morphe-patches.software/?app=com.halfbrick.jetpackjoyride#whats-new)
-  - [MEGA](https://morphe-patches.software/?app=mega.privacy.android.app#whats-new)
-  - [MX Player](https://morphe-patches.software/?app=com.mxtech.videoplayer.ad#whats-new)
-  - [Nextcloud](https://morphe-patches.software/?app=org.nextcloud.client#whats-new)
-  - [Perplexity](https://morphe-patches.software/?app=ai.perplexity.app.android#whats-new)
-  - [Phone by Google](https://morphe-patches.software/?app=com.google.android.dialer#whats-new)
-  - [Pinterest](https://morphe-patches.software/?app=com.pinterest#whats-new)
-  - [Proton Drive](https://morphe-patches.software/?app=me.proton.android.drive#whats-new)
-  - [Proton Mail](https://morphe-patches.software/?app=ch.protonmail.android#whats-new)
-  - [Proton Pass](https://morphe-patches.software/?app=proton.android.pass#whats-new)
-  - [Proton VPN](https://morphe-patches.software/?app=ch.protonvpn.android#whats-new)
-  - [Session](https://morphe-patches.software/?app=network.loki.messenger#whats-new)
-  - [Shazam](https://morphe-patches.software/?app=com.shazam.android#whats-new)
-  - [Signal](https://morphe-patches.software/?app=org.thoughtcrime.securesms#whats-new)
-  - [SimpleX Chat](https://morphe-patches.software/?app=chat.simplex.app#whats-new)
-  - [Snapchat](https://morphe-patches.software/?app=com.snapchat.android#whats-new)
-  - [SoundCloud](https://morphe-patches.software/?app=com.soundcloud.android#whats-new)
-  - [Speedtest](https://morphe-patches.software/?app=org.zwanoo.android.speedtest#whats-new)
-  - [Spotify](https://morphe-patches.software/?app=com.spotify.music#whats-new)
-  - [Strava](https://morphe-patches.software/?app=com.strava#whats-new)
-  - [Telegram](https://morphe-patches.software/?app=org.telegram.messenger#whats-new)
-  - [TeraBox](https://morphe-patches.software/?app=com.dubox.drive#whats-new)
-  - [Truecaller](https://morphe-patches.software/?app=com.truecaller#whats-new)
-  - [Turbo VPN](https://morphe-patches.software/?app=free.vpn.unblock.proxy.turbovpn#whats-new)
-  - [Tuta Mail](https://morphe-patches.software/?app=de.tutao.tutanota#whats-new)
-  - [Waze](https://morphe-patches.software/?app=com.waze#whats-new)
-  - [Windscribe](https://morphe-patches.software/?app=com.windscribe.vpn#whats-new)
+- **JPTT**
+  - [Local Dream](https://morphe-patches.software/?app=io.github.xororz.localdream#whats-new)
 
 ## September 25, 2026
 
@@ -131,17 +98,6 @@ To keep the post useful and easy to maintain, this section focuses on recent upd
   - [Stick War: Legacy](https://morphe-patches.software/?app=com.maxgames.stickwarlegacy#whats-new)
 - **byehi98**
   - [Subway Surfers](https://morphe-patches.software/?app=com.kiloo.subwaysurf#whats-new)
-- **D-moniak**
-  - [Beach Buggy Racing](https://morphe-patches.software/?app=com.vectorunit.cobalt.googleplay#whats-new)
-  - [Hungry Shark Evolution](https://morphe-patches.software/?app=com.fgol.HungrySharkEvolution#whats-new)
-  - [Hungry Shark Heroes](https://morphe-patches.software/?app=com.ubisoft.hungrysharkheroes#whats-new)
-  - [Robbery Bob](https://morphe-patches.software/?app=com.chillingo.robberybobfree.android.row#whats-new)
-  - [Shades: Shadow Fight Roguelike](https://morphe-patches.software/?app=com.nekki.shadowfight.shades#whats-new)
-  - [Shadow Fight 2](https://morphe-patches.software/?app=com.nekki.shadowfight#whats-new)
-  - [Shadow Fight 2 Special Edition](https://morphe-patches.software/?app=com.nekki.shadowfight2.specialedition#whats-new)
-  - [Shadow Fight 3](https://morphe-patches.software/?app=com.nekki.shadowfight3#whats-new)
-  - [Shadow Fight 4: Arena](https://morphe-patches.software/?app=com.nekki.shadowfightarena#whats-new)
-  - [Vector 2](https://morphe-patches.software/?app=com.nekki.vector2#whats-new)
 - **Foxxo**
   - [Instagram](https://morphe-patches.software/?app=com.instagram.android#whats-new)
 - **Hxreborn**
@@ -269,8 +225,6 @@ To keep the post useful and easy to maintain, this section focuses on recent upd
 
 - **Chiggi SonyLIV Patches - by durgesh0505**
   - [Big Hunter](https://morphe-patches.software/?app=com.kakarod.bighunter#whats-new)
-- **D-moniak**
-  - [CoinSnap](https://morphe-patches.software/?app=com.coinidentifyer.ai#whats-new)
 - **Hxreborn**
   - [MyMoveset](https://morphe-patches.software/?app=com.soulbreakers.mymoveset#whats-new)
   - [Realme Link](https://morphe-patches.software/?app=com.realme.link#whats-new)
@@ -291,6 +245,7 @@ To keep the post useful and easy to maintain, this section focuses on recent upd
   - [Yuka](https://morphe-patches.software/?app=io.yuka.android#whats-new)
 - [**JPTT**](https://morphe.software/add-source?github=lchanc3/morphe-patches)
   - [JPTT](https://morphe-patches.software/?app=com.joshua.jptt#whats-new)
+  - [Local Dream](https://morphe-patches.software/?app=io.github.xororz.localdream#whats-new)
 - [**Nickcomua**](https://morphe.software/add-source?github=nickcomua/airofit-pro2-morphe-patches)
   - [Airofit Elite](https://morphe-patches.software/?app=com.airofit.elite#whats-new)
 
@@ -331,55 +286,8 @@ To keep the post useful and easy to maintain, this section focuses on recent upd
 
 ## September 18, 2026
 
-### New Sources
+### New Source
 
-- [**D-moniak**](https://morphe.software/add-source?github=SatanMerde/D-moniakPatches)
-  - [Alto's Adventure](https://morphe-patches.software/?app=com.noodlecake.altosadventure#whats-new)
-  - [Beach Buggy Racing](https://morphe-patches.software/?app=com.vectorunit.cobalt.googleplay#whats-new)
-  - [ChatGPT](https://morphe-patches.software/?app=com.openai.chatgpt#whats-new)
-  - [CoinSnap](https://morphe-patches.software/?app=com.coinidentifyer.ai#whats-new)
-  - [Duolingo](https://morphe-patches.software/?app=com.duolingo#whats-new)
-  - [Google Gemini](https://morphe-patches.software/?app=com.google.android.apps.bard#whats-new)
-  - [Google Maps](https://morphe-patches.software/?app=com.google.android.apps.maps#whats-new)
-  - [Google Photos](https://morphe-patches.software/?app=com.google.android.apps.photos#whats-new)
-  - [Hill Climb Racing](https://morphe-patches.software/?app=com.fingersoft.hillclimb#whats-new)
-  - [Hungry Shark Evolution](https://morphe-patches.software/?app=com.fgol.HungrySharkEvolution#whats-new)
-  - [Hungry Shark Heroes](https://morphe-patches.software/?app=com.ubisoft.hungrysharkheroes#whats-new)
-  - [Hungry Shark World](https://morphe-patches.software/?app=com.ubisoft.hungrysharkworld#whats-new)
-  - [Jetpack Joyride](https://morphe-patches.software/?app=com.halfbrick.jetpackjoyride#whats-new)
-  - [MEGA](https://morphe-patches.software/?app=mega.privacy.android.app#whats-new)
-  - [MX Player](https://morphe-patches.software/?app=com.mxtech.videoplayer.ad#whats-new)
-  - [Nextcloud](https://morphe-patches.software/?app=org.nextcloud.client#whats-new)
-  - [Perplexity](https://morphe-patches.software/?app=ai.perplexity.app.android#whats-new)
-  - [Phone by Google](https://morphe-patches.software/?app=com.google.android.dialer#whats-new)
-  - [Pinterest](https://morphe-patches.software/?app=com.pinterest#whats-new)
-  - [Proton Drive](https://morphe-patches.software/?app=me.proton.android.drive#whats-new)
-  - [Proton Mail](https://morphe-patches.software/?app=ch.protonmail.android#whats-new)
-  - [Proton Pass](https://morphe-patches.software/?app=proton.android.pass#whats-new)
-  - [Proton VPN](https://morphe-patches.software/?app=ch.protonvpn.android#whats-new)
-  - [Robbery Bob](https://morphe-patches.software/?app=com.chillingo.robberybobfree.android.row#whats-new)
-  - [Session](https://morphe-patches.software/?app=network.loki.messenger#whats-new)
-  - [Shades: Shadow Fight Roguelike](https://morphe-patches.software/?app=com.nekki.shadowfight.shades#whats-new)
-  - [Shadow Fight 2](https://morphe-patches.software/?app=com.nekki.shadowfight#whats-new)
-  - [Shadow Fight 2 Special Edition](https://morphe-patches.software/?app=com.nekki.shadowfight2.specialedition#whats-new)
-  - [Shadow Fight 3](https://morphe-patches.software/?app=com.nekki.shadowfight3#whats-new)
-  - [Shadow Fight 4: Arena](https://morphe-patches.software/?app=com.nekki.shadowfightarena#whats-new)
-  - [Shazam](https://morphe-patches.software/?app=com.shazam.android#whats-new)
-  - [Signal](https://morphe-patches.software/?app=org.thoughtcrime.securesms#whats-new)
-  - [SimpleX Chat](https://morphe-patches.software/?app=chat.simplex.app#whats-new)
-  - [Snapchat](https://morphe-patches.software/?app=com.snapchat.android#whats-new)
-  - [SoundCloud](https://morphe-patches.software/?app=com.soundcloud.android#whats-new)
-  - [Speedtest](https://morphe-patches.software/?app=org.zwanoo.android.speedtest#whats-new)
-  - [Spotify](https://morphe-patches.software/?app=com.spotify.music#whats-new)
-  - [Strava](https://morphe-patches.software/?app=com.strava#whats-new)
-  - [Telegram](https://morphe-patches.software/?app=org.telegram.messenger#whats-new)
-  - [TeraBox](https://morphe-patches.software/?app=com.dubox.drive#whats-new)
-  - [Truecaller](https://morphe-patches.software/?app=com.truecaller#whats-new)
-  - [Turbo VPN](https://morphe-patches.software/?app=free.vpn.unblock.proxy.turbovpn#whats-new)
-  - [Tuta Mail](https://morphe-patches.software/?app=de.tutao.tutanota#whats-new)
-  - [Vector 2](https://morphe-patches.software/?app=com.nekki.vector2#whats-new)
-  - [Waze](https://morphe-patches.software/?app=com.waze#whats-new)
-  - [Windscribe](https://morphe-patches.software/?app=com.windscribe.vpn#whats-new)
 - [**Ryley**](https://morphe.software/add-source?github=LimeLimes/cbc-patches)
   - [CBC News](https://morphe-patches.software/?app=ca.cbc.mobile.android.cbcnewsandroidwebview#whats-new)
 
