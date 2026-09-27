@@ -41,6 +41,21 @@ To keep the post useful and easy to maintain, this section focuses on recent upd
 
 ---
 
+## September 27, 2026
+
+### New Sources
+
+- [**Latanvillegas**](https://morphe.software/add-source?github=latanvillegas/lawnchair-morphe-patches)
+  - [Lawnchair Nightly](https://morphe-patches.software/?app=app.lawnchair.nightly#whats-new)
+- [**Nady**](https://morphe.software/add-source?github=mohamedamrnady/anghami-patches)
+  - [Anghami](https://morphe-patches.software/?app=com.anghami#whats-new)
+
+### New Apps
+
+- **Hxreborn**
+  - [Cxxdroid](https://morphe-patches.software/?app=ru.iiec.cxxdroid#whats-new)
+  - [Yi iot](https://morphe-patches.software/?app=com.yunyi.smartcamera#whats-new)
+
 ## September 26, 2026
 
 ### New Sources
@@ -99,8 +114,6 @@ To keep the post useful and easy to maintain, this section focuses on recent upd
 
 - **AFFiNE**
   - [Stick War: Legacy](https://morphe-patches.software/?app=com.maxgames.stickwarlegacy#whats-new)
-- **byehi98**
-  - [Subway Surfers](https://morphe-patches.software/?app=com.kiloo.subwaysurf#whats-new)
 - **Foxxo**
   - [Instagram](https://morphe-patches.software/?app=com.instagram.android#whats-new)
 - **Hxreborn**
