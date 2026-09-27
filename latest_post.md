@@ -52,12 +52,21 @@ To keep the post useful and easy to maintain, this section focuses on recent upd
 
 ### New Apps
 
+- **Dudek**
+  - [Google Calendar](https://morphe-patches.software/?app=com.google.android.calendar#whats-new)
 - **Epxec**
   - [VTube Studio](https://morphe-patches.software/?app=com.denchi.vtubestudio#whats-new)
 - **Franticg33k patches**
   - [NostalgiaTV](https://morphe-patches.software/?app=com.nostalgiatv#whats-new)
+- **Heval**
+  - [Futbin](https://morphe-patches.software/?app=com.futbin#whats-new)
+  - [Pocket Color Wheel](https://morphe-patches.software/?app=com.pocketcolorwheel.PCW#whats-new)
+- **Hiosdra**
+  - [Movie Paradise](https://morphe-patches.software/?app=com.techkitlabs.movieparadise#whats-new)
 - **Hxreborn**
   - [Cxxdroid](https://morphe-patches.software/?app=ru.iiec.cxxdroid#whats-new)
+  - [Jvdroid](https://morphe-patches.software/?app=ru.iiec.jvdroid#whats-new)
+  - [Pydroid 3](https://morphe-patches.software/?app=ru.iiec.pydroid3#whats-new)
   - [Yi iot](https://morphe-patches.software/?app=com.yunyi.smartcamera#whats-new)
 - **Media**
   - [Chorki-TV](https://morphe-patches.software/?app=com.prothomalo.chorki#whats-new)
@@ -215,6 +224,7 @@ To keep the post useful and easy to maintain, this section focuses on recent upd
 - [**Dudek**](https://morphe.software/add-source?github=dawidd612/dudeks-morphe-patches)
   - [AndroPods](https://morphe-patches.software/?app=pro.vitalii.andropods#whats-new)
   - [Gardenscapes](https://morphe-patches.software/?app=com.playrix.gardenscapes#whats-new)
+  - [Google Calendar](https://morphe-patches.software/?app=com.google.android.calendar#whats-new)
   - [Instagram](https://morphe-patches.software/?app=com.instagram.android#whats-new)
   - [Mapa Turystyczna](https://morphe-patches.software/?app=pl.mapa_turystyczna.app#whats-new)
   - [TikTok](https://morphe-patches.software/?app=com.zhiliaoapp.musically#whats-new)
