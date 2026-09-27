@@ -52,9 +52,15 @@ To keep the post useful and easy to maintain, this section focuses on recent upd
 
 ### New Apps
 
+- **Epxec**
+  - [VTube Studio](https://morphe-patches.software/?app=com.denchi.vtubestudio#whats-new)
+- **Franticg33k patches**
+  - [NostalgiaTV](https://morphe-patches.software/?app=com.nostalgiatv#whats-new)
 - **Hxreborn**
   - [Cxxdroid](https://morphe-patches.software/?app=ru.iiec.cxxdroid#whats-new)
   - [Yi iot](https://morphe-patches.software/?app=com.yunyi.smartcamera#whats-new)
+- **Media**
+  - [Chorki-TV](https://morphe-patches.software/?app=com.prothomalo.chorki#whats-new)
 
 ## September 26, 2026
 
@@ -174,6 +180,7 @@ To keep the post useful and easy to maintain, this section focuses on recent upd
   - [Bongobd](https://morphe-patches.software/?app=com.bongo.bongobd#whats-new)
   - [Bongobdandroidtv](https://morphe-patches.software/?app=com.bongo.bongobdandroidtv#whats-new)
   - [Chorki](https://morphe-patches.software/?app=com.prothomalo#whats-new)
+  - [Chorki-TV](https://morphe-patches.software/?app=com.prothomalo.chorki#whats-new)
   - [Kabbik](https://morphe-patches.software/?app=com.kabbik.app#whats-new)
   - [Shadhin](https://morphe-patches.software/?app=com.gm.shadhin#whats-new)
 - [**Oyasumi**](https://morphe.software/add-source?github=dunecache/oyasumi-patches)
