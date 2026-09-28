@@ -52,7 +52,10 @@ To keep the post useful and easy to maintain, this section focuses on recent upd
 
 ### New Apps
 
+- **Android TV**
+  - it.rainet.androidtv
 - **Dudek**
+  - [Good Pizza, Great Pizza](https://morphe-patches.software/?app=com.tapblaze.pizzabusiness#whats-new)
   - [Google Calendar](https://morphe-patches.software/?app=com.google.android.calendar#whats-new)
 - **Epxec**
   - [VTube Studio](https://morphe-patches.software/?app=com.denchi.vtubestudio#whats-new)
@@ -224,6 +227,7 @@ To keep the post useful and easy to maintain, this section focuses on recent upd
 - [**Dudek**](https://morphe.software/add-source?github=dawidd612/dudeks-morphe-patches)
   - [AndroPods](https://morphe-patches.software/?app=pro.vitalii.andropods#whats-new)
   - [Gardenscapes](https://morphe-patches.software/?app=com.playrix.gardenscapes#whats-new)
+  - [Good Pizza, Great Pizza](https://morphe-patches.software/?app=com.tapblaze.pizzabusiness#whats-new)
   - [Google Calendar](https://morphe-patches.software/?app=com.google.android.calendar#whats-new)
   - [Instagram](https://morphe-patches.software/?app=com.instagram.android#whats-new)
   - [Mapa Turystyczna](https://morphe-patches.software/?app=pl.mapa_turystyczna.app#whats-new)
@@ -391,20 +395,3 @@ To keep the post useful and easy to maintain, this section focuses on recent upd
   - [Todaii Japanese](https://morphe-patches.software/?app=mobi.eup.jpnews#whats-new)
 - **Yann-Soliman**
   - [Meteo Consult](https://morphe-patches.software/?app=com.meteoconsult.androidapp#whats-new)
-
-## September 14, 2026
-
-### New Apps
-
-- **Android TV**
-  - com.twentyfouri.tvbridge.rte
-- **Edge Morphe Patches - by quantavil**
-  - [Microsoft Edge Canary](https://morphe-patches.software/?app=com.microsoft.emmx.canary#whats-new)
-- **Epxec**
-  - [Daylio](https://morphe-patches.software/?app=net.daylio#whats-new)
-  - [Wavelet](https://morphe-patches.software/?app=com.pittvandewitt.wavelet#whats-new)
-  - [XEQ Equalizer](https://morphe-patches.software/?app=com.frack.xeq#whats-new)
-- **Hxreborn**
-  - [VPN Super Unlimited Proxy](https://morphe-patches.software/?app=com.free.vpn.super.hotspot.open#whats-new)
-- **Shuhaibnc**
-  - [FFmpeg Media Encoder](https://morphe-patches.software/?app=com.silentlexx.ffmpeggui#whats-new)
