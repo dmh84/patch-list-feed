@@ -66,6 +66,10 @@ To keep the post useful and easy to maintain, this section focuses on recent upd
 - **byehi98**
   - [Document Scanner](https://morphe-patches.software/?app=com.cv.docscanner#whats-new)
   - [Lumina Walls](https://morphe-patches.software/?app=com.lumina.wallpapers#whats-new)
+- **De-Vanced Patches - by RookieEnough**
+  - [Facebook](https://morphe-patches.software/?app=com.facebook.katana#whats-new)
+- **Hxreborn**
+  - [BlurWall](https://morphe-patches.software/?app=apps.automan.blurwallpaper#whats-new)
 
 ## September 27, 2026
 
@@ -223,7 +227,6 @@ To keep the post useful and easy to maintain, this section focuses on recent upd
   - [Shadhin](https://morphe-patches.software/?app=com.gm.shadhin#whats-new)
 - [**Oyasumi**](https://morphe.software/add-source?github=dunecache/oyasumi-patches)
   - [ADM](https://morphe-patches.software/?app=com.dv.adm#whats-new)
-  - [Goodnight](https://morphe-patches.software/?app=com.one.goodnight#whats-new)
 - [**Virzak**](https://morphe.software/add-source?github=virzak/morphe-patches)
   - [RuTube](https://morphe-patches.software/?app=ru.rutube.app#whats-new)
 
