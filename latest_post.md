@@ -41,6 +41,32 @@ To keep the post useful and easy to maintain, this section focuses on recent upd
 
 ---
 
+## September 28, 2026
+
+### New Sources
+
+- [**Adish08**](https://morphe.software/add-source?github=Adish08/morphe-patches)
+  - [Jain Panchang](https://morphe-patches.software/?app=com.jaindarshan.panchangtithi#whats-new)
+- [**Bakwudo**](https://morphe.software/add-source?github=bakwudo/uyu)
+  - [Twitch](https://morphe-patches.software/?app=tv.twitch.android.app#whats-new)
+- [**Bartlomiejfornalczyk**](https://morphe.software/add-source?github=bartlomiejfornalczyk/morphe-patches)
+  - [Google Maps](https://morphe-patches.software/?app=com.google.android.apps.maps#whats-new)
+- [**ggYasin**](https://morphe.software/add-source?github=ggYasin/ggyasin-morphe-patches)
+  - [9GAG](https://morphe-patches.software/?app=com.ninegag.android.app#whats-new)
+  - [Offline Games](https://morphe-patches.software/?app=com.JindoBlu.OfflineGames#whats-new)
+  - [ZenSMS](https://morphe-patches.software/?app=com.zensms.app#whats-new)
+- [**HushMessenger**](https://morphe.software/add-source?github=SysAdminDoc/HushMessenger)
+  - [Messenger](https://morphe-patches.software/?app=com.facebook.orca#whats-new)
+- [**Tkiethuynh**](https://morphe.software/add-source?github=tkiethuynh/den-patch)
+  - [MISA Money Keeper](https://morphe-patches.software/?app=vn.com.misa.sothuchi#whats-new)
+  - [Proxman](https://morphe-patches.software/?app=com.windium.proxman#whats-new)
+
+### New Apps
+
+- **byehi98**
+  - [Document Scanner](https://morphe-patches.software/?app=com.cv.docscanner#whats-new)
+  - [Lumina Walls](https://morphe-patches.software/?app=com.lumina.wallpapers#whats-new)
+
 ## September 27, 2026
 
 ### New Sources
