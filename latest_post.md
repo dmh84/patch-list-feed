@@ -41,6 +41,21 @@ To keep the post useful and easy to maintain, this section focuses on recent upd
 
 ---
 
+## September 29, 2026
+
+### New Source
+
+- [**Matthewclso**](https://morphe.software/add-source?github=matthewclso/chrome-morphe)
+  - [Chrome](https://morphe-patches.software/?app=com.android.chrome#whats-new)
+
+### New Apps
+
+- **Debakar**
+  - [Meesho](https://morphe-patches.software/?app=com.meesho.supply#whats-new)
+  - [Myntra](https://morphe-patches.software/?app=com.myntra.android#whats-new)
+- **Heval**
+  - [YouCut](https://morphe-patches.software/?app=com.camerasideas.trimmer#whats-new)
+
 ## September 28, 2026
 
 ### New Sources
@@ -258,6 +273,8 @@ To keep the post useful and easy to maintain, this section focuses on recent upd
   - [Amazon India](https://morphe-patches.software/?app=in.amazon.mShop.android.shopping#whats-new)
   - [Amazon Shopping](https://morphe-patches.software/?app=com.amazon.mShop.android.shopping#whats-new)
   - [Flipkart](https://morphe-patches.software/?app=com.flipkart.android#whats-new)
+  - [Meesho](https://morphe-patches.software/?app=com.meesho.supply#whats-new)
+  - [Myntra](https://morphe-patches.software/?app=com.myntra.android#whats-new)
 - [**Dudek**](https://morphe.software/add-source?github=dawidd612/dudeks-morphe-patches)
   - [AndroPods](https://morphe-patches.software/?app=pro.vitalii.andropods#whats-new)
   - [Gardenscapes](https://morphe-patches.software/?app=com.playrix.gardenscapes#whats-new)
