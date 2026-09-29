@@ -70,6 +70,10 @@ To keep the post useful and easy to maintain, this section focuses on recent upd
   - [Facebook](https://morphe-patches.software/?app=com.facebook.katana#whats-new)
 - **Hxreborn**
   - [BlurWall](https://morphe-patches.software/?app=apps.automan.blurwallpaper#whats-new)
+- **Legendsciber**
+  - [Stick War Legacy](https://morphe-patches.software/?app=com.maxgames.stickwarlegacy#whats-new)
+- **Plyrs1**
+  - [Habitica](https://morphe-patches.software/?app=com.habitrpg.android.habitica#whats-new)
 
 ## September 27, 2026
 
@@ -128,6 +132,7 @@ To keep the post useful and easy to maintain, this section focuses on recent upd
   - [Dumpert](https://morphe-patches.software/?app=nl.dumpert#whats-new)
 - [**Plyrs1**](https://morphe.software/add-source?github=Plyrs1/morphe-patches)
   - [E-Ujian Browser](https://morphe-patches.software/?app=com.doovera.eujianbrowser#whats-new)
+  - [Habitica](https://morphe-patches.software/?app=com.habitrpg.android.habitica#whats-new)
   - [Pertaminiku](https://morphe-patches.software/?app=com.pertaminiku#whats-new)
   - [Struk POM](https://morphe-patches.software/?app=com.garnesapps.strukpom#whats-new)
   - [Struk Pom / SPBU](https://morphe-patches.software/?app=com.ogestudio.strukpertamini#whats-new)
@@ -406,21 +411,3 @@ To keep the post useful and easy to maintain, this section focuses on recent upd
   - [Reddit](https://morphe-patches.software/?app=com.reddit.frontpage#whats-new)
 - **Yann-Soliman**
   - [Leboncoin](https://morphe-patches.software/?app=fr.leboncoin#whats-new)
-
-## September 15, 2026
-
-### New Sources
-
-- [**Fripe070**](https://morphe.software/add-source?github=Fripe070/PixivPatches)
-  - [Pixiv](https://morphe-patches.software/?app=jp.pxv.android#whats-new)
-- [**UniPatches**](https://morphe.software/add-source?github=Zanuaimi/UniPatches)
-  - [Hill Climb Racing](https://morphe-patches.software/?app=com.fingersoft.hillclimb#whats-new)
-
-### New Apps
-
-- **AndrewLiang25**
-  - [Facebook](https://morphe-patches.software/?app=com.facebook.katana#whats-new)
-- **Epxec**
-  - [Todaii Japanese](https://morphe-patches.software/?app=mobi.eup.jpnews#whats-new)
-- **Yann-Soliman**
-  - [Meteo Consult](https://morphe-patches.software/?app=com.meteoconsult.androidapp#whats-new)
