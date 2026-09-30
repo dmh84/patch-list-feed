@@ -63,6 +63,8 @@ To keep the post useful and easy to maintain, this section focuses on recent upd
   - [1DM](https://morphe-patches.software/?app=idm.internet.download.manager#whats-new)
 - **RhubarbShoelaces**
   - [Google Maps](https://morphe-patches.software/?app=com.google.android.apps.maps#whats-new)
+- **V4n1X**
+  - [Parcello](https://morphe-patches.software/?app=org.parcello#whats-new)
 
 ## September 28, 2026
 
@@ -417,24 +419,3 @@ To keep the post useful and easy to maintain, this section focuses on recent upd
   - [Dan The Man](https://morphe-patches.software/?app=com.halfbrick.dantheman#whats-new)
 - **Transit**
   - io.stark.admob
-
-## September 16, 2026
-
-### New Source
-
-- [**Amitaisela**](https://morphe.software/add-source?github=Amitaisela/travian-morphe-patches)
-  - [Travian: Legends](https://morphe-patches.software/?app=com.traviangames.travianlegendsmobile#whats-new)
-
-### New Apps
-
-- **byehi98**
-  - [Dan the Man](https://morphe-patches.software/?app=com.halfbrick.dantheman#whats-new)
-- **Epxec**
-  - [Vaulty](https://morphe-patches.software/?app=com.theronrogers.vaultyfree#whats-new)
-  - [Wallet](https://morphe-patches.software/?app=com.droid4you.application.wallet#whats-new)
-- **Legendsciber**
-  - [Red Ball 4](https://morphe-patches.software/?app=com.FDGEntertainment.redball4.gp#whats-new)
-- **Santodan**
-  - [Reddit](https://morphe-patches.software/?app=com.reddit.frontpage#whats-new)
-- **Yann-Soliman**
-  - [Leboncoin](https://morphe-patches.software/?app=fr.leboncoin#whats-new)
