@@ -43,8 +43,12 @@ To keep the post useful and easy to maintain, this section focuses on recent upd
 
 ## September 30, 2026
 
-### New Source
+### New Sources
 
+- [**CasketPizza**](https://morphe.software/add-source?github=CasketPizza/morphe-waze-system-tts)
+  - [Waze](https://morphe-patches.software/?app=com.waze#whats-new)
+- [**HushGram**](https://morphe.software/add-source?github=SysAdminDoc/HushGram)
+  - [Instagram](https://morphe-patches.software/?app=com.instagram.android#whats-new)
 - [**HushThreads**](https://morphe.software/add-source?github=SysAdminDoc/HushThreads)
   - [Threads](https://morphe-patches.software/?app=com.instagram.barcelona#whats-new)
 
@@ -52,6 +56,15 @@ To keep the post useful and easy to maintain, this section focuses on recent upd
 
 - **byehi98**
   - [Dead Trigger](https://morphe-patches.software/?app=com.madfingergames.deadtrigger#whats-new)
+- **Dudek**
+  - [Good Coffee, Great Coffee](https://morphe-patches.software/?app=com.tapblaze.coffeebusiness#whats-new)
+- **Heval**
+  - [Pi Music Player](https://morphe-patches.software/?app=com.Project100Pi.themusicplayer#whats-new)
+- **Hxreborn**
+  - [One4Home Launcher](https://morphe-patches.software/?app=com.one4studio.one4home#whats-new)
+  - [Pocket Whip](https://morphe-patches.software/?app=com.greenstone.pocketwhip#whats-new)
+- **Oyasumi**
+  - [Djezzy](https://morphe-patches.software/?app=com.djezzy.internet#whats-new)
 - **Proxma**
   - [foodpanda](https://morphe-patches.software/?app=com.global.foodpanda.android#whats-new)
 
@@ -273,6 +286,7 @@ To keep the post useful and easy to maintain, this section focuses on recent upd
 - [**Oyasumi**](https://morphe.software/add-source?github=dunecache/oyasumi-patches)
   - [1DM](https://morphe-patches.software/?app=idm.internet.download.manager#whats-new)
   - [ADM](https://morphe-patches.software/?app=com.dv.adm#whats-new)
+  - [Djezzy](https://morphe-patches.software/?app=com.djezzy.internet#whats-new)
 - [**Virzak**](https://morphe.software/add-source?github=virzak/morphe-patches)
   - [RuTube](https://morphe-patches.software/?app=ru.rutube.app#whats-new)
 
@@ -304,6 +318,7 @@ To keep the post useful and easy to maintain, this section focuses on recent upd
 - [**Dudek**](https://morphe.software/add-source?github=dawidd612/dudeks-morphe-patches)
   - [AndroPods](https://morphe-patches.software/?app=pro.vitalii.andropods#whats-new)
   - [Gardenscapes](https://morphe-patches.software/?app=com.playrix.gardenscapes#whats-new)
+  - [Good Coffee, Great Coffee](https://morphe-patches.software/?app=com.tapblaze.coffeebusiness#whats-new)
   - [Good Pizza, Great Pizza](https://morphe-patches.software/?app=com.tapblaze.pizzabusiness#whats-new)
   - [Google Calendar](https://morphe-patches.software/?app=com.google.android.calendar#whats-new)
   - [Instagram](https://morphe-patches.software/?app=com.instagram.android#whats-new)
