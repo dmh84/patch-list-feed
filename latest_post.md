@@ -41,6 +41,20 @@ To keep the post useful and easy to maintain, this section focuses on recent upd
 
 ---
 
+## September 30, 2026
+
+### New Source
+
+- [**HushThreads**](https://morphe.software/add-source?github=SysAdminDoc/HushThreads)
+  - [Threads](https://morphe-patches.software/?app=com.instagram.barcelona#whats-new)
+
+### New Apps
+
+- **byehi98**
+  - [Dead Trigger](https://morphe-patches.software/?app=com.madfingergames.deadtrigger#whats-new)
+- **Proxma**
+  - [foodpanda](https://morphe-patches.software/?app=com.global.foodpanda.android#whats-new)
+
 ## September 29, 2026
 
 ### New Source
