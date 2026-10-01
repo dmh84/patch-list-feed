@@ -41,6 +41,17 @@ To keep the post useful and easy to maintain, this section focuses on recent upd
 
 ---
 
+## October 1, 2026
+
+### New Sources
+
+- [**0x0day-0wl**](https://morphe.software/add-source?github=0x0day-0wl/morphe-patches)
+  - [Chefkoch](https://morphe-patches.software/?app=de.pixelhouse#whats-new)
+- [**Bugg4**](https://morphe.software/add-source?github=Bugg4/bugg4s-patches)
+  - [OPL Monitor](https://morphe-patches.software/?app=com.insigniadpfgmailcom.oplmonitor#whats-new)
+- [**Satwik-Miyyapuram**](https://morphe.software/add-source?github=Satwik-Miyyapuram/morphe-patches)
+  - [Mini Militia Classic](https://morphe-patches.software/?app=com.appsomniacs.mmc#whats-new)
+
 ## September 30, 2026
 
 ### New Sources
@@ -122,8 +133,6 @@ To keep the post useful and easy to maintain, this section focuses on recent upd
   - [Facebook](https://morphe-patches.software/?app=com.facebook.katana#whats-new)
 - **Hxreborn**
   - [BlurWall](https://morphe-patches.software/?app=apps.automan.blurwallpaper#whats-new)
-- **Legendsciber**
-  - [Stick War Legacy](https://morphe-patches.software/?app=com.maxgames.stickwarlegacy#whats-new)
 - **Plyrs1**
   - [Habitica](https://morphe-patches.software/?app=com.habitrpg.android.habitica#whats-new)
 
@@ -429,22 +438,3 @@ To keep the post useful and easy to maintain, this section focuses on recent upd
   - [Flashscore](https://morphe-patches.software/?app=eu.livesport.FlashScore_com#whats-new)
   - [OneFootball](https://morphe-patches.software/?app=de.motain.iliga#whats-new)
   - [OsmAnd](https://morphe-patches.software/?app=net.osmand#whats-new)
-
-## September 17, 2026
-
-### New Apps
-
-- **Heval**
-  - [Aqua Mail](https://morphe-patches.software/?app=org.kman.AquaMail#whats-new)
-  - [EasyNotes](https://morphe-patches.software/?app=easynotes.notes.notepad.notebook.privatenotes.note#whats-new)
-  - [FairEmail](https://morphe-patches.software/?app=eu.faircode.email#whats-new)
-  - [LibrePods](https://morphe-patches.software/?app=me.kavishdevar.librepods#whats-new)
-  - [Monefy](https://morphe-patches.software/?app=com.monefy.app.lite#whats-new)
-  - [Tasker](https://morphe-patches.software/?app=net.dinglisch.android.taskerm#whats-new)
-  - [Weather Underground](https://morphe-patches.software/?app=com.wunderground.android.weather#whats-new)
-- **Hxreborn**
-  - [Ringtone Maker](https://morphe-patches.software/?app=ringtonemaker.musiccutter.customringtones.freeringtonemaker#whats-new)
-- **Legendsciber**
-  - [Dan The Man](https://morphe-patches.software/?app=com.halfbrick.dantheman#whats-new)
-- **Transit**
-  - io.stark.admob
