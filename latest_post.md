@@ -52,6 +52,13 @@ To keep the post useful and easy to maintain, this section focuses on recent upd
 - [**Satwik-Miyyapuram**](https://morphe.software/add-source?github=Satwik-Miyyapuram/morphe-patches)
   - [Mini Militia Classic](https://morphe-patches.software/?app=com.appsomniacs.mmc#whats-new)
 
+### New Apps
+
+- **Plyrs1**
+  - [Android Auto](https://morphe-patches.software/?app=com.google.android.projection.gearhead#whats-new)
+- **Santodan**
+  - [MEO (Android TV)](https://morphe-patches.software/?app=com.alticelabs.meo.androidtv#whats-new)
+
 ## September 30, 2026
 
 ### New Sources
@@ -193,6 +200,7 @@ To keep the post useful and easy to maintain, this section focuses on recent upd
 - [**ns1207**](https://morphe.software/add-source?github=ns1207/morphe-patches-template)
   - [Dumpert](https://morphe-patches.software/?app=nl.dumpert#whats-new)
 - [**Plyrs1**](https://morphe.software/add-source?github=Plyrs1/morphe-patches)
+  - [Android Auto](https://morphe-patches.software/?app=com.google.android.projection.gearhead#whats-new)
   - [E-Ujian Browser](https://morphe-patches.software/?app=com.doovera.eujianbrowser#whats-new)
   - [Habitica](https://morphe-patches.software/?app=com.habitrpg.android.habitica#whats-new)
   - [Pertaminiku](https://morphe-patches.software/?app=com.pertaminiku#whats-new)
