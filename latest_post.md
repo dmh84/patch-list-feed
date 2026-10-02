@@ -51,17 +51,38 @@ To keep the post useful and easy to maintain, this section focuses on recent upd
   - [Telegram](https://morphe-patches.software/?app=org.telegram.messenger.web#whats-new)
 - [**Kizu**](https://morphe.software/add-source?github=K8R8TO/kizu-morphe-patches)
   - [Twitch](https://morphe-patches.software/?app=tv.twitch.android.app#whats-new)
+- [**Mubelotix**](https://morphe.software/add-source?github=Mubelotix/my-morphe-patches)
+  - [French Tarot Counter](https://morphe-patches.software/?app=net.aasuited.tarotscore#whats-new)
+  - [Jakdojade: public transport](https://morphe-patches.software/?app=com.citynav.jakdojade.pl.android#whats-new)
+  - [My Astuce](https://morphe-patches.software/?app=fr.cityway.android.creaastuce#whats-new)
+  - [Picolo drinking game](https://morphe-patches.software/?app=com.picolo.android#whats-new)
+  - [Pinterest](https://morphe-patches.software/?app=com.pinterest#whats-new)
+  - [Reddit](https://morphe-patches.software/?app=com.reddit.frontpage#whats-new)
+  - [Score tracker](https://morphe-patches.software/?app=net.aasuited.universalscoretracker#whats-new)
+  - [Sudoku.com - Sudoku Puzzle](https://morphe-patches.software/?app=com.easybrain.sudoku.android#whats-new)
+  - [Truth or Dare Game - Party App](https://morphe-patches.software/?app=com.antoinehabert.truthordaregame#whats-new)
 - [**ToThangGTVT**](https://morphe.software/add-source?github=ToThangGTVT/morphe-fb-lite)
   - [Facebook Lite](https://morphe-patches.software/?app=com.facebook.lite#whats-new)
 
 ### New Apps
 
+- **Aidan**
+  - [AfterShip](https://morphe-patches.software/?app=com.aftership.AfterShip#whats-new)
+  - [Blackjack](https://morphe-patches.software/?app=com.tripledot.blackjack#whats-new)
+  - [Canvas Student](https://morphe-patches.software/?app=com.instructure.candroid#whats-new)
+  - [Navigate360 Student](https://morphe-patches.software/?app=com.eab.se#whats-new)
+  - [SidelineSwap](https://morphe-patches.software/?app=com.sidelineswap.android#whats-new)
+- **Epxec**
+  - [NotiZen Widget](https://morphe-patches.software/?app=com.gustavcaves.notizenwidget#whats-new)
 - **Media**
   - [DeeptoPlay](https://morphe-patches.software/?app=com.gotipath.deeptotv#whats-new)
   - [DeeptoTV](https://morphe-patches.software/?app=com.gotipath.deeptotvapp#whats-new)
+  - [IScreen](https://morphe-patches.software/?app=com.rockstreamer.iscreen#whats-new)
+  - [IScreen Tv](https://morphe-patches.software/?app=com.rockstreamer.iscreentv#whats-new)
   - [Klikk](https://morphe-patches.software/?app=com.angel.klikk#whats-new)
-  - [Klikk Tv](https://morphe-patches.software/?app=com.angel.klikk.tv#whats-new)
   - [Toffee](https://morphe-patches.software/?app=com.banglalink.toffee#whats-new)
+- **non7043**
+  - [TikTok](https://morphe-patches.software/?app=com.zhiliaoapp.musically#whats-new)
 
 ## October 1, 2026
 
@@ -197,7 +218,7 @@ To keep the post useful and easy to maintain, this section focuses on recent upd
   - [Pydroid 3](https://morphe-patches.software/?app=ru.iiec.pydroid3#whats-new)
   - [Yi iot](https://morphe-patches.software/?app=com.yunyi.smartcamera#whats-new)
 - **Media**
-  - [Chorki-TV](https://morphe-patches.software/?app=com.prothomalo.chorki#whats-new)
+  - [Chorki TV](https://morphe-patches.software/?app=com.prothomalo.chorki#whats-new)
 
 ## September 26, 2026
 
@@ -220,6 +241,7 @@ To keep the post useful and easy to maintain, this section focuses on recent upd
   - [Telegram Web](https://morphe-patches.software/?app=org.telegram.messenger.web#whats-new)
 - [**non7043**](https://morphe.software/add-source?github=non7043/365score-patches)
   - [365Scores](https://morphe-patches.software/?app=com.scores365#whats-new)
+  - [TikTok](https://morphe-patches.software/?app=com.zhiliaoapp.musically#whats-new)
 - [**ns1207**](https://morphe.software/add-source?github=ns1207/morphe-patches-template)
   - [Dumpert](https://morphe-patches.software/?app=nl.dumpert#whats-new)
 - [**Plyrs1**](https://morphe.software/add-source?github=Plyrs1/morphe-patches)
@@ -302,7 +324,12 @@ To keep the post useful and easy to maintain, this section focuses on recent upd
 ### New Sources
 
 - [**Aidan**](https://morphe.software/add-source?github=ihatenodejs/aidans-patches)
+  - [AfterShip](https://morphe-patches.software/?app=com.aftership.AfterShip#whats-new)
+  - [Blackjack](https://morphe-patches.software/?app=com.tripledot.blackjack#whats-new)
+  - [Canvas Student](https://morphe-patches.software/?app=com.instructure.candroid#whats-new)
+  - [Navigate360 Student](https://morphe-patches.software/?app=com.eab.se#whats-new)
   - [Sezzle](https://morphe-patches.software/?app=com.sezzle.sezzlemobile#whats-new)
+  - [SidelineSwap](https://morphe-patches.software/?app=com.sidelineswap.android#whats-new)
 - [**Anilili**](https://morphe.software/add-source?github=thegibbonn/morphe-patches-anilili)
   - [Anilili](https://morphe-patches.software/?app=com.miruronative#whats-new)
 - [**Bestweb**](https://morphe.software/add-source?github=Thewanwan/bestapp)
@@ -316,15 +343,17 @@ To keep the post useful and easy to maintain, this section focuses on recent upd
 - [**Jeff-tek**](https://morphe.software/add-source?github=Jeff-tek/jeff-patches)
   - [MP3 Cutter and Ringtone Maker](https://morphe-patches.software/?app=ringtone.maker.mp3.cutter.audio#whats-new)
 - [**Media**](https://morphe.software/add-source?github=HellLord77/media-patches)
-  - [Bongobd](https://morphe-patches.software/?app=com.bongo.bongobd#whats-new)
-  - [Bongobdandroidtv](https://morphe-patches.software/?app=com.bongo.bongobdandroidtv#whats-new)
+  - [Bongo](https://morphe-patches.software/?app=com.bongo.bongobd#whats-new)
+  - [Bongo](https://morphe-patches.software/?app=com.bongo.bongobd#whats-new)
   - [Chorki](https://morphe-patches.software/?app=com.prothomalo#whats-new)
-  - [Chorki-TV](https://morphe-patches.software/?app=com.prothomalo.chorki#whats-new)
+  - [Chorki TV](https://morphe-patches.software/?app=com.prothomalo.chorki#whats-new)
   - [DeeptoPlay](https://morphe-patches.software/?app=com.gotipath.deeptotv#whats-new)
   - [DeeptoTV](https://morphe-patches.software/?app=com.gotipath.deeptotvapp#whats-new)
+  - [IScreen](https://morphe-patches.software/?app=com.rockstreamer.iscreen#whats-new)
+  - [IScreen Tv](https://morphe-patches.software/?app=com.rockstreamer.iscreentv#whats-new)
   - [Kabbik](https://morphe-patches.software/?app=com.kabbik.app#whats-new)
   - [Klikk](https://morphe-patches.software/?app=com.angel.klikk#whats-new)
-  - [Klikk Tv](https://morphe-patches.software/?app=com.angel.klikk.tv#whats-new)
+  - [Klikk](https://morphe-patches.software/?app=com.angel.klikk#whats-new)
   - [Shadhin](https://morphe-patches.software/?app=com.gm.shadhin#whats-new)
   - [Toffee](https://morphe-patches.software/?app=com.banglalink.toffee#whats-new)
 - [**Oyasumi**](https://morphe.software/add-source?github=dunecache/oyasumi-patches)
