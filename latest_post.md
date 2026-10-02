@@ -41,6 +41,28 @@ To keep the post useful and easy to maintain, this section focuses on recent upd
 
 ---
 
+## October 2, 2026
+
+### New Sources
+
+- [**Chikuwadon**](https://morphe.software/add-source?github=chikuwadon/nicoid-re-patches)
+  - [nicoid](https://morphe-patches.software/?app=com.sauzask.nicoid#whats-new)
+- [**HushTelegram**](https://morphe.software/add-source?github=SysAdminDoc/HushTelegram)
+  - [Telegram](https://morphe-patches.software/?app=org.telegram.messenger.web#whats-new)
+- [**Kizu**](https://morphe.software/add-source?github=K8R8TO/kizu-morphe-patches)
+  - [Twitch](https://morphe-patches.software/?app=tv.twitch.android.app#whats-new)
+- [**ToThangGTVT**](https://morphe.software/add-source?github=ToThangGTVT/morphe-fb-lite)
+  - [Facebook Lite](https://morphe-patches.software/?app=com.facebook.lite#whats-new)
+
+### New Apps
+
+- **Media**
+  - [DeeptoPlay](https://morphe-patches.software/?app=com.gotipath.deeptotv#whats-new)
+  - [DeeptoTV](https://morphe-patches.software/?app=com.gotipath.deeptotvapp#whats-new)
+  - [Klikk](https://morphe-patches.software/?app=com.angel.klikk#whats-new)
+  - [Klikk Tv](https://morphe-patches.software/?app=com.angel.klikk.tv#whats-new)
+  - [Toffee](https://morphe-patches.software/?app=com.banglalink.toffee#whats-new)
+
 ## October 1, 2026
 
 ### New Sources
@@ -57,8 +79,6 @@ To keep the post useful and easy to maintain, this section focuses on recent upd
 - **Hxreborn**
   - [Catzy](https://morphe-patches.software/?app=com.nieruo.healthapp#whats-new)
   - [MemoNeet](https://morphe-patches.software/?app=com.adithya.memoneet#whats-new)
-- **Plyrs1**
-  - [Android Auto](https://morphe-patches.software/?app=com.google.android.projection.gearhead#whats-new)
 - **Santodan**
   - [MEO (Android TV)](https://morphe-patches.software/?app=com.alticelabs.meo.androidtv#whats-new)
 
@@ -203,7 +223,6 @@ To keep the post useful and easy to maintain, this section focuses on recent upd
 - [**ns1207**](https://morphe.software/add-source?github=ns1207/morphe-patches-template)
   - [Dumpert](https://morphe-patches.software/?app=nl.dumpert#whats-new)
 - [**Plyrs1**](https://morphe.software/add-source?github=Plyrs1/morphe-patches)
-  - [Android Auto](https://morphe-patches.software/?app=com.google.android.projection.gearhead#whats-new)
   - [E-Ujian Browser](https://morphe-patches.software/?app=com.doovera.eujianbrowser#whats-new)
   - [Habitica](https://morphe-patches.software/?app=com.habitrpg.android.habitica#whats-new)
   - [Pertaminiku](https://morphe-patches.software/?app=com.pertaminiku#whats-new)
@@ -301,8 +320,13 @@ To keep the post useful and easy to maintain, this section focuses on recent upd
   - [Bongobdandroidtv](https://morphe-patches.software/?app=com.bongo.bongobdandroidtv#whats-new)
   - [Chorki](https://morphe-patches.software/?app=com.prothomalo#whats-new)
   - [Chorki-TV](https://morphe-patches.software/?app=com.prothomalo.chorki#whats-new)
+  - [DeeptoPlay](https://morphe-patches.software/?app=com.gotipath.deeptotv#whats-new)
+  - [DeeptoTV](https://morphe-patches.software/?app=com.gotipath.deeptotvapp#whats-new)
   - [Kabbik](https://morphe-patches.software/?app=com.kabbik.app#whats-new)
+  - [Klikk](https://morphe-patches.software/?app=com.angel.klikk#whats-new)
+  - [Klikk Tv](https://morphe-patches.software/?app=com.angel.klikk.tv#whats-new)
   - [Shadhin](https://morphe-patches.software/?app=com.gm.shadhin#whats-new)
+  - [Toffee](https://morphe-patches.software/?app=com.banglalink.toffee#whats-new)
 - [**Oyasumi**](https://morphe.software/add-source?github=dunecache/oyasumi-patches)
   - [1DM](https://morphe-patches.software/?app=idm.internet.download.manager#whats-new)
   - [ADM](https://morphe-patches.software/?app=com.dv.adm#whats-new)
