@@ -54,6 +54,9 @@ To keep the post useful and easy to maintain, this section focuses on recent upd
 
 ### New Apps
 
+- **Hxreborn**
+  - [Catzy](https://morphe-patches.software/?app=com.nieruo.healthapp#whats-new)
+  - [MemoNeet](https://morphe-patches.software/?app=com.adithya.memoneet#whats-new)
 - **Plyrs1**
   - [Android Auto](https://morphe-patches.software/?app=com.google.android.projection.gearhead#whats-new)
 - **Santodan**
