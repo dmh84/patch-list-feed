@@ -41,6 +41,16 @@ To keep the post useful and easy to maintain, this section focuses on recent upd
 
 ---
 
+## October 3, 2026
+
+### New Apps
+
+- **Aidan**
+  - [Adobe Scan](https://morphe-patches.software/?app=com.adobe.scan.android#whats-new)
+  - [Fizz](https://morphe-patches.software/?app=com.ashtoncofer.Buzz#whats-new)
+- **Heval**
+  - [Zedge](https://morphe-patches.software/?app=net.zedge.android#whats-new)
+
 ## October 2, 2026
 
 ### New Sources
@@ -61,8 +71,6 @@ To keep the post useful and easy to maintain, this section focuses on recent upd
   - [Score tracker](https://morphe-patches.software/?app=net.aasuited.universalscoretracker#whats-new)
   - [Sudoku.com - Sudoku Puzzle](https://morphe-patches.software/?app=com.easybrain.sudoku.android#whats-new)
   - [Truth or Dare Game - Party App](https://morphe-patches.software/?app=com.antoinehabert.truthordaregame#whats-new)
-- [**ToThangGTVT**](https://morphe.software/add-source?github=ToThangGTVT/morphe-fb-lite)
-  - [Facebook Lite](https://morphe-patches.software/?app=com.facebook.lite#whats-new)
 
 ### New Apps
 
@@ -326,9 +334,11 @@ To keep the post useful and easy to maintain, this section focuses on recent upd
 ### New Sources
 
 - [**Aidan**](https://morphe.software/add-source?github=ihatenodejs/aidans-patches)
+  - [Adobe Scan](https://morphe-patches.software/?app=com.adobe.scan.android#whats-new)
   - [AfterShip](https://morphe-patches.software/?app=com.aftership.AfterShip#whats-new)
   - [Blackjack](https://morphe-patches.software/?app=com.tripledot.blackjack#whats-new)
   - [Canvas Student](https://morphe-patches.software/?app=com.instructure.candroid#whats-new)
+  - [Fizz](https://morphe-patches.software/?app=com.ashtoncofer.Buzz#whats-new)
   - [Navigate360 Student](https://morphe-patches.software/?app=com.eab.se#whats-new)
   - [Sezzle](https://morphe-patches.software/?app=com.sezzle.sezzlemobile#whats-new)
   - [SidelineSwap](https://morphe-patches.software/?app=com.sidelineswap.android#whats-new)
