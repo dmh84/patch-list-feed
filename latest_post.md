@@ -83,6 +83,8 @@ To keep the post useful and easy to maintain, this section focuses on recent upd
   - [Toffee](https://morphe-patches.software/?app=com.banglalink.toffee#whats-new)
 - **non7043**
   - [TikTok](https://morphe-patches.software/?app=com.zhiliaoapp.musically#whats-new)
+- **Oyasumi**
+  - [Pinterest](https://morphe-patches.software/?app=com.pinterest#whats-new)
 
 ## October 1, 2026
 
@@ -360,6 +362,7 @@ To keep the post useful and easy to maintain, this section focuses on recent upd
   - [1DM](https://morphe-patches.software/?app=idm.internet.download.manager#whats-new)
   - [ADM](https://morphe-patches.software/?app=com.dv.adm#whats-new)
   - [Djezzy](https://morphe-patches.software/?app=com.djezzy.internet#whats-new)
+  - [Pinterest](https://morphe-patches.software/?app=com.pinterest#whats-new)
 - [**Virzak**](https://morphe.software/add-source?github=virzak/morphe-patches)
   - [RuTube](https://morphe-patches.software/?app=ru.rutube.app#whats-new)
 
@@ -462,26 +465,3 @@ To keep the post useful and easy to maintain, this section focuses on recent upd
   - [Klassik Radio+](https://morphe-patches.software/?app=de.klassikradio.app#whats-new)
 - **Shuhaibnc**
   - [Vidma](https://morphe-patches.software/?app=vidma.video.editor.videomaker#whats-new)
-
-## September 19, 2026
-
-### New Sources
-
-- [**AIS**](https://morphe.software/add-source?github=RjBiermann/brave-waffle)
-  - [AIS](https://morphe-patches.software/?app=com.streamdev.aiostreamer#whats-new)
-- [**Ak800i**](https://morphe.software/add-source?github=ak800i/mixplorer-patches-for-morphe)
-  - [MiXplorer](https://morphe-patches.software/?app=com.mixplorer#whats-new)
-- [**Foxxo**](https://morphe.software/add-source?github=FoxxoOwO/foxxo-patches)
-  - [AI Plant Doctor](https://morphe-patches.software/?app=me.jodoin.aiplantdoctor#whats-new)
-  - [Instagram](https://morphe-patches.software/?app=com.instagram.android#whats-new)
-- [**Nai64 Extra**](https://morphe.software/add-source?github=Nai64/Nai64ExtraPatches)
-  - [Bandcamp](https://morphe-patches.software/?app=com.bandcamp.android#whats-new)
-
-### New Apps
-
-- **Heval**
-  - [jetAudio](https://morphe-patches.software/?app=com.jetappfactory.jetaudio#whats-new)
-  - [Textra](https://morphe-patches.software/?app=com.textra#whats-new)
-  - [Unified Remote](https://morphe-patches.software/?app=com.Relmtech.Remote#whats-new)
-- **Hxreborn**
-  - [vpnify](https://morphe-patches.software/?app=com.vpn.free.hotspot.secure.vpnify#whats-new)
