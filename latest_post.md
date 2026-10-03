@@ -48,8 +48,16 @@ To keep the post useful and easy to maintain, this section focuses on recent upd
 - **Aidan**
   - [Adobe Scan](https://morphe-patches.software/?app=com.adobe.scan.android#whats-new)
   - [Fizz](https://morphe-patches.software/?app=com.ashtoncofer.Buzz#whats-new)
+- **Bartlomiejfornalczyk**
+  - [YouTube Music](https://morphe-patches.software/?app=com.google.android.apps.youtube.music#whats-new)
+  - [YouTube Music (Morphe)](https://morphe-patches.software/?app=app.morphe.android.apps.youtube.music#whats-new)
+  - [YouTube Music (ReVanced)](https://morphe-patches.software/?app=app.revanced.android.apps.youtube.music#whats-new)
+- **byehi98**
+  - [Dead Target: Offline Games 3D](https://morphe-patches.software/?app=com.vng.g6.a.zombie#whats-new)
 - **Heval**
   - [Zedge](https://morphe-patches.software/?app=net.zedge.android#whats-new)
+- **Shuhaibnc**
+  - [TrebEdit](https://morphe-patches.software/?app=com.teejay.trebedit#whats-new)
 
 ## October 2, 2026
 
@@ -175,6 +183,9 @@ To keep the post useful and easy to maintain, this section focuses on recent upd
   - [Twitch](https://morphe-patches.software/?app=tv.twitch.android.app#whats-new)
 - [**Bartlomiejfornalczyk**](https://morphe.software/add-source?github=bartlomiejfornalczyk/morphe-patches)
   - [Google Maps](https://morphe-patches.software/?app=com.google.android.apps.maps#whats-new)
+  - [YouTube Music](https://morphe-patches.software/?app=com.google.android.apps.youtube.music#whats-new)
+  - [YouTube Music (Morphe)](https://morphe-patches.software/?app=app.morphe.android.apps.youtube.music#whats-new)
+  - [YouTube Music (ReVanced)](https://morphe-patches.software/?app=app.revanced.android.apps.youtube.music#whats-new)
 - [**ggYasin**](https://morphe.software/add-source?github=ggYasin/ggyasin-morphe-patches)
   - [9GAG](https://morphe-patches.software/?app=com.ninegag.android.app#whats-new)
   - [Offline Games](https://morphe-patches.software/?app=com.JindoBlu.OfflineGames#whats-new)
