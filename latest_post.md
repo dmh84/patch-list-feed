@@ -41,6 +41,22 @@ To keep the post useful and easy to maintain, this section focuses on recent upd
 
 ---
 
+## October 4, 2026
+
+### New Sources
+
+- [**ImNoammm**](https://morphe.software/add-source?github=ImNoammm/Noams-Morphe-Patches)
+  - [Block Blast](https://morphe-patches.software/?app=com.block.juggle#whats-new)
+  - [Chess.com](https://morphe-patches.software/?app=com.chess#whats-new)
+  - [Gboard](https://morphe-patches.software/?app=com.google.android.inputmethod.latin#whats-new)
+- [**Ryykitty**](https://morphe.software/add-source?github=ryykitty/twitch-patched)
+  - [Twitch](https://morphe-patches.software/?app=tv.twitch.android.app#whats-new)
+
+### New App
+
+- **Stylus**
+  - [Telegram](https://morphe-patches.software/?app=org.telegram.messenger#whats-new)
+
 ## October 3, 2026
 
 ### New Apps
@@ -132,8 +148,6 @@ To keep the post useful and easy to maintain, this section focuses on recent upd
   - [Chefkoch](https://morphe-patches.software/?app=de.pixelhouse#whats-new)
 - [**Bugg4**](https://morphe.software/add-source?github=Bugg4/bugg4s-patches)
   - [OPL Monitor](https://morphe-patches.software/?app=com.insigniadpfgmailcom.oplmonitor#whats-new)
-- [**Satwik-Miyyapuram**](https://morphe.software/add-source?github=Satwik-Miyyapuram/morphe-patches)
-  - [Mini Militia Classic](https://morphe-patches.software/?app=com.appsomniacs.mmc#whats-new)
 
 ### New Apps
 
