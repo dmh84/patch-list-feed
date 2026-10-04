@@ -56,6 +56,11 @@ To keep the post useful and easy to maintain, this section focuses on recent upd
 
 - **byehi98**
   - [Head Basketball](https://morphe-patches.software/?app=com.dnddream.HeadBasketball#whats-new)
+- **Hxreborn**
+  - [All Video Player App](https://morphe-patches.software/?app=com.allformatplayer.streamvideoplayer#whats-new)
+  - [Echo Equalizer](https://morphe-patches.software/?app=com.hapibits.soundlift#whats-new)
+  - [Fddb](https://morphe-patches.software/?app=com.fddb#whats-new)
+  - [LED Blinker](https://morphe-patches.software/?app=com.ledblinker#whats-new)
 - **Legendsciber**
   - [Sling Drift](https://morphe-patches.software/?app=com.rubygames.slingdrift#whats-new)
 - **Stylus**
