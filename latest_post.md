@@ -52,8 +52,12 @@ To keep the post useful and easy to maintain, this section focuses on recent upd
 - [**Ryykitty**](https://morphe.software/add-source?github=ryykitty/twitch-patched)
   - [Twitch](https://morphe-patches.software/?app=tv.twitch.android.app#whats-new)
 
-### New App
+### New Apps
 
+- **byehi98**
+  - [Head Basketball](https://morphe-patches.software/?app=com.dnddream.HeadBasketball#whats-new)
+- **Legendsciber**
+  - [Sling Drift](https://morphe-patches.software/?app=com.rubygames.slingdrift#whats-new)
 - **Stylus**
   - [Telegram](https://morphe-patches.software/?app=org.telegram.messenger#whats-new)
 
