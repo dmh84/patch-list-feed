@@ -49,6 +49,8 @@ To keep the post useful and easy to maintain, this section focuses on recent upd
   - [Block Blast](https://morphe-patches.software/?app=com.block.juggle#whats-new)
   - [Chess.com](https://morphe-patches.software/?app=com.chess#whats-new)
   - [Gboard](https://morphe-patches.software/?app=com.google.android.inputmethod.latin#whats-new)
+- [**Kero309x**](https://morphe.software/add-source?github=Kero309x/anghamiplus-patches)
+  - [Anghami](https://morphe-patches.software/?app=com.anghami#whats-new)
 - [**Ryykitty**](https://morphe.software/add-source?github=ryykitty/twitch-patched)
   - [Twitch](https://morphe-patches.software/?app=tv.twitch.android.app#whats-new)
 
@@ -498,22 +500,3 @@ To keep the post useful and easy to maintain, this section focuses on recent upd
   - [Xiaomi Earbuds](https://morphe-patches.software/?app=com.mi.earphone#whats-new)
 - **Shuhaibnc**
   - [Video to MP3](https://morphe-patches.software/?app=mp3videoconverter.videotomp3.videotomp3converter#whats-new)
-
-## September 21, 2026
-
-### New Source
-
-- [**Wagg13Patch**](https://morphe.software/add-source?github=WaggBR/Wagg13Patch_Morphe)
-  - [Bisbi](https://morphe-patches.software/?app=com.nouxi.bisbi#whats-new)
-  - [Native Camera](https://morphe-patches.software/?app=com.rawcam.app#whats-new)
-  - [Tinder](https://morphe-patches.software/?app=com.tinder#whats-new)
-
-### New Apps
-
-- **Chiggi SonyLIV Patches - by durgesh0505**
-  - [Big Hunter](https://morphe-patches.software/?app=com.kakarod.bighunter#whats-new)
-- **Hxreborn**
-  - [MyMoveset](https://morphe-patches.software/?app=com.soulbreakers.mymoveset#whats-new)
-  - [Realme Link](https://morphe-patches.software/?app=com.realme.link#whats-new)
-- **Proxma**
-  - [OLX](https://morphe-patches.software/?app=com.olx.pk#whats-new)
