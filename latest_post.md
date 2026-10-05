@@ -41,6 +41,33 @@ To keep the post useful and easy to maintain, this section focuses on recent upd
 
 ---
 
+## October 5, 2026
+
+### New Sources
+
+- [**HushPinterest**](https://morphe.software/add-source?github=SysAdminDoc/HushPinterest)
+  - [Pinterest](https://morphe-patches.software/?app=com.pinterest#whats-new)
+- [**Kim20598**](https://morphe.software/add-source?github=kim20598/hakim-morphe-patches)
+  - [Busuu](https://morphe-patches.software/?app=com.busuu.android.enc#whats-new)
+  - [Letterboxd](https://morphe-patches.software/?app=com.letterboxd.letterboxd#whats-new)
+- [**Ysamjo TRL+**](https://morphe.software/add-source?github=ysamjo/ysamjo-rtlplus-patches)
+  - [RTL+](https://morphe-patches.software/?app=de.rtli.tvnow#whats-new)
+- [**Ysamjo TV**](https://morphe.software/add-source?github=ysamjo/ysamjo-youtubetv-patches)
+  - [TizenTube](https://morphe-patches.software/?app=io.gh.reisxd.tizentube.cobalt#whats-new)
+  - [YouTube for Android TV](https://morphe-patches.software/?app=com.google.android.youtube.tv#whats-new)
+
+### New Apps
+
+- **byehi98**
+  - [Head Soccer](https://morphe-patches.software/?app=com.dnddream.headsoccer.android#whats-new)
+  - [Shooty Skies](https://morphe-patches.software/?app=com.mightygamesgroup.shootyskies#whats-new)
+- **Hxreborn**
+  - [Keepa](https://morphe-patches.software/?app=com.keepa.mobile#whats-new)
+- **Wagg13Patch**
+  - [BuzzCast](https://morphe-patches.software/?app=com.guochao.faceshow#whats-new)
+  - [Instagram](https://morphe-patches.software/?app=com.instagram.android#whats-new)
+  - [Instagram Instants](https://morphe-patches.software/?app=com.instagram.moonshot#whats-new)
+
 ## October 4, 2026
 
 ### New Sources
