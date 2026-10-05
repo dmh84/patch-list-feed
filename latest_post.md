@@ -45,6 +45,8 @@ To keep the post useful and easy to maintain, this section focuses on recent upd
 
 ### New Sources
 
+- [**Error404rt**](https://morphe.software/add-source?github=Error404rt/Anixart-patches)
+  - [Anixart](https://morphe-patches.software/?app=com.swiftsoft.anixartd#whats-new)
 - [**HushPinterest**](https://morphe.software/add-source?github=SysAdminDoc/HushPinterest)
   - [Pinterest](https://morphe-patches.software/?app=com.pinterest#whats-new)
 - [**Kim20598**](https://morphe.software/add-source?github=kim20598/hakim-morphe-patches)
