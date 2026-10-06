@@ -41,6 +41,24 @@ To keep the post useful and easy to maintain, this section focuses on recent upd
 
 ---
 
+## October 6, 2026
+
+### New Source
+
+- [**VipinVIP**](https://morphe.software/add-source?github=VipinVIP/railone-patches)
+  - [RailOne](https://morphe-patches.software/?app=org.cris.aikyam#whats-new)
+
+### New Apps
+
+- **Hxreborn**
+  - [Fast STL Viewer](https://morphe-patches.software/?app=com.performance.meshview#whats-new)
+  - [Joyn](https://morphe-patches.software/?app=de.prosiebensat1digital.seventv#whats-new)
+  - [Raindrop.io](https://morphe-patches.software/?app=io.raindrop.raindropio#whats-new)
+- **MightyMich**
+  - [Callfilter.app](https://morphe-patches.software/?app=callfilter.app#whats-new)
+  - [Remini](https://morphe-patches.software/?app=com.bigwinepot.nwdn.international#whats-new)
+  - [SofaScore](https://morphe-patches.software/?app=com.sofascore.results#whats-new)
+
 ## October 5, 2026
 
 ### New Sources
@@ -60,8 +78,6 @@ To keep the post useful and easy to maintain, this section focuses on recent upd
 
 ### New Apps
 
-- **Bartlomiejfornalczyk**
-  - [Google Maps (ReVanced)](https://morphe-patches.software/?app=app.revanced.android.apps.maps#whats-new)
 - **byehi98**
   - [Grimvalor](https://morphe-patches.software/?app=com.direlight.grimvalor#whats-new)
   - [Head Soccer](https://morphe-patches.software/?app=com.dnddream.headsoccer.android#whats-new)
@@ -113,8 +129,6 @@ To keep the post useful and easy to maintain, this section focuses on recent upd
 - **Aidan**
   - [Adobe Scan](https://morphe-patches.software/?app=com.adobe.scan.android#whats-new)
   - [Fizz](https://morphe-patches.software/?app=com.ashtoncofer.Buzz#whats-new)
-- **Bartlomiejfornalczyk**
-  - [YouTube Music](https://morphe-patches.software/?app=com.google.android.apps.youtube.music#whats-new)
 - **byehi98**
   - [Dead Target: Offline Games 3D](https://morphe-patches.software/?app=com.vng.g6.a.zombie#whats-new)
 - **FTL**
@@ -266,10 +280,6 @@ To keep the post useful and easy to maintain, this section focuses on recent upd
   - [Jain Panchang](https://morphe-patches.software/?app=com.jaindarshan.panchangtithi#whats-new)
 - [**Bakwudo**](https://morphe.software/add-source?github=bakwudo/uyu)
   - [Twitch](https://morphe-patches.software/?app=tv.twitch.android.app#whats-new)
-- [**Bartlomiejfornalczyk**](https://morphe.software/add-source?github=bartlomiejfornalczyk/morphe-patches)
-  - [Google Maps](https://morphe-patches.software/?app=com.google.android.apps.maps#whats-new)
-  - [Google Maps (ReVanced)](https://morphe-patches.software/?app=app.revanced.android.apps.maps#whats-new)
-  - [YouTube Music](https://morphe-patches.software/?app=com.google.android.apps.youtube.music#whats-new)
 - [**ggYasin**](https://morphe.software/add-source?github=ggYasin/ggyasin-morphe-patches)
   - [9GAG](https://morphe-patches.software/?app=com.ninegag.android.app#whats-new)
   - [Offline Games](https://morphe-patches.software/?app=com.JindoBlu.OfflineGames#whats-new)
@@ -338,6 +348,7 @@ To keep the post useful and easy to maintain, this section focuses on recent upd
   - [Arc Player](https://morphe-patches.software/?app=com.videoplayer.arcplayer#whats-new)
   - [Audio Editor](https://morphe-patches.software/?app=audioeditor.musiceditor.soundeditor.songeditor#whats-new)
   - [Calendar](https://morphe-patches.software/?app=calendar.agenda.calendarplanner.agendaplanner#whats-new)
+  - [Callfilter.app](https://morphe-patches.software/?app=callfilter.app#whats-new)
   - [Camera Opus Companion](https://morphe-patches.software/?app=pl.mobimax.cameraopus#whats-new)
   - [Days Matter](https://morphe-patches.software/?app=com.clover.daysmatter#whats-new)
   - [Device Info](https://morphe-patches.software/?app=com.liuzh.deviceinfo#whats-new)
@@ -351,8 +362,10 @@ To keep the post useful and easy to maintain, this section focuses on recent upd
   - [Nova Launcher](https://morphe-patches.software/?app=com.teslacoilsw.launcher#whats-new)
   - [Photex Companion](https://morphe-patches.software/?app=pl.mobimax.photex#whats-new)
   - [ReelShort](https://morphe-patches.software/?app=com.newleaf.app.android.victor#whats-new)
+  - [Remini](https://morphe-patches.software/?app=com.bigwinepot.nwdn.international#whats-new)
   - [Ringtone Maker: Music Cutter](https://morphe-patches.software/?app=ringtonemaker.musiccutter.customringtones.freeringtonemake#whats-new)
   - [Screen Translate](https://morphe-patches.software/?app=com.spaceship.screen.textcopy#whats-new)
+  - [SofaScore](https://morphe-patches.software/?app=com.sofascore.results#whats-new)
   - [Telegram](https://morphe-patches.software/?app=org.telegram.messenger#whats-new)
   - [To-Do List](https://morphe-patches.software/?app=todolist.scheduleplanner.dailyplanner.todo.reminders#whats-new)
   - [TrebEdit](https://morphe-patches.software/?app=com.teejay.trebedit#whats-new)
