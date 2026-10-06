@@ -43,13 +43,20 @@ To keep the post useful and easy to maintain, this section focuses on recent upd
 
 ## October 6, 2026
 
-### New Source
+### New Sources
 
+- [**Nai64**](https://morphe.software/add-source?gitlab=kmru/nai64patches)
+- [**Nai64 Extra**](https://morphe.software/add-source?gitlab=kmru/nai64extrapatches)
+  - [Bandcamp](https://morphe-patches.software/?app=com.bandcamp.android#whats-new)
+- [**R2bEEaton**](https://morphe.software/add-source?github=R2bEEaton/walmart-morphe)
+  - [Walmart](https://morphe-patches.software/?app=com.walmart.android#whats-new)
 - [**VipinVIP**](https://morphe.software/add-source?github=VipinVIP/railone-patches)
   - [RailOne](https://morphe-patches.software/?app=org.cris.aikyam#whats-new)
 
 ### New Apps
 
+- **Heval**
+  - [Moon+ Reader](https://morphe-patches.software/?app=com.flyersoft.moonreader#whats-new)
 - **Hxreborn**
   - [Fast STL Viewer](https://morphe-patches.software/?app=com.performance.meshview#whats-new)
   - [Joyn](https://morphe-patches.software/?app=de.prosiebensat1digital.seventv#whats-new)
