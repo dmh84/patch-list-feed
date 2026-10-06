@@ -60,11 +60,20 @@ To keep the post useful and easy to maintain, this section focuses on recent upd
 
 ### New Apps
 
+- **Bartlomiejfornalczyk**
+  - [Google Maps (ReVanced)](https://morphe-patches.software/?app=app.revanced.android.apps.maps#whats-new)
 - **byehi98**
+  - [Grimvalor](https://morphe-patches.software/?app=com.direlight.grimvalor#whats-new)
   - [Head Soccer](https://morphe-patches.software/?app=com.dnddream.headsoccer.android#whats-new)
   - [Shooty Skies](https://morphe-patches.software/?app=com.mightygamesgroup.shootyskies#whats-new)
+- **Heval**
+  - [Castbox](https://morphe-patches.software/?app=fm.castbox.audiobook.radio.podcast#whats-new)
+  - [Podcast Republic](https://morphe-patches.software/?app=com.podcast.podcasts#whats-new)
+  - [Shazam](https://morphe-patches.software/?app=com.shazam.android#whats-new)
 - **Hxreborn**
   - [Keepa](https://morphe-patches.software/?app=com.keepa.mobile#whats-new)
+- **Stylus**
+  - [Telegram](https://morphe-patches.software/?app=org.telegram.messenger#whats-new)
 - **Wagg13Patch**
   - [BuzzCast](https://morphe-patches.software/?app=com.guochao.faceshow#whats-new)
   - [Instagram](https://morphe-patches.software/?app=com.instagram.android#whats-new)
@@ -104,12 +113,12 @@ To keep the post useful and easy to maintain, this section focuses on recent upd
 - **Aidan**
   - [Adobe Scan](https://morphe-patches.software/?app=com.adobe.scan.android#whats-new)
   - [Fizz](https://morphe-patches.software/?app=com.ashtoncofer.Buzz#whats-new)
+- **Bartlomiejfornalczyk**
+  - [YouTube Music](https://morphe-patches.software/?app=com.google.android.apps.youtube.music#whats-new)
 - **byehi98**
   - [Dead Target: Offline Games 3D](https://morphe-patches.software/?app=com.vng.g6.a.zombie#whats-new)
 - **FTL**
   - [Firefox Nightly](https://morphe-patches.software/?app=org.mozilla.fenix#whats-new)
-- **Heval**
-  - [Zedge](https://morphe-patches.software/?app=net.zedge.android#whats-new)
 - **Legendsciber**
   - [Solar Smash](https://morphe-patches.software/?app=com.paradyme.solarsmash#whats-new)
 - **MightyMich**
@@ -257,6 +266,10 @@ To keep the post useful and easy to maintain, this section focuses on recent upd
   - [Jain Panchang](https://morphe-patches.software/?app=com.jaindarshan.panchangtithi#whats-new)
 - [**Bakwudo**](https://morphe.software/add-source?github=bakwudo/uyu)
   - [Twitch](https://morphe-patches.software/?app=tv.twitch.android.app#whats-new)
+- [**Bartlomiejfornalczyk**](https://morphe.software/add-source?github=bartlomiejfornalczyk/morphe-patches)
+  - [Google Maps](https://morphe-patches.software/?app=com.google.android.apps.maps#whats-new)
+  - [Google Maps (ReVanced)](https://morphe-patches.software/?app=app.revanced.android.apps.maps#whats-new)
+  - [YouTube Music](https://morphe-patches.software/?app=com.google.android.apps.youtube.music#whats-new)
 - [**ggYasin**](https://morphe.software/add-source?github=ggYasin/ggyasin-morphe-patches)
   - [9GAG](https://morphe-patches.software/?app=com.ninegag.android.app#whats-new)
   - [Offline Games](https://morphe-patches.software/?app=com.JindoBlu.OfflineGames#whats-new)
@@ -493,39 +506,3 @@ To keep the post useful and easy to maintain, this section focuses on recent upd
 - **Shuhaibnc**
   - [GoCut](https://morphe-patches.software/?app=com.videoedit.gocut#whats-new)
   - [OviCut](https://morphe-patches.software/?app=video.editor.videoeditor.musicvideoeditor#whats-new)
-
-## September 22, 2026
-
-### New Sources
-
-- [**Debakar**](https://morphe.software/add-source?github=debakarr/morphe-patches)
-  - [Amazon India](https://morphe-patches.software/?app=in.amazon.mShop.android.shopping#whats-new)
-  - [Amazon Shopping](https://morphe-patches.software/?app=com.amazon.mShop.android.shopping#whats-new)
-  - [Flipkart](https://morphe-patches.software/?app=com.flipkart.android#whats-new)
-  - [Meesho](https://morphe-patches.software/?app=com.meesho.supply#whats-new)
-  - [Myntra](https://morphe-patches.software/?app=com.myntra.android#whats-new)
-- [**Dudek**](https://morphe.software/add-source?github=dawidd612/dudeks-morphe-patches)
-  - [AndroPods](https://morphe-patches.software/?app=pro.vitalii.andropods#whats-new)
-  - [Gardenscapes](https://morphe-patches.software/?app=com.playrix.gardenscapes#whats-new)
-  - [Good Coffee, Great Coffee](https://morphe-patches.software/?app=com.tapblaze.coffeebusiness#whats-new)
-  - [Good Pizza, Great Pizza](https://morphe-patches.software/?app=com.tapblaze.pizzabusiness#whats-new)
-  - [Google Calendar](https://morphe-patches.software/?app=com.google.android.calendar#whats-new)
-  - [Instagram](https://morphe-patches.software/?app=com.instagram.android#whats-new)
-  - [Mapa Turystyczna](https://morphe-patches.software/?app=pl.mapa_turystyczna.app#whats-new)
-  - [TikTok](https://morphe-patches.software/?app=com.zhiliaoapp.musically#whats-new)
-- [**Jacobs**](https://morphe.software/add-source?github=JacobPlaysGames/CrimeRadar-Morphe-Patches)
-  - [CrimeRadar](https://morphe-patches.software/?app=com.newsbreak.crimeradar#whats-new)
-  - [Scanner Radio](https://morphe-patches.software/?app=com.scannerradio#whats-new)
-
-### New Apps
-
-- **Epxec**
-  - [Mazii](https://morphe-patches.software/?app=com.mazii.dictionary#whats-new)
-- **Hxreborn**
-  - [AtloMaps](https://morphe-patches.software/?app=com.atlogis.atlomaps#whats-new)
-  - [Proton Pass](https://morphe-patches.software/?app=proton.android.pass#whats-new)
-- **Kveld9**
-  - [NokoPrint - WiFi, Bluetooth, USB](https://morphe-patches.software/?app=com.nokoprint#whats-new)
-  - [Xiaomi Earbuds](https://morphe-patches.software/?app=com.mi.earphone#whats-new)
-- **Shuhaibnc**
-  - [Video to MP3](https://morphe-patches.software/?app=mp3videoconverter.videotomp3.videotomp3converter#whats-new)
