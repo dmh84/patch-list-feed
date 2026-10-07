@@ -41,6 +41,41 @@ To keep the post useful and easy to maintain, this section focuses on recent upd
 
 ---
 
+## October 7, 2026
+
+### New Sources
+
+- [**Blazko381**](https://morphe.software/add-source?github=Blazko381/Luna-TV-device-comp-patch-and-no-lag)
+  - [Amazon Lua](https://morphe-patches.software/?app=com.amazon.spiderpork#whats-new)
+- [**DigitalPals**](https://morphe.software/add-source?github=DigitalPals/johns-morphe-patches)
+  - [NLZIET](https://morphe-patches.software/?app=nl.nlziet#whats-new)
+- [**Hammadhassan94**](https://morphe.software/add-source?github=hammadhassan94/ary-live)
+  - [ARY PLUS](https://morphe-patches.software/?app=com.release.arylive#whats-new)
+- [**Heyymichii**](https://morphe.software/add-source?github=heyymichii/michii-patches)
+  - [LinkedIn](https://morphe-patches.software/?app=com.linkedin.android#whats-new)
+- [**Pigfoot**](https://morphe.software/add-source?github=pigfoot/morphe-patches)
+  - [台灣鐵道通](https://morphe-patches.software/?app=com.waccliu.taiwanrail#whats-new)
+- [**SailHighSea**](https://morphe.software/add-source?github=SailHighSea/sailhighsea-patches)
+  - [Clear Scanner](https://morphe-patches.software/?app=com.indymobileapp.document.scanner#whats-new)
+  - [Renamer](https://morphe-patches.software/?app=com.aj.renamer#whats-new)
+- [**Snowyegret23**](https://morphe.software/add-source?github=snowyegret23/morphe-patches)
+  - [Chzzk](https://morphe-patches.software/?app=com.navercorp.game.android.community#whats-new)
+
+### New Apps
+
+- **Heval**
+  - [#Notepad](https://morphe-patches.software/?app=com.ztnstudio.notepad#whats-new)
+  - [AiScore](https://morphe-patches.software/?app=com.onesports.score#whats-new)
+  - [BeSoccer](https://morphe-patches.software/?app=com.resultadosfutbol.mobile#whats-new)
+  - [Fishing Points](https://morphe-patches.software/?app=com.gregacucnik.fishingpoints#whats-new)
+  - [Native Camera](https://morphe-patches.software/?app=com.rawcam.app#whats-new)
+  - [OneCricket](https://morphe-patches.software/?app=one.cricket.app#whats-new)
+  - [SoundHound](https://morphe-patches.software/?app=com.melodis.midomiMusicIdentifier.freemium#whats-new)
+- **Hxreborn**
+  - [AnyTracker](https://morphe-patches.software/?app=com.shervinkoushan.anyTracker#whats-new)
+  - [Musixmatch](https://morphe-patches.software/?app=com.musixmatch.android.lyrify#whats-new)
+  - [Photone](https://morphe-patches.software/?app=io.lightray.photone#whats-new)
+
 ## October 6, 2026
 
 ### New Sources
