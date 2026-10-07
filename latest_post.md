@@ -48,6 +48,8 @@ To keep the post useful and easy to maintain, this section focuses on recent upd
 - [**Nai64**](https://morphe.software/add-source?gitlab=kmru/nai64patches)
 - [**Nai64 Extra**](https://morphe.software/add-source?gitlab=kmru/nai64extrapatches)
   - [Bandcamp](https://morphe-patches.software/?app=com.bandcamp.android#whats-new)
+- [**Pixel Board**](https://morphe.software/add-source?github=Akshayykadam/PixelBoard)
+  - [Gboard](https://morphe-patches.software/?app=com.google.android.inputmethod.latin#whats-new)
 - [**R2bEEaton**](https://morphe.software/add-source?github=R2bEEaton/walmart-morphe)
   - [Walmart](https://morphe-patches.software/?app=com.walmart.android#whats-new)
 - [**VipinVIP**](https://morphe.software/add-source?github=VipinVIP/railone-patches)
@@ -416,12 +418,12 @@ To keep the post useful and easy to maintain, this section focuses on recent upd
 
 ### New Sources
 
-- [**Akshayykadam**](https://morphe.software/add-source?github=Akshayykadam/Pixel-Camera)
-  - [Pixel Camera](https://morphe-patches.software/?app=com.google.android.GoogleCamera#whats-new)
 - [**Bearinmind**](https://morphe.software/add-source?github=bearinmindcat/morphe-patches)
   - [Google Maps](https://morphe-patches.software/?app=com.google.android.apps.maps#whats-new)
 - [**Hushfacebook**](https://morphe.software/add-source?github=SysAdminDoc/Hushfacebook)
   - [Facebook](https://morphe-patches.software/?app=com.facebook.katana#whats-new)
+- [**Pixel Camera**](https://morphe.software/add-source?github=Akshayykadam/Pixel-Camera)
+  - [Pixel Camera](https://morphe-patches.software/?app=com.google.android.GoogleCamera#whats-new)
 
 ### New Apps
 
@@ -464,65 +466,3 @@ To keep the post useful and easy to maintain, this section focuses on recent upd
   - [ADM](https://morphe-patches.software/?app=com.dv.adm#whats-new)
 - **Shuhaibnc**
   - [Facebook Lite](https://morphe-patches.software/?app=com.facebook.lite#whats-new)
-
-## September 23, 2026
-
-### New Sources
-
-- [**Aidan**](https://morphe.software/add-source?github=ihatenodejs/aidans-patches)
-  - [Adobe Scan](https://morphe-patches.software/?app=com.adobe.scan.android#whats-new)
-  - [AfterShip](https://morphe-patches.software/?app=com.aftership.AfterShip#whats-new)
-  - [Blackjack](https://morphe-patches.software/?app=com.tripledot.blackjack#whats-new)
-  - [Canvas Student](https://morphe-patches.software/?app=com.instructure.candroid#whats-new)
-  - [Fizz](https://morphe-patches.software/?app=com.ashtoncofer.Buzz#whats-new)
-  - [Navigate360 Student](https://morphe-patches.software/?app=com.eab.se#whats-new)
-  - [Sezzle](https://morphe-patches.software/?app=com.sezzle.sezzlemobile#whats-new)
-  - [SidelineSwap](https://morphe-patches.software/?app=com.sidelineswap.android#whats-new)
-- [**Anilili**](https://morphe.software/add-source?github=thegibbonn/morphe-patches-anilili)
-  - [Anilili](https://morphe-patches.software/?app=com.miruronative#whats-new)
-- [**Bestweb**](https://morphe.software/add-source?github=Thewanwan/bestapp)
-  - [Weibo](https://morphe-patches.software/?app=com.sina.weibo#whats-new)
-- [**Canic**](https://morphe.software/add-source?github=Canic/twitch-morphe-patch)
-  - [Twitch](https://morphe-patches.software/?app=tv.twitch.android.app#whats-new)
-- [**Duy**](https://morphe.software/add-source?github=phamleduy04/duy-patches)
-  - [FlightConnections](https://morphe-patches.software/?app=com.flightconnections#whats-new)
-- [**Gamer92000**](https://morphe.software/add-source?github=Gamer92000/pixelcamera-patches)
-  - [Pixel Camera](https://morphe-patches.software/?app=com.google.android.GoogleCamera#whats-new)
-- [**Jeff-tek**](https://morphe.software/add-source?github=Jeff-tek/jeff-patches)
-  - [MP3 Cutter and Ringtone Maker](https://morphe-patches.software/?app=ringtone.maker.mp3.cutter.audio#whats-new)
-- [**Media**](https://morphe.software/add-source?github=HellLord77/media-patches)
-  - [Bongo](https://morphe-patches.software/?app=com.bongo.bongobd#whats-new)
-  - [Bongo](https://morphe-patches.software/?app=com.bongo.bongobd#whats-new)
-  - [Chorki](https://morphe-patches.software/?app=com.prothomalo#whats-new)
-  - [Chorki TV](https://morphe-patches.software/?app=com.prothomalo.chorki#whats-new)
-  - [DeeptoPlay](https://morphe-patches.software/?app=com.gotipath.deeptotv#whats-new)
-  - [DeeptoTV](https://morphe-patches.software/?app=com.gotipath.deeptotvapp#whats-new)
-  - [IScreen](https://morphe-patches.software/?app=com.rockstreamer.iscreen#whats-new)
-  - [IScreen Tv](https://morphe-patches.software/?app=com.rockstreamer.iscreentv#whats-new)
-  - [Kabbik](https://morphe-patches.software/?app=com.kabbik.app#whats-new)
-  - [Klikk](https://morphe-patches.software/?app=com.angel.klikk#whats-new)
-  - [Klikk](https://morphe-patches.software/?app=com.angel.klikk#whats-new)
-  - [Shadhin](https://morphe-patches.software/?app=com.gm.shadhin#whats-new)
-  - [Toffee](https://morphe-patches.software/?app=com.banglalink.toffee#whats-new)
-- [**Oyasumi**](https://morphe.software/add-source?github=dunecache/oyasumi-patches)
-  - [1DM](https://morphe-patches.software/?app=idm.internet.download.manager#whats-new)
-  - [ADM](https://morphe-patches.software/?app=com.dv.adm#whats-new)
-  - [Djezzy](https://morphe-patches.software/?app=com.djezzy.internet#whats-new)
-  - [Pinterest](https://morphe-patches.software/?app=com.pinterest#whats-new)
-- [**Virzak**](https://morphe.software/add-source?github=virzak/morphe-patches)
-  - [RuTube](https://morphe-patches.software/?app=ru.rutube.app#whats-new)
-
-### New Apps
-
-- **byehi98**
-  - [Crossy Road](https://morphe-patches.software/?app=com.yodo1.crossyroad#whats-new)
-- **JaredCat**
-  - [OfferUp](https://morphe-patches.software/?app=com.offerup#whats-new)
-  - [Sweepy](https://morphe-patches.software/?app=app.sweepy.sweepy#whats-new)
-- **Legendsciber**
-  - [Soccer Star](https://morphe-patches.software/?app=com.soccer.score.star#whats-new)
-- **Riky**
-  - [VN](https://morphe-patches.software/?app=com.frontrow.vlog#whats-new)
-- **Shuhaibnc**
-  - [GoCut](https://morphe-patches.software/?app=com.videoedit.gocut#whats-new)
-  - [OviCut](https://morphe-patches.software/?app=video.editor.videoeditor.musicvideoeditor#whats-new)
