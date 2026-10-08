@@ -56,6 +56,7 @@ To keep the post useful and easy to maintain, this section focuses on recent upd
 - [**Pigfoot**](https://morphe.software/add-source?github=pigfoot/morphe-patches)
   - [台灣鐵道通](https://morphe-patches.software/?app=com.waccliu.taiwanrail#whats-new)
 - [**SailHighSea**](https://morphe.software/add-source?github=SailHighSea/sailhighsea-patches)
+  - [Castbox](https://morphe-patches.software/?app=fm.castbox.audiobook.radio.podcast#whats-new)
   - [Clear Scanner](https://morphe-patches.software/?app=com.indymobileapp.document.scanner#whats-new)
   - [Renamer](https://morphe-patches.software/?app=com.aj.renamer#whats-new)
 - [**Snowyegret23**](https://morphe.software/add-source?github=snowyegret23/morphe-patches)
@@ -63,6 +64,8 @@ To keep the post useful and easy to maintain, this section focuses on recent upd
 
 ### New Apps
 
+- **byehi98**
+  - [Swamp Attack](https://morphe-patches.software/?app=com.outfit7.movingeye.swampattack#whats-new)
 - **Heval**
   - [#Notepad](https://morphe-patches.software/?app=com.ztnstudio.notepad#whats-new)
   - [AiScore](https://morphe-patches.software/?app=com.onesports.score#whats-new)
@@ -75,6 +78,8 @@ To keep the post useful and easy to maintain, this section focuses on recent upd
   - [AnyTracker](https://morphe-patches.software/?app=com.shervinkoushan.anyTracker#whats-new)
   - [Musixmatch](https://morphe-patches.software/?app=com.musixmatch.android.lyrify#whats-new)
   - [Photone](https://morphe-patches.software/?app=io.lightray.photone#whats-new)
+- **Proxma**
+  - [Safar](https://morphe-patches.software/?app=com.safar.fyi#whats-new)
 
 ## October 6, 2026
 
@@ -293,11 +298,6 @@ To keep the post useful and easy to maintain, this section focuses on recent upd
 
 ## September 29, 2026
 
-### New Source
-
-- [**Matthewclso**](https://morphe.software/add-source?github=matthewclso/chrome-morphe)
-  - [Chrome](https://morphe-patches.software/?app=com.android.chrome#whats-new)
-
 ### New Apps
 
 - **Debakar**
@@ -348,10 +348,8 @@ To keep the post useful and easy to maintain, this section focuses on recent upd
 
 ## September 27, 2026
 
-### New Sources
+### New Source
 
-- [**Latanvillegas**](https://morphe.software/add-source?github=latanvillegas/lawnchair-morphe-patches)
-  - [Lawnchair Nightly](https://morphe-patches.software/?app=app.lawnchair.nightly#whats-new)
 - [**Nady**](https://morphe.software/add-source?github=mohamedamrnady/anghami-patches)
   - [Anghami](https://morphe-patches.software/?app=com.anghami#whats-new)
 
