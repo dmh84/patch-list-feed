@@ -41,6 +41,19 @@ To keep the post useful and easy to maintain, this section focuses on recent upd
 
 ---
 
+## October 8, 2026
+
+### New Apps
+
+- **Hxreborn**
+  - [AudioLab](https://morphe-patches.software/?app=com.hitrolab.audioeditor#whats-new)
+  - [Yanosik](https://morphe-patches.software/?app=pl.neptis.yanosik.mobi.android#whats-new)
+- **PyFlat**
+  - [ARD Mediathek](https://morphe-patches.software/?app=de.swr.avp.ard#whats-new)
+  - [Disney+](https://morphe-patches.software/?app=com.disney.disneyplus#whats-new)
+- **SailHighSea**
+  - [HDQ Walls](https://morphe-patches.software/?app=com.hdqwalls.hdqwalls1#whats-new)
+
 ## October 7, 2026
 
 ### New Sources
@@ -58,6 +71,7 @@ To keep the post useful and easy to maintain, this section focuses on recent upd
 - [**SailHighSea**](https://morphe.software/add-source?github=SailHighSea/sailhighsea-patches)
   - [Castbox](https://morphe-patches.software/?app=fm.castbox.audiobook.radio.podcast#whats-new)
   - [Clear Scanner](https://morphe-patches.software/?app=com.indymobileapp.document.scanner#whats-new)
+  - [HDQ Walls](https://morphe-patches.software/?app=com.hdqwalls.hdqwalls1#whats-new)
   - [Renamer](https://morphe-patches.software/?app=com.aj.renamer#whats-new)
 - [**Snowyegret23**](https://morphe.software/add-source?github=snowyegret23/morphe-patches)
   - [Chzzk](https://morphe-patches.software/?app=com.navercorp.game.android.community#whats-new)
