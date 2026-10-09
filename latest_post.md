@@ -45,6 +45,8 @@ To keep the post useful and easy to maintain, this section focuses on recent upd
 
 ### New Apps
 
+- **byehi98**
+  - [Swamp Attack 2](https://morphe-patches.software/?app=com.hyperdotstudios.swampattack2#whats-new)
 - **Hxreborn**
   - [AudioLab](https://morphe-patches.software/?app=com.hitrolab.audioeditor#whats-new)
   - [Yanosik](https://morphe-patches.software/?app=pl.neptis.yanosik.mobi.android#whats-new)
@@ -59,6 +61,8 @@ To keep the post useful and easy to maintain, this section focuses on recent upd
 - **PyFlat**
   - [ARD Mediathek](https://morphe-patches.software/?app=de.swr.avp.ard#whats-new)
   - [Disney+](https://morphe-patches.software/?app=com.disney.disneyplus#whats-new)
+- **Rahaaatul**
+  - [Proton VPN](https://morphe-patches.software/?app=ch.protonvpn.android#whats-new)
 - **SailHighSea**
   - [HDQ Walls](https://morphe-patches.software/?app=com.hdqwalls.hdqwalls1#whats-new)
 
@@ -352,9 +356,6 @@ To keep the post useful and easy to maintain, this section focuses on recent upd
   - [ZenSMS](https://morphe-patches.software/?app=com.zensms.app#whats-new)
 - [**HushMessenger**](https://morphe.software/add-source?github=SysAdminDoc/HushMessenger)
   - [Messenger](https://morphe-patches.software/?app=com.facebook.orca#whats-new)
-- [**Tkiethuynh**](https://morphe.software/add-source?github=tkiethuynh/den-patch)
-  - [MISA Money Keeper](https://morphe-patches.software/?app=vn.com.misa.sothuchi#whats-new)
-  - [Proxman](https://morphe-patches.software/?app=com.windium.proxman#whats-new)
 
 ### New Apps
 
@@ -460,6 +461,7 @@ To keep the post useful and easy to maintain, this section focuses on recent upd
   - [Struk Pom / SPBU](https://morphe-patches.software/?app=com.ogestudio.strukpertamini#whats-new)
 - [**Rahaaatul**](https://morphe.software/add-source?github=rahaaatul/morphe-patches)
   - [Privacy Kit](https://morphe-patches.software/?app=com.sal.privacykit#whats-new)
+  - [Proton VPN](https://morphe-patches.software/?app=ch.protonvpn.android#whats-new)
 - [**Supperelias2 SBS**](https://morphe.software/add-source?github=Supperelias2/sbs-morphe-patches)
   - [SBS On Demand](https://morphe-patches.software/?app=com.sbs.ondemand.android#whats-new)
 - [**Supperelias2 SBS TV**](https://morphe.software/add-source?github=Supperelias2/sbs-tv-morphe-patches)
@@ -473,30 +475,3 @@ To keep the post useful and easy to maintain, this section focuses on recent upd
   - [Proton VPN](https://morphe-patches.software/?app=ch.protonvpn.android#whats-new)
 - **JPTT**
   - [Local Dream](https://morphe-patches.software/?app=io.github.xororz.localdream#whats-new)
-
-## September 25, 2026
-
-### New Sources
-
-- [**Bearinmind**](https://morphe.software/add-source?github=bearinmindcat/morphe-patches)
-  - [Google Maps](https://morphe-patches.software/?app=com.google.android.apps.maps#whats-new)
-- [**Hushfacebook**](https://morphe.software/add-source?github=SysAdminDoc/Hushfacebook)
-  - [Facebook](https://morphe-patches.software/?app=com.facebook.katana#whats-new)
-- [**Pixel Camera**](https://morphe.software/add-source?github=Akshayykadam/Pixel-Camera)
-  - [Pixel Camera](https://morphe-patches.software/?app=com.google.android.GoogleCamera#whats-new)
-
-### New Apps
-
-- **AFFiNE**
-  - [Stick War: Legacy](https://morphe-patches.software/?app=com.maxgames.stickwarlegacy#whats-new)
-- **Foxxo**
-  - [Instagram](https://morphe-patches.software/?app=com.instagram.android#whats-new)
-- **Hxreborn**
-  - [Echogram](https://morphe-patches.software/?app=com.liori.echogram#whats-new)
-  - [Hindu Calendar](https://morphe-patches.software/?app=com.alokmandavgane.hinducalendar#whats-new)
-  - [TeraBox](https://morphe-patches.software/?app=com.dubox.drive#whats-new)
-  - [VLLO](https://morphe-patches.software/?app=com.darinsoft.vimo#whats-new)
-- **Legendsciber**
-  - [Subway Surfers](https://morphe-patches.software/?app=com.kiloo.subwaysurf#whats-new)
-- **Santodan**
-  - [NuvioTV](https://morphe-patches.software/?app=com.nuvio.tv#whats-new)
