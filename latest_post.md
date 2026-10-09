@@ -48,6 +48,14 @@ To keep the post useful and easy to maintain, this section focuses on recent upd
 - **Hxreborn**
   - [AudioLab](https://morphe-patches.software/?app=com.hitrolab.audioeditor#whats-new)
   - [Yanosik](https://morphe-patches.software/?app=pl.neptis.yanosik.mobi.android#whats-new)
+- **MightyMich**
+  - [InShot](https://morphe-patches.software/?app=com.camerasideas.instashot#whats-new)
+  - [PhotoApp](https://morphe-patches.software/?app=com.scaleup.photofx#whats-new)
+  - [Polarr](https://morphe-patches.software/?app=photo.editor.polarr#whats-new)
+  - [Pou](https://morphe-patches.software/?app=me.pou.app#whats-new)
+  - [VivaCut](https://morphe-patches.software/?app=com.quvideo.vivacut#whats-new)
+- **Oyasumi**
+  - [Truecaller](https://morphe-patches.software/?app=com.truecaller#whats-new)
 - **PyFlat**
   - [ARD Mediathek](https://morphe-patches.software/?app=de.swr.avp.ard#whats-new)
   - [Disney+](https://morphe-patches.software/?app=com.disney.disneyplus#whats-new)
@@ -410,6 +418,7 @@ To keep the post useful and easy to maintain, this section focuses on recent upd
   - [Device Info](https://morphe-patches.software/?app=com.liuzh.deviceinfo#whats-new)
   - [Guitar Tuner](https://morphe-patches.software/?app=com.yaunquan.guitartuna#whats-new)
   - [Huanxiu Sleep](https://morphe-patches.software/?app=com.huanxiu.HXAweme#whats-new)
+  - [InShot](https://morphe-patches.software/?app=com.camerasideas.instashot#whats-new)
   - [MagoVideo](https://morphe-patches.software/?app=mobi.charmer.magovideo#whats-new)
   - [Music Pitcher Radio](https://morphe-patches.software/?app=com.appums.music_pitcher_radio#whats-new)
   - [Music Player](https://morphe-patches.software/?app=mymusic.offlinemusicplayer.mp3player.playmusic#whats-new)
@@ -417,6 +426,9 @@ To keep the post useful and easy to maintain, this section focuses on recent upd
   - [My Diary](https://morphe-patches.software/?app=mydiary.journal.diary.diarywithlock.diaryjournal.secretdiary#whats-new)
   - [Nova Launcher](https://morphe-patches.software/?app=com.teslacoilsw.launcher#whats-new)
   - [Photex Companion](https://morphe-patches.software/?app=pl.mobimax.photex#whats-new)
+  - [PhotoApp](https://morphe-patches.software/?app=com.scaleup.photofx#whats-new)
+  - [Polarr](https://morphe-patches.software/?app=photo.editor.polarr#whats-new)
+  - [Pou](https://morphe-patches.software/?app=me.pou.app#whats-new)
   - [ReelShort](https://morphe-patches.software/?app=com.newleaf.app.android.victor#whats-new)
   - [Remini](https://morphe-patches.software/?app=com.bigwinepot.nwdn.international#whats-new)
   - [Ringtone Maker: Music Cutter](https://morphe-patches.software/?app=ringtonemaker.musiccutter.customringtones.freeringtonemake#whats-new)
@@ -426,6 +438,7 @@ To keep the post useful and easy to maintain, this section focuses on recent upd
   - [To-Do List](https://morphe-patches.software/?app=todolist.scheduleplanner.dailyplanner.todo.reminders#whats-new)
   - [TrebEdit](https://morphe-patches.software/?app=com.teejay.trebedit#whats-new)
   - [Video Guru](https://morphe-patches.software/?app=videoeditor.videomaker.videoeditorforyoutube#whats-new)
+  - [VivaCut](https://morphe-patches.software/?app=com.quvideo.vivacut#whats-new)
   - [Voice Changer](https://morphe-patches.software/?app=voicechanger.voiceeffects.soundeffects.voiceavatar#whats-new)
   - [Wearfit Pro](https://morphe-patches.software/?app=com.wakeup.howear#whats-new)
   - [ZArchiver](https://morphe-patches.software/?app=ru.zdevs.zarchiver#whats-new)
