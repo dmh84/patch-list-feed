@@ -48,10 +48,12 @@ To keep the post useful and easy to maintain, this section focuses on recent upd
 - [**VenusIsJaded**](https://morphe.software/add-source?github=VenusIsJaded/Venus-Patches)
   - [Discord](https://morphe-patches.software/?app=com.discord#whats-new)
 
-### New App
+### New Apps
 
 - **Aidan**
   - [Geocaching](https://morphe-patches.software/?app=com.groundspeak.geocaching.intro#whats-new)
+- **byehi98**
+  - [Progressbar95](https://morphe-patches.software/?app=com.spookyhousestudios.progressbar95#whats-new)
 
 ## October 9, 2026
 
@@ -289,8 +291,6 @@ To keep the post useful and easy to maintain, this section focuses on recent upd
   - [IScreen Tv](https://morphe-patches.software/?app=com.rockstreamer.iscreentv#whats-new)
   - [Klikk](https://morphe-patches.software/?app=com.angel.klikk#whats-new)
   - [Toffee](https://morphe-patches.software/?app=com.banglalink.toffee#whats-new)
-- **Oyasumi**
-  - [Pinterest](https://morphe-patches.software/?app=com.pinterest#whats-new)
 
 ## October 1, 2026
 
