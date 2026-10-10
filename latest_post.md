@@ -50,10 +50,23 @@ To keep the post useful and easy to maintain, this section focuses on recent upd
 
 ### New Apps
 
+- **aapam**
+  - [MyGate](https://morphe-patches.software/?app=com.mygate.user#whats-new)
 - **Aidan**
   - [Geocaching](https://morphe-patches.software/?app=com.groundspeak.geocaching.intro#whats-new)
 - **byehi98**
   - [Progressbar95](https://morphe-patches.software/?app=com.spookyhousestudios.progressbar95#whats-new)
+- **FTL**
+  - All Video Player App
+  - [Video Player](https://morphe-patches.software/?app=com.allformatplayer.streamvideoplayer#whats-new)
+  - [Video to Photo](https://morphe-patches.software/?app=kallossoft.videotophoto#whats-new)
+- **Hxreborn**
+  - [Lumo](https://morphe-patches.software/?app=me.proton.android.lumo#whats-new)
+  - [May: Beautiful Bullet Journal](https://morphe-patches.software/?app=com.azeravn.bulletjournal#whats-new)
+  - [MedicNEET](https://morphe-patches.software/?app=com.halalfire.medicneet#whats-new)
+  - [SQCOM](https://morphe-patches.software/?app=com.sqcom.shangqing#whats-new)
+  - [STEEZY](https://morphe-patches.software/?app=co.steezy.app#whats-new)
+  - [WalP](https://morphe-patches.software/?app=com.stresscodes.wallp#whats-new)
 
 ## October 9, 2026
 
