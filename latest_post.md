@@ -41,6 +41,15 @@ To keep the post useful and easy to maintain, this section focuses on recent upd
 
 ---
 
+## October 9, 2026
+
+### New Apps
+
+- **Hxreborn**
+  - [imo](https://morphe-patches.software/?app=com.imo.android.imoim#whats-new)
+- **Legendsciber**
+  - [Temple Run 2](https://morphe-patches.software/?app=com.imangi.templerun2#whats-new)
+
 ## October 8, 2026
 
 ### New Apps
@@ -273,8 +282,6 @@ To keep the post useful and easy to maintain, this section focuses on recent upd
   - [IScreen Tv](https://morphe-patches.software/?app=com.rockstreamer.iscreentv#whats-new)
   - [Klikk](https://morphe-patches.software/?app=com.angel.klikk#whats-new)
   - [Toffee](https://morphe-patches.software/?app=com.banglalink.toffee#whats-new)
-- **non7043**
-  - [TikTok](https://morphe-patches.software/?app=com.zhiliaoapp.musically#whats-new)
 - **Oyasumi**
   - [Pinterest](https://morphe-patches.software/?app=com.pinterest#whats-new)
 
@@ -450,7 +457,6 @@ To keep the post useful and easy to maintain, this section focuses on recent upd
   - [Telegram Web](https://morphe-patches.software/?app=org.telegram.messenger.web#whats-new)
 - [**non7043**](https://morphe.software/add-source?github=non7043/365score-patches)
   - [365Scores](https://morphe-patches.software/?app=com.scores365#whats-new)
-  - [TikTok](https://morphe-patches.software/?app=com.zhiliaoapp.musically#whats-new)
 - [**ns1207**](https://morphe.software/add-source?github=ns1207/morphe-patches-template)
   - [Dumpert](https://morphe-patches.software/?app=nl.dumpert#whats-new)
 - [**Plyrs1**](https://morphe.software/add-source?github=Plyrs1/morphe-patches)
