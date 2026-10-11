@@ -60,6 +60,10 @@ To keep the post useful and easy to maintain, this section focuses on recent upd
   - All Video Player App
   - [Video Player](https://morphe-patches.software/?app=com.allformatplayer.streamvideoplayer#whats-new)
   - [Video to Photo](https://morphe-patches.software/?app=kallossoft.videotophoto#whats-new)
+- **Heval**
+  - [Alarm Clock Xtreme](https://morphe-patches.software/?app=com.alarmclock.xtreme.free#whats-new)
+  - [Business Calendar 2](https://morphe-patches.software/?app=com.appgenix.bizcal#whats-new)
+  - [Librera](https://morphe-patches.software/?app=com.foobnix.pdf.reader#whats-new)
 - **Hxreborn**
   - [Lumo](https://morphe-patches.software/?app=me.proton.android.lumo#whats-new)
   - [May: Beautiful Bullet Journal](https://morphe-patches.software/?app=com.azeravn.bulletjournal#whats-new)
@@ -67,6 +71,10 @@ To keep the post useful and easy to maintain, this section focuses on recent upd
   - [SQCOM](https://morphe-patches.software/?app=com.sqcom.shangqing#whats-new)
   - [STEEZY](https://morphe-patches.software/?app=co.steezy.app#whats-new)
   - [WalP](https://morphe-patches.software/?app=com.stresscodes.wallp#whats-new)
+- **Legendsciber**
+  - [Age Of War 2](https://morphe-patches.software/?app=com.maxgames.aow2#whats-new)
+- **Yann-Soliman**
+  - [Naolib vélo](https://morphe-patches.software/?app=com.jcdecaux.vls.nantes#whats-new)
 
 ## October 9, 2026
 
@@ -395,34 +403,3 @@ To keep the post useful and easy to maintain, this section focuses on recent upd
   - [BlurWall](https://morphe-patches.software/?app=apps.automan.blurwallpaper#whats-new)
 - **Plyrs1**
   - [Habitica](https://morphe-patches.software/?app=com.habitrpg.android.habitica#whats-new)
-
-## September 27, 2026
-
-### New Source
-
-- [**Nady**](https://morphe.software/add-source?github=mohamedamrnady/anghami-patches)
-  - [Anghami](https://morphe-patches.software/?app=com.anghami#whats-new)
-
-### New Apps
-
-- **Android TV**
-  - it.rainet.androidtv
-- **Dudek**
-  - [Good Pizza, Great Pizza](https://morphe-patches.software/?app=com.tapblaze.pizzabusiness#whats-new)
-  - [Google Calendar](https://morphe-patches.software/?app=com.google.android.calendar#whats-new)
-- **Epxec**
-  - [VTube Studio](https://morphe-patches.software/?app=com.denchi.vtubestudio#whats-new)
-- **Franticg33k patches**
-  - [NostalgiaTV](https://morphe-patches.software/?app=com.nostalgiatv#whats-new)
-- **Heval**
-  - [Futbin](https://morphe-patches.software/?app=com.futbin#whats-new)
-  - [Pocket Color Wheel](https://morphe-patches.software/?app=com.pocketcolorwheel.PCW#whats-new)
-- **Hiosdra**
-  - [Movie Paradise](https://morphe-patches.software/?app=com.techkitlabs.movieparadise#whats-new)
-- **Hxreborn**
-  - [Cxxdroid](https://morphe-patches.software/?app=ru.iiec.cxxdroid#whats-new)
-  - [Jvdroid](https://morphe-patches.software/?app=ru.iiec.jvdroid#whats-new)
-  - [Pydroid 3](https://morphe-patches.software/?app=ru.iiec.pydroid3#whats-new)
-  - [Yi iot](https://morphe-patches.software/?app=com.yunyi.smartcamera#whats-new)
-- **Media**
-  - [Chorki TV](https://morphe-patches.software/?app=com.prothomalo.chorki#whats-new)
