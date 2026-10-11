@@ -41,6 +41,15 @@ To keep the post useful and easy to maintain, this section focuses on recent upd
 
 ---
 
+## October 11, 2026
+
+### New Apps
+
+- **Heval**
+  - [TV Smarters Player Expert](https://morphe-patches.software/?app=app.expert.player#whats-new)
+- **Steam Link GalaxyXR**
+  - [4XVR](https://morphe-patches.software/?app=cn.vr4p.oculus4xvrplayerov#whats-new)
+
 ## October 10, 2026
 
 ### New Source
@@ -367,7 +376,6 @@ To keep the post useful and easy to maintain, this section focuses on recent upd
 - **Heval**
   - [Simple Radio](https://morphe-patches.software/?app=com.streema.simpleradio#whats-new)
   - [WiFi Analyzer](https://morphe-patches.software/?app=com.farproc.wifi.analyzer#whats-new)
-  - [YouCut](https://morphe-patches.software/?app=com.camerasideas.trimmer#whats-new)
 - **MightyMich**
   - [ReelShort](https://morphe-patches.software/?app=com.newleaf.app.android.victor#whats-new)
 - **Oyasumi**
