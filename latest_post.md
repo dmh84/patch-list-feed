@@ -43,10 +43,65 @@ To keep the post useful and easy to maintain, this section focuses on recent upd
 
 ## October 11, 2026
 
+### New Sources
+
+- [**Forsigh**](https://morphe.software/add-source?github=Forsigh/waze-patches)
+  - [Waze](https://morphe-patches.software/?app=com.waze#whats-new)
+- [**Fynnaly**](https://morphe.software/add-source?github=fynnaly/test-morphe-patch)
+  - [Botworld](https://morphe-patches.software/?app=com.featherweightgames.fx#whats-new)
+  - [Wibuku](https://morphe-patches.software/?app=wibuku.app.wibuku#whats-new)
+- [**GitGitro**](https://morphe.software/add-source?github=GitGitro/Gitro-Morphe-Patches)
+  - [AI Detector](https://morphe-patches.software/?app=com.aidetector.app#whats-new)
+  - [Reverso Context](https://morphe-patches.software/?app=com.softissimo.reverso.context#whats-new)
+  - [RightGallery](https://morphe-patches.software/?app=dev.goodwy.gallery#whats-new)
+  - [RillPhone](https://morphe-patches.software/?app=dev.goodwy.rphone#whats-new)
+  - [XAPK Extractor](https://morphe-patches.software/?app=com.ytheekshana.apkextractor#whats-new)
+- [**Hajs110208**](https://morphe.software/add-source?github=hajs110208/morphe-patches)
+  - [Minecraft](https://morphe-patches.software/?app=com.mojang.minecraftpe#whats-new)
+- [**JacksonJones2003 Immersive**](https://morphe.software/add-source?github=JacksonJones2003/immersive-keyboard-patches)
+  - [Gboard](https://morphe-patches.software/?app=com.google.android.inputmethod.latin#whats-new)
+- [**JacksonJones2003 QQMusic**](https://morphe.software/add-source?github=JacksonJones2003/qqmusic-english-patches)
+  - [QQ音乐](https://morphe-patches.software/?app=com.tencent.qqmusic#whats-new)
+- [**Kveld9 Extra**](https://morphe.software/add-source?github=kveld9/kveld-extra-morphe-patches)
+  - [CapCut](https://morphe-patches.software/?app=com.lemon.lvoverseas#whats-new)
+  - [Copilot](https://morphe-patches.software/?app=com.microsoft.office.officehubrow#whats-new)
+  - [Instagram](https://morphe-patches.software/?app=com.instagram.android#whats-new)
+  - [Lightroom](https://morphe-patches.software/?app=com.adobe.lrmobile#whats-new)
+  - [Moovit](https://morphe-patches.software/?app=com.tranzmate#whats-new)
+  - [PowerPoint](https://morphe-patches.software/?app=com.microsoft.office.powerpoint#whats-new)
+  - [X](https://morphe-patches.software/?app=com.twitter.android#whats-new)
+- [**o0b**](https://morphe.software/add-source?github=o0b/morphe-patches)
+  - [Business Calendar 2](https://morphe-patches.software/?app=com.appgenix.bizcal#whats-new)
+  - [Hurry Day Countdown & Reminder](https://morphe-patches.software/?app=com.samruston.hurry#whats-new)
+  - [meteoblue Weather](https://morphe-patches.software/?app=com.meteoblue.droid#whats-new)
+  - [Nova Launcher](https://morphe-patches.software/?app=com.teslacoilsw.launcher#whats-new)
+  - [Octopi Launcher](https://morphe-patches.software/?app=com.otp.octopilauncher#whats-new)
+  - [Wavelet](https://morphe-patches.software/?app=com.pittvandewitt.wavelet#whats-new)
+  - [Your Calendar Widget](https://morphe-patches.software/?app=de.mash.android.calendar#whats-new)
+- [**RikoDEV**](https://morphe.software/add-source?github=RikoDEV/morphed-pl)
+  - [Yanosik](https://morphe-patches.software/?app=pl.neptis.yanosik.mobi.android#whats-new)
+- [**Sqzass**](https://morphe.software/add-source?github=sqzass/patches)
+- [**Sudashiii**](https://morphe.software/add-source?github=Sudashiii/servus-patches)
+  - [ServusTV On](https://morphe-patches.software/?app=com.mautilus.servus#whats-new)
+- [**TorbenStriegel**](https://morphe.software/add-source?github=TorbenStriegel/morphe-patches-custom)
+  - [ntv](https://morphe-patches.software/?app=de.lineas.lit.ntv.android#whats-new)
+  - [OneFootball](https://morphe-patches.software/?app=de.motain.iliga#whats-new)
+  - [SAI Split APKs Installer](https://morphe-patches.software/?app=com.mtv.sai#whats-new)
+  - [Skat](https://morphe-patches.software/?app=com.isarinteractive.skat.android.ad#whats-new)
+  - [Toralarm](https://morphe-patches.software/?app=com.eisterhues_media_2#whats-new)
+  - [Weather&Radar](https://morphe-patches.software/?app=de.wetteronline.wetterapp#whats-new)
+
 ### New Apps
 
+- **Bearinmind**
+  - [AllTrails](https://morphe-patches.software/?app=com.alltrails.alltrails#whats-new)
+  - [Waze](https://morphe-patches.software/?app=com.waze#whats-new)
+- **byehi98**
+  - [Lemmings: Puzzle Survival](https://morphe-patches.software/?app=com.sadpuppy.lemmings#whats-new)
 - **Heval**
   - [TV Smarters Player Expert](https://morphe-patches.software/?app=app.expert.player#whats-new)
+- **Media**
+  - [Hoichoi](https://morphe-patches.software/?app=com.viewlift.hoichoi#whats-new)
 - **Steam Link GalaxyXR**
   - [4XVR](https://morphe-patches.software/?app=cn.vr4p.oculus4xvrplayerov#whats-new)
 
@@ -68,7 +123,7 @@ To keep the post useful and easy to maintain, this section focuses on recent upd
 - **FTL**
   - All Video Player App
   - [Video Player](https://morphe-patches.software/?app=com.allformatplayer.streamvideoplayer#whats-new)
-  - [Video to Photo](https://morphe-patches.software/?app=kallossoft.videotophoto#whats-new)
+  - [Video To Photo](https://morphe-patches.software/?app=kallossoft.videotophoto#whats-new)
 - **Heval**
   - [Alarm Clock Xtreme](https://morphe-patches.software/?app=com.alarmclock.xtreme.free#whats-new)
   - [Business Calendar 2](https://morphe-patches.software/?app=com.appgenix.bizcal#whats-new)
