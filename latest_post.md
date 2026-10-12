@@ -45,18 +45,33 @@ To keep the post useful and easy to maintain, this section focuses on recent upd
 
 ### New Sources
 
+- [**Arsylk**](https://morphe.software/add-source?github=Arsylk/arsylk-patches)
+  - [Hide My Android](https://morphe-patches.software/?app=com.wowsoftware.hidemyandroid#whats-new)
+  - [Hide My Emulator](https://morphe-patches.software/?app=net.wowsoftware.hidemyemulator#whats-new)
 - [**Commit-Regrets**](https://morphe.software/add-source?github=commit-regrets/morphe-youtube-vr-patches)
   - [YouTube VR](https://morphe-patches.software/?app=com.google.android.apps.youtube.vr.oculus#whats-new)
+- [**HushTumblr**](https://morphe.software/add-source?github=SysAdminDoc/HushTumblr)
+  - [Tumblr](https://morphe-patches.software/?app=com.tumblr#whats-new)
+- [**Jaydenluuuu-Sys**](https://morphe.software/add-source?github=jaydenluuuu-sys/line-font-patches)
+  - [LINE](https://morphe-patches.software/?app=jp.naver.line.android#whats-new)
+- [**Rikunode**](https://morphe.software/add-source?github=rikunode/pupil-swipe-disable-patches)
+  - [Pupil](https://morphe-patches.software/?app=xyz.quaver.pupil#whats-new)
+- [**Shini-Cell**](https://morphe.software/add-source?github=shini-cell/shini-morphe)
+  - [Nagram XF](https://morphe-patches.software/?app=fork.risin42.nagramx#whats-new)
 - [**Tachibana-Shin**](https://morphe.software/add-source?github=tachibana-shin/morphe-patches)
   - [APKPure](https://morphe-patches.software/?app=com.apkpure.aegon#whats-new)
   - [Zepp](https://morphe-patches.software/?app=com.huami.watch.hmwatchmanager#whats-new)
 - [**UnkyBadTouch**](https://morphe.software/add-source?github=UnkyBadTouch/plex-morphe-patches)
   - [Plex](https://morphe-patches.software/?app=com.plexapp.android#whats-new)
 
-### New App
+### New Apps
 
+- **braiNtropy**
+  - [RP Hypertrophy](https://morphe-patches.software/?app=com.rp.hypertrophy#whats-new)
 - **FTL**
   - [Calendar 2026](https://morphe-patches.software/?app=com.agendaplanner.taskmangereventmangercalendar#whats-new)
+- **Steam Link GalaxyXR**
+  - [Steam Link Experimental](https://morphe-patches.software/?app=com.valvesoftware.steamlinkvr.x_23#whats-new)
 
 ## October 11, 2026
 
@@ -64,9 +79,6 @@ To keep the post useful and easy to maintain, this section focuses on recent upd
 
 - [**Forsigh**](https://morphe.software/add-source?github=Forsigh/waze-patches)
   - [Waze](https://morphe-patches.software/?app=com.waze#whats-new)
-- [**Fynnaly**](https://morphe.software/add-source?github=fynnaly/test-morphe-patch)
-  - [Botworld](https://morphe-patches.software/?app=com.featherweightgames.fx#whats-new)
-  - [Wibuku](https://morphe-patches.software/?app=wibuku.app.wibuku#whats-new)
 - [**GitGitro**](https://morphe.software/add-source?github=GitGitro/Gitro-Morphe-Patches)
   - [AI Detector](https://morphe-patches.software/?app=com.aidetector.app#whats-new)
   - [File Tree Size](https://morphe-patches.software/?app=com.devone.filetreesize#whats-new)
