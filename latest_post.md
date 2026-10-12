@@ -41,6 +41,23 @@ To keep the post useful and easy to maintain, this section focuses on recent upd
 
 ---
 
+## October 12, 2026
+
+### New Sources
+
+- [**Commit-Regrets**](https://morphe.software/add-source?github=commit-regrets/morphe-youtube-vr-patches)
+  - [YouTube VR](https://morphe-patches.software/?app=com.google.android.apps.youtube.vr.oculus#whats-new)
+- [**Tachibana-Shin**](https://morphe.software/add-source?github=tachibana-shin/morphe-patches)
+  - [APKPure](https://morphe-patches.software/?app=com.apkpure.aegon#whats-new)
+  - [Zepp](https://morphe-patches.software/?app=com.huami.watch.hmwatchmanager#whats-new)
+- [**UnkyBadTouch**](https://morphe.software/add-source?github=UnkyBadTouch/plex-morphe-patches)
+  - [Plex](https://morphe-patches.software/?app=com.plexapp.android#whats-new)
+
+### New App
+
+- **FTL**
+  - [Calendar 2026](https://morphe-patches.software/?app=com.agendaplanner.taskmangereventmangercalendar#whats-new)
+
 ## October 11, 2026
 
 ### New Sources
@@ -102,7 +119,13 @@ To keep the post useful and easy to maintain, this section focuses on recent upd
 - **byehi98**
   - [Lemmings: Puzzle Survival](https://morphe-patches.software/?app=com.sadpuppy.lemmings#whats-new)
 - **Heval**
+  - [BlueMail](https://morphe-patches.software/?app=me.bluemail.mail#whats-new)
+  - [SmartWOD Timer](https://morphe-patches.software/?app=net.smartwod.timer#whats-new)
   - [TV Smarters Player Expert](https://morphe-patches.software/?app=app.expert.player#whats-new)
+- **Hxreborn**
+  - [DevCheck](https://morphe-patches.software/?app=flar2.devcheck#whats-new)
+  - [My APK](https://morphe-patches.software/?app=com.andatsoft.myapk.fwa#whats-new)
+  - [Psiphon](https://morphe-patches.software/?app=com.psiphon3.subscription#whats-new)
 - **Media**
   - [Hoichoi](https://morphe-patches.software/?app=com.viewlift.hoichoi#whats-new)
 - **Steam Link GalaxyXR**
@@ -442,30 +465,3 @@ To keep the post useful and easy to maintain, this section focuses on recent upd
   - [Google Maps](https://morphe-patches.software/?app=com.google.android.apps.maps#whats-new)
 - **V4n1X**
   - [Parcello](https://morphe-patches.software/?app=org.parcello#whats-new)
-
-## September 28, 2026
-
-### New Sources
-
-- [**Adish08**](https://morphe.software/add-source?github=Adish08/morphe-patches)
-  - [Jain Panchang](https://morphe-patches.software/?app=com.jaindarshan.panchangtithi#whats-new)
-- [**Bakwudo**](https://morphe.software/add-source?github=bakwudo/uyu)
-  - [Twitch](https://morphe-patches.software/?app=tv.twitch.android.app#whats-new)
-- [**ggYasin**](https://morphe.software/add-source?github=ggYasin/ggyasin-morphe-patches)
-  - [9GAG](https://morphe-patches.software/?app=com.ninegag.android.app#whats-new)
-  - [Offline Games](https://morphe-patches.software/?app=com.JindoBlu.OfflineGames#whats-new)
-  - [ZenSMS](https://morphe-patches.software/?app=com.zensms.app#whats-new)
-- [**HushMessenger**](https://morphe.software/add-source?github=SysAdminDoc/HushMessenger)
-  - [Messenger](https://morphe-patches.software/?app=com.facebook.orca#whats-new)
-
-### New Apps
-
-- **byehi98**
-  - [Document Scanner](https://morphe-patches.software/?app=com.cv.docscanner#whats-new)
-  - [Lumina Walls](https://morphe-patches.software/?app=com.lumina.wallpapers#whats-new)
-- **De-Vanced Patches - by RookieEnough**
-  - [Facebook](https://morphe-patches.software/?app=com.facebook.katana#whats-new)
-- **Hxreborn**
-  - [BlurWall](https://morphe-patches.software/?app=apps.automan.blurwallpaper#whats-new)
-- **Plyrs1**
-  - [Habitica](https://morphe-patches.software/?app=com.habitrpg.android.habitica#whats-new)
