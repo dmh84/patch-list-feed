@@ -60,8 +60,20 @@ To keep the post useful and easy to maintain, this section focuses on recent upd
 
 - **byehi98**
   - [Crash of Cars](https://morphe-patches.software/?app=com.notdoppler.crashofcars#whats-new)
+- **Heval**
+  - [CREX](https://morphe-patches.software/?app=in.cricketexchange.app.cricketexchange#whats-new)
+  - [Easy Homescreen](https://morphe-patches.software/?app=easy.launcher#whats-new)
+  - [Hevy](https://morphe-patches.software/?app=com.hevy#whats-new)
+  - [KakaoTalk](https://morphe-patches.software/?app=com.kakao.talk#whats-new)
+  - [LINE](https://morphe-patches.software/?app=jp.naver.line.android#whats-new)
+  - [Truecaller](https://morphe-patches.software/?app=com.truecaller#whats-new)
+- **Legendsciber**
+  - [New Star Soccer](https://morphe-patches.software/?app=com.newstargames.newstarsoccer#whats-new)
+- **MightyMich**
+  - [Guitar Tuner](https://morphe-patches.software/?app=com.ovelin.guitartuna#whats-new)
 - **Rahaaatul**
   - [Battery Guru](https://morphe-patches.software/?app=com.paget96.batteryguru#whats-new)
+  - [Proton VPN Reproducible](https://morphe-patches.software/?app=ch.protonvpn.android.reproducible#whats-new)
 
 ## October 12, 2026
 
@@ -245,8 +257,6 @@ To keep the post useful and easy to maintain, this section focuses on recent upd
 
 ### New Sources
 
-- [**Blazko381**](https://morphe.software/add-source?github=Blazko381/Luna-TV-device-comp-patch-and-no-lag)
-  - [Amazon Lua](https://morphe-patches.software/?app=com.amazon.spiderpork#whats-new)
 - [**DigitalPals**](https://morphe.software/add-source?github=DigitalPals/johns-morphe-patches)
   - [NLZIET](https://morphe-patches.software/?app=nl.nlziet#whats-new)
 - [**Hammadhassan94**](https://morphe.software/add-source?github=hammadhassan94/ary-live)
@@ -386,7 +396,6 @@ To keep the post useful and easy to maintain, this section focuses on recent upd
   - [Calendar](https://morphe-patches.software/?app=calendar.agenda.calendarplanner.agendaplanner#whats-new)
   - [Camera Opus Companion](https://morphe-patches.software/?app=pl.mobimax.cameraopus#whats-new)
   - [Days Matter](https://morphe-patches.software/?app=com.clover.daysmatter#whats-new)
-  - [Guitar Tuner](https://morphe-patches.software/?app=com.yaunquan.guitartuna#whats-new)
   - [Huanxiu Sleep](https://morphe-patches.software/?app=com.huanxiu.HXAweme#whats-new)
   - [Music Player](https://morphe-patches.software/?app=mymusic.offlinemusicplayer.mp3player.playmusic#whats-new)
   - [MX Player Pro](https://morphe-patches.software/?app=com.mxtech.videoplayer.pro#whats-new)
