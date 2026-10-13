@@ -41,6 +41,28 @@ To keep the post useful and easy to maintain, this section focuses on recent upd
 
 ---
 
+## October 13, 2026
+
+### New Sources
+
+- [**Cfels**](https://morphe.software/add-source?github=cfels/vibe-patches)
+  - [Yanosik](https://morphe-patches.software/?app=pl.neptis.yanosik.mobi.android#whats-new)
+- [**Pengusto**](https://morphe.software/add-source?github=pengusto/penguin-patches)
+  - [Fossify Calendar](https://morphe-patches.software/?app=org.fossify.calendar#whats-new)
+- [**Uta-a**](https://morphe.software/add-source?github=uta-a/linimal)
+  - [LINE](https://morphe-patches.software/?app=jp.naver.line.android#whats-new)
+- [**Ysamjo**](https://morphe.software/add-source?github=ysamjo/morphe-patches)
+  - [RTL+](https://morphe-patches.software/?app=de.rtli.tvnow#whats-new)
+  - [TizenTube](https://morphe-patches.software/?app=io.gh.reisxd.tizentube.cobalt#whats-new)
+  - [YouTube for Android TV](https://morphe-patches.software/?app=com.google.android.youtube.tv#whats-new)
+
+### New Apps
+
+- **byehi98**
+  - [Crash of Cars](https://morphe-patches.software/?app=com.notdoppler.crashofcars#whats-new)
+- **Rahaaatul**
+  - [Battery Guru](https://morphe-patches.software/?app=com.paget96.batteryguru#whats-new)
+
 ## October 12, 2026
 
 ### New Sources
@@ -68,8 +90,6 @@ To keep the post useful and easy to maintain, this section focuses on recent upd
 
 - **braiNtropy**
   - [RP Hypertrophy](https://morphe-patches.software/?app=com.rp.hypertrophy#whats-new)
-- **Debakar**
-  - [Meshy](https://morphe-patches.software/?app=ai.meshy.app#whats-new)
 - **FTL**
   - [Calendar 2026](https://morphe-patches.software/?app=com.agendaplanner.taskmangereventmangercalendar#whats-new)
 - **GoldRift**
