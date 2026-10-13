@@ -68,8 +68,17 @@ To keep the post useful and easy to maintain, this section focuses on recent upd
 
 - **braiNtropy**
   - [RP Hypertrophy](https://morphe-patches.software/?app=com.rp.hypertrophy#whats-new)
+- **Debakar**
+  - [Meshy](https://morphe-patches.software/?app=ai.meshy.app#whats-new)
 - **FTL**
   - [Calendar 2026](https://morphe-patches.software/?app=com.agendaplanner.taskmangereventmangercalendar#whats-new)
+- **GoldRift**
+  - [HiPaint](https://morphe-patches.software/?app=com.aige.hipaint#whats-new)
+- **Hxreborn**
+  - [Storywise](https://morphe-patches.software/?app=com.storywise.storywise#whats-new)
+  - Video Guru
+- **Legendsciber**
+  - [Key Mapper](https://morphe-patches.software/?app=io.github.sds100.keymapper#whats-new)
 - **Steam Link GalaxyXR**
   - [Steam Link Experimental](https://morphe-patches.software/?app=com.valvesoftware.steamlinkvr.x_23#whats-new)
 
@@ -458,22 +467,3 @@ To keep the post useful and easy to maintain, this section focuses on recent upd
   - [Djezzy](https://morphe-patches.software/?app=com.djezzy.internet#whats-new)
 - **Proxma**
   - [foodpanda](https://morphe-patches.software/?app=com.global.foodpanda.android#whats-new)
-
-## September 29, 2026
-
-### New Apps
-
-- **Debakar**
-  - [Meesho](https://morphe-patches.software/?app=com.meesho.supply#whats-new)
-  - [Myntra](https://morphe-patches.software/?app=com.myntra.android#whats-new)
-- **Heval**
-  - [Simple Radio](https://morphe-patches.software/?app=com.streema.simpleradio#whats-new)
-  - [WiFi Analyzer](https://morphe-patches.software/?app=com.farproc.wifi.analyzer#whats-new)
-- **MightyMich**
-  - [ReelShort](https://morphe-patches.software/?app=com.newleaf.app.android.victor#whats-new)
-- **Oyasumi**
-  - [1DM](https://morphe-patches.software/?app=idm.internet.download.manager#whats-new)
-- **RhubarbShoelaces**
-  - [Google Maps](https://morphe-patches.software/?app=com.google.android.apps.maps#whats-new)
-- **V4n1X**
-  - [Parcello](https://morphe-patches.software/?app=org.parcello#whats-new)
