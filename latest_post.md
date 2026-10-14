@@ -41,6 +41,30 @@ To keep the post useful and easy to maintain, this section focuses on recent upd
 
 ---
 
+## October 14, 2026
+
+### New Sources
+
+- [**ArchiveSteak**](https://morphe.software/add-source?github=archivesteak/pinterest-patches)
+  - [Pinterest](https://morphe-patches.software/?app=com.pinterest#whats-new)
+- [**Gigahawk**](https://morphe.software/add-source?github=Gigahawk/morphe-patches)
+  - [Float Control](https://morphe-patches.software/?app=com.floatcontrol#whats-new)
+- [**PerfLite**](https://morphe.software/add-source?github=PerfLite/morphe-patches-zona)
+  - [FreeZona World](https://morphe-patches.software/?app=free.zona#whats-new)
+
+### New Apps
+
+- **Heval**
+  - [Duplila](https://morphe-patches.software/?app=com.duplila.screenshare#whats-new)
+  - [Interval Timer](https://morphe-patches.software/?app=cc.dreamspark.intervaltimer#whats-new)
+  - [LuckyClick](https://morphe-patches.software/?app=com.peter890331.luckyclick.app#whats-new)
+- **Hxreborn**
+  - [Lagguy Wallpapers](https://morphe-patches.software/?app=com.lagguy.wallpapers#whats-new)
+- **Legendsciber**
+  - [Death Rover](https://morphe-patches.software/?app=com.tranquility.colony#whats-new)
+- **Santodan**
+  - [Car Scanner ELM OBD2](https://morphe-patches.software/?app=com.ovz.carscanner#whats-new)
+
 ## October 13, 2026
 
 ### New Sources
@@ -214,9 +238,9 @@ To keep the post useful and easy to maintain, this section focuses on recent upd
   - [Business Calendar 2](https://morphe-patches.software/?app=com.appgenix.bizcal#whats-new)
   - [Librera](https://morphe-patches.software/?app=com.foobnix.pdf.reader#whats-new)
 - **Hxreborn**
-  - [Lumo](https://morphe-patches.software/?app=me.proton.android.lumo#whats-new)
   - [May: Beautiful Bullet Journal](https://morphe-patches.software/?app=com.azeravn.bulletjournal#whats-new)
   - [MedicNEET](https://morphe-patches.software/?app=com.halalfire.medicneet#whats-new)
+  - [Proton Lumo](https://morphe-patches.software/?app=me.proton.android.lumo#whats-new)
   - [SQCOM](https://morphe-patches.software/?app=com.sqcom.shangqing#whats-new)
   - [STEEZY](https://morphe-patches.software/?app=co.steezy.app#whats-new)
   - [WalP](https://morphe-patches.software/?app=com.stresscodes.wallp#whats-new)
