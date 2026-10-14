@@ -58,6 +58,9 @@ To keep the post useful and easy to maintain, this section focuses on recent upd
 
 ### New Apps
 
+- **Aidan**
+  - [365 Pay](https://morphe-patches.software/?app=com.avinside#whats-new)
+  - [NHL](https://morphe-patches.software/?app=com.nhl.gc1112.free#whats-new)
 - **byehi98**
   - [Crash of Cars](https://morphe-patches.software/?app=com.notdoppler.crashofcars#whats-new)
 - **Heval**
@@ -67,6 +70,9 @@ To keep the post useful and easy to maintain, this section focuses on recent upd
   - [KakaoTalk](https://morphe-patches.software/?app=com.kakao.talk#whats-new)
   - [LINE](https://morphe-patches.software/?app=jp.naver.line.android#whats-new)
   - [Truecaller](https://morphe-patches.software/?app=com.truecaller#whats-new)
+- **Hxreborn**
+  - [Jujo](https://morphe-patches.software/?app=com.dev2a.junk_journal#whats-new)
+  - [Public](https://morphe-patches.software/?app=com.cardfeed.video_public#whats-new)
 - **Legendsciber**
   - [New Star Soccer](https://morphe-patches.software/?app=com.newstargames.newstarsoccer#whats-new)
 - **MightyMich**
@@ -469,30 +475,3 @@ To keep the post useful and easy to maintain, this section focuses on recent upd
   - [MemoNeet](https://morphe-patches.software/?app=com.adithya.memoneet#whats-new)
 - **Santodan**
   - [MEO (Android TV)](https://morphe-patches.software/?app=com.alticelabs.meo.androidtv#whats-new)
-
-## September 30, 2026
-
-### New Sources
-
-- [**CasketPizza**](https://morphe.software/add-source?github=CasketPizza/morphe-waze-system-tts)
-  - [Waze](https://morphe-patches.software/?app=com.waze#whats-new)
-- [**HushGram**](https://morphe.software/add-source?github=SysAdminDoc/HushGram)
-  - [Instagram](https://morphe-patches.software/?app=com.instagram.android#whats-new)
-- [**HushThreads**](https://morphe.software/add-source?github=SysAdminDoc/HushThreads)
-  - [Threads](https://morphe-patches.software/?app=com.instagram.barcelona#whats-new)
-
-### New Apps
-
-- **byehi98**
-  - [Dead Trigger](https://morphe-patches.software/?app=com.madfingergames.deadtrigger#whats-new)
-- **Dudek**
-  - [Good Coffee, Great Coffee](https://morphe-patches.software/?app=com.tapblaze.coffeebusiness#whats-new)
-- **Heval**
-  - [Pi Music Player](https://morphe-patches.software/?app=com.Project100Pi.themusicplayer#whats-new)
-- **Hxreborn**
-  - [One4Home Launcher](https://morphe-patches.software/?app=com.one4studio.one4home#whats-new)
-  - [Pocket Whip](https://morphe-patches.software/?app=com.greenstone.pocketwhip#whats-new)
-- **Oyasumi**
-  - [Djezzy](https://morphe-patches.software/?app=com.djezzy.internet#whats-new)
-- **Proxma**
-  - [foodpanda](https://morphe-patches.software/?app=com.global.foodpanda.android#whats-new)
