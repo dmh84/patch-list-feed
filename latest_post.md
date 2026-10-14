@@ -55,13 +55,20 @@ To keep the post useful and easy to maintain, this section focuses on recent upd
 ### New Apps
 
 - **Heval**
+  - [Brevent](https://morphe-patches.software/?app=me.piebridge.brevent#whats-new)
   - [Duplila](https://morphe-patches.software/?app=com.duplila.screenshare#whats-new)
   - [Interval Timer](https://morphe-patches.software/?app=cc.dreamspark.intervaltimer#whats-new)
   - [LuckyClick](https://morphe-patches.software/?app=com.peter890331.luckyclick.app#whats-new)
+  - [The Wall Street Journal](https://morphe-patches.software/?app=wsj.reader_sp#whats-new)
+  - [VesselFinder](https://morphe-patches.software/?app=com.astrapaging.vff#whats-new)
 - **Hxreborn**
   - [Lagguy Wallpapers](https://morphe-patches.software/?app=com.lagguy.wallpapers#whats-new)
 - **Legendsciber**
   - [Death Rover](https://morphe-patches.software/?app=com.tranquility.colony#whats-new)
+- **Proxma**
+  - [Storywise](https://morphe-patches.software/?app=com.storywise.storywise#whats-new)
+- **Riky**
+  - [Tramonto & Alba: PhotoTime](https://morphe-patches.software/?app=pl.guteklabs.phototime#whats-new)
 - **Santodan**
   - [Car Scanner ELM OBD2](https://morphe-patches.software/?app=com.ovz.carscanner#whats-new)
 
