@@ -46,6 +46,7 @@ To keep the post useful and easy to maintain, this section focuses on recent upd
 ### New Sources
 
 - [**ArchiveSteak**](https://morphe.software/add-source?github=archivesteak/pinterest-patches)
+  - [Gboard](https://morphe-patches.software/?app=com.google.android.inputmethod.latin#whats-new)
   - [Pinterest](https://morphe-patches.software/?app=com.pinterest#whats-new)
 - [**Gigahawk**](https://morphe.software/add-source?github=Gigahawk/morphe-patches)
   - [Float Control](https://morphe-patches.software/?app=com.floatcontrol#whats-new)
@@ -58,6 +59,7 @@ To keep the post useful and easy to maintain, this section focuses on recent upd
   - [Brevent](https://morphe-patches.software/?app=me.piebridge.brevent#whats-new)
   - [Duplila](https://morphe-patches.software/?app=com.duplila.screenshare#whats-new)
   - [Interval Timer](https://morphe-patches.software/?app=cc.dreamspark.intervaltimer#whats-new)
+  - [LinkedIn](https://morphe-patches.software/?app=com.linkedin.android#whats-new)
   - [LuckyClick](https://morphe-patches.software/?app=com.peter890331.luckyclick.app#whats-new)
   - [The Wall Street Journal](https://morphe-patches.software/?app=wsj.reader_sp#whats-new)
   - [VesselFinder](https://morphe-patches.software/?app=com.astrapaging.vff#whats-new)
@@ -65,6 +67,8 @@ To keep the post useful and easy to maintain, this section focuses on recent upd
   - [Lagguy Wallpapers](https://morphe-patches.software/?app=com.lagguy.wallpapers#whats-new)
 - **Legendsciber**
   - [Death Rover](https://morphe-patches.software/?app=com.tranquility.colony#whats-new)
+- **Media**
+  - [Platform8](https://morphe-patches.software/?app=com.digivive.platform8#whats-new)
 - **Proxma**
   - [Storywise](https://morphe-patches.software/?app=com.storywise.storywise#whats-new)
 - **Riky**
@@ -148,8 +152,6 @@ To keep the post useful and easy to maintain, this section focuses on recent upd
   - Video Guru
 - **Legendsciber**
   - [Key Mapper](https://morphe-patches.software/?app=io.github.sds100.keymapper#whats-new)
-- **Steam Link GalaxyXR**
-  - [Steam Link Experimental](https://morphe-patches.software/?app=com.valvesoftware.steamlinkvr.x_23#whats-new)
 
 ## October 11, 2026
 
