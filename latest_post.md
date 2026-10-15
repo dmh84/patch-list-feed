@@ -56,10 +56,22 @@ To keep the post useful and easy to maintain, this section focuses on recent upd
   - [Rumble](https://morphe-patches.software/?app=com.rumble.battles#whats-new)
   - [Twitch](https://morphe-patches.software/?app=tv.twitch.android.app#whats-new)
 
-### New App
+### New Apps
 
+- **Alastor**
+  - [Reddit](https://morphe-patches.software/?app=com.reddit.frontpage#whats-new)
 - **Heval**
+  - [BLE Scanner](https://morphe-patches.software/?app=com.macdom.ble.blescanner#whats-new)
+  - [Bluetooth Scanner](https://morphe-patches.software/?app=com.pzolee.bluetoothscanner#whats-new)
+  - [Hyperion Launcher](https://morphe-patches.software/?app=projekt.launcher#whats-new)
+  - [IrCode Finder](https://morphe-patches.software/?app=ru.wasiliysoft.ircodefindernec#whats-new)
   - [Moneycontrol](https://morphe-patches.software/?app=com.divum.MoneyControl#whats-new)
+  - [Pro Launcher](https://morphe-patches.software/?app=app.prolauncher#whats-new)
+  - [Yahoo Sports](https://morphe-patches.software/?app=com.yahoo.mobile.client.android.sportacular#whats-new)
+- **Legendsciber**
+  - [Zen Pinball](https://morphe-patches.software/?app=com.zenstudios.ZenPinball#whats-new)
+- **Santodan**
+  - [TFD Companion](https://morphe-patches.software/?app=com.nexon.tfdc#whats-new)
 
 ## October 14, 2026
 
