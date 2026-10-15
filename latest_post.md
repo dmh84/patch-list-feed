@@ -72,6 +72,8 @@ To keep the post useful and easy to maintain, this section focuses on recent upd
   - [Zen Pinball](https://morphe-patches.software/?app=com.zenstudios.ZenPinball#whats-new)
 - **Santodan**
   - [TFD Companion](https://morphe-patches.software/?app=com.nexon.tfdc#whats-new)
+- **Shuhaibnc**
+  - [Yatse](https://morphe-patches.software/?app=org.leetzone.android.yatsewidgetfree#whats-new)
 
 ## October 14, 2026
 
