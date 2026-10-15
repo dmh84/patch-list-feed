@@ -41,11 +41,31 @@ To keep the post useful and easy to maintain, this section focuses on recent upd
 
 ---
 
+## October 15, 2026
+
+### New Sources
+
+- [**Balu100**](https://morphe.software/add-source?github=balu100/GoogleDialerEnableCallRecording)
+  - [Google Phone](https://morphe-patches.software/?app=com.google.android.dialer#whats-new)
+- [**CappyT**](https://morphe.software/add-source?github=CappyT/cappys-patches)
+  - [MuseScore: Music Chords & Tabs](https://morphe-patches.software/?app=com.musescore.playerlite#whats-new)
+- [**Janowakps**](https://morphe.software/add-source?github=janowakps/morphe-patches-action)
+  - [Action](https://morphe-patches.software/?app=com.action.consumerapp#whats-new)
+- [**JordanWoodson**](https://morphe.software/add-source?github=jordanwoodson/lurk-morphe-patches)
+  - [Kick](https://morphe-patches.software/?app=com.kick.mobile#whats-new)
+  - [Rumble](https://morphe-patches.software/?app=com.rumble.battles#whats-new)
+  - [Twitch](https://morphe-patches.software/?app=tv.twitch.android.app#whats-new)
+
+### New App
+
+- **Heval**
+  - [Moneycontrol](https://morphe-patches.software/?app=com.divum.MoneyControl#whats-new)
+
 ## October 14, 2026
 
 ### New Sources
 
-- [**ArchiveSteak**](https://morphe.software/add-source?github=archivesteak/pinterest-patches)
+- [**ArchiveSteak**](https://morphe.software/add-source?github=archivesteak/Quest)
   - [Gboard](https://morphe-patches.software/?app=com.google.android.inputmethod.latin#whats-new)
   - [Pinterest](https://morphe-patches.software/?app=com.pinterest#whats-new)
 - [**Gigahawk**](https://morphe.software/add-source?github=Gigahawk/morphe-patches)
@@ -59,7 +79,6 @@ To keep the post useful and easy to maintain, this section focuses on recent upd
   - [Brevent](https://morphe-patches.software/?app=me.piebridge.brevent#whats-new)
   - [Duplila](https://morphe-patches.software/?app=com.duplila.screenshare#whats-new)
   - [Interval Timer](https://morphe-patches.software/?app=cc.dreamspark.intervaltimer#whats-new)
-  - [LinkedIn](https://morphe-patches.software/?app=com.linkedin.android#whats-new)
   - [LuckyClick](https://morphe-patches.software/?app=com.peter890331.luckyclick.app#whats-new)
   - [The Wall Street Journal](https://morphe-patches.software/?app=wsj.reader_sp#whats-new)
   - [VesselFinder](https://morphe-patches.software/?app=com.astrapaging.vff#whats-new)
