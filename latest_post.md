@@ -63,10 +63,17 @@ To keep the post useful and easy to maintain, this section focuses on recent upd
   - [LuckyClick](https://morphe-patches.software/?app=com.peter890331.luckyclick.app#whats-new)
   - [The Wall Street Journal](https://morphe-patches.software/?app=wsj.reader_sp#whats-new)
   - [VesselFinder](https://morphe-patches.software/?app=com.astrapaging.vff#whats-new)
+- **Hushfeed**
+  - com.ss.android.ttmd.video
 - **Hxreborn**
+  - [FocusNow](https://morphe-patches.software/?app=com.ferdinandobermeier.focusmate#whats-new)
   - [Lagguy Wallpapers](https://morphe-patches.software/?app=com.lagguy.wallpapers#whats-new)
+  - [MovieBox TV](https://morphe-patches.software/?app=com.community.mbox.tv#whats-new)
+- **ImNoammm**
+  - [Geocaching](https://morphe-patches.software/?app=com.groundspeak.geocaching.intro#whats-new)
 - **Legendsciber**
   - [Death Rover](https://morphe-patches.software/?app=com.tranquility.colony#whats-new)
+  - [Zombie Tsunami](https://morphe-patches.software/?app=net.mobigame.zombietsunami#whats-new)
 - **Media**
   - [Platform8](https://morphe-patches.software/?app=com.digivive.platform8#whats-new)
 - **Proxma**
@@ -397,6 +404,7 @@ To keep the post useful and easy to maintain, this section focuses on recent upd
   - [Block Blast](https://morphe-patches.software/?app=com.block.juggle#whats-new)
   - [Chess.com](https://morphe-patches.software/?app=com.chess#whats-new)
   - [Gboard](https://morphe-patches.software/?app=com.google.android.inputmethod.latin#whats-new)
+  - [Geocaching](https://morphe-patches.software/?app=com.groundspeak.geocaching.intro#whats-new)
 - [**Kero309x**](https://morphe.software/add-source?github=Kero309x/anghamiplus-patches)
   - [Anghami](https://morphe-patches.software/?app=com.anghami#whats-new)
 - [**Ryykitty**](https://morphe.software/add-source?github=ryykitty/twitch-patched)
@@ -491,20 +499,3 @@ To keep the post useful and easy to maintain, this section focuses on recent upd
   - [IScreen Tv](https://morphe-patches.software/?app=com.rockstreamer.iscreentv#whats-new)
   - [Klikk](https://morphe-patches.software/?app=com.angel.klikk#whats-new)
   - [Toffee](https://morphe-patches.software/?app=com.banglalink.toffee#whats-new)
-
-## October 1, 2026
-
-### New Sources
-
-- [**0x0day-0wl**](https://morphe.software/add-source?github=0x0day-0wl/morphe-patches)
-  - [Chefkoch](https://morphe-patches.software/?app=de.pixelhouse#whats-new)
-- [**Bugg4**](https://morphe.software/add-source?github=Bugg4/bugg4s-patches)
-  - [OPL Monitor](https://morphe-patches.software/?app=com.insigniadpfgmailcom.oplmonitor#whats-new)
-
-### New Apps
-
-- **Hxreborn**
-  - [Catzy](https://morphe-patches.software/?app=com.nieruo.healthapp#whats-new)
-  - [MemoNeet](https://morphe-patches.software/?app=com.adithya.memoneet#whats-new)
-- **Santodan**
-  - [MEO (Android TV)](https://morphe-patches.software/?app=com.alticelabs.meo.androidtv#whats-new)
