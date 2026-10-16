@@ -74,6 +74,8 @@ To keep the post useful and easy to maintain, this section focuses on recent upd
   - [TFD Companion](https://morphe-patches.software/?app=com.nexon.tfdc#whats-new)
 - **Shuhaibnc**
   - [Yatse](https://morphe-patches.software/?app=org.leetzone.android.yatsewidgetfree#whats-new)
+- **Steam Link GalaxyXR**
+  - [Steam Link Experimental](https://morphe-patches.software/?app=com.valvesoftware.steamlinkvr.x_23#whats-new)
 
 ## October 14, 2026
 
@@ -493,42 +495,3 @@ To keep the post useful and easy to maintain, this section focuses on recent upd
   - [记账助手](https://morphe-patches.software/?app=com.chenupt.money#whats-new)
 - **Shuhaibnc**
   - [TrebEdit](https://morphe-patches.software/?app=com.teejay.trebedit#whats-new)
-
-## October 2, 2026
-
-### New Sources
-
-- [**Chikuwadon**](https://morphe.software/add-source?github=chikuwadon/nicoid-re-patches)
-  - [nicoid](https://morphe-patches.software/?app=com.sauzask.nicoid#whats-new)
-- [**HushTelegram**](https://morphe.software/add-source?github=SysAdminDoc/HushTelegram)
-  - [Telegram](https://morphe-patches.software/?app=org.telegram.messenger.web#whats-new)
-- [**Kizu**](https://morphe.software/add-source?github=K8R8TO/kizu-morphe-patches)
-  - [Twitch](https://morphe-patches.software/?app=tv.twitch.android.app#whats-new)
-- [**Mubelotix**](https://morphe.software/add-source?github=Mubelotix/my-morphe-patches)
-  - [French Tarot Counter](https://morphe-patches.software/?app=net.aasuited.tarotscore#whats-new)
-  - [Jakdojade: public transport](https://morphe-patches.software/?app=com.citynav.jakdojade.pl.android#whats-new)
-  - [My Astuce](https://morphe-patches.software/?app=fr.cityway.android.creaastuce#whats-new)
-  - [Picolo drinking game](https://morphe-patches.software/?app=com.picolo.android#whats-new)
-  - [Pinterest](https://morphe-patches.software/?app=com.pinterest#whats-new)
-  - [Reddit](https://morphe-patches.software/?app=com.reddit.frontpage#whats-new)
-  - [Score tracker](https://morphe-patches.software/?app=net.aasuited.universalscoretracker#whats-new)
-  - [Sudoku.com - Sudoku Puzzle](https://morphe-patches.software/?app=com.easybrain.sudoku.android#whats-new)
-  - [Truth or Dare Game - Party App](https://morphe-patches.software/?app=com.antoinehabert.truthordaregame#whats-new)
-
-### New Apps
-
-- **Aidan**
-  - [AfterShip](https://morphe-patches.software/?app=com.aftership.AfterShip#whats-new)
-  - [Blackjack](https://morphe-patches.software/?app=com.tripledot.blackjack#whats-new)
-  - [Canvas Student](https://morphe-patches.software/?app=com.instructure.candroid#whats-new)
-  - [Navigate360 Student](https://morphe-patches.software/?app=com.eab.se#whats-new)
-  - [SidelineSwap](https://morphe-patches.software/?app=com.sidelineswap.android#whats-new)
-- **Epxec**
-  - [NotiZen Widget](https://morphe-patches.software/?app=com.gustavcaves.notizenwidget#whats-new)
-- **Media**
-  - [DeeptoPlay](https://morphe-patches.software/?app=com.gotipath.deeptotv#whats-new)
-  - [DeeptoTV](https://morphe-patches.software/?app=com.gotipath.deeptotvapp#whats-new)
-  - [IScreen](https://morphe-patches.software/?app=com.rockstreamer.iscreen#whats-new)
-  - [IScreen Tv](https://morphe-patches.software/?app=com.rockstreamer.iscreentv#whats-new)
-  - [Klikk](https://morphe-patches.software/?app=com.angel.klikk#whats-new)
-  - [Toffee](https://morphe-patches.software/?app=com.banglalink.toffee#whats-new)
