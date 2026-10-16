@@ -63,6 +63,8 @@ To keep the post useful and easy to maintain, this section focuses on recent upd
 
 ### New Apps
 
+- **Android TV**
+  - [F1 TV](https://morphe-patches.software/?app=com.formulaone.production#whats-new)
 - **Heval**
   - [Via](https://morphe-patches.software/?app=mark.via.gp#whats-new)
 - **Hxreborn**
@@ -71,6 +73,10 @@ To keep the post useful and easy to maintain, this section focuses on recent upd
   - [Proton Authenticator](https://morphe-patches.software/?app=proton.android.authenticator#whats-new)
   - [Radio Javan](https://morphe-patches.software/?app=com.radiojavan.androidradio#whats-new)
   - [Wallmaa](https://morphe-patches.software/?app=com.wallmaa.minimal.wallpapers#whats-new)
+- **Kveld9 Extra**
+  - [Hevy - Gym Log Workout Tracker](https://morphe-patches.software/?app=com.hevy#whats-new)
+  - [NokoPrint - WiFi, Bluetooth, USB](https://morphe-patches.software/?app=com.nokoprint#whats-new)
+  - [Xiaomi Earbuds](https://morphe-patches.software/?app=com.mi.earphone#whats-new)
 - **Sudashiii**
   - [ORF ON](https://morphe-patches.software/?app=com.nousguide.android.orftvthek#whats-new)
 - **Wagg13Patch**
@@ -253,11 +259,14 @@ To keep the post useful and easy to maintain, this section focuses on recent upd
 - [**Kveld9 Extra**](https://morphe.software/add-source?github=kveld9/kveld-extra-morphe-patches)
   - [CapCut](https://morphe-patches.software/?app=com.lemon.lvoverseas#whats-new)
   - [Copilot](https://morphe-patches.software/?app=com.microsoft.office.officehubrow#whats-new)
+  - [Hevy - Gym Log Workout Tracker](https://morphe-patches.software/?app=com.hevy#whats-new)
   - [Instagram](https://morphe-patches.software/?app=com.instagram.android#whats-new)
   - [Lightroom](https://morphe-patches.software/?app=com.adobe.lrmobile#whats-new)
   - [Moovit](https://morphe-patches.software/?app=com.tranzmate#whats-new)
+  - [NokoPrint - WiFi, Bluetooth, USB](https://morphe-patches.software/?app=com.nokoprint#whats-new)
   - [PowerPoint](https://morphe-patches.software/?app=com.microsoft.office.powerpoint#whats-new)
   - [X](https://morphe-patches.software/?app=com.twitter.android#whats-new)
+  - [Xiaomi Earbuds](https://morphe-patches.software/?app=com.mi.earphone#whats-new)
 - [**o0b**](https://morphe.software/add-source?github=o0b/morphe-patches)
   - [Business Calendar 2](https://morphe-patches.software/?app=com.appgenix.bizcal#whats-new)
   - [Hurry Day Countdown & Reminder](https://morphe-patches.software/?app=com.samruston.hurry#whats-new)
