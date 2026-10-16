@@ -56,11 +56,15 @@ To keep the post useful and easy to maintain, this section focuses on recent upd
   - [analiti](https://morphe-patches.software/?app=com.analiti.fastest.android#whats-new)
 - [**Pilotkosinus**](https://morphe.software/add-source?github=Pilotkosinus/morphe-waze-patches)
   - [Waze](https://morphe-patches.software/?app=com.waze#whats-new)
+- [**Serajr**](https://morphe.software/add-source?github=serajr/x-twitter-patches)
+  - [X (Twitter)](https://morphe-patches.software/?app=com.twitter.android#whats-new)
 - [**VoltoxderEchte**](https://morphe.software/add-source?github=VoltoxderEchte/waze-gearslip-morphe-patch)
   - [Waze](https://morphe-patches.software/?app=com.waze#whats-new)
 
 ### New Apps
 
+- **Heval**
+  - [Via](https://morphe-patches.software/?app=mark.via.gp#whats-new)
 - **Hxreborn**
   - [Network Analyzer](https://morphe-patches.software/?app=net.techet.netanalyzerlite.an#whats-new)
   - [Prayer Times and Qibla](https://morphe-patches.software/?app=com.reworewo.prayertimes#whats-new)
