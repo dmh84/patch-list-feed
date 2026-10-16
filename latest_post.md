@@ -41,6 +41,38 @@ To keep the post useful and easy to maintain, this section focuses on recent upd
 
 ---
 
+## October 16, 2026
+
+### New Sources
+
+- [**CallMeBeyonder**](https://morphe.software/add-source?github=callMeBeyonder/morphe-patches)
+  - [CRICFy TV](https://morphe-patches.software/?app=com.cricfytv.sports#whats-new)
+  - [MacroFactor Workouts](https://morphe-patches.software/?app=com.sbs.train#whats-new)
+  - [StrongLifts](https://morphe-patches.software/?app=com.stronglifts.app#whats-new)
+- [**Juankyyy**](https://morphe.software/add-source?github=Juankyyy/morphe-patches)
+  - [Remote Mouse](https://morphe-patches.software/?app=com.hungrybolo.remotemouseandroid#whats-new)
+  - [WaterMinder](https://morphe-patches.software/?app=com.funnmedia.waterminder#whats-new)
+- [**Jzl1**](https://morphe.software/add-source?github=jzl1/morphe-patches)
+  - [analiti](https://morphe-patches.software/?app=com.analiti.fastest.android#whats-new)
+- [**Pilotkosinus**](https://morphe.software/add-source?github=Pilotkosinus/morphe-waze-patches)
+  - [Waze](https://morphe-patches.software/?app=com.waze#whats-new)
+- [**VoltoxderEchte**](https://morphe.software/add-source?github=VoltoxderEchte/waze-gearslip-morphe-patch)
+  - [Waze](https://morphe-patches.software/?app=com.waze#whats-new)
+
+### New Apps
+
+- **Hxreborn**
+  - [Network Analyzer](https://morphe-patches.software/?app=net.techet.netanalyzerlite.an#whats-new)
+  - [Prayer Times and Qibla](https://morphe-patches.software/?app=com.reworewo.prayertimes#whats-new)
+  - [Proton Authenticator](https://morphe-patches.software/?app=proton.android.authenticator#whats-new)
+  - [Radio Javan](https://morphe-patches.software/?app=com.radiojavan.androidradio#whats-new)
+  - [Wallmaa](https://morphe-patches.software/?app=com.wallmaa.minimal.wallpapers#whats-new)
+- **Sudashiii**
+  - [ORF ON](https://morphe-patches.software/?app=com.nousguide.android.orftvthek#whats-new)
+- **Wagg13Patch**
+  - [Car Scanner ELM OBD2](https://morphe-patches.software/?app=com.ovz.carscanner#whats-new)
+  - [Pinterest](https://morphe-patches.software/?app=com.pinterest#whats-new)
+
 ## October 15, 2026
 
 ### New Sources
@@ -74,8 +106,6 @@ To keep the post useful and easy to maintain, this section focuses on recent upd
   - [TFD Companion](https://morphe-patches.software/?app=com.nexon.tfdc#whats-new)
 - **Shuhaibnc**
   - [Yatse](https://morphe-patches.software/?app=org.leetzone.android.yatsewidgetfree#whats-new)
-- **Steam Link GalaxyXR**
-  - [Steam Link Experimental](https://morphe-patches.software/?app=com.valvesoftware.steamlinkvr.x_23#whats-new)
 
 ## October 14, 2026
 
@@ -236,6 +266,7 @@ To keep the post useful and easy to maintain, this section focuses on recent upd
   - [Yanosik](https://morphe-patches.software/?app=pl.neptis.yanosik.mobi.android#whats-new)
 - [**Sqzass**](https://morphe.software/add-source?github=sqzass/patches)
 - [**Sudashiii**](https://morphe.software/add-source?github=Sudashiii/servus-patches)
+  - [ORF ON](https://morphe-patches.software/?app=com.nousguide.android.orftvthek#whats-new)
   - [ServusTV On](https://morphe-patches.software/?app=com.mautilus.servus#whats-new)
 - [**TorbenStriegel**](https://morphe.software/add-source?github=TorbenStriegel/morphe-patches-custom)
   - [ntv](https://morphe-patches.software/?app=de.lineas.lit.ntv.android#whats-new)
