@@ -41,6 +41,26 @@ To keep the post useful and easy to maintain, this section focuses on recent upd
 
 ---
 
+## October 17, 2026
+
+### New Sources
+
+- [**Dieroboter**](https://morphe.software/add-source?github=dieroboter/morphe-patches)
+  - [Geometry Dash Meltdown](https://morphe-patches.software/?app=com.robtopx.geometrydashmeltdown#whats-new)
+  - [Geometry Dash SubZero](https://morphe-patches.software/?app=com.robtopx.geometrydashsubzero#whats-new)
+  - [Geometry Dash World](https://morphe-patches.software/?app=com.robtopx.geometrydashworld#whats-new)
+  - [GIF Maker](https://morphe-patches.software/?app=com.bk.videotogif#whats-new)
+  - [WiFi FTP Server](https://morphe-patches.software/?app=com.medhaapps.wififtpserver#whats-new)
+- [**Loody227**](https://morphe.software/add-source?github=loody227/masajid-patches)
+  - [مساجد Masajid](https://morphe-patches.software/?app=sa.gov.moia.beneficiaryapp#whats-new)
+- [**Sabbirexist**](https://morphe.software/add-source?github=sabbirexist/kodex-patches)
+  - [VLC](https://morphe-patches.software/?app=org.videolan.vlc#whats-new)
+
+### New App
+
+- **byehi98**
+  - [Fruit Ninja (Free)](https://morphe-patches.software/?app=com.halfbrick.fruitninjafree#whats-new)
+
 ## October 16, 2026
 
 ### New Sources
