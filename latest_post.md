@@ -56,10 +56,23 @@ To keep the post useful and easy to maintain, this section focuses on recent upd
 - [**Sabbirexist**](https://morphe.software/add-source?github=sabbirexist/kodex-patches)
   - [VLC](https://morphe-patches.software/?app=org.videolan.vlc#whats-new)
 
-### New App
+### New Apps
 
 - **byehi98**
   - [Fruit Ninja (Free)](https://morphe-patches.software/?app=com.halfbrick.fruitninjafree#whats-new)
+- **Heval**
+  - [433](https://morphe-patches.software/?app=com.football433#whats-new)
+  - [Eurosport](https://morphe-patches.software/?app=com.eurosport#whats-new)
+  - [L'Équipe](https://morphe-patches.software/?app=lequipe.fr#whats-new)
+  - [mail.com](https://morphe-patches.software/?app=com.mail.mobile.android.mail#whats-new)
+- **Hxreborn**
+  - [Aloa](https://morphe-patches.software/?app=com.getaloa.app#whats-new)
+  - [Bangla Calendar](https://morphe-patches.software/?app=com.outscar.bd.bongcal#whats-new)
+  - [Biobird Flashcards](https://morphe-patches.software/?app=com.biobird.exvee#whats-new)
+  - [DepthPix](https://morphe-patches.software/?app=com.androholic.wallpapersdepthpix#whats-new)
+  - [Sheytoon](https://morphe-patches.software/?app=com.triovent.datingapp#whats-new)
+- **Proxma**
+  - [OLX India](https://morphe-patches.software/?app=com.olx.southasia#whats-new)
 
 ## October 16, 2026
 
