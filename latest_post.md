@@ -46,6 +46,7 @@ To keep the post useful and easy to maintain, this section focuses on recent upd
 ### New Sources
 
 - [**Dieroboter**](https://morphe.software/add-source?github=dieroboter/morphe-patches)
+  - [Flappy Bird](https://morphe-patches.software/?app=com.dotgears.flappybird#whats-new)
   - [Geometry Dash Meltdown](https://morphe-patches.software/?app=com.robtopx.geometrydashmeltdown#whats-new)
   - [Geometry Dash SubZero](https://morphe-patches.software/?app=com.robtopx.geometrydashsubzero#whats-new)
   - [Geometry Dash World](https://morphe-patches.software/?app=com.robtopx.geometrydashworld#whats-new)
@@ -62,9 +63,11 @@ To keep the post useful and easy to maintain, this section focuses on recent upd
   - [Fruit Ninja (Free)](https://morphe-patches.software/?app=com.halfbrick.fruitninjafree#whats-new)
 - **Heval**
   - [433](https://morphe-patches.software/?app=com.football433#whats-new)
+  - [Bleacher Report](https://morphe-patches.software/?app=com.bleacherreport.android.teamstream#whats-new)
   - [Eurosport](https://morphe-patches.software/?app=com.eurosport#whats-new)
   - [L'Équipe](https://morphe-patches.software/?app=lequipe.fr#whats-new)
   - [mail.com](https://morphe-patches.software/?app=com.mail.mobile.android.mail#whats-new)
+  - [Transfermarkt](https://morphe-patches.software/?app=de.transfermarkt.v2#whats-new)
 - **Hxreborn**
   - [Aloa](https://morphe-patches.software/?app=com.getaloa.app#whats-new)
   - [Bangla Calendar](https://morphe-patches.software/?app=com.outscar.bd.bongcal#whats-new)
@@ -73,6 +76,10 @@ To keep the post useful and easy to maintain, this section focuses on recent upd
   - [Sheytoon](https://morphe-patches.software/?app=com.triovent.datingapp#whats-new)
 - **Proxma**
   - [OLX India](https://morphe-patches.software/?app=com.olx.southasia#whats-new)
+- **Shuhaibnc**
+  - [World Map Quiz](https://morphe-patches.software/?app=com.qbis.guessthecountry#whats-new)
+- **Steam Link GalaxyXR**
+  - [Steam Link Experimental](https://morphe-patches.software/?app=com.valvesoftware.steamlinkvr.x_23#whats-new)
 
 ## October 16, 2026
 
