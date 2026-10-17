@@ -64,9 +64,14 @@ To keep the post useful and easy to maintain, this section focuses on recent upd
 ### New Apps
 
 - **Android TV**
+  - com.future.moviesByFawesomeAndroidTV
   - [F1 TV](https://morphe-patches.software/?app=com.formulaone.production#whats-new)
 - **Heval**
+  - [Digi Sport](https://morphe-patches.software/?app=ro.rcsrds.digisport#whats-new)
+  - [The Guardian](https://morphe-patches.software/?app=com.guardian#whats-new)
   - [Via](https://morphe-patches.software/?app=mark.via.gp#whats-new)
+- **HushTelegram**
+  - [Telegram](https://morphe-patches.software/?app=org.telegram.messenger#whats-new)
 - **Hxreborn**
   - [Network Analyzer](https://morphe-patches.software/?app=net.techet.netanalyzerlite.an#whats-new)
   - [Prayer Times and Qibla](https://morphe-patches.software/?app=com.reworewo.prayertimes#whats-new)
@@ -502,40 +507,3 @@ To keep the post useful and easy to maintain, this section focuses on recent upd
   - [Sling Drift](https://morphe-patches.software/?app=com.rubygames.slingdrift#whats-new)
 - **Stylus**
   - [Telegram](https://morphe-patches.software/?app=org.telegram.messenger#whats-new)
-
-## October 3, 2026
-
-### New Apps
-
-- **Aidan**
-  - [Adobe Scan](https://morphe-patches.software/?app=com.adobe.scan.android#whats-new)
-  - [Fizz](https://morphe-patches.software/?app=com.ashtoncofer.Buzz#whats-new)
-- **byehi98**
-  - [Dead Target: Offline Games 3D](https://morphe-patches.software/?app=com.vng.g6.a.zombie#whats-new)
-- **FTL**
-  - [Firefox Nightly](https://morphe-patches.software/?app=org.mozilla.fenix#whats-new)
-- **Legendsciber**
-  - [Solar Smash](https://morphe-patches.software/?app=com.paradyme.solarsmash#whats-new)
-- **MightyMich**
-  - [Adobe Lightroom](https://morphe-patches.software/?app=com.adobe.lrmobile#whats-new)
-  - [Arc Player](https://morphe-patches.software/?app=com.videoplayer.arcplayer#whats-new)
-  - [Calendar](https://morphe-patches.software/?app=calendar.agenda.calendarplanner.agendaplanner#whats-new)
-  - [Camera Opus Companion](https://morphe-patches.software/?app=pl.mobimax.cameraopus#whats-new)
-  - [Days Matter](https://morphe-patches.software/?app=com.clover.daysmatter#whats-new)
-  - [Huanxiu Sleep](https://morphe-patches.software/?app=com.huanxiu.HXAweme#whats-new)
-  - [Music Player](https://morphe-patches.software/?app=mymusic.offlinemusicplayer.mp3player.playmusic#whats-new)
-  - [MX Player Pro](https://morphe-patches.software/?app=com.mxtech.videoplayer.pro#whats-new)
-  - [My Diary](https://morphe-patches.software/?app=mydiary.journal.diary.diarywithlock.diaryjournal.secretdiary#whats-new)
-  - [Nova Launcher](https://morphe-patches.software/?app=com.teslacoilsw.launcher#whats-new)
-  - [Photex Companion](https://morphe-patches.software/?app=pl.mobimax.photex#whats-new)
-  - [Ringtone Maker: Music Cutter](https://morphe-patches.software/?app=ringtonemaker.musiccutter.customringtones.freeringtonemake#whats-new)
-  - [Screen Translate](https://morphe-patches.software/?app=com.spaceship.screen.textcopy#whats-new)
-  - [Telegram](https://morphe-patches.software/?app=org.telegram.messenger#whats-new)
-  - [To-Do List](https://morphe-patches.software/?app=todolist.scheduleplanner.dailyplanner.todo.reminders#whats-new)
-  - [TrebEdit](https://morphe-patches.software/?app=com.teejay.trebedit#whats-new)
-  - [Voice Changer](https://morphe-patches.software/?app=voicechanger.voiceeffects.soundeffects.voiceavatar#whats-new)
-  - [Wearfit Pro](https://morphe-patches.software/?app=com.wakeup.howear#whats-new)
-  - [ZArchiver](https://morphe-patches.software/?app=ru.zdevs.zarchiver#whats-new)
-  - [记账助手](https://morphe-patches.software/?app=com.chenupt.money#whats-new)
-- **Shuhaibnc**
-  - [TrebEdit](https://morphe-patches.software/?app=com.teejay.trebedit#whats-new)
