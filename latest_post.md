@@ -43,10 +43,8 @@ To keep the post useful and easy to maintain, this section focuses on recent upd
 
 ## October 18, 2026
 
-### New Sources
+### New Source
 
-- [**Monesys**](https://morphe.software/add-source?github=monesys/scd-morphe-patch)
-  - [Serpent Chain Defense](https://morphe-patches.software/?app=com.and.aym.scd#whats-new)
 - [**WonjoonSeol-WS**](https://morphe.software/add-source?github=wonjoonSeol-WS/morphe-patches)
   - [Kakao Talk](https://morphe-patches.software/?app=com.kakao.talk#whats-new)
 
@@ -70,9 +68,6 @@ To keep the post useful and easy to maintain, this section focuses on recent upd
   - [Privacy Notes](https://morphe-patches.software/?app=app.privacynotes#whats-new)
   - [Quick Cursor](https://morphe-patches.software/?app=com.quickcursor#whats-new)
   - [U Dictionary](https://morphe-patches.software/?app=com.youdao.hindict#whats-new)
-- **Tkiethuynh**
-  - [Imou Life](https://morphe-patches.software/?app=com.mm.android.smartlifeiot#whats-new)
-  - [Smart Life](https://morphe-patches.software/?app=com.tuya.smartlife#whats-new)
 
 ## October 17, 2026
 
