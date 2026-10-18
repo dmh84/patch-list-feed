@@ -43,10 +43,24 @@ To keep the post useful and easy to maintain, this section focuses on recent upd
 
 ## October 18, 2026
 
-### New Source
+### New Sources
 
+- [**Brealorg**](https://morphe.software/add-source?github=brealorg/breal-morphe-patches)
+  - [BaconReader](https://morphe-patches.software/?app=com.onelouder.baconreader#whats-new)
+  - [Boost for Reddit](https://morphe-patches.software/?app=com.rubenmayayo.reddit#whats-new)
+  - [Continuum](https://morphe-patches.software/?app=org.cygnusx1.continuum#whats-new)
+  - [Imgur](https://morphe-patches.software/?app=com.imgur.mobile#whats-new)
+  - [Infinity for Reddit+](https://morphe-patches.software/?app=ml.docilealligator.infinityforreddit.plus#whats-new)
+  - [Joey for Reddit](https://morphe-patches.software/?app=o.o.joey#whats-new)
+  - [Relay for Reddit Pro](https://morphe-patches.software/?app=reddit.news#whats-new)
+  - [rif is fun](https://morphe-patches.software/?app=com.andrewshu.android.reddit#whats-new)
+  - [Slide (fork)](https://morphe-patches.software/?app=me.edgan.redditslide#whats-new)
+  - [Sync for Lemmy](https://morphe-patches.software/?app=io.syncapps.lemmy_sync#whats-new)
+  - [Sync for Reddit](https://morphe-patches.software/?app=com.laurencedawson.reddit_sync#whats-new)
 - [**WonjoonSeol-WS**](https://morphe.software/add-source?github=wonjoonSeol-WS/morphe-patches)
   - [Kakao Talk](https://morphe-patches.software/?app=com.kakao.talk#whats-new)
+- [**ZoomSass**](https://morphe.software/add-source?github=ZoomSass/Mighty-Morphing)
+  - [Joey](https://morphe-patches.software/?app=o.o.joey#whats-new)
 
 ### New Apps
 
@@ -68,6 +82,9 @@ To keep the post useful and easy to maintain, this section focuses on recent upd
   - [Privacy Notes](https://morphe-patches.software/?app=app.privacynotes#whats-new)
   - [Quick Cursor](https://morphe-patches.software/?app=com.quickcursor#whats-new)
   - [U Dictionary](https://morphe-patches.software/?app=com.youdao.hindict#whats-new)
+- **Sabbirexist**
+  - [Eyecon](https://morphe-patches.software/?app=com.eyecon.global#whats-new)
+  - [InShare](https://morphe-patches.software/?app=sharefiles.sharemusic.shareapps.filetransfer#whats-new)
 
 ## October 17, 2026
 
@@ -83,6 +100,8 @@ To keep the post useful and easy to maintain, this section focuses on recent upd
 - [**Loody227**](https://morphe.software/add-source?github=loody227/masajid-patches)
   - [مساجد Masajid](https://morphe-patches.software/?app=sa.gov.moia.beneficiaryapp#whats-new)
 - [**Sabbirexist**](https://morphe.software/add-source?github=sabbirexist/kodex-patches)
+  - [Eyecon](https://morphe-patches.software/?app=com.eyecon.global#whats-new)
+  - [InShare](https://morphe-patches.software/?app=sharefiles.sharemusic.shareapps.filetransfer#whats-new)
   - [VLC](https://morphe-patches.software/?app=org.videolan.vlc#whats-new)
 
 ### New Apps
