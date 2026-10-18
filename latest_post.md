@@ -41,6 +41,39 @@ To keep the post useful and easy to maintain, this section focuses on recent upd
 
 ---
 
+## October 18, 2026
+
+### New Sources
+
+- [**Monesys**](https://morphe.software/add-source?github=monesys/scd-morphe-patch)
+  - [Serpent Chain Defense](https://morphe-patches.software/?app=com.and.aym.scd#whats-new)
+- [**WonjoonSeol-WS**](https://morphe.software/add-source?github=wonjoonSeol-WS/morphe-patches)
+  - [Kakao Talk](https://morphe-patches.software/?app=com.kakao.talk#whats-new)
+
+### New Apps
+
+- **Heval**
+  - [Firefox](https://morphe-patches.software/?app=org.mozilla.firefox#whats-new)
+  - [Firefox Focus](https://morphe-patches.software/?app=org.mozilla.focus#whats-new)
+- **Hxreborn**
+  - [aCalendar](https://morphe-patches.software/?app=org.withouthat.acalendar#whats-new)
+  - [botim](https://morphe-patches.software/?app=im.thebot.messenger#whats-new)
+  - [CalcNote](https://morphe-patches.software/?app=com.burton999.notecal#whats-new)
+  - [Castle for TV](https://morphe-patches.software/?app=com.gxnet.castle.indiatv#whats-new)
+  - [Cubasis LE 3](https://morphe-patches.software/?app=com.steinberg.cubasisle3#whats-new)
+  - [LingoDeer](https://morphe-patches.software/?app=com.lingodeer#whats-new)
+  - [Magic Earth](https://morphe-patches.software/?app=com.generalmagic.magicearth#whats-new)
+  - [Moon+ Reader](https://morphe-patches.software/?app=com.flyersoft.moonreader#whats-new)
+  - [Musicolet](https://morphe-patches.software/?app=in.krosbits.musicolet#whats-new)
+  - [Period Tracker and Calendar](https://morphe-patches.software/?app=com.lbrc.PeriodCalendar#whats-new)
+  - [Poe](https://morphe-patches.software/?app=com.poe.android#whats-new)
+  - [Privacy Notes](https://morphe-patches.software/?app=app.privacynotes#whats-new)
+  - [Quick Cursor](https://morphe-patches.software/?app=com.quickcursor#whats-new)
+  - [U Dictionary](https://morphe-patches.software/?app=com.youdao.hindict#whats-new)
+- **Tkiethuynh**
+  - [Imou Life](https://morphe-patches.software/?app=com.mm.android.smartlifeiot#whats-new)
+  - [Smart Life](https://morphe-patches.software/?app=com.tuya.smartlife#whats-new)
+
 ## October 17, 2026
 
 ### New Sources
