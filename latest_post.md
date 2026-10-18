@@ -61,6 +61,8 @@ To keep the post useful and easy to maintain, this section focuses on recent upd
 
 - **byehi98**
   - [Fruit Ninja (Free)](https://morphe-patches.software/?app=com.halfbrick.fruitninjafree#whats-new)
+- **Chiggi SonyLIV Patches - by durgesh0505**
+  - [Zombie Catchers](https://morphe-patches.software/?app=fi.twomenandadog.zombiecatchers#whats-new)
 - **Heval**
   - [433](https://morphe-patches.software/?app=com.football433#whats-new)
   - [Bleacher Report](https://morphe-patches.software/?app=com.bleacherreport.android.teamstream#whats-new)
@@ -78,8 +80,6 @@ To keep the post useful and easy to maintain, this section focuses on recent upd
   - [OLX India](https://morphe-patches.software/?app=com.olx.southasia#whats-new)
 - **Shuhaibnc**
   - [World Map Quiz](https://morphe-patches.software/?app=com.qbis.guessthecountry#whats-new)
-- **Steam Link GalaxyXR**
-  - [Steam Link Experimental](https://morphe-patches.software/?app=com.valvesoftware.steamlinkvr.x_23#whats-new)
 
 ## October 16, 2026
 
@@ -519,31 +519,3 @@ To keep the post useful and easy to maintain, this section focuses on recent upd
   - [BuzzCast](https://morphe-patches.software/?app=com.guochao.faceshow#whats-new)
   - [Instagram](https://morphe-patches.software/?app=com.instagram.android#whats-new)
   - [Instagram Instants](https://morphe-patches.software/?app=com.instagram.moonshot#whats-new)
-
-## October 4, 2026
-
-### New Sources
-
-- [**ImNoammm**](https://morphe.software/add-source?github=ImNoammm/Noams-Morphe-Patches)
-  - [Block Blast](https://morphe-patches.software/?app=com.block.juggle#whats-new)
-  - [Chess.com](https://morphe-patches.software/?app=com.chess#whats-new)
-  - [Gboard](https://morphe-patches.software/?app=com.google.android.inputmethod.latin#whats-new)
-  - [Geocaching](https://morphe-patches.software/?app=com.groundspeak.geocaching.intro#whats-new)
-- [**Kero309x**](https://morphe.software/add-source?github=Kero309x/anghamiplus-patches)
-  - [Anghami](https://morphe-patches.software/?app=com.anghami#whats-new)
-- [**Ryykitty**](https://morphe.software/add-source?github=ryykitty/twitch-patched)
-  - [Twitch](https://morphe-patches.software/?app=tv.twitch.android.app#whats-new)
-
-### New Apps
-
-- **byehi98**
-  - [Head Basketball](https://morphe-patches.software/?app=com.dnddream.HeadBasketball#whats-new)
-- **Hxreborn**
-  - [All Video Player App](https://morphe-patches.software/?app=com.allformatplayer.streamvideoplayer#whats-new)
-  - [Echo Equalizer](https://morphe-patches.software/?app=com.hapibits.soundlift#whats-new)
-  - [Fddb](https://morphe-patches.software/?app=com.fddb#whats-new)
-  - [LED Blinker](https://morphe-patches.software/?app=com.ledblinker#whats-new)
-- **Legendsciber**
-  - [Sling Drift](https://morphe-patches.software/?app=com.rubygames.slingdrift#whats-new)
-- **Stylus**
-  - [Telegram](https://morphe-patches.software/?app=org.telegram.messenger#whats-new)
