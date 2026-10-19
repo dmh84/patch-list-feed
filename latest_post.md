@@ -41,6 +41,25 @@ To keep the post useful and easy to maintain, this section focuses on recent upd
 
 ---
 
+## October 19, 2026
+
+### New Sources
+
+- [**Burakdede0**](https://morphe.software/add-source?github=burakdede0/SyncPatch)
+  - [Sync for Reddit](https://morphe-patches.software/?app=com.laurencedawson.reddit_sync#whats-new)
+- [**Madushas**](https://morphe.software/add-source?github=madushas/pdb_patch)
+  - [Pdb](https://morphe-patches.software/?app=pdb.app#whats-new)
+- [**Nezumi-2711**](https://morphe.software/add-source?github=Nezumi-2711/morphe-patches)
+  - [Zalo](https://morphe-patches.software/?app=com.zing.zalo#whats-new)
+- [**Tikkamasalla**](https://morphe.software/add-source?github=tikkamasalla/stremio-intro-skip)
+  - [Stremio](https://morphe-patches.software/?app=com.stremio.one#whats-new)
+  - [Vimu](https://morphe-patches.software/?app=net.gtvbox.videoplayer#whats-new)
+
+### New App
+
+- **Shuhaibnc**
+  - [MP3 Cutter and Ringtone Maker](https://morphe-patches.software/?app=com.atomic.apps.ringtone.cutter#whats-new)
+
 ## October 18, 2026
 
 ### New Sources
