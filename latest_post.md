@@ -64,6 +64,12 @@ To keep the post useful and easy to maintain, this section focuses on recent upd
 
 ### New Apps
 
+- **Aidan**
+  - Adobe Acrobat
+  - [Credit Karma](https://morphe-patches.software/?app=com.creditkarma.mobile#whats-new)
+  - [Pro Metronome](https://morphe-patches.software/?app=com.eumlab.android.prometronome#whats-new)
+- **Dieroboter**
+  - [Klondike Solitaire](https://morphe-patches.software/?app=com.smilerlee.klondike#whats-new)
 - **Heval**
   - [Firefox](https://morphe-patches.software/?app=org.mozilla.firefox#whats-new)
   - [Firefox Focus](https://morphe-patches.software/?app=org.mozilla.focus#whats-new)
@@ -82,6 +88,8 @@ To keep the post useful and easy to maintain, this section focuses on recent upd
   - [Privacy Notes](https://morphe-patches.software/?app=app.privacynotes#whats-new)
   - [Quick Cursor](https://morphe-patches.software/?app=com.quickcursor#whats-new)
   - [U Dictionary](https://morphe-patches.software/?app=com.youdao.hindict#whats-new)
+- **Kveld9 Extra**
+  - [SUBE](https://morphe-patches.software/?app=com.sube.app#whats-new)
 - **Sabbirexist**
   - [Eyecon](https://morphe-patches.software/?app=com.eyecon.global#whats-new)
   - [InShare](https://morphe-patches.software/?app=sharefiles.sharemusic.shareapps.filetransfer#whats-new)
@@ -96,6 +104,7 @@ To keep the post useful and easy to maintain, this section focuses on recent upd
   - [Geometry Dash SubZero](https://morphe-patches.software/?app=com.robtopx.geometrydashsubzero#whats-new)
   - [Geometry Dash World](https://morphe-patches.software/?app=com.robtopx.geometrydashworld#whats-new)
   - [GIF Maker](https://morphe-patches.software/?app=com.bk.videotogif#whats-new)
+  - [Klondike Solitaire](https://morphe-patches.software/?app=com.smilerlee.klondike#whats-new)
   - [WiFi FTP Server](https://morphe-patches.software/?app=com.medhaapps.wififtpserver#whats-new)
 - [**Loody227**](https://morphe.software/add-source?github=loody227/masajid-patches)
   - [مساجد Masajid](https://morphe-patches.software/?app=sa.gov.moia.beneficiaryapp#whats-new)
@@ -357,6 +366,7 @@ To keep the post useful and easy to maintain, this section focuses on recent upd
   - [Moovit](https://morphe-patches.software/?app=com.tranzmate#whats-new)
   - [NokoPrint - WiFi, Bluetooth, USB](https://morphe-patches.software/?app=com.nokoprint#whats-new)
   - [PowerPoint](https://morphe-patches.software/?app=com.microsoft.office.powerpoint#whats-new)
+  - [SUBE](https://morphe-patches.software/?app=com.sube.app#whats-new)
   - [X](https://morphe-patches.software/?app=com.twitter.android#whats-new)
   - [Xiaomi Earbuds](https://morphe-patches.software/?app=com.mi.earphone#whats-new)
 - [**o0b**](https://morphe.software/add-source?github=o0b/morphe-patches)
@@ -535,34 +545,3 @@ To keep the post useful and easy to maintain, this section focuses on recent upd
   - [Callfilter.app](https://morphe-patches.software/?app=callfilter.app#whats-new)
   - [Remini](https://morphe-patches.software/?app=com.bigwinepot.nwdn.international#whats-new)
   - [SofaScore](https://morphe-patches.software/?app=com.sofascore.results#whats-new)
-
-## October 5, 2026
-
-### New Sources
-
-- [**Error404rt**](https://morphe.software/add-source?github=Error404rt/Anixart-patches)
-  - [Anixart](https://morphe-patches.software/?app=com.swiftsoft.anixartd#whats-new)
-- [**HushPinterest**](https://morphe.software/add-source?github=SysAdminDoc/HushPinterest)
-  - [Pinterest](https://morphe-patches.software/?app=com.pinterest#whats-new)
-- [**Kim20598**](https://morphe.software/add-source?github=kim20598/hakim-morphe-patches)
-  - [Busuu](https://morphe-patches.software/?app=com.busuu.android.enc#whats-new)
-  - [Letterboxd](https://morphe-patches.software/?app=com.letterboxd.letterboxd#whats-new)
-
-### New Apps
-
-- **byehi98**
-  - [Grimvalor](https://morphe-patches.software/?app=com.direlight.grimvalor#whats-new)
-  - [Head Soccer](https://morphe-patches.software/?app=com.dnddream.headsoccer.android#whats-new)
-  - [Shooty Skies](https://morphe-patches.software/?app=com.mightygamesgroup.shootyskies#whats-new)
-- **Heval**
-  - [Castbox](https://morphe-patches.software/?app=fm.castbox.audiobook.radio.podcast#whats-new)
-  - [Podcast Republic](https://morphe-patches.software/?app=com.podcast.podcasts#whats-new)
-  - [Shazam](https://morphe-patches.software/?app=com.shazam.android#whats-new)
-- **Hxreborn**
-  - [Keepa](https://morphe-patches.software/?app=com.keepa.mobile#whats-new)
-- **Stylus**
-  - [Telegram](https://morphe-patches.software/?app=org.telegram.messenger#whats-new)
-- **Wagg13Patch**
-  - [BuzzCast](https://morphe-patches.software/?app=com.guochao.faceshow#whats-new)
-  - [Instagram](https://morphe-patches.software/?app=com.instagram.android#whats-new)
-  - [Instagram Instants](https://morphe-patches.software/?app=com.instagram.moonshot#whats-new)
