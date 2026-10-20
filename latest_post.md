@@ -41,6 +41,47 @@ To keep the post useful and easy to maintain, this section focuses on recent upd
 
 ---
 
+## October 20, 2026
+
+### New Sources
+
+- [**Cinemaniac**](https://morphe.software/add-source?github=danieleavolio/cinemaniac-patches)
+  - [Cinemaniac](https://morphe-patches.software/?app=it.papalillo.moviestowatch#whats-new)
+- [**Column**](https://morphe.software/add-source?github=danieleavolio/column-patches)
+  - [Column](https://morphe-patches.software/?app=com.columnapp.column#whats-new)
+- [**PerfLite VK-Zen**](https://morphe.software/add-source?github=PerfLite/VK-Zen)
+  - [VKontakte](https://morphe-patches.software/?app=com.vkontakte.android#whats-new)
+- [**Sudeepcapri**](https://morphe.software/add-source?github=sudeepcapri/morphe_patch)
+  - [Coloring and Learn](https://morphe-patches.software/?app=com.orange.coloring.learn.kids#whats-new)
+  - [MyGate](https://morphe-patches.software/?app=com.mygate.user#whats-new)
+  - [Prime Video Android TV](https://morphe-patches.software/?app=com.amazon.amazonvideo.livingroom#whats-new)
+  - [Telegram](https://morphe-patches.software/?app=org.telegram.messenger.web#whats-new)
+  - [ZEE5 Android TV](https://morphe-patches.software/?app=com.graymatrix.did#whats-new)
+- [**Vitorhubdev**](https://morphe.software/add-source?github=vitorhubdev/vanta-surf-morphe-patches)
+  - [Vanta Surf](https://morphe-patches.software/?app=com.vvv.velvetreel.treel#whats-new)
+- [**Xittered**](https://morphe.software/add-source?github=Xittered/xitter-morphe)
+  - [X](https://morphe-patches.software/?app=com.twitter.android#whats-new)
+- [**Yuubinnkyoku**](https://morphe.software/add-source?github=yuubinnkyoku/morphe-tver-patch)
+  - [TVer(ティーバー) 民放公式テレビ配信サービス](https://morphe-patches.software/?app=jp.hamitv.hamiand1#whats-new)
+
+### New Apps
+
+- **aapam**
+  - [CRED](https://morphe-patches.software/?app=com.dreamplug.androidapp#whats-new)
+- **byehi98**
+  - [Vita Mahjong](https://morphe-patches.software/?app=com.vitastudio.mahjong#whats-new)
+- **Franticg33k patches**
+  - [Marriage](https://morphe-patches.software/?app=com.bhoos.marriage#whats-new)
+- **Fynnaly**
+  - [20 Minutes Till Dawn](https://morphe-patches.software/?app=com.Flanne.MinutesTillDawn.roguelike.shooting.fr.gp#whats-new)
+  - [Spaceflight Simulator](https://morphe-patches.software/?app=com.StefMorojna.SpaceflightSimulator#whats-new)
+- **Heval**
+  - [WeMuslim](https://morphe-patches.software/?app=com.fyxtech.muslim#whats-new)
+- **Proxma**
+  - [inDrive](https://morphe-patches.software/?app=sinet.startup.inDriver#whats-new)
+- **Rahaaatul**
+  - [Remake Face AI](https://morphe-patches.software/?app=com.dirgasena.remakefaceai#whats-new)
+
 ## October 19, 2026
 
 ### New Sources
@@ -265,7 +306,7 @@ To keep the post useful and easy to maintain, this section focuses on recent upd
   - [Pinterest](https://morphe-patches.software/?app=com.pinterest#whats-new)
 - [**Gigahawk**](https://morphe.software/add-source?github=Gigahawk/morphe-patches)
   - [Float Control](https://morphe-patches.software/?app=com.floatcontrol#whats-new)
-- [**PerfLite**](https://morphe.software/add-source?github=PerfLite/morphe-patches-zona)
+- [**PerfLite Zona**](https://morphe.software/add-source?github=PerfLite/morphe-patches-zona)
   - [FreeZona World](https://morphe-patches.software/?app=free.zona#whats-new)
 
 ### New Apps
@@ -379,6 +420,9 @@ To keep the post useful and easy to maintain, this section focuses on recent upd
 
 - [**Forsigh**](https://morphe.software/add-source?github=Forsigh/waze-patches)
   - [Waze](https://morphe-patches.software/?app=com.waze#whats-new)
+- [**Fynnaly**](https://morphe.software/add-source?github=fynnaly/morphe-patches)
+  - [20 Minutes Till Dawn](https://morphe-patches.software/?app=com.Flanne.MinutesTillDawn.roguelike.shooting.fr.gp#whats-new)
+  - [Spaceflight Simulator](https://morphe-patches.software/?app=com.StefMorojna.SpaceflightSimulator#whats-new)
 - [**GitGitro**](https://morphe.software/add-source?github=GitGitro/Gitro-Morphe-Patches)
   - [AI Detector](https://morphe-patches.software/?app=com.aidetector.app#whats-new)
   - [File Tree Size](https://morphe-patches.software/?app=com.devone.filetreesize#whats-new)
