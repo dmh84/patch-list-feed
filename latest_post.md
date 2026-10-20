@@ -87,6 +87,8 @@ To keep the post useful and easy to maintain, this section focuses on recent upd
   - [inDrive](https://morphe-patches.software/?app=sinet.startup.inDriver#whats-new)
 - **Rahaaatul**
   - [Remake Face AI](https://morphe-patches.software/?app=com.dirgasena.remakefaceai#whats-new)
+- **Shuhaibnc**
+  - [Where is my Train](https://morphe-patches.software/?app=com.whereismytrain.android#whats-new)
 
 ## October 19, 2026
 
