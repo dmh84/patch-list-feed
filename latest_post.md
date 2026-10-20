@@ -57,10 +57,21 @@ To keep the post useful and easy to maintain, this section focuses on recent upd
 
 ### New Apps
 
+- **Dieroboter**
+  - [File Manager](https://morphe-patches.software/?app=com.alphainventor.filemanager#whats-new)
+  - [MediaInfo](https://morphe-patches.software/?app=net.mediaarea.mediainfo#whats-new)
+- **Hxreborn**
+  - [Albo](https://morphe-patches.software/?app=com.thesortdapp.sortd#whats-new)
+  - [Joyn Austria](https://morphe-patches.software/?app=at.zappn#whats-new)
+  - [Notein](https://morphe-patches.software/?app=com.orion.notein.global#whats-new)
+  - [Opal](https://morphe-patches.software/?app=com.withopal.opal#whats-new)
+  - [Serializd](https://morphe-patches.software/?app=com.serializdmobile#whats-new)
+  - [Sygic](https://morphe-patches.software/?app=com.sygic.aura#whats-new)
 - **IPTV**
   - [IPTV Pro Stream Player](https://morphe-patches.software/?app=com.iptvprostreamplayer.v1#whats-new)
 - **Sabbirexist**
   - [Desh Bangla Keyboard](https://morphe-patches.software/?app=com.bangla.keyboard.for.android#whats-new)
+  - [TouchRetouch](https://morphe-patches.software/?app=com.advasoft.touchretouch.plus#whats-new)
 - **Shuhaibnc**
   - [MP3 Cutter and Ringtone Maker](https://morphe-patches.software/?app=com.atomic.apps.ringtone.cutter#whats-new)
 
@@ -92,7 +103,7 @@ To keep the post useful and easy to maintain, this section focuses on recent upd
   - [Credit Karma](https://morphe-patches.software/?app=com.creditkarma.mobile#whats-new)
   - [Pro Metronome](https://morphe-patches.software/?app=com.eumlab.android.prometronome#whats-new)
 - **Dieroboter**
-  - [Klondike Solitaire](https://morphe-patches.software/?app=com.smilerlee.klondike#whats-new)
+  - [Solitaire](https://morphe-patches.software/?app=com.smilerlee.klondike#whats-new)
 - **Heval**
   - [Firefox](https://morphe-patches.software/?app=org.mozilla.firefox#whats-new)
   - [Firefox Focus](https://morphe-patches.software/?app=org.mozilla.focus#whats-new)
@@ -122,12 +133,14 @@ To keep the post useful and easy to maintain, this section focuses on recent upd
 ### New Sources
 
 - [**Dieroboter**](https://morphe.software/add-source?github=dieroboter/morphe-patches)
+  - [File Manager](https://morphe-patches.software/?app=com.alphainventor.filemanager#whats-new)
   - [Flappy Bird](https://morphe-patches.software/?app=com.dotgears.flappybird#whats-new)
   - [Geometry Dash Meltdown](https://morphe-patches.software/?app=com.robtopx.geometrydashmeltdown#whats-new)
   - [Geometry Dash SubZero](https://morphe-patches.software/?app=com.robtopx.geometrydashsubzero#whats-new)
   - [Geometry Dash World](https://morphe-patches.software/?app=com.robtopx.geometrydashworld#whats-new)
   - [GIF Maker](https://morphe-patches.software/?app=com.bk.videotogif#whats-new)
-  - [Klondike Solitaire](https://morphe-patches.software/?app=com.smilerlee.klondike#whats-new)
+  - [MediaInfo](https://morphe-patches.software/?app=net.mediaarea.mediainfo#whats-new)
+  - [Solitaire](https://morphe-patches.software/?app=com.smilerlee.klondike#whats-new)
   - [WiFi FTP Server](https://morphe-patches.software/?app=com.medhaapps.wififtpserver#whats-new)
 - [**Loody227**](https://morphe.software/add-source?github=loody227/masajid-patches)
   - [مساجد Masajid](https://morphe-patches.software/?app=sa.gov.moia.beneficiaryapp#whats-new)
@@ -135,6 +148,7 @@ To keep the post useful and easy to maintain, this section focuses on recent upd
   - [Desh Bangla Keyboard](https://morphe-patches.software/?app=com.bangla.keyboard.for.android#whats-new)
   - [Eyecon](https://morphe-patches.software/?app=com.eyecon.global#whats-new)
   - [InShare](https://morphe-patches.software/?app=sharefiles.sharemusic.shareapps.filetransfer#whats-new)
+  - [TouchRetouch](https://morphe-patches.software/?app=com.advasoft.touchretouch.plus#whats-new)
   - [VLC](https://morphe-patches.software/?app=org.videolan.vlc#whats-new)
 
 ### New Apps
@@ -539,30 +553,3 @@ To keep the post useful and easy to maintain, this section focuses on recent upd
   - [Photone](https://morphe-patches.software/?app=io.lightray.photone#whats-new)
 - **Proxma**
   - [Safar](https://morphe-patches.software/?app=com.safar.fyi#whats-new)
-
-## October 6, 2026
-
-### New Sources
-
-- [**Nai64**](https://morphe.software/add-source?gitlab=kmru/nai64patches)
-- [**Nai64 Extra**](https://morphe.software/add-source?gitlab=kmru/nai64extrapatches)
-  - [Bandcamp](https://morphe-patches.software/?app=com.bandcamp.android#whats-new)
-- [**Pixel Board**](https://morphe.software/add-source?github=Akshayykadam/PixelBoard)
-  - [Gboard](https://morphe-patches.software/?app=com.google.android.inputmethod.latin#whats-new)
-- [**R2bEEaton**](https://morphe.software/add-source?github=R2bEEaton/walmart-morphe)
-  - [Walmart](https://morphe-patches.software/?app=com.walmart.android#whats-new)
-- [**VipinVIP**](https://morphe.software/add-source?github=VipinVIP/railone-patches)
-  - [RailOne](https://morphe-patches.software/?app=org.cris.aikyam#whats-new)
-
-### New Apps
-
-- **Heval**
-  - [Moon+ Reader](https://morphe-patches.software/?app=com.flyersoft.moonreader#whats-new)
-- **Hxreborn**
-  - [Fast STL Viewer](https://morphe-patches.software/?app=com.performance.meshview#whats-new)
-  - [Joyn](https://morphe-patches.software/?app=de.prosiebensat1digital.seventv#whats-new)
-  - [Raindrop.io](https://morphe-patches.software/?app=io.raindrop.raindropio#whats-new)
-- **MightyMich**
-  - [Callfilter.app](https://morphe-patches.software/?app=callfilter.app#whats-new)
-  - [Remini](https://morphe-patches.software/?app=com.bigwinepot.nwdn.international#whats-new)
-  - [SofaScore](https://morphe-patches.software/?app=com.sofascore.results#whats-new)
