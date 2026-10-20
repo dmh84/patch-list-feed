@@ -51,6 +51,9 @@ To keep the post useful and easy to maintain, this section focuses on recent upd
   - [Column](https://morphe-patches.software/?app=com.columnapp.column#whats-new)
 - [**PerfLite VK-Zen**](https://morphe.software/add-source?github=PerfLite/VK-Zen)
   - [VKontakte](https://morphe-patches.software/?app=com.vkontakte.android#whats-new)
+- [**Rudrakshrajpurohit417**](https://morphe.software/add-source?gitlab=rudrakshrajpurohit417/rj-patches)
+  - [InShot](https://morphe-patches.software/?app=com.camerasideas.instashot#whats-new)
+  - [MovieBox](https://morphe-patches.software/?app=com.community.oneroom#whats-new)
 - [**Sudeepcapri**](https://morphe.software/add-source?github=sudeepcapri/morphe_patch)
   - [Coloring and Learn](https://morphe-patches.software/?app=com.orange.coloring.learn.kids#whats-new)
   - [MyGate](https://morphe-patches.software/?app=com.mygate.user#whats-new)
@@ -69,12 +72,15 @@ To keep the post useful and easy to maintain, this section focuses on recent upd
 - **aapam**
   - [CRED](https://morphe-patches.software/?app=com.dreamplug.androidapp#whats-new)
 - **byehi98**
+  - [Plants vs. Zombies FREE](https://morphe-patches.software/?app=com.ea.game.pvzfree_row#whats-new)
   - [Vita Mahjong](https://morphe-patches.software/?app=com.vitastudio.mahjong#whats-new)
 - **Franticg33k patches**
   - [Marriage](https://morphe-patches.software/?app=com.bhoos.marriage#whats-new)
 - **Fynnaly**
   - [20 Minutes Till Dawn](https://morphe-patches.software/?app=com.Flanne.MinutesTillDawn.roguelike.shooting.fr.gp#whats-new)
   - [Spaceflight Simulator](https://morphe-patches.software/?app=com.StefMorojna.SpaceflightSimulator#whats-new)
+- **Gryphou patches**
+  - [PETKIT](https://morphe-patches.software/?app=com.petkit.oversea#whats-new)
 - **Heval**
   - [WeMuslim](https://morphe-patches.software/?app=com.fyxtech.muslim#whats-new)
 - **Proxma**
