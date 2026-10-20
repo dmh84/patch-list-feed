@@ -55,8 +55,12 @@ To keep the post useful and easy to maintain, this section focuses on recent upd
   - [Stremio](https://morphe-patches.software/?app=com.stremio.one#whats-new)
   - [Vimu](https://morphe-patches.software/?app=net.gtvbox.videoplayer#whats-new)
 
-### New App
+### New Apps
 
+- **IPTV**
+  - [IPTV Pro Stream Player](https://morphe-patches.software/?app=com.iptvprostreamplayer.v1#whats-new)
+- **Sabbirexist**
+  - [Desh Bangla Keyboard](https://morphe-patches.software/?app=com.bangla.keyboard.for.android#whats-new)
 - **Shuhaibnc**
   - [MP3 Cutter and Ringtone Maker](https://morphe-patches.software/?app=com.atomic.apps.ringtone.cutter#whats-new)
 
@@ -128,6 +132,7 @@ To keep the post useful and easy to maintain, this section focuses on recent upd
 - [**Loody227**](https://morphe.software/add-source?github=loody227/masajid-patches)
   - [مساجد Masajid](https://morphe-patches.software/?app=sa.gov.moia.beneficiaryapp#whats-new)
 - [**Sabbirexist**](https://morphe.software/add-source?github=sabbirexist/kodex-patches)
+  - [Desh Bangla Keyboard](https://morphe-patches.software/?app=com.bangla.keyboard.for.android#whats-new)
   - [Eyecon](https://morphe-patches.software/?app=com.eyecon.global#whats-new)
   - [InShare](https://morphe-patches.software/?app=sharefiles.sharemusic.shareapps.filetransfer#whats-new)
   - [VLC](https://morphe-patches.software/?app=org.videolan.vlc#whats-new)
@@ -316,7 +321,6 @@ To keep the post useful and easy to maintain, this section focuses on recent upd
   - [Guitar Tuner](https://morphe-patches.software/?app=com.ovelin.guitartuna#whats-new)
 - **Rahaaatul**
   - [Battery Guru](https://morphe-patches.software/?app=com.paget96.batteryguru#whats-new)
-  - [Proton VPN Reproducible](https://morphe-patches.software/?app=ch.protonvpn.android.reproducible#whats-new)
 
 ## October 12, 2026
 
@@ -494,8 +498,6 @@ To keep the post useful and easy to maintain, this section focuses on recent upd
 - **PyFlat**
   - [ARD Mediathek](https://morphe-patches.software/?app=de.swr.avp.ard#whats-new)
   - [Disney+](https://morphe-patches.software/?app=com.disney.disneyplus#whats-new)
-- **Rahaaatul**
-  - [Proton VPN](https://morphe-patches.software/?app=ch.protonvpn.android#whats-new)
 - **SailHighSea**
   - [HDQ Walls](https://morphe-patches.software/?app=com.hdqwalls.hdqwalls1#whats-new)
 
