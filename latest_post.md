@@ -41,17 +41,30 @@ To keep the post useful and easy to maintain, this section focuses on recent upd
 
 ---
 
+## October 21, 2026
+
+### New Apps
+
+- **Kveld9 Extra**
+  - [Multiple Accounts](https://morphe-patches.software/?app=com.excelliance.multiaccounts#whats-new)
+  - [SD Maid SE](https://morphe-patches.software/?app=eu.darken.sdmse#whats-new)
+- **Rudrakshrajpurohit417**
+  - [GPS Map Camera](https://morphe-patches.software/?app=com.gpsmapcamera.geotagginglocationonphoto#whats-new)
+  - [Local TTS](https://morphe-patches.software/?app=com.umberlab.local.tts#whats-new)
+- **Wagg13Patch**
+  - com.xinesoft.notifications
+  - [Image & Video Date Fixer](https://morphe-patches.software/?app=eu.duong.imagedatefixer#whats-new)
+  - [Picsart](https://morphe-patches.software/?app=com.picsart.studio#whats-new)
+
 ## October 20, 2026
 
 ### New Sources
 
-- [**Cinemaniac**](https://morphe.software/add-source?github=danieleavolio/cinemaniac-patches)
-  - [Cinemaniac](https://morphe-patches.software/?app=it.papalillo.moviestowatch#whats-new)
-- [**Column**](https://morphe.software/add-source?github=danieleavolio/column-patches)
-  - [Column](https://morphe-patches.software/?app=com.columnapp.column#whats-new)
 - [**PerfLite VK-Zen**](https://morphe.software/add-source?github=PerfLite/VK-Zen)
   - [VKontakte](https://morphe-patches.software/?app=com.vkontakte.android#whats-new)
 - [**Rudrakshrajpurohit417**](https://morphe.software/add-source?gitlab=rudrakshrajpurohit417/rj-patches)
+  - [GPS Map Camera](https://morphe-patches.software/?app=com.gpsmapcamera.geotagginglocationonphoto#whats-new)
+  - [Local TTS](https://morphe-patches.software/?app=com.umberlab.local.tts#whats-new)
   - [MovieBox](https://morphe-patches.software/?app=com.community.oneroom#whats-new)
 - [**Sudeepcapri**](https://morphe.software/add-source?github=sudeepcapri/morphe_patch)
   - [Coloring and Learn](https://morphe-patches.software/?app=com.orange.coloring.learn.kids#whats-new)
@@ -456,8 +469,10 @@ To keep the post useful and easy to maintain, this section focuses on recent upd
   - [Instagram](https://morphe-patches.software/?app=com.instagram.android#whats-new)
   - [Lightroom](https://morphe-patches.software/?app=com.adobe.lrmobile#whats-new)
   - [Moovit](https://morphe-patches.software/?app=com.tranzmate#whats-new)
+  - [Multiple Accounts](https://morphe-patches.software/?app=com.excelliance.multiaccounts#whats-new)
   - [NokoPrint - WiFi, Bluetooth, USB](https://morphe-patches.software/?app=com.nokoprint#whats-new)
   - [PowerPoint](https://morphe-patches.software/?app=com.microsoft.office.powerpoint#whats-new)
+  - [SD Maid SE](https://morphe-patches.software/?app=eu.darken.sdmse#whats-new)
   - [SUBE](https://morphe-patches.software/?app=com.sube.app#whats-new)
   - [X](https://morphe-patches.software/?app=com.twitter.android#whats-new)
   - [Xiaomi Earbuds](https://morphe-patches.software/?app=com.mi.earphone#whats-new)
