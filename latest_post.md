@@ -52,7 +52,6 @@ To keep the post useful and easy to maintain, this section focuses on recent upd
 - [**PerfLite VK-Zen**](https://morphe.software/add-source?github=PerfLite/VK-Zen)
   - [VKontakte](https://morphe-patches.software/?app=com.vkontakte.android#whats-new)
 - [**Rudrakshrajpurohit417**](https://morphe.software/add-source?gitlab=rudrakshrajpurohit417/rj-patches)
-  - [InShot](https://morphe-patches.software/?app=com.camerasideas.instashot#whats-new)
   - [MovieBox](https://morphe-patches.software/?app=com.community.oneroom#whats-new)
 - [**Sudeepcapri**](https://morphe.software/add-source?github=sudeepcapri/morphe_patch)
   - [Coloring and Learn](https://morphe-patches.software/?app=com.orange.coloring.learn.kids#whats-new)
@@ -83,11 +82,15 @@ To keep the post useful and easy to maintain, this section focuses on recent upd
   - [PETKIT](https://morphe-patches.software/?app=com.petkit.oversea#whats-new)
 - **Heval**
   - [WeMuslim](https://morphe-patches.software/?app=com.fyxtech.muslim#whats-new)
+- **Patchweaver**
+  - [Merkury Smart](https://morphe-patches.software/?app=com.merkury.geeni.morphe#whats-new)
 - **Proxma**
   - [inDrive](https://morphe-patches.software/?app=sinet.startup.inDriver#whats-new)
 - **Rahaaatul**
   - [Remake Face AI](https://morphe-patches.software/?app=com.dirgasena.remakefaceai#whats-new)
 - **Shuhaibnc**
+  - [Where is my Train](https://morphe-patches.software/?app=com.whereismytrain.android#whats-new)
+- **Stylus**
   - [Where is my Train](https://morphe-patches.software/?app=com.whereismytrain.android#whats-new)
 
 ## October 19, 2026
@@ -566,42 +569,3 @@ To keep the post useful and easy to maintain, this section focuses on recent upd
   - [Disney+](https://morphe-patches.software/?app=com.disney.disneyplus#whats-new)
 - **SailHighSea**
   - [HDQ Walls](https://morphe-patches.software/?app=com.hdqwalls.hdqwalls1#whats-new)
-
-## October 7, 2026
-
-### New Sources
-
-- [**DigitalPals**](https://morphe.software/add-source?github=DigitalPals/johns-morphe-patches)
-  - [NLZIET](https://morphe-patches.software/?app=nl.nlziet#whats-new)
-- [**Hammadhassan94**](https://morphe.software/add-source?github=hammadhassan94/ary-live)
-  - [ARY PLUS](https://morphe-patches.software/?app=com.release.arylive#whats-new)
-- [**Heyymichii**](https://morphe.software/add-source?github=heyymichii/michii-patches)
-  - [LinkedIn](https://morphe-patches.software/?app=com.linkedin.android#whats-new)
-- [**Pigfoot**](https://morphe.software/add-source?github=pigfoot/morphe-patches)
-  - [台灣鐵道通](https://morphe-patches.software/?app=com.waccliu.taiwanrail#whats-new)
-- [**SailHighSea**](https://morphe.software/add-source?github=SailHighSea/sailhighsea-patches)
-  - [Castbox](https://morphe-patches.software/?app=fm.castbox.audiobook.radio.podcast#whats-new)
-  - [Clear Scanner](https://morphe-patches.software/?app=com.indymobileapp.document.scanner#whats-new)
-  - [HDQ Walls](https://morphe-patches.software/?app=com.hdqwalls.hdqwalls1#whats-new)
-  - [Renamer](https://morphe-patches.software/?app=com.aj.renamer#whats-new)
-- [**Snowyegret23**](https://morphe.software/add-source?github=snowyegret23/morphe-patches)
-  - [Chzzk](https://morphe-patches.software/?app=com.navercorp.game.android.community#whats-new)
-
-### New Apps
-
-- **byehi98**
-  - [Swamp Attack](https://morphe-patches.software/?app=com.outfit7.movingeye.swampattack#whats-new)
-- **Heval**
-  - [#Notepad](https://morphe-patches.software/?app=com.ztnstudio.notepad#whats-new)
-  - [AiScore](https://morphe-patches.software/?app=com.onesports.score#whats-new)
-  - [BeSoccer](https://morphe-patches.software/?app=com.resultadosfutbol.mobile#whats-new)
-  - [Fishing Points](https://morphe-patches.software/?app=com.gregacucnik.fishingpoints#whats-new)
-  - [Native Camera](https://morphe-patches.software/?app=com.rawcam.app#whats-new)
-  - [OneCricket](https://morphe-patches.software/?app=one.cricket.app#whats-new)
-  - [SoundHound](https://morphe-patches.software/?app=com.melodis.midomiMusicIdentifier.freemium#whats-new)
-- **Hxreborn**
-  - [AnyTracker](https://morphe-patches.software/?app=com.shervinkoushan.anyTracker#whats-new)
-  - [Musixmatch](https://morphe-patches.software/?app=com.musixmatch.android.lyrify#whats-new)
-  - [Photone](https://morphe-patches.software/?app=io.lightray.photone#whats-new)
-- **Proxma**
-  - [Safar](https://morphe-patches.software/?app=com.safar.fyi#whats-new)
