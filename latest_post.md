@@ -54,6 +54,7 @@ To keep the post useful and easy to maintain, this section focuses on recent upd
 - [**Danieleavolio**](https://morphe.software/add-source?github=danieleavolio/lovaion-patches)
   - [Cinemaniac](https://morphe-patches.software/?app=it.papalillo.moviestowatch#whats-new)
   - [Column](https://morphe-patches.software/?app=com.columnapp.column#whats-new)
+  - [GuitarTuna](https://morphe-patches.software/?app=com.ovelin.guitartuna#whats-new)
 - [**Dreaming-Codes**](https://morphe.software/add-source?github=Dreaming-Codes/morphe-patches)
   - [Instagram](https://morphe-patches.software/?app=com.instagram.android#whats-new)
 - [**HagiaHaya**](https://morphe.software/add-source?github=HagiaHaya/morphe-patches)
@@ -68,8 +69,10 @@ To keep the post useful and easy to maintain, this section focuses on recent upd
   - [Gboard](https://morphe-patches.software/?app=com.google.android.inputmethod.latin#whats-new)
   - [Todoist](https://morphe-patches.software/?app=com.todoist#whats-new)
 
-### New App
+### New Apps
 
+- **byehi98**
+  - [20 Minutes Till Dawn](https://morphe-patches.software/?app=com.Flanne.MinutesTillDawn.roguelike.shooting.fr.gp#whats-new)
 - **Kecerim24**
   - [Now Playing](https://morphe-patches.software/?app=com.google.android.apps.pixel.nowplaying#whats-new)
 
@@ -433,8 +436,6 @@ To keep the post useful and easy to maintain, this section focuses on recent upd
   - [CREX](https://morphe-patches.software/?app=in.cricketexchange.app.cricketexchange#whats-new)
   - [Easy Homescreen](https://morphe-patches.software/?app=easy.launcher#whats-new)
   - [Hevy](https://morphe-patches.software/?app=com.hevy#whats-new)
-  - [KakaoTalk](https://morphe-patches.software/?app=com.kakao.talk#whats-new)
-  - [LINE](https://morphe-patches.software/?app=jp.naver.line.android#whats-new)
   - [Truecaller](https://morphe-patches.software/?app=com.truecaller#whats-new)
 - **Hxreborn**
   - [Jujo](https://morphe-patches.software/?app=com.dev2a.junk_journal#whats-new)
