@@ -41,6 +41,38 @@ To keep the post useful and easy to maintain, this section focuses on recent upd
 
 ---
 
+## October 22, 2026
+
+### New Sources
+
+- [**2eno**](https://morphe.software/add-source?github=2eno/morphe-patches)
+  - [InterPals](https://morphe-patches.software/?app=net.interpals#whats-new)
+  - [Kleinanzeigen](https://morphe-patches.software/?app=com.ebay.kleinanzeigen#whats-new)
+  - [Untappd](https://morphe-patches.software/?app=com.untappdllc.app#whats-new)
+- [**AlonResearch**](https://morphe.software/add-source?github=AlonResearch/moodle-browser-login-patch)
+  - [Moodle](https://morphe-patches.software/?app=com.moodle.moodlemobile#whats-new)
+- [**Danieleavolio**](https://morphe.software/add-source?github=danieleavolio/lovaion-patches)
+  - [Cinemaniac](https://morphe-patches.software/?app=it.papalillo.moviestowatch#whats-new)
+  - [Column](https://morphe-patches.software/?app=com.columnapp.column#whats-new)
+- [**Dreaming-Codes**](https://morphe.software/add-source?github=Dreaming-Codes/morphe-patches)
+  - [Instagram](https://morphe-patches.software/?app=com.instagram.android#whats-new)
+- [**HagiaHaya**](https://morphe.software/add-source?github=HagiaHaya/morphe-patches)
+  - [Pepper](https://morphe-patches.software/?app=com.tippingcanoe.pepperpl#whats-new)
+  - [Wykop.pl](https://morphe-patches.software/?app=pl.wykop.droid#whats-new)
+- [**Shahriar-0**](https://morphe.software/add-source?github=Shahriar-0/Telegram-X-Morphe)
+  - [Telegram X](https://morphe-patches.software/?app=org.thunderdog.challegram#whats-new)
+- [**Titandrive**](https://morphe.software/add-source?github=titandrive/morphe-catppuccin)
+  - [AnkiDroid Flashcards](https://morphe-patches.software/?app=com.ichi2.anki#whats-new)
+  - [Boost for Reddit](https://morphe-patches.software/?app=com.rubenmayayo.reddit#whats-new)
+  - [Fastmail](https://morphe-patches.software/?app=com.fastmail.app#whats-new)
+  - [Gboard](https://morphe-patches.software/?app=com.google.android.inputmethod.latin#whats-new)
+  - [Todoist](https://morphe-patches.software/?app=com.todoist#whats-new)
+
+### New App
+
+- **Kecerim24**
+  - [Now Playing](https://morphe-patches.software/?app=com.google.android.apps.pixel.nowplaying#whats-new)
+
 ## October 21, 2026
 
 ### New Apps
@@ -304,8 +336,6 @@ To keep the post useful and easy to maintain, this section focuses on recent upd
 
 - [**Balu100**](https://morphe.software/add-source?github=balu100/GoogleDialerEnableCallRecording)
   - [Google Phone](https://morphe-patches.software/?app=com.google.android.dialer#whats-new)
-- [**CappyT**](https://morphe.software/add-source?github=CappyT/cappys-patches)
-  - [MuseScore: Music Chords & Tabs](https://morphe-patches.software/?app=com.musescore.playerlite#whats-new)
 - [**Janowakps**](https://morphe.software/add-source?github=janowakps/morphe-patches-action)
   - [Action](https://morphe-patches.software/?app=com.action.consumerapp#whats-new)
 - [**JordanWoodson**](https://morphe.software/add-source?github=jordanwoodson/lurk-morphe-patches)
