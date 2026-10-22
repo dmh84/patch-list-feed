@@ -59,6 +59,7 @@ To keep the post useful and easy to maintain, this section focuses on recent upd
   - [Instagram](https://morphe-patches.software/?app=com.instagram.android#whats-new)
 - [**HagiaHaya**](https://morphe.software/add-source?github=HagiaHaya/morphe-patches)
   - [Pepper](https://morphe-patches.software/?app=com.tippingcanoe.pepperpl#whats-new)
+  - [Slack](https://morphe-patches.software/?app=com.Slack#whats-new)
   - [Wykop.pl](https://morphe-patches.software/?app=pl.wykop.droid#whats-new)
 - [**Shahriar-0**](https://morphe.software/add-source?github=Shahriar-0/Telegram-X-Morphe)
   - [Telegram X](https://morphe-patches.software/?app=org.thunderdog.challegram#whats-new)
@@ -73,8 +74,15 @@ To keep the post useful and easy to maintain, this section focuses on recent upd
 
 - **byehi98**
   - [20 Minutes Till Dawn](https://morphe-patches.software/?app=com.Flanne.MinutesTillDawn.roguelike.shooting.fr.gp#whats-new)
+- **Hxreborn**
+  - [3way](https://morphe-patches.software/?app=app.threesome.dating#whats-new)
+  - [Internet Speed Meter Lite](https://morphe-patches.software/?app=com.internet.speed.meter.lite#whats-new)
+  - [Viber](https://morphe-patches.software/?app=com.viber.voip#whats-new)
+  - [Yuka](https://morphe-patches.software/?app=io.yuka.android#whats-new)
 - **Kecerim24**
   - [Now Playing](https://morphe-patches.software/?app=com.google.android.apps.pixel.nowplaying#whats-new)
+- **Sabbirexist**
+  - [Heart Rate Monitor](https://morphe-patches.software/?app=heartratemonitor.heartrate.pulse.pulseapp#whats-new)
 
 ## October 21, 2026
 
@@ -258,6 +266,7 @@ To keep the post useful and easy to maintain, this section focuses on recent upd
 - [**Sabbirexist**](https://morphe.software/add-source?github=sabbirexist/kodex-patches)
   - [Desh Bangla Keyboard](https://morphe-patches.software/?app=com.bangla.keyboard.for.android#whats-new)
   - [Eyecon](https://morphe-patches.software/?app=com.eyecon.global#whats-new)
+  - [Heart Rate Monitor](https://morphe-patches.software/?app=heartratemonitor.heartrate.pulse.pulseapp#whats-new)
   - [InShare](https://morphe-patches.software/?app=sharefiles.sharemusic.shareapps.filetransfer#whats-new)
   - [TouchRetouch](https://morphe-patches.software/?app=com.advasoft.touchretouch.plus#whats-new)
   - [VLC](https://morphe-patches.software/?app=org.videolan.vlc#whats-new)
@@ -531,7 +540,7 @@ To keep the post useful and easy to maintain, this section focuses on recent upd
 - [**RikoDEV**](https://morphe.software/add-source?github=RikoDEV/morphed-pl)
   - [Yanosik](https://morphe-patches.software/?app=pl.neptis.yanosik.mobi.android#whats-new)
 - [**Sqzass**](https://morphe.software/add-source?github=sqzass/patches)
-- [**Sudashiii**](https://morphe.software/add-source?github=Sudashiii/servus-patches)
+- [**Sudashiii**](https://morphe.software/add-source?github=Sudashiii/at-tv-patches)
   - [ORF ON](https://morphe-patches.software/?app=com.nousguide.android.orftvthek#whats-new)
   - [ServusTV On](https://morphe-patches.software/?app=com.mautilus.servus#whats-new)
 - [**TorbenStriegel**](https://morphe.software/add-source?github=TorbenStriegel/morphe-patches-custom)
