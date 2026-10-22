@@ -45,9 +45,22 @@ To keep the post useful and easy to maintain, this section focuses on recent upd
 
 ### New Apps
 
+- **Hxreborn**
+  - [Castle](https://morphe-patches.software/?app=com.external.castle#whats-new)
+  - [Glass Widgets](https://morphe-patches.software/?app=com.jndapp.glass.widgets#whats-new)
+  - [Graph Messenger](https://morphe-patches.software/?app=ir.ilmili.telegraph#whats-new)
+  - [MiniShare](https://morphe-patches.software/?app=com.omniashare.minishare#whats-new)
+  - [MyScript Math](https://morphe-patches.software/?app=com.myscript.math#whats-new)
+  - [MyScript Notes](https://morphe-patches.software/?app=com.myscript.nebo#whats-new)
+  - [Nara Baby](https://morphe-patches.software/?app=com.naraorganics.nara#whats-new)
+  - [Wattpad](https://morphe-patches.software/?app=wp.wattpad#whats-new)
 - **Kveld9 Extra**
-  - [Multiple Accounts](https://morphe-patches.software/?app=com.excelliance.multiaccounts#whats-new)
   - [SD Maid SE](https://morphe-patches.software/?app=eu.darken.sdmse#whats-new)
+- **Pengusto**
+  - [Fossify Contacts](https://morphe-patches.software/?app=org.fossify.contacts#whats-new)
+  - [Fossify File Manager](https://morphe-patches.software/?app=org.fossify.filemanager#whats-new)
+  - [Fossify Messages](https://morphe-patches.software/?app=org.fossify.messages#whats-new)
+  - [Fossify Music Player](https://morphe-patches.software/?app=org.fossify.musicplayer#whats-new)
 - **Rudrakshrajpurohit417**
   - [GPS Map Camera](https://morphe-patches.software/?app=com.gpsmapcamera.geotagginglocationonphoto#whats-new)
   - [Local TTS](https://morphe-patches.software/?app=com.umberlab.local.tts#whats-new)
@@ -72,8 +85,6 @@ To keep the post useful and easy to maintain, this section focuses on recent upd
   - [Prime Video Android TV](https://morphe-patches.software/?app=com.amazon.amazonvideo.livingroom#whats-new)
   - [Telegram](https://morphe-patches.software/?app=org.telegram.messenger.web#whats-new)
   - [ZEE5 Android TV](https://morphe-patches.software/?app=com.graymatrix.did#whats-new)
-- [**Vitorhubdev**](https://morphe.software/add-source?github=vitorhubdev/vanta-surf-morphe-patches)
-  - [Vanta Surf](https://morphe-patches.software/?app=com.vvv.velvetreel.treel#whats-new)
 - [**Xittered**](https://morphe.software/add-source?github=Xittered/xitter-morphe)
   - [X](https://morphe-patches.software/?app=com.twitter.android#whats-new)
 - [**Yuubinnkyoku**](https://morphe.software/add-source?github=yuubinnkyoku/morphe-tver-patch)
@@ -370,6 +381,10 @@ To keep the post useful and easy to maintain, this section focuses on recent upd
   - [Yanosik](https://morphe-patches.software/?app=pl.neptis.yanosik.mobi.android#whats-new)
 - [**Pengusto**](https://morphe.software/add-source?github=pengusto/penguin-patches)
   - [Fossify Calendar](https://morphe-patches.software/?app=org.fossify.calendar#whats-new)
+  - [Fossify Contacts](https://morphe-patches.software/?app=org.fossify.contacts#whats-new)
+  - [Fossify File Manager](https://morphe-patches.software/?app=org.fossify.filemanager#whats-new)
+  - [Fossify Messages](https://morphe-patches.software/?app=org.fossify.messages#whats-new)
+  - [Fossify Music Player](https://morphe-patches.software/?app=org.fossify.musicplayer#whats-new)
 - [**Uta-a**](https://morphe.software/add-source?github=uta-a/linimal)
   - [LINE](https://morphe-patches.software/?app=jp.naver.line.android#whats-new)
 - [**Ysamjo**](https://morphe.software/add-source?github=ysamjo/morphe-patches)
@@ -467,9 +482,7 @@ To keep the post useful and easy to maintain, this section focuses on recent upd
   - [Copilot](https://morphe-patches.software/?app=com.microsoft.office.officehubrow#whats-new)
   - [Hevy - Gym Log Workout Tracker](https://morphe-patches.software/?app=com.hevy#whats-new)
   - [Instagram](https://morphe-patches.software/?app=com.instagram.android#whats-new)
-  - [Lightroom](https://morphe-patches.software/?app=com.adobe.lrmobile#whats-new)
   - [Moovit](https://morphe-patches.software/?app=com.tranzmate#whats-new)
-  - [Multiple Accounts](https://morphe-patches.software/?app=com.excelliance.multiaccounts#whats-new)
   - [NokoPrint - WiFi, Bluetooth, USB](https://morphe-patches.software/?app=com.nokoprint#whats-new)
   - [PowerPoint](https://morphe-patches.software/?app=com.microsoft.office.powerpoint#whats-new)
   - [SD Maid SE](https://morphe-patches.software/?app=eu.darken.sdmse#whats-new)
@@ -561,26 +574,3 @@ To keep the post useful and easy to maintain, this section focuses on recent upd
   - [imo](https://morphe-patches.software/?app=com.imo.android.imoim#whats-new)
 - **Legendsciber**
   - [Temple Run 2](https://morphe-patches.software/?app=com.imangi.templerun2#whats-new)
-
-## October 8, 2026
-
-### New Apps
-
-- **byehi98**
-  - [Swamp Attack 2](https://morphe-patches.software/?app=com.hyperdotstudios.swampattack2#whats-new)
-- **Hxreborn**
-  - [AudioLab](https://morphe-patches.software/?app=com.hitrolab.audioeditor#whats-new)
-  - [Yanosik](https://morphe-patches.software/?app=pl.neptis.yanosik.mobi.android#whats-new)
-- **MightyMich**
-  - [InShot](https://morphe-patches.software/?app=com.camerasideas.instashot#whats-new)
-  - [PhotoApp](https://morphe-patches.software/?app=com.scaleup.photofx#whats-new)
-  - [Polarr](https://morphe-patches.software/?app=photo.editor.polarr#whats-new)
-  - [Pou](https://morphe-patches.software/?app=me.pou.app#whats-new)
-  - [VivaCut](https://morphe-patches.software/?app=com.quvideo.vivacut#whats-new)
-- **Oyasumi**
-  - [Truecaller](https://morphe-patches.software/?app=com.truecaller#whats-new)
-- **PyFlat**
-  - [ARD Mediathek](https://morphe-patches.software/?app=de.swr.avp.ard#whats-new)
-  - [Disney+](https://morphe-patches.software/?app=com.disney.disneyplus#whats-new)
-- **SailHighSea**
-  - [HDQ Walls](https://morphe-patches.software/?app=com.hdqwalls.hdqwalls1#whats-new)
