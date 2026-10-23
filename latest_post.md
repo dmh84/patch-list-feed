@@ -41,6 +41,22 @@ To keep the post useful and easy to maintain, this section focuses on recent upd
 
 ---
 
+## October 23, 2026
+
+### New Sources
+
+- [**Aic0d3r**](https://morphe.software/add-source?github=aic0d3r/oxbow)
+  - [Instagram](https://morphe-patches.software/?app=com.instagram.android#whats-new)
+- [**Edoardo9708**](https://morphe.software/add-source?github=Edoardo9708/LegheFC-Morphe-Patches)
+  - [Leghe FC](https://morphe-patches.software/?app=it.quadronica.leghe#whats-new)
+
+### New Apps
+
+- **Hxreborn**
+  - [Cast Plug-in for Musicolet](https://morphe-patches.software/?app=in.krosbits.castplugin#whats-new)
+- **Rahaaatul**
+  - [Yatse](https://morphe-patches.software/?app=org.leetzone.android.yatsewidgetfree#whats-new)
+
 ## October 22, 2026
 
 ### New Sources
