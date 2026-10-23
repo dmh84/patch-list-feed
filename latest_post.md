@@ -48,7 +48,10 @@ To keep the post useful and easy to maintain, this section focuses on recent upd
 - [**Aic0d3r**](https://morphe.software/add-source?github=aic0d3r/oxbow)
   - [Instagram](https://morphe-patches.software/?app=com.instagram.android#whats-new)
 - [**Edoardo9708**](https://morphe.software/add-source?github=Edoardo9708/LegheFC-Morphe-Patches)
+  - [Flowx](https://morphe-patches.software/?app=com.enzuredigital.weatherbomb#whats-new)
   - [Leghe FC](https://morphe-patches.software/?app=it.quadronica.leghe#whats-new)
+  - [Outdooractive](https://morphe-patches.software/?app=com.outdooractive.Outdooractive#whats-new)
+  - [Twilight](https://morphe-patches.software/?app=com.urbandroid.lux#whats-new)
 
 ### New Apps
 
