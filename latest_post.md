@@ -57,6 +57,8 @@ To keep the post useful and easy to maintain, this section focuses on recent upd
 
 - **Hxreborn**
   - [Cast Plug-in for Musicolet](https://morphe-patches.software/?app=in.krosbits.castplugin#whats-new)
+- **Madushas**
+  - [MyDialog](https://morphe-patches.software/?app=net.omobio.dialogsc#whats-new)
 - **Rahaaatul**
   - [Yatse](https://morphe-patches.software/?app=org.leetzone.android.yatsewidgetfree#whats-new)
 
@@ -186,6 +188,7 @@ To keep the post useful and easy to maintain, this section focuses on recent upd
 - [**Burakdede0**](https://morphe.software/add-source?github=burakdede0/SyncPatch)
   - [Sync for Reddit](https://morphe-patches.software/?app=com.laurencedawson.reddit_sync#whats-new)
 - [**Madushas**](https://morphe.software/add-source?github=madushas/pdb_patch)
+  - [MyDialog](https://morphe-patches.software/?app=net.omobio.dialogsc#whats-new)
   - [Pdb](https://morphe-patches.software/?app=pdb.app#whats-new)
 - [**Nezumi-2711**](https://morphe.software/add-source?github=Nezumi-2711/morphe-patches)
   - [Zalo](https://morphe-patches.software/?app=com.zing.zalo#whats-new)
