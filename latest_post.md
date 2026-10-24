@@ -41,17 +41,40 @@ To keep the post useful and easy to maintain, this section focuses on recent upd
 
 ---
 
+## October 24, 2026
+
+### New Apps
+
+- **De-Vanced Patches - by RookieEnough**
+  - [Disney+](https://morphe-patches.software/?app=com.disney.disneyplus#whats-new)
+- **Hxreborn**
+  - [USA VPN](https://morphe-patches.software/?app=vpn.usa_tap2free#whats-new)
+
 ## October 23, 2026
 
 ### New Sources
 
 - [**Aic0d3r**](https://morphe.software/add-source?github=aic0d3r/oxbow)
   - [Instagram](https://morphe-patches.software/?app=com.instagram.android#whats-new)
+- [**BlazeFTL Facebook**](https://morphe.software/add-source?github=BlazeFTL/FaceBook-Lite-Morphe)
+  - [Facebook Lite](https://morphe-patches.software/?app=com.facebook.lite#whats-new)
+- [**Cosm1c-Matcha**](https://morphe.software/add-source?github=cosm1c-matcha/hris-apn)
+  - [AgriConnect](https://morphe-patches.software/?app=com.git.agriconnect#whats-new)
 - [**Edoardo9708**](https://morphe.software/add-source?github=Edoardo9708/LegheFC-Morphe-Patches)
   - [Flowx](https://morphe-patches.software/?app=com.enzuredigital.weatherbomb#whats-new)
   - [Leghe FC](https://morphe-patches.software/?app=it.quadronica.leghe#whats-new)
   - [Outdooractive](https://morphe-patches.software/?app=com.outdooractive.Outdooractive#whats-new)
   - [Twilight](https://morphe-patches.software/?app=com.urbandroid.lux#whats-new)
+- [**Epabafree**](https://morphe.software/add-source?github=epabafree/sabp-eppy-patches)
+  - [Smart AudioBook Player](https://morphe-patches.software/?app=ak.alizandro.smartaudiobookplayer#whats-new)
+- [**JoanComasFdz**](https://morphe.software/add-source?github=JoanComasFdz/baconreader-morphe-patches)
+  - [BaconReader](https://morphe-patches.software/?app=com.onelouder.baconreader#whats-new)
+- [**Nm-nvan**](https://morphe.software/add-source?github=nm-nvan/Neil-Morphe-Patches)
+  - [theScore](https://morphe-patches.software/?app=com.fivemobile.thescore#whats-new)
+- [**Vakarux12**](https://morphe.software/add-source?github=Vakarux12/raid-judu-patches)
+  - [JUDU](https://morphe-patches.software/?app=com.judu#whats-new)
+- [**Ythemelis**](https://morphe.software/add-source?github=ythemelis/f1tv-4k-morphe-patches)
+  - [F1 TV (Android TV)](https://morphe-patches.software/?app=com.formulaone.production#whats-new)
 
 ### New Apps
 
