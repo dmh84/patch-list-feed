@@ -59,8 +59,15 @@ To keep the post useful and easy to maintain, this section focuses on recent upd
   - [Cast Plug-in for Musicolet](https://morphe-patches.software/?app=in.krosbits.castplugin#whats-new)
 - **Madushas**
   - [MyDialog](https://morphe-patches.software/?app=net.omobio.dialogsc#whats-new)
+- **Pengusto**
+  - [Feeder](https://morphe-patches.software/?app=com.nononsenseapps.feeder#whats-new)
+  - [Fossify Clock](https://morphe-patches.software/?app=org.fossify.clock#whats-new)
+  - [Kvaesitso](https://morphe-patches.software/?app=de.mm20.launcher2.release#whats-new)
+  - [Tasks.org](https://morphe-patches.software/?app=org.tasks#whats-new)
 - **Rahaaatul**
   - [Yatse](https://morphe-patches.software/?app=org.leetzone.android.yatsewidgetfree#whats-new)
+- **Titandrive**
+  - [Pocket Casts](https://morphe-patches.software/?app=au.com.shiftyjelly.pocketcasts#whats-new)
 
 ## October 22, 2026
 
@@ -89,6 +96,7 @@ To keep the post useful and easy to maintain, this section focuses on recent upd
   - [Boost for Reddit](https://morphe-patches.software/?app=com.rubenmayayo.reddit#whats-new)
   - [Fastmail](https://morphe-patches.software/?app=com.fastmail.app#whats-new)
   - [Gboard](https://morphe-patches.software/?app=com.google.android.inputmethod.latin#whats-new)
+  - [Pocket Casts](https://morphe-patches.software/?app=au.com.shiftyjelly.pocketcasts#whats-new)
   - [Todoist](https://morphe-patches.software/?app=com.todoist#whats-new)
 
 ### New Apps
@@ -444,11 +452,15 @@ To keep the post useful and easy to maintain, this section focuses on recent upd
 - [**Cfels**](https://morphe.software/add-source?github=cfels/vibe-patches)
   - [Yanosik](https://morphe-patches.software/?app=pl.neptis.yanosik.mobi.android#whats-new)
 - [**Pengusto**](https://morphe.software/add-source?github=pengusto/penguin-patches)
+  - [Feeder](https://morphe-patches.software/?app=com.nononsenseapps.feeder#whats-new)
   - [Fossify Calendar](https://morphe-patches.software/?app=org.fossify.calendar#whats-new)
+  - [Fossify Clock](https://morphe-patches.software/?app=org.fossify.clock#whats-new)
   - [Fossify Contacts](https://morphe-patches.software/?app=org.fossify.contacts#whats-new)
   - [Fossify File Manager](https://morphe-patches.software/?app=org.fossify.filemanager#whats-new)
   - [Fossify Messages](https://morphe-patches.software/?app=org.fossify.messages#whats-new)
   - [Fossify Music Player](https://morphe-patches.software/?app=org.fossify.musicplayer#whats-new)
+  - [Kvaesitso](https://morphe-patches.software/?app=de.mm20.launcher2.release#whats-new)
+  - [Tasks.org](https://morphe-patches.software/?app=org.tasks#whats-new)
 - [**Uta-a**](https://morphe.software/add-source?github=uta-a/linimal)
   - [LINE](https://morphe-patches.software/?app=jp.naver.line.android#whats-new)
 - [**Ysamjo**](https://morphe.software/add-source?github=ysamjo/morphe-patches)
@@ -592,38 +604,3 @@ To keep the post useful and easy to maintain, this section focuses on recent upd
   - [Hoichoi](https://morphe-patches.software/?app=com.viewlift.hoichoi#whats-new)
 - **Steam Link GalaxyXR**
   - [4XVR](https://morphe-patches.software/?app=cn.vr4p.oculus4xvrplayerov#whats-new)
-
-## October 10, 2026
-
-### New Source
-
-- [**VenusIsJaded**](https://morphe.software/add-source?github=VenusIsJaded/Venus-Patches)
-  - [Discord](https://morphe-patches.software/?app=com.discord#whats-new)
-
-### New Apps
-
-- **aapam**
-  - [MyGate](https://morphe-patches.software/?app=com.mygate.user#whats-new)
-- **Aidan**
-  - [Geocaching](https://morphe-patches.software/?app=com.groundspeak.geocaching.intro#whats-new)
-- **byehi98**
-  - [Progressbar95](https://morphe-patches.software/?app=com.spookyhousestudios.progressbar95#whats-new)
-- **FTL**
-  - All Video Player App
-  - [Video Player](https://morphe-patches.software/?app=com.allformatplayer.streamvideoplayer#whats-new)
-  - [Video To Photo](https://morphe-patches.software/?app=kallossoft.videotophoto#whats-new)
-- **Heval**
-  - [Alarm Clock Xtreme](https://morphe-patches.software/?app=com.alarmclock.xtreme.free#whats-new)
-  - [Business Calendar 2](https://morphe-patches.software/?app=com.appgenix.bizcal#whats-new)
-  - [Librera](https://morphe-patches.software/?app=com.foobnix.pdf.reader#whats-new)
-- **Hxreborn**
-  - [May: Beautiful Bullet Journal](https://morphe-patches.software/?app=com.azeravn.bulletjournal#whats-new)
-  - [MedicNEET](https://morphe-patches.software/?app=com.halalfire.medicneet#whats-new)
-  - [Proton Lumo](https://morphe-patches.software/?app=me.proton.android.lumo#whats-new)
-  - [SQCOM](https://morphe-patches.software/?app=com.sqcom.shangqing#whats-new)
-  - [STEEZY](https://morphe-patches.software/?app=co.steezy.app#whats-new)
-  - [WalP](https://morphe-patches.software/?app=com.stresscodes.wallp#whats-new)
-- **Legendsciber**
-  - [Age Of War 2](https://morphe-patches.software/?app=com.maxgames.aow2#whats-new)
-- **Yann-Soliman**
-  - [Naolib vélo](https://morphe-patches.software/?app=com.jcdecaux.vls.nantes#whats-new)
