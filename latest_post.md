@@ -57,6 +57,10 @@ To keep the post useful and easy to maintain, this section focuses on recent upd
 - **GinDoki19**
   - [CRICFy TV](https://morphe-patches.software/?app=com.cricfytv.sports#whats-new)
   - [CricZ TV](https://morphe-patches.software/?app=com.pro.cricztv#whats-new)
+- **MightyMich**
+  - [CCleaner](https://morphe-patches.software/?app=com.piriform.ccleaner#whats-new)
+  - [ESET Mobile Security](https://morphe-patches.software/?app=com.eset.ems2.gp#whats-new)
+  - [TikTok](https://morphe-patches.software/?app=com.zhiliaoapp.musically#whats-new)
 - **Pigfoot**
   - [CamScanner](https://morphe-patches.software/?app=com.intsig.camscanner#whats-new)
 
@@ -557,8 +561,6 @@ To keep the post useful and easy to maintain, this section focuses on recent upd
   - [Public](https://morphe-patches.software/?app=com.cardfeed.video_public#whats-new)
 - **Legendsciber**
   - [New Star Soccer](https://morphe-patches.software/?app=com.newstargames.newstarsoccer#whats-new)
-- **MightyMich**
-  - [Guitar Tuner](https://morphe-patches.software/?app=com.ovelin.guitartuna#whats-new)
 - **Rahaaatul**
   - [Battery Guru](https://morphe-patches.software/?app=com.paget96.batteryguru#whats-new)
 
