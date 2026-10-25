@@ -41,12 +41,33 @@ To keep the post useful and easy to maintain, this section focuses on recent upd
 
 ---
 
+## October 25, 2026
+
+### New Sources
+
+- [**GoodLight999**](https://morphe.software/add-source?github=GoodLight999/TaobaoLingo)
+  - [Taobao](https://morphe-patches.software/?app=com.taobao.taobao#whats-new)
+- [**Mfakh**](https://morphe.software/add-source?github=amfakh/fakh-radio-patches)
+  - [Radio Indonesia](https://morphe-patches.software/?app=com.appmind.radios.id#whats-new)
+- [**Mouchoir**](https://morphe.software/add-source?github=Mouchoir/sound-connect-patches)
+  - [Sound Connect](https://morphe-patches.software/?app=com.sony.songpal.mdr#whats-new)
+
+### New Apps
+
+- **GinDoki19**
+  - [CRICFy TV](https://morphe-patches.software/?app=com.cricfytv.sports#whats-new)
+  - [CricZ TV](https://morphe-patches.software/?app=com.pro.cricztv#whats-new)
+- **Pigfoot**
+  - [CamScanner](https://morphe-patches.software/?app=com.intsig.camscanner#whats-new)
+
 ## October 24, 2026
 
 ### New Sources
 
 - [**GinDoki19**](https://morphe.software/add-source?github=ginDoki19/GinArena-patch)
   - [1DM](https://morphe-patches.software/?app=idm.internet.download.manager#whats-new)
+  - [CRICFy TV](https://morphe-patches.software/?app=com.cricfytv.sports#whats-new)
+  - [CricZ TV](https://morphe-patches.software/?app=com.pro.cricztv#whats-new)
 - [**Ikuradachi**](https://morphe.software/add-source?github=Ikuradachi/pancake-patches)
   - [Bstation](https://morphe-patches.software/?app=com.bstar.intl#whats-new)
   - [CarbitLink](https://morphe-patches.software/?app=net.easyconn.carman.wws#whats-new)
