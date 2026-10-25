@@ -47,6 +47,8 @@ To keep the post useful and easy to maintain, this section focuses on recent upd
 
 - [**GoodLight999**](https://morphe.software/add-source?github=GoodLight999/TaobaoLingo)
   - [Taobao](https://morphe-patches.software/?app=com.taobao.taobao#whats-new)
+- [**Kurageno8156-lgtm**](https://morphe.software/add-source?github=kurageno8156-lgtm/tiktok-lite-patches)
+  - [TikTok Lite](https://morphe-patches.software/?app=com.ss.android.ugc.tiktok.lite#whats-new)
 - [**Mfakh**](https://morphe.software/add-source?github=amfakh/fakh-radio-patches)
   - [Radio Indonesia](https://morphe-patches.software/?app=com.appmind.radios.id#whats-new)
 - [**Mouchoir**](https://morphe.software/add-source?github=Mouchoir/sound-connect-patches)
@@ -58,12 +60,18 @@ To keep the post useful and easy to maintain, this section focuses on recent upd
 
 ### New Apps
 
+- **0xtalos**
+  - com.hdoapp.hdo_box
 - **FTL**
   - [1DM+](https://morphe-patches.software/?app=idm.internet.download.manager.plus#whats-new)
   - [Mobilism](https://morphe-patches.software/?app=demigos.com.mobilism#whats-new)
 - **GinDoki19**
   - [CRICFy TV](https://morphe-patches.software/?app=com.cricfytv.sports#whats-new)
   - [CricZ TV](https://morphe-patches.software/?app=com.pro.cricztv#whats-new)
+- **Hxreborn**
+  - [Clone App](https://morphe-patches.software/?app=com.pengyou.cloneapp#whats-new)
+  - [Coddy](https://morphe-patches.software/?app=tech.coddy.coddyapp#whats-new)
+  - [Pleco](https://morphe-patches.software/?app=com.pleco.chinesesystem#whats-new)
 - **MightyMich**
   - [CCleaner](https://morphe-patches.software/?app=com.piriform.ccleaner#whats-new)
   - [ESET Mobile Security](https://morphe-patches.software/?app=com.eset.ems2.gp#whats-new)
