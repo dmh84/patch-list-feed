@@ -51,9 +51,16 @@ To keep the post useful and easy to maintain, this section focuses on recent upd
   - [Radio Indonesia](https://morphe-patches.software/?app=com.appmind.radios.id#whats-new)
 - [**Mouchoir**](https://morphe.software/add-source?github=Mouchoir/sound-connect-patches)
   - [Sound Connect](https://morphe-patches.software/?app=com.sony.songpal.mdr#whats-new)
+- [**Piko Instagram Lite**](https://morphe.software/add-source?github=crimera/piko-ig-lite)
+  - [Instagram](https://morphe-patches.software/?app=com.instagram.android#whats-new)
+- [**Piko NewX**](https://morphe.software/add-source?github=crimera/piko-newx)
+  - [NewX](https://morphe-patches.software/?app=com.twitter.android#whats-new)
 
 ### New Apps
 
+- **FTL**
+  - [1DM+](https://morphe-patches.software/?app=idm.internet.download.manager.plus#whats-new)
+  - [Mobilism](https://morphe-patches.software/?app=demigos.com.mobilism#whats-new)
 - **GinDoki19**
   - [CRICFy TV](https://morphe-patches.software/?app=com.cricfytv.sports#whats-new)
   - [CricZ TV](https://morphe-patches.software/?app=com.pro.cricztv#whats-new)
@@ -61,6 +68,8 @@ To keep the post useful and easy to maintain, this section focuses on recent upd
   - [CCleaner](https://morphe-patches.software/?app=com.piriform.ccleaner#whats-new)
   - [ESET Mobile Security](https://morphe-patches.software/?app=com.eset.ems2.gp#whats-new)
   - [TikTok](https://morphe-patches.software/?app=com.zhiliaoapp.musically#whats-new)
+- **Pengusto**
+  - [Infinity+](https://morphe-patches.software/?app=ml.docilealligator.infinityforreddit.plus#whats-new)
 - **Pigfoot**
   - [CamScanner](https://morphe-patches.software/?app=com.intsig.camscanner#whats-new)
 
@@ -535,6 +544,7 @@ To keep the post useful and easy to maintain, this section focuses on recent upd
   - [Fossify File Manager](https://morphe-patches.software/?app=org.fossify.filemanager#whats-new)
   - [Fossify Messages](https://morphe-patches.software/?app=org.fossify.messages#whats-new)
   - [Fossify Music Player](https://morphe-patches.software/?app=org.fossify.musicplayer#whats-new)
+  - [Infinity+](https://morphe-patches.software/?app=ml.docilealligator.infinityforreddit.plus#whats-new)
   - [Kvaesitso](https://morphe-patches.software/?app=de.mm20.launcher2.release#whats-new)
   - [Tasks.org](https://morphe-patches.software/?app=org.tasks#whats-new)
 - [**Uta-a**](https://morphe.software/add-source?github=uta-a/linimal)
