@@ -67,6 +67,23 @@ To keep the post useful and easy to maintain, this section focuses on recent upd
 - [**Piel-M**](https://morphe.software/add-source?github=Piel-M/piko-gif-patch)
   - [Twitter](https://morphe-patches.software/?app=com.twitter.android#whats-new)
 
+### New Apps
+
+- **Heval**
+  - [BBC News](https://morphe-patches.software/?app=bbc.mobile.news.ww#whats-new)
+  - [DRTV](https://morphe-patches.software/?app=dk.dr.webplayer#whats-new)
+  - [Taskito](https://morphe-patches.software/?app=com.fenchtose.reflog#whats-new)
+  - [TimeTune](https://morphe-patches.software/?app=com.gmail.jmartindev.timetune#whats-new)
+  - [Viaplay](https://morphe-patches.software/?app=com.viaplay.android#whats-new)
+- **Hxreborn**
+  - [Resprite](https://morphe-patches.software/?app=com.fengeon.resprite_desktop#whats-new)
+- **Johnneerdael**
+  - [KIJK Android TV](https://morphe-patches.software/?app=com.talpa.kijk#whats-new)
+  - [Marktplaats](https://morphe-patches.software/?app=nl.marktplaats.android#whats-new)
+  - [NPO Start Android TV](https://morphe-patches.software/?app=nl.uitzendinggemist#whats-new)
+- **Pigfoot**
+  - [PiTT](https://morphe-patches.software/?app=com.ihad.ptt#whats-new)
+
 ## October 28, 2026
 
 ### New Sources
@@ -208,7 +225,10 @@ To keep the post useful and easy to maintain, this section focuses on recent upd
   - [Dumpert](https://morphe-patches.software/?app=nl.dumpert#whats-new)
   - [Flitsmeister](https://morphe-patches.software/?app=nl.flitsmeister#whats-new)
   - [FTM](https://morphe-patches.software/?app=nl.ftm.ftmpulse#whats-new)
+  - [KIJK Android TV](https://morphe-patches.software/?app=com.talpa.kijk#whats-new)
+  - [Marktplaats](https://morphe-patches.software/?app=nl.marktplaats.android#whats-new)
   - [NOS Teletekst](https://morphe-patches.software/?app=com.eoffice.android#whats-new)
+  - [NPO Start Android TV](https://morphe-patches.software/?app=nl.uitzendinggemist#whats-new)
   - [NRC](https://morphe-patches.software/?app=com.twipemobile.nrc#whats-new)
   - [NU.nl](https://morphe-patches.software/?app=nl.sanomamedia.android.nu#whats-new)
   - [Omroep Brabant](https://morphe-patches.software/?app=nl.omroepbrabant.android#whats-new)
