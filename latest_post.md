@@ -66,12 +66,15 @@ To keep the post useful and easy to maintain, this section focuses on recent upd
   - [The New Yorker](https://morphe-patches.software/?app=com.condenast.thenewyorker.android#whats-new)
 - [**XBadFellaX**](https://morphe.software/add-source?github=XBadFellaX/BadFella-Patches)
   - [Emby](https://morphe-patches.software/?app=com.mb.android#whats-new)
+  - [Remote for Android TV](https://morphe-patches.software/?app=tech.simha.androidtvremote#whats-new)
   - [TickTick](https://morphe-patches.software/?app=com.ticktick.task#whats-new)
 - [**Yashsehrawatdelete550**](https://morphe.software/add-source?github=yashsehrawatdelete550-dotg/instagram-custom-branding-patches)
   - [Instagram](https://morphe-patches.software/?app=com.instagram.android#whats-new)
 
 ### New Apps
 
+- **Brave**
+  - [Bare Browser](https://morphe-patches.software/?app=org.barebrowser#whats-new)
 - **DanielTheManiel**
   - [YouTube](https://morphe-patches.software/?app=com.google.android.youtube#whats-new)
 - **Franticg33k patches**
@@ -82,6 +85,11 @@ To keep the post useful and easy to maintain, this section focuses on recent upd
   - [Transparent clock & weather](https://morphe-patches.software/?app=com.droid27.transparentclockweather#whats-new)
   - [WATCH IT](https://morphe-patches.software/?app=com.watchit.vod#whats-new)
   - [weather24](https://morphe-patches.software/?app=com.wetter.androidclient#whats-new)
+- **Johnneerdael**
+  - [De Tijd](https://morphe-patches.software/?app=mobi.inthepocket.mediafin.detijd#whats-new)
+- **Pengusto**
+  - [Komikku](https://morphe-patches.software/?app=app.komikku#whats-new)
+  - [Mihon](https://morphe-patches.software/?app=app.mihon#whats-new)
 - **Rikunode**
   - FairEmail
 
@@ -291,6 +299,7 @@ To keep the post useful and easy to maintain, this section focuses on recent upd
   - [Buienalarm](https://morphe-patches.software/?app=org.yoki.android.buienalarm#whats-new)
   - [Buienradar](https://morphe-patches.software/?app=com.supportware.Buienradar#whats-new)
   - [De Morgen](https://morphe-patches.software/?app=be.persgroep.android.news.mobiledm#whats-new)
+  - [De Tijd](https://morphe-patches.software/?app=mobi.inthepocket.mediafin.detijd#whats-new)
   - [DS Nieuws](https://morphe-patches.software/?app=com.twipemobile.dsmobile#whats-new)
   - [Dumpert](https://morphe-patches.software/?app=nl.dumpert#whats-new)
   - [Flitsmeister](https://morphe-patches.software/?app=nl.flitsmeister#whats-new)
