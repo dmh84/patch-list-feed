@@ -49,11 +49,19 @@ To keep the post useful and easy to maintain, this section focuses on recent upd
   - [Asana Rebel](https://morphe-patches.software/?app=com.asanayoga.asanarebel#whats-new)
 - [**Drappula**](https://morphe.software/add-source?github=drappula/morphe-patches-instaprime)
   - [InstaPrime](https://morphe-patches.software/?app=com.instaprime.android#whats-new)
+- [**ElectroHeavenVN**](https://morphe.software/add-source?github=ElectroHeavenVN/morphe-patches)
+  - [Zalo](https://morphe-patches.software/?app=com.zing.zalo#whats-new)
+- [**Fuku856**](https://morphe.software/add-source?github=Fuku856/smartlife-patches)
+  - [SmartLife](https://morphe-patches.software/?app=com.tuya.smartlife#whats-new)
 - [**Hexclyde**](https://morphe.software/add-source?github=Hexclyde/bitchord-morphe-patches)
   - [BitChord](https://morphe-patches.software/?app=com.music.bitchord#whats-new)
 - [**Hyzor**](https://morphe.software/add-source?github=hyzor/hyzor-morphe-patches)
+  - [Chess.com](https://morphe-patches.software/?app=com.chess#whats-new)
+  - [NYT Games](https://morphe-patches.software/?app=com.nytimes.crossword#whats-new)
   - [Sleep as Android](https://morphe-patches.software/?app=com.urbandroid.sleep#whats-new)
   - [SnoreLab](https://morphe-patches.software/?app=com.snorelab.app#whats-new)
+- [**M4TH1EU**](https://morphe.software/add-source?github=M4TH1EU/veloce-patches)
+  - [Waze](https://morphe-patches.software/?app=com.waze#whats-new)
 - [**Mormislaw**](https://morphe.software/add-source?github=mormislaw/zeekr-adapt-morphe-patches)
   - [Apple Music](https://morphe-patches.software/?app=com.apple.android.music#whats-new)
   - [Spotify](https://morphe-patches.software/?app=com.spotify.music#whats-new)
@@ -69,6 +77,8 @@ To keep the post useful and easy to maintain, this section focuses on recent upd
 
 ### New Apps
 
+- **Edoardo9708**
+  - [DNS Changer](https://morphe-patches.software/?app=com.appplanex.dnschanger#whats-new)
 - **Heval**
   - [BBC News](https://morphe-patches.software/?app=bbc.mobile.news.ww#whats-new)
   - [DRTV](https://morphe-patches.software/?app=dk.dr.webplayer#whats-new)
@@ -81,6 +91,8 @@ To keep the post useful and easy to maintain, this section focuses on recent upd
   - [KIJK Android TV](https://morphe-patches.software/?app=com.talpa.kijk#whats-new)
   - [Marktplaats](https://morphe-patches.software/?app=nl.marktplaats.android#whats-new)
   - [NPO Start Android TV](https://morphe-patches.software/?app=nl.uitzendinggemist#whats-new)
+  - [TVgids.nl](https://morphe-patches.software/?app=nl.tvgids#whats-new)
+  - [Videoland Android TV](https://morphe-patches.software/?app=nl.rtl.videoland.v2#whats-new)
 - **Pigfoot**
   - [PiTT](https://morphe-patches.software/?app=com.ihad.ptt#whats-new)
 
@@ -90,6 +102,8 @@ To keep the post useful and easy to maintain, this section focuses on recent upd
 
 - [**6jarjar6**](https://morphe.software/add-source?github=6jarjar6/morphe-patches)
   - [Bejeweled Classic](https://morphe-patches.software/?app=com.ea.gp.bej3#whats-new)
+- [**Bastlam**](https://morphe.software/add-source?github=bastlam/trax_patches)
+  - [Duolingo](https://morphe-patches.software/?app=com.duolingo#whats-new)
 - [**Steeepaaaan**](https://morphe.software/add-source?github=steeepaaaan/pdalife-morphe-patches)
   - [Don't Starve Pocket](https://morphe-patches.software/?app=com.kleientertainment.doNotStarvePocket#whats-new)
   - [Slime Rancher](https://morphe-patches.software/?app=com.playdigious.slimerancher#whats-new)
@@ -235,6 +249,8 @@ To keep the post useful and easy to maintain, this section focuses on recent upd
   - [Parool](https://morphe-patches.software/?app=be.persgroep.android.news.mobilepa#whats-new)
   - [RTL Nieuws](https://morphe-patches.software/?app=nl.rtl.rtlnieuws#whats-new)
   - [Trouw](https://morphe-patches.software/?app=be.persgroep.android.news.mobiletr#whats-new)
+  - [TVgids.nl](https://morphe-patches.software/?app=nl.tvgids#whats-new)
+  - [Videoland Android TV](https://morphe-patches.software/?app=nl.rtl.videoland.v2#whats-new)
   - [Voetbal International](https://morphe-patches.software/?app=nl.vi#whats-new)
   - [Volkskrant](https://morphe-patches.software/?app=be.persgroep.android.news.mobilevk#whats-new)
   - [Weeronline](https://morphe-patches.software/?app=com.xs2theworld.weeronline#whats-new)
@@ -395,6 +411,7 @@ To keep the post useful and easy to maintain, this section focuses on recent upd
 - [**Cosm1c-Matcha**](https://morphe.software/add-source?github=cosm1c-matcha/hris-apn)
   - [AgriConnect](https://morphe-patches.software/?app=com.git.agriconnect#whats-new)
 - [**Edoardo9708**](https://morphe.software/add-source?github=Edoardo9708/LegheFC-Morphe-Patches)
+  - [DNS Changer](https://morphe-patches.software/?app=com.appplanex.dnschanger#whats-new)
   - [Flowx](https://morphe-patches.software/?app=com.enzuredigital.weatherbomb#whats-new)
   - [Fonometro](https://morphe-patches.software/?app=com.ktwapps.soundmeter#whats-new)
   - [Leghe FC](https://morphe-patches.software/?app=it.quadronica.leghe#whats-new)
