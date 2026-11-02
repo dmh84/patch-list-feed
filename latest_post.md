@@ -50,8 +50,12 @@ To keep the post useful and easy to maintain, this section focuses on recent upd
 - [**MegaTheLEGEND**](https://morphe.software/add-source?github=MegaTheLEGEND/Facebook-Marketplace)
   - [Facebook](https://morphe-patches.software/?app=com.facebook.katana#whats-new)
 - [**Mlkem**](https://morphe.software/add-source?github=Mlkem/Morphe)
+  - [GPS Emulator](https://morphe-patches.software/?app=com.rosteam.gpsemulator#whats-new)
+  - [Morphe Manager](https://morphe-patches.software/?app=app.morphe.manager#whats-new)
   - [Music League](https://morphe-patches.software/?app=com.musicleague.app#whats-new)
+  - [Open with](https://morphe-patches.software/?app=com.openwith.app#whats-new)
   - [PushPress Members](https://morphe-patches.software/?app=com.pushpress.memberportal#whats-new)
+  - [TAGTHAi](https://morphe-patches.software/?app=com.thaidigitalplatform.tagthai#whats-new)
   - [Walmart Canada](https://morphe-patches.software/?app=ca.walmart.ecommerceapp#whats-new)
   - [Wongnai](https://morphe-patches.software/?app=com.wongnai.android#whats-new)
   - [Zoom Earth](https://morphe-patches.software/?app=com.neave.zoomearth#whats-new)
@@ -82,8 +86,20 @@ To keep the post useful and easy to maintain, this section focuses on recent upd
   - [Honor Notes](https://morphe-patches.software/?app=com.hihonor.notepad#whats-new)
   - [Honor Recorder](https://morphe-patches.software/?app=com.hihonor.soundrecorder#whats-new)
   - [Honor Video Player](https://morphe-patches.software/?app=com.hihonor.hnvideoplayer#whats-new)
+  - [LG Health](https://morphe-patches.software/?app=com.lge.lifetracker#whats-new)
+  - [LG QuickMemo+](https://morphe-patches.software/?app=com.lge.qmemoplus#whats-new)
   - [Nothing Gallery](https://morphe-patches.software/?app=com.nothing.gallery#whats-new)
   - [Nothing Recorder](https://morphe-patches.software/?app=com.nothing.soundrecorder#whats-new)
+  - [OnePlus Calculator](https://morphe-patches.software/?app=com.oneplus.calculator#whats-new)
+  - [OnePlus Clock](https://morphe-patches.software/?app=com.oneplus.deskclock#whats-new)
+  - [OnePlus Compass](https://morphe-patches.software/?app=com.coloros.compass2#whats-new)
+  - [OnePlus My Files](https://morphe-patches.software/?app=com.oneplus.filemanager#whats-new)
+  - [OnePlus Notes](https://morphe-patches.software/?app=com.oneplus.note#whats-new)
+  - [OnePlus Photos](https://morphe-patches.software/?app=com.oneplus.gallery#whats-new)
+  - [OnePlus Recorder](https://morphe-patches.software/?app=com.oneplus.soundrecorder#whats-new)
+  - [OnePlus Screen Recording](https://morphe-patches.software/?app=com.oplus.screenrecorder#whats-new)
+  - [OnePlus Weather](https://morphe-patches.software/?app=net.oneplus.weather#whats-new)
+  - [RedMagic Game Space](https://morphe-patches.software/?app=cn.nubia.gamelauncher#whats-new)
   - Screen Recorder
   - [Xiaomi Calendar](https://morphe-patches.software/?app=com.android.calendar#whats-new)
   - [Xiaomi Compass](https://morphe-patches.software/?app=com.miui.compass#whats-new)
@@ -102,7 +118,14 @@ To keep the post useful and easy to maintain, this section focuses on recent upd
 - **JohnInNL**
   - [2dehands](https://morphe-patches.software/?app=be.tweedehands.m#whats-new)
   - [Gearslip](https://morphe-patches.software/?app=app.seb3thehacker.gearslip#whats-new)
+  - [Google Maps](https://morphe-patches.software/?app=com.google.android.apps.maps#whats-new)
+  - [RainViewer](https://morphe-patches.software/?app=com.lucky_apps.RainViewer#whats-new)
+  - [Vela Maps](https://morphe-patches.software/?app=app.vela#whats-new)
   - [YouTube Music](https://morphe-patches.software/?app=com.google.android.apps.youtube.music#whats-new)
+- **Juankyyy**
+  - [Amaze GO!](https://morphe-patches.software/?app=com.oakever.arrows#whats-new)
+- **Madushas**
+  - [Strava](https://morphe-patches.software/?app=com.strava#whats-new)
 - **Pigfoot**
   - [Windy](https://morphe-patches.software/?app=com.windyty.android#whats-new)
 - **Shuhaibnc**
@@ -149,6 +172,7 @@ To keep the post useful and easy to maintain, this section focuses on recent upd
   - [Flitsmeister](https://morphe-patches.software/?app=nl.flitsmeister#whats-new)
   - [FTM](https://morphe-patches.software/?app=nl.ftm.ftmpulse#whats-new)
   - [Gearslip](https://morphe-patches.software/?app=app.seb3thehacker.gearslip#whats-new)
+  - [Google Maps](https://morphe-patches.software/?app=com.google.android.apps.maps#whats-new)
   - [GVA](https://morphe-patches.software/?app=be.concentra.gva.MediaApp#whats-new)
   - [HBVL](https://morphe-patches.software/?app=be.concentra.hbvl.MediaApp#whats-new)
   - [HLN](https://morphe-patches.software/?app=be.persgroep.android.news.mobilehln#whats-new)
@@ -168,11 +192,13 @@ To keep the post useful and easy to maintain, this section focuses on recent upd
   - [Parool](https://morphe-patches.software/?app=be.persgroep.android.news.mobilepa#whats-new)
   - [Podimo](https://morphe-patches.software/?app=com.podimo#whats-new)
   - [Projectivy Launcher](https://morphe-patches.software/?app=com.spocky.projengmenu#whats-new)
+  - [RainViewer](https://morphe-patches.software/?app=com.lucky_apps.RainViewer#whats-new)
   - [Rollerbank](https://morphe-patches.software/?app=com.dennisk.rollerbank#whats-new)
   - [RTL Nieuws](https://morphe-patches.software/?app=nl.rtl.rtlnieuws#whats-new)
   - [Trouw](https://morphe-patches.software/?app=be.persgroep.android.news.mobiletr#whats-new)
   - [Tubantia](https://morphe-patches.software/?app=com.mecom.tctubantia.nl#whats-new)
   - [TVgids.nl](https://morphe-patches.software/?app=nl.tvgids#whats-new)
+  - [Vela Maps](https://morphe-patches.software/?app=app.vela#whats-new)
   - [Videoland Android](https://morphe-patches.software/?app=nl.rtl.videoland.v2#whats-new)
   - [Voetbal International](https://morphe-patches.software/?app=nl.vi#whats-new)
   - [Volkskrant](https://morphe-patches.software/?app=be.persgroep.android.news.mobilevk#whats-new)
@@ -531,41 +557,3 @@ To keep the post useful and easy to maintain, this section focuses on recent upd
   - [IbisPaint X](https://morphe-patches.software/?app=jp.ne.ibis.ibispaintx.app#whats-new)
 - **Pigfoot**
   - [Fing](https://morphe-patches.software/?app=com.overlook.android.fing#whats-new)
-
-## October 25, 2026
-
-### New Sources
-
-- [**GoodLight999**](https://morphe.software/add-source?github=GoodLight999/TaobaoLingo)
-  - [Taobao](https://morphe-patches.software/?app=com.taobao.taobao#whats-new)
-- [**Kurageno8156-lgtm**](https://morphe.software/add-source?github=kurageno8156-lgtm/tiktok-lite-patches)
-  - [TikTok Lite](https://morphe-patches.software/?app=com.ss.android.ugc.tiktok.lite#whats-new)
-- [**Mouchoir**](https://morphe.software/add-source?github=Mouchoir/sound-connect-patches)
-  - [Sound Connect](https://morphe-patches.software/?app=com.sony.songpal.mdr#whats-new)
-- [**Piko Instagram Lite**](https://morphe.software/add-source?github=crimera/piko-ig-lite)
-  - [Instagram](https://morphe-patches.software/?app=com.instagram.android#whats-new)
-- [**Piko NewX**](https://morphe.software/add-source?github=crimera/piko-newx)
-  - [NewX](https://morphe-patches.software/?app=com.twitter.android#whats-new)
-
-### New Apps
-
-- **0xtalos**
-  - com.hdoapp.hdo_box
-- **FTL**
-  - [1DM+](https://morphe-patches.software/?app=idm.internet.download.manager.plus#whats-new)
-  - [Mobilism](https://morphe-patches.software/?app=demigos.com.mobilism#whats-new)
-- **GinDoki19**
-  - [CRICFy TV](https://morphe-patches.software/?app=com.cricfytv.sports#whats-new)
-  - [CricZ TV](https://morphe-patches.software/?app=com.pro.cricztv#whats-new)
-- **Hxreborn**
-  - [Clone App](https://morphe-patches.software/?app=com.pengyou.cloneapp#whats-new)
-  - [Coddy](https://morphe-patches.software/?app=tech.coddy.coddyapp#whats-new)
-  - [Pleco](https://morphe-patches.software/?app=com.pleco.chinesesystem#whats-new)
-- **MightyMich**
-  - [CCleaner](https://morphe-patches.software/?app=com.piriform.ccleaner#whats-new)
-  - [ESET Mobile Security](https://morphe-patches.software/?app=com.eset.ems2.gp#whats-new)
-  - [TikTok](https://morphe-patches.software/?app=com.zhiliaoapp.musically#whats-new)
-- **Pengusto**
-  - [Infinity+](https://morphe-patches.software/?app=ml.docilealligator.infinityforreddit.plus#whats-new)
-- **Pigfoot**
-  - [CamScanner](https://morphe-patches.software/?app=com.intsig.camscanner#whats-new)
