@@ -43,6 +43,22 @@ To keep the post useful and easy to maintain, this section focuses on recent upd
 
 ## November 2, 2026
 
+### New Sources
+
+- [**HushPine**](https://morphe.software/add-source?github=SysAdminDoc/HushPine)
+  - [PineDrama - Short Dramas](https://morphe-patches.software/?app=com.ss.android.ttmd.video#whats-new)
+- [**Mwbra130**](https://morphe.software/add-source?github=mwbra130/Retro-Bowl-College)
+  - [Crossy Road](https://morphe-patches.software/?app=com.yodo1.crossyroad#whats-new)
+  - [Games In One - Watch Games](https://morphe-patches.software/?app=com.MustBeFun.GamesInOneWatchGames#whats-new)
+  - [Gradient Weather](https://morphe-patches.software/?app=com.subtlesignals.gradientweather#whats-new)
+  - [Happy Color](https://morphe-patches.software/?app=com.pixel.art.coloring.color.number#whats-new)
+  - [Poweramp](https://morphe-patches.software/?app=com.maxmpz.audioplayer#whats-new)
+  - [RainViewer](https://morphe-patches.software/?app=com.lucky_apps.RainViewer#whats-new)
+  - [Retro Bowl College](https://morphe-patches.software/?app=com.newstargames.retrobowlcollege#whats-new)
+  - [Smashy Road 2](https://morphe-patches.software/?app=com.rkgames.basisgame#whats-new)
+  - [Strava](https://morphe-patches.software/?app=com.strava#whats-new)
+  - [Web Video Caster](https://morphe-patches.software/?app=com.instantbits.cast.webvideo#whats-new)
+
 ### New Apps
 
 - **byehi98**
