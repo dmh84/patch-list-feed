@@ -58,6 +58,8 @@ To keep the post useful and easy to maintain, this section focuses on recent upd
 
 - **Danieleavolio**
   - [Photon Camera](https://morphe-patches.software/?app=com.hinnka.mycamera#whats-new)
+- **Edoardo9708**
+  - [Musicolet](https://morphe-patches.software/?app=in.krosbits.musicolet#whats-new)
 - **GinDoki19**
   - [APK Decompiler](https://morphe-patches.software/?app=com.apktools.app.decompile#whats-new)
 - **HagiaHaya**
@@ -67,18 +69,19 @@ To keep the post useful and easy to maintain, this section focuses on recent upd
 - **Hxreborn**
   - [Duolingo](https://morphe-patches.software/?app=com.duolingo#whats-new)
   - [Patreon](https://morphe-patches.software/?app=com.patreon.android#whats-new)
+- **Mlkem**
+  - [Anker eufy](https://morphe-patches.software/?app=com.oceanwing.battery.cam#whats-new)
 - **MrCool-888**
   - [Icon Pack Studio](https://morphe-patches.software/?app=ginlemon.iconpackstudio#whats-new)
 - **Mwbra130**
+  - [1DM: Browser & Video Download](https://morphe-patches.software/?app=idm.internet.download.manager#whats-new)
   - [DiskWala](https://morphe-patches.software/?app=com.diskwalaapp#whats-new)
   - [Hermit](https://morphe-patches.software/?app=com.chimbori.hermitcrab#whats-new)
   - [Notes](https://morphe-patches.software/?app=com.inotesapp.inotes#whats-new)
   - [Rocket Player](https://morphe-patches.software/?app=com.jrtstudio.AnotherMusicPlayer#whats-new)
   - [Smart MP3 Tagger](https://morphe-patches.software/?app=tageditor.automatictageditor.audiotagging.audioedit.mp3edit#whats-new)
   - [Unified Remote](https://morphe-patches.software/?app=com.Relmtech.Remote#whats-new)
-  - [Vehico](https://morphe-patches.software/?app=com.optimageeks.vehico_app#whats-new)
   - [Video Cutter](https://morphe-patches.software/?app=com.losslessvideocutter#whats-new)
-  - [Yin Yang Launcher](https://morphe-patches.software/?app=com.yinyang.launcher#whats-new)
 - **Semicoloncolonel**
   - [ABC News](https://morphe-patches.software/?app=com.abc.abcnews#whats-new)
   - [CBS News](https://morphe-patches.software/?app=com.treemolabs.apps.cbsnews#whats-new)
@@ -102,6 +105,7 @@ To keep the post useful and easy to maintain, this section focuses on recent upd
 - [**Mmenzyns**](https://morphe.software/add-source?github=mmenzyns/morphe-patches)
   - [Alza](https://morphe-patches.software/?app=cz.alza.eshop#whats-new)
 - [**Mwbra130**](https://morphe.software/add-source?github=mwbra130/Retro-Bowl-College)
+  - [1DM: Browser & Video Download](https://morphe-patches.software/?app=idm.internet.download.manager#whats-new)
   - [Alarmy](https://morphe-patches.software/?app=droom.sleepIfUCan#whats-new)
   - [Crossy Road](https://morphe-patches.software/?app=com.yodo1.crossyroad#whats-new)
   - [DiskWala](https://morphe-patches.software/?app=com.diskwalaapp#whats-new)
@@ -113,19 +117,14 @@ To keep the post useful and easy to maintain, this section focuses on recent upd
   - [ISS Live Now](https://morphe-patches.software/?app=com.nicedayapps.iss_free#whats-new)
   - [Notes](https://morphe-patches.software/?app=com.inotesapp.inotes#whats-new)
   - [Poweramp](https://morphe-patches.software/?app=com.maxmpz.audioplayer#whats-new)
-  - [RainViewer](https://morphe-patches.software/?app=com.lucky_apps.RainViewer#whats-new)
   - [Retro Bowl College](https://morphe-patches.software/?app=com.newstargames.retrobowlcollege#whats-new)
   - [Rocket Player](https://morphe-patches.software/?app=com.jrtstudio.AnotherMusicPlayer#whats-new)
   - [Roku Remote](https://morphe-patches.software/?app=com.swiftsofts.rokuremote#whats-new)
   - [Smart MP3 Tagger](https://morphe-patches.software/?app=tageditor.automatictageditor.audiotagging.audioedit.mp3edit#whats-new)
   - [Smashy Road 2](https://morphe-patches.software/?app=com.rkgames.basisgame#whats-new)
-  - [Strava](https://morphe-patches.software/?app=com.strava#whats-new)
   - [Tuner](https://morphe-patches.software/?app=com.studiosol.afinadorlite#whats-new)
   - [Unified Remote](https://morphe-patches.software/?app=com.Relmtech.Remote#whats-new)
-  - [Vehico](https://morphe-patches.software/?app=com.optimageeks.vehico_app#whats-new)
   - [Video Cutter](https://morphe-patches.software/?app=com.losslessvideocutter#whats-new)
-  - [Web Video Caster](https://morphe-patches.software/?app=com.instantbits.cast.webvideo#whats-new)
-  - [Yin Yang Launcher](https://morphe-patches.software/?app=com.yinyang.launcher#whats-new)
 - [**Nich87**](https://morphe.software/add-source?github=Nich87/nich87-patches)
   - [Apple Music](https://morphe-patches.software/?app=com.apple.android.music#whats-new)
 - [**Srinath1848**](https://morphe.software/add-source?github=srinath1848/nobrokerhood-patches)
@@ -178,6 +177,7 @@ To keep the post useful and easy to maintain, this section focuses on recent upd
 - [**MegaTheLEGEND**](https://morphe.software/add-source?github=MegaTheLEGEND/Facebook-Marketplace)
   - [Facebook](https://morphe-patches.software/?app=com.facebook.katana#whats-new)
 - [**Mlkem**](https://morphe.software/add-source?github=Mlkem/Morphe)
+  - [Anker eufy](https://morphe-patches.software/?app=com.oceanwing.battery.cam#whats-new)
   - [Gboard](https://morphe-patches.software/?app=com.google.android.inputmethod.latin#whats-new)
   - [GPS Emulator](https://morphe-patches.software/?app=com.rosteam.gpsemulator#whats-new)
   - [Music League](https://morphe-patches.software/?app=com.musicleague.app#whats-new)
