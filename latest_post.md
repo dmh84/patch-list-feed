@@ -115,8 +115,17 @@ To keep the post useful and easy to maintain, this section focuses on recent upd
 
 ### New Apps
 
+- **Dudek**
+  - [Harry Potter: Hogwarts Mystery](https://morphe-patches.software/?app=com.tinyco.potter#whats-new)
 - **Hxreborn**
+  - [Ground News](https://morphe-patches.software/?app=com.checkitt#whats-new)
+  - [Hypic](https://morphe-patches.software/?app=com.xt.retouchoversea#whats-new)
+  - [MangaTime](https://morphe-patches.software/?app=net.mangatime.app#whats-new)
   - [MuscleWiki](https://morphe-patches.software/?app=com.musclewiki.macro#whats-new)
+  - [TradingView](https://morphe-patches.software/?app=com.tradingview.tradingviewapp#whats-new)
+  - [Ultimate Guitar](https://morphe-patches.software/?app=com.ultimateguitar.tabs#whats-new)
+  - [X-plore File Manager](https://morphe-patches.software/?app=com.lonelycatgames.Xplore#whats-new)
+  - [Xtream Player](https://morphe-patches.software/?app=me.aap.fermatamod.dear.google.why.bingo2.rec#whats-new)
 - **Ikuradachi**
   - [Crunchyroll](https://morphe-patches.software/?app=com.crunchyroll.crunchyroid#whats-new)
 - **Sarvottam99**
