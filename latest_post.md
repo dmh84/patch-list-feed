@@ -54,6 +54,13 @@ To keep the post useful and easy to maintain, this section focuses on recent upd
 
 ### New Apps
 
+- **Bearinmind**
+  - [Honor Home](https://morphe-patches.software/?app=com.hihonor.android.launcher#whats-new)
+  - [Nothing Launcher](https://morphe-patches.software/?app=com.nothing.launcher#whats-new)
+  - [One UI Home](https://morphe-patches.software/?app=com.sec.android.app.launcher#whats-new)
+  - [OnePlus Launcher (OxygenOS 11)](https://morphe-patches.software/?app=net.oneplus.launcher#whats-new)
+  - [OnePlus System Launcher](https://morphe-patches.software/?app=com.android.launcher#whats-new)
+  - [Samsung Health](https://morphe-patches.software/?app=com.sec.android.app.shealth#whats-new)
 - **braiNtropy**
   - [Hume](https://morphe-patches.software/?app=com.elink.fittrackhealth.pro#whats-new)
 - **byehi98**
