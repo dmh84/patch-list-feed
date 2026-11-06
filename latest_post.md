@@ -41,6 +41,22 @@ To keep the post useful and easy to maintain, this section focuses on recent upd
 
 ---
 
+## November 6, 2026
+
+### New Apps
+
+- **Amfakh**
+  - [FlipSide](https://morphe-patches.software/?app=com.dinoster.flipside#whats-new)
+- **Ineednotitle**
+  - Brave Private Web Browser, VPN
+- **JohnInNL**
+  - [EasyPark](https://morphe-patches.software/?app=net.easypark.android#whats-new)
+  - [EasyPark NL](https://morphe-patches.software/?app=com.parkmobile#whats-new)
+- **Mwbra130**
+  - [DroidCam](https://morphe-patches.software/?app=com.dev47apps.obsdroidcam#whats-new)
+- **XBadFellaX**
+  - [LinkedIn](https://morphe-patches.software/?app=com.linkedin.android#whats-new)
+
 ## November 5, 2026
 
 ### New Sources
@@ -142,6 +158,7 @@ To keep the post useful and easy to maintain, this section focuses on recent upd
 - [**Ineednotitle**](https://morphe.software/add-source?github=ineednotitle/Proteus-Patches)
   - [Amazon India](https://morphe-patches.software/?app=in.amazon.mShop.android.shopping#whats-new)
   - [Amazon Shopping](https://morphe-patches.software/?app=com.amazon.mShop.android.shopping#whats-new)
+  - [Brave Browser](https://morphe-patches.software/?app=com.brave.browser#whats-new)
   - [ChatGPT](https://morphe-patches.software/?app=com.openai.chatgpt#whats-new)
   - [Claude](https://morphe-patches.software/?app=com.anthropic.claude#whats-new)
   - [District](https://morphe-patches.software/?app=com.application.zomato.district#whats-new)
@@ -352,6 +369,7 @@ To keep the post useful and easy to maintain, this section focuses on recent upd
   - [1DM: Browser & Video Download](https://morphe-patches.software/?app=idm.internet.download.manager#whats-new)
   - [Alarmy](https://morphe-patches.software/?app=droom.sleepIfUCan#whats-new)
   - [Crossy Road](https://morphe-patches.software/?app=com.yodo1.crossyroad#whats-new)
+  - [DroidCam](https://morphe-patches.software/?app=com.dev47apps.obsdroidcam#whats-new)
   - [Echo](https://morphe-patches.software/?app=com.hapibits.soundlift#whats-new)
   - [Games In One - Watch Games](https://morphe-patches.software/?app=com.MustBeFun.GamesInOneWatchGames#whats-new)
   - [Gradient Weather](https://morphe-patches.software/?app=com.subtlesignals.gradientweather#whats-new)
