@@ -50,16 +50,23 @@ To keep the post useful and easy to maintain, this section focuses on recent upd
 - [**Ayufa**](https://morphe.software/add-source?github=Ayufa/ayufa-patches)
   - [Simeji](https://morphe-patches.software/?app=com.adamrocker.android.input.simeji#whats-new)
   - [Yahoo!乗換案内](https://morphe-patches.software/?app=jp.co.yahoo.android.apps.transit#whats-new)
+- [**Dyskal**](https://morphe.software/add-source?github=Dyskal/morphe-yt-music-discord-rpc)
+  - [YouTube Music](https://morphe-patches.software/?app=com.google.android.apps.youtube.music#whats-new)
+- [**GahahaWang**](https://morphe.software/add-source?github=GahahaWang/TWRailway-patch)
+  - [火車時刻表](https://morphe-patches.software/?app=com.tsumii.trainschedule#whats-new)
 - [**Haukist**](https://morphe.software/add-source?github=haukist/morphe-patches-smartnews)
   - [SmartNews](https://morphe-patches.software/?app=jp.gocro.smartnews.android#whats-new)
 - [**Haya9924**](https://morphe.software/add-source?github=haya9924/box_md_preview)
   - [Box](https://morphe-patches.software/?app=com.box.android#whats-new)
+- [**Jmwerk**](https://morphe.software/add-source?github=jmwerk/carbridge-patches)
 - [**Kagecarbit**](https://morphe.software/add-source?github=Ikuradachi/Kagecarbit)
   - [CarbitLink](https://morphe-patches.software/?app=net.easyconn.carman.wws#whats-new)
 - [**Kageroll**](https://morphe.software/add-source?github=Ikuradachi/Kageroll)
   - [Crunchyroll](https://morphe-patches.software/?app=com.crunchyroll.crunchyroid#whats-new)
 - [**LostPRC**](https://morphe.software/add-source?github=LostPRC/qq-lite-patches)
   - [QQ](https://morphe-patches.software/?app=com.tencent.mobileqq#whats-new)
+- [**Nikhilbadyal**](https://morphe.software/add-source?github=nikhilbadyal/nik-morphe-patches)
+  - [Swift Backup](https://morphe-patches.software/?app=org.swiftapps.swiftbackup#whats-new)
 - [**Pablobaro**](https://morphe.software/add-source?github=pablobaro/pablobaro-morphe-patches)
   - [Spotify](https://morphe-patches.software/?app=com.spotify.music#whats-new)
 - [**Pomee4**](https://morphe.software/add-source?github=pomee4/waze-audio-patches)
@@ -72,6 +79,9 @@ To keep the post useful and easy to maintain, this section focuses on recent upd
   - [Orientation Control](https://morphe-patches.software/?app=net.mm2d.android.orientationfaker#whats-new)
   - [Quick Settings](https://morphe-patches.software/?app=it.simonesestito.ntiles#whats-new)
   - [Screen Recording App](https://morphe-patches.software/?app=de.twokit.screen.recording.app#whats-new)
+  - [Sound Assistant](https://morphe-patches.software/?app=com.samsung.android.soundassistant#whats-new)
+- [**Salmanbappi**](https://morphe.software/add-source?github=salmanbappi/Quwis-Patches)
+  - [Chess.com](https://morphe-patches.software/?app=com.chess#whats-new)
 
 ### New Apps
 
@@ -88,6 +98,7 @@ To keep the post useful and easy to maintain, this section focuses on recent upd
   - [HyperOS Launcher](https://morphe-patches.software/?app=com.miui.home#whats-new)
   - [Moto App Launcher](https://morphe-patches.software/?app=com.motorola.launcher3#whats-new)
   - [Nothing Screenshot](https://morphe-patches.software/?app=com.nothing.ntscreenshot#whats-new)
+  - [One Hand Operation +](https://morphe-patches.software/?app=com.samsung.android.sidegesturepad#whats-new)
   - [OnePlus Contacts](https://morphe-patches.software/?app=com.android.contacts#whats-new)
   - [Samsung Email](https://morphe-patches.software/?app=com.samsung.android.email.provider#whats-new)
   - Samsung Good Lock
@@ -116,8 +127,13 @@ To keep the post useful and easy to maintain, this section focuses on recent upd
   - [bol](https://morphe-patches.software/?app=com.bol.shop#whats-new)
   - [EasyPark](https://morphe-patches.software/?app=net.easypark.android#whats-new)
   - [EasyPark NL](https://morphe-patches.software/?app=com.parkmobile#whats-new)
+  - [Zoom Workplace](https://morphe-patches.software/?app=us.zoom.videomeetings#whats-new)
+- **Mnhqngl**
+  - [Zalo](https://morphe-patches.software/?app=com.zing.zalo#whats-new)
 - **Mwbra130**
   - [DroidCam](https://morphe-patches.software/?app=com.dev47apps.obsdroidcam#whats-new)
+- **Plyrs1**
+  - [Nusuk](https://morphe-patches.software/?app=com.moh.nusukapp#whats-new)
 - **Semicoloncolonel**
   - [AP News](https://morphe-patches.software/?app=mnn.Android#whats-new)
   - [C-SPAN Now](https://morphe-patches.software/?app=org.cspan.app#whats-new)
@@ -131,6 +147,8 @@ To keep the post useful and easy to maintain, this section focuses on recent upd
   - [The Daily Wire](https://morphe-patches.software/?app=com.dailywire.thedailywire#whats-new)
   - [theScore](https://morphe-patches.software/?app=com.fivemobile.thescore#whats-new)
   - [USA TODAY](https://morphe-patches.software/?app=com.usatoday.android.news#whats-new)
+- **Toidicakhia**
+  - [VTVGo](https://morphe-patches.software/?app=vn.vtv.vtvgo#whats-new)
 - **XBadFellaX**
   - [LinkedIn](https://morphe-patches.software/?app=com.linkedin.android#whats-new)
 
@@ -178,7 +196,7 @@ To keep the post useful and easy to maintain, this section focuses on recent upd
   - [tvQuickActions Pro](https://morphe-patches.software/?app=dev.vodik7.tvquickactions#whats-new)
 - [**Agrokenga**](https://morphe.software/add-source?github=agrokenga/morphe-patches)
   - [KoPP2](https://morphe-patches.software/?app=com.paradoxplaza.kopp2#whats-new)
-- [**Andersonlucasg3-Glitch**](https://morphe.software/add-source?github=andersonlucasg3/AppleMusic-DiLink)
+- [**Andersonlucasg3**](https://morphe.software/add-source?github=andersonlucasg3/apple-music-android-freedom)
   - [Apple Music](https://morphe-patches.software/?app=com.apple.android.music#whats-new)
 - [**AsrOfficialDev**](https://morphe.software/add-source?github=AsrOfficialDev/Saiyan007)
   - [Sensu](https://morphe-patches.software/?app=com.piyush.pie#whats-new)
@@ -280,6 +298,7 @@ To keep the post useful and easy to maintain, this section focuses on recent upd
   - [TEUIDA](https://morphe-patches.software/?app=net.teuida.teuida#whats-new)
 - [**Mnhqngl**](https://morphe.software/add-source?github=mnhqngl/quang-patches)
   - [Messenger](https://morphe-patches.software/?app=com.facebook.orca#whats-new)
+  - [Zalo](https://morphe-patches.software/?app=com.zing.zalo#whats-new)
 - [**MOD-PROD**](https://morphe.software/add-source?github=MOD-PROD/Morphe-Patches-by-Modprod)
   - [TizenTube](https://morphe-patches.software/?app=io.gh.reisxd.tizentube.cobalt#whats-new)
 - [**Myvoow**](https://morphe.software/add-source?github=myvoow/LiquidMusic)
@@ -313,6 +332,7 @@ To keep the post useful and easy to maintain, this section focuses on recent upd
   - [NetMonster](https://morphe-patches.software/?app=cz.mroczis.netmonster#whats-new)
   - [TeraBox](https://morphe-patches.software/?app=com.dubox.drive#whats-new)
   - [Universal Copy](https://morphe-patches.software/?app=com.camel.corp.universalcopy#whats-new)
+  - [VTVGo](https://morphe-patches.software/?app=vn.vtv.vtvgo#whats-new)
 - [**Totto357**](https://morphe.software/add-source?github=totto357/mini-games-patches)
   - [Cell Survivor](https://morphe-patches.software/?app=defense.roguelike.cell.shoot.survivor#whats-new)
   - [Colony Flow](https://morphe-patches.software/?app=com.abi.colony.flow#whats-new)
