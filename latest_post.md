@@ -81,9 +81,12 @@ To keep the post useful and easy to maintain, this section focuses on recent upd
   - [Sensu](https://morphe-patches.software/?app=com.piyush.pie#whats-new)
   - [SevenGrid](https://morphe-patches.software/?app=app.sevengrid#whats-new)
 - **Bearinmind**
+  - [ASUS Launcher](https://morphe-patches.software/?app=com.asus.launcher#whats-new)
   - [Gmail](https://morphe-patches.software/?app=com.google.android.gm#whats-new)
   - [Home Up](https://morphe-patches.software/?app=com.samsung.android.app.homestar#whats-new)
   - [Honor Screen recording](https://morphe-patches.software/?app=com.hihonor.screenrecorder#whats-new)
+  - [HyperOS Launcher](https://morphe-patches.software/?app=com.miui.home#whats-new)
+  - [Moto App Launcher](https://morphe-patches.software/?app=com.motorola.launcher3#whats-new)
   - [Nothing Screenshot](https://morphe-patches.software/?app=com.nothing.ntscreenshot#whats-new)
   - [OnePlus Contacts](https://morphe-patches.software/?app=com.android.contacts#whats-new)
   - [Samsung Email](https://morphe-patches.software/?app=com.samsung.android.email.provider#whats-new)
@@ -99,6 +102,9 @@ To keep the post useful and easy to maintain, this section focuses on recent upd
   - [RP Hypertrophy](https://morphe-patches.software/?app=com.rp.hypertrophy#whats-new)
 - **Danieleavolio**
   - [Rare](https://morphe-patches.software/?app=com.rarecam.app#whats-new)
+- **Heval**
+  - [Add Music](https://morphe-patches.software/?app=kgs.com.addmusictovideos#whats-new)
+  - [NotiAlarm](https://morphe-patches.software/?app=com.soosu.notialarm#whats-new)
 - **Hxreborn**
   - [BeHisabi](https://morphe-patches.software/?app=com.neonbhoot.behisabi#whats-new)
 - **Ineednotitle**
@@ -106,6 +112,8 @@ To keep the post useful and easy to maintain, this section focuses on recent upd
   - [Hindustan Times](https://morphe-patches.software/?app=com.ht.news#whats-new)
   - [Mint](https://morphe-patches.software/?app=com.htmedia.mint#whats-new)
 - **JohnInNL**
+  - [AliExpress](https://morphe-patches.software/?app=com.alibaba.aliexpresshd#whats-new)
+  - [bol](https://morphe-patches.software/?app=com.bol.shop#whats-new)
   - [EasyPark](https://morphe-patches.software/?app=net.easypark.android#whats-new)
   - [EasyPark NL](https://morphe-patches.software/?app=com.parkmobile#whats-new)
 - **Mwbra130**
@@ -171,7 +179,7 @@ To keep the post useful and easy to maintain, this section focuses on recent upd
 - [**Agrokenga**](https://morphe.software/add-source?github=agrokenga/morphe-patches)
   - [KoPP2](https://morphe-patches.software/?app=com.paradoxplaza.kopp2#whats-new)
 - [**Andersonlucasg3-Glitch**](https://morphe.software/add-source?github=andersonlucasg3/AppleMusic-DiLink)
-  - [Apple Music (DiLink)](https://morphe-patches.software/?app=com.apple.android.music#whats-new)
+  - [Apple Music](https://morphe-patches.software/?app=com.apple.android.music#whats-new)
 - [**AsrOfficialDev**](https://morphe.software/add-source?github=AsrOfficialDev/Saiyan007)
   - [Sensu](https://morphe-patches.software/?app=com.piyush.pie#whats-new)
   - [SevenGrid](https://morphe-patches.software/?app=app.sevengrid#whats-new)
