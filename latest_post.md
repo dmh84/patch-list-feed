@@ -41,6 +41,32 @@ To keep the post useful and easy to maintain, this section focuses on recent upd
 
 ---
 
+## November 7, 2026
+
+### New Apps
+
+- **Bearinmind**
+  - [LG Gallery](https://morphe-patches.software/?app=com.android.gallery3d#whats-new)
+  - [Samsung Capture](https://morphe-patches.software/?app=com.samsung.android.app.smartcapture#whats-new)
+  - [Sony Music](https://morphe-patches.software/?app=com.sonyericsson.music#whats-new)
+  - [Xperia Keyboard](https://morphe-patches.software/?app=com.sonyericsson.textinput.uxp#whats-new)
+- **Hxreborn**
+  - [MARKS](https://morphe-patches.software/?app=com.scoremarks.marks#whats-new)
+- **Ineednotitle**
+  - [Meesho](https://morphe-patches.software/?app=com.meesho.shopping#whats-new)
+- **JohnInNL**
+  - [Apple Music](https://morphe-patches.software/?app=com.apple.android.music#whats-new)
+  - [Deezer](https://morphe-patches.software/?app=deezer.android.app#whats-new)
+  - [Spotify](https://morphe-patches.software/?app=com.spotify.music#whats-new)
+  - [TIDAL](https://morphe-patches.software/?app=com.aspiro.tidal#whats-new)
+- **RikoDEV**
+  - [InPost Mobile](https://morphe-patches.software/?app=pl.inpost.inmobile#whats-new)
+  - [Mój Orange](https://morphe-patches.software/?app=pl.orange.mojeorange#whats-new)
+- **Sabrina-Moonlight**
+  - [Themezy](https://morphe-patches.software/?app=com.themezy.theme.iconwidgets#whats-new)
+- **Semicoloncolonel**
+  - [Truth Social](https://morphe-patches.software/?app=com.truthsocial.android.app#whats-new)
+
 ## November 6, 2026
 
 ### New Sources
@@ -79,7 +105,7 @@ To keep the post useful and easy to maintain, this section focuses on recent upd
   - [Orientation Control](https://morphe-patches.software/?app=net.mm2d.android.orientationfaker#whats-new)
   - [Quick Settings](https://morphe-patches.software/?app=it.simonesestito.ntiles#whats-new)
   - [Screen Recording App](https://morphe-patches.software/?app=de.twokit.screen.recording.app#whats-new)
-  - [Sound Assistant](https://morphe-patches.software/?app=com.samsung.android.soundassistant#whats-new)
+  - [Themezy](https://morphe-patches.software/?app=com.themezy.theme.iconwidgets#whats-new)
 - [**Salmanbappi**](https://morphe.software/add-source?github=salmanbappi/Quwis-Patches)
   - [Chess.com](https://morphe-patches.software/?app=com.chess#whats-new)
 
@@ -267,7 +293,8 @@ To keep the post useful and easy to maintain, this section focuses on recent upd
   - [Hindustan Times](https://morphe-patches.software/?app=com.ht.news#whats-new)
   - [Inure App Manager](https://morphe-patches.software/?app=app.simple.inure.play#whats-new)
   - [Malwarebytes Mobile Security](https://morphe-patches.software/?app=org.malwarebytes.antimalware#whats-new)
-  - [Meesho](https://morphe-patches.software/?app=com.meesho.supply#whats-new)
+  - [Meesho](https://morphe-patches.software/?app=com.meesho.shopping#whats-new)
+  - [Meesho](https://morphe-patches.software/?app=com.meesho.shopping#whats-new)
   - [Mereframe](https://morphe-patches.software/?app=app.unnamed.rawrecording#whats-new)
   - [Mint](https://morphe-patches.software/?app=com.htmedia.mint#whats-new)
   - [MUBI](https://morphe-patches.software/?app=com.mubi#whats-new)
