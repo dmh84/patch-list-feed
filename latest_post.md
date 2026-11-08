@@ -60,8 +60,10 @@ To keep the post useful and easy to maintain, this section focuses on recent upd
 
 - **Bearinmind**
   - [LG Gallery](https://morphe-patches.software/?app=com.android.gallery3d#whats-new)
+  - [OnePlus Camera](https://morphe-patches.software/?app=com.oplus.camera#whats-new)
   - [OnePlus Documents](https://morphe-patches.software/?app=andes.oplus.documentsreader#whats-new)
   - [Samsung Capture](https://morphe-patches.software/?app=com.samsung.android.app.smartcapture#whats-new)
+  - [Samsung Internet](https://morphe-patches.software/?app=com.sec.android.app.sbrowser#whats-new)
   - [Sony Music](https://morphe-patches.software/?app=com.sonyericsson.music#whats-new)
   - [Xperia Keyboard](https://morphe-patches.software/?app=com.sonyericsson.textinput.uxp#whats-new)
 - **Heval**
@@ -75,15 +77,21 @@ To keep the post useful and easy to maintain, this section focuses on recent upd
   - [Deezer](https://morphe-patches.software/?app=deezer.android.app#whats-new)
   - [Spotify](https://morphe-patches.software/?app=com.spotify.music#whats-new)
   - [TIDAL](https://morphe-patches.software/?app=com.aspiro.tidal#whats-new)
+- **Pigfoot**
+  - [GPS JoyStick](https://morphe-patches.software/?app=com.theappninjas.fakegpsjoystick#whats-new)
+  - [PikieWalker](https://morphe-patches.software/?app=com.kairosvector.pikiewalker#whats-new)
 - **RikoDEV**
   - [InPost Mobile](https://morphe-patches.software/?app=pl.inpost.inmobile#whats-new)
   - [Mój Orange](https://morphe-patches.software/?app=pl.orange.mojeorange#whats-new)
 - **Sabrina-Moonlight**
   - [Themezy](https://morphe-patches.software/?app=com.themezy.theme.iconwidgets#whats-new)
-  - [Wolvesville](https://morphe-patches.software/?app=com.werewolfapps.online#whats-new)
 - **Semicoloncolonel**
   - [HBO Max](https://morphe-patches.software/?app=com.wbd.hbomax#whats-new)
   - [Truth Social](https://morphe-patches.software/?app=com.truthsocial.android.app#whats-new)
+- **Wagg13Patch**
+  - [iCSee](https://morphe-patches.software/?app=com.xm.csee#whats-new)
+  - [InstaPrime](https://morphe-patches.software/?app=com.instaprime.android#whats-new)
+  - [Telegraph (Graph Messenger)](https://morphe-patches.software/?app=ir.ilmili.telegraph#whats-new)
 
 ## November 6, 2026
 
@@ -124,7 +132,6 @@ To keep the post useful and easy to maintain, this section focuses on recent upd
   - [Quick Settings](https://morphe-patches.software/?app=it.simonesestito.ntiles#whats-new)
   - [Screen Recording App](https://morphe-patches.software/?app=de.twokit.screen.recording.app#whats-new)
   - [Themezy](https://morphe-patches.software/?app=com.themezy.theme.iconwidgets#whats-new)
-  - [Wolvesville](https://morphe-patches.software/?app=com.werewolfapps.online#whats-new)
 - [**Salmanbappi**](https://morphe.software/add-source?github=salmanbappi/Quwis-Patches)
   - [Chess.com](https://morphe-patches.software/?app=com.chess#whats-new)
 
