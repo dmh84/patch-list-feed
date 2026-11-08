@@ -41,6 +41,42 @@ To keep the post useful and easy to maintain, this section focuses on recent upd
 
 ---
 
+## November 8, 2026
+
+### New Sources
+
+- [**Aayy-Dev**](https://morphe.software/add-source?github=aayy-dev/patches)
+  - [Bitwarden](https://morphe-patches.software/?app=com.x8bit.bitwarden#whats-new)
+- [**Drtgrf**](https://morphe.software/add-source?github=drtgrf/chefkoch-android-patches)
+  - [Chefkoch](https://morphe-patches.software/?app=de.pixelhouse#whats-new)
+- [**GhostKnow**](https://morphe.software/add-source?github=ghostknow/morphe-lihkg-patches)
+  - [LIHKG](https://morphe-patches.software/?app=com.lihkg.app#whats-new)
+- [**Just-a-lurker**](https://morphe.software/add-source?github=Just-a-lurker/facebook-morphe-patches)
+  - [Facebook](https://morphe-patches.software/?app=com.facebook.katana#whats-new)
+- [**Kamander700**](https://morphe.software/add-source?gitlab=kamander700/aryplus-morphe-patches)
+  - [ARY+](https://morphe-patches.software/?app=com.release.arylive#whats-new)
+- [**Sazap10**](https://morphe.software/add-source?github=sazap10/sync-patches)
+  - [Sync for Reddit](https://morphe-patches.software/?app=com.laurencedawson.reddit_sync#whats-new)
+- [**SeveriT**](https://morphe.software/add-source?github=SeveriT/morphe-patches)
+  - [Strava](https://morphe-patches.software/?app=com.strava#whats-new)
+- [**Way-Lo**](https://morphe.software/add-source?github=way-lo/waylo-patches)
+  - [Podcast Addict](https://morphe-patches.software/?app=com.bambuna.podcastaddict#whats-new)
+
+### New Apps
+
+- **CallMeBeyonder**
+  - [Carbon](https://morphe-patches.software/?app=com.joincarbon.nutrition#whats-new)
+- **GinDoki19**
+  - [Daylio](https://morphe-patches.software/?app=net.daylio#whats-new)
+- **MightyMich**
+  - [Adobe Premiere](https://morphe-patches.software/?app=com.adobe.premiere#whats-new)
+  - [DramaBox](https://morphe-patches.software/?app=com.storymatrix.drama#whats-new)
+  - [DramaWave](https://morphe-patches.software/?app=com.dramawave.app#whats-new)
+  - [Finch](https://morphe-patches.software/?app=com.finch.finch#whats-new)
+  - [iDrama](https://morphe-patches.software/?app=com.gooddrama.idrama#whats-new)
+  - [My Drama](https://morphe-patches.software/?app=com.dashdramas#whats-new)
+  - [WhatsApp](https://morphe-patches.software/?app=com.whatsapp#whats-new)
+
 ## November 7, 2026
 
 ### New Sources
@@ -49,7 +85,7 @@ To keep the post useful and easy to maintain, this section focuses on recent upd
   - [Way2News](https://morphe-patches.software/?app=sun.way2sms.hyd.com#whats-new)
 - [**Shikify**](https://morphe.software/add-source?github=0xRJDev/shikify)
   - [Boost for Reddit](https://morphe-patches.software/?app=com.rubenmayayo.reddit#whats-new)
-- [**Shuili1013**](https://morphe.software/add-source?github=shuili1013/GoogleMap-Morphe)
+- [**Shuili1013**](https://morphe.software/add-source?github=shuili1013/Maps-AA-AnyMode-Morphe)
   - [Google Maps](https://morphe-patches.software/?app=com.google.android.apps.maps#whats-new)
 - [**Vogelkop**](https://morphe.software/add-source?github=maniesh-NR/Vogelkop-MorphePatches)
   - [Opera Browser](https://morphe-patches.software/?app=com.opera.browser#whats-new)
