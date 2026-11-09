@@ -43,14 +43,25 @@ To keep the post useful and easy to maintain, this section focuses on recent upd
 
 ## November 9, 2026
 
-### New Source
+### New Sources
 
+- [**JoPatches**](https://morphe.software/add-source?gitlab=JoPatches/jo-patches)
+  - [Memorize Pi Digits](https://morphe-patches.software/?app=com.unknownprojectx.pi#whats-new)
 - [**SeyTheGamer Android TV**](https://morphe.software/add-source?github=seythegamer/sey-morphe-patches)
   - [KICK: Live Streaming](https://morphe-patches.software/?app=com.kick.mobile#whats-new)
   - [Twitch (Android TV)](https://morphe-patches.software/?app=tv.twitch.android.app#whats-new)
 
-### New App
+### New Apps
 
+- **aapam**
+  - [INDmoney](https://morphe-patches.software/?app=in.indwealth#whats-new)
+  - [Monect PC Link TV](https://morphe-patches.software/?app=com.monect.tv#whats-new)
+- **Amfakh**
+  - [Jira](https://morphe-patches.software/?app=com.atlassian.android.jira.core#whats-new)
+- **JohnInNL**
+  - [YouTube](https://morphe-patches.software/?app=com.google.android.youtube#whats-new)
+- **Mwbra130**
+  - [Pika Spot](https://morphe-patches.software/?app=com.pika.dynamicisland#whats-new)
 - **o0b**
   - [Ivy](https://morphe-patches.software/?app=com.stinger.ivy#whats-new)
 
@@ -173,8 +184,6 @@ To keep the post useful and easy to maintain, this section focuses on recent upd
   - [Xperia Keyboard](https://morphe-patches.software/?app=com.sonyericsson.textinput.uxp#whats-new)
 - **Heval**
   - Ace Ex File Manager
-- **Hxreborn**
-  - [MARKS](https://morphe-patches.software/?app=com.scoremarks.marks#whats-new)
 - **Ineednotitle**
   - [Meesho](https://morphe-patches.software/?app=com.meesho.shopping#whats-new)
 - **JohnInNL**
@@ -400,7 +409,6 @@ To keep the post useful and easy to maintain, this section focuses on recent upd
   - [KakaoTalk](https://morphe-patches.software/?app=com.kakao.talk#whats-new)
 - [**Daqot-The-real-one**](https://morphe.software/add-source?github=daqot-The-real-one/morphe-patches)
   - [Pepper](https://morphe-patches.software/?app=com.tippingcanoe.peppernl#whats-new)
-  - [Pepper (legacy)](https://morphe-patches.software/?app=com.tippingcanoe.pepper#whats-new)
 - [**DasCarstel**](https://morphe.software/add-source?github=DasCarstel/yazio-patches)
   - [YAZIO](https://morphe-patches.software/?app=com.yazio.android#whats-new)
 - [**DavidSpivey**](https://morphe.software/add-source?github=DavidSpivey/walmart-morphe-patches)
