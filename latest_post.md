@@ -41,6 +41,19 @@ To keep the post useful and easy to maintain, this section focuses on recent upd
 
 ---
 
+## November 9, 2026
+
+### New Source
+
+- [**SeyTheGamer Android TV**](https://morphe.software/add-source?github=seythegamer/sey-morphe-patches)
+  - [KICK: Live Streaming](https://morphe-patches.software/?app=com.kick.mobile#whats-new)
+  - [Twitch (Android TV)](https://morphe-patches.software/?app=tv.twitch.android.app#whats-new)
+
+### New App
+
+- **o0b**
+  - [Ivy](https://morphe-patches.software/?app=com.stinger.ivy#whats-new)
+
 ## November 8, 2026
 
 ### New Sources
@@ -48,6 +61,8 @@ To keep the post useful and easy to maintain, this section focuses on recent upd
 - [**Aayy-Dev**](https://morphe.software/add-source?github=aayy-dev/patches)
   - [Bitwarden](https://morphe-patches.software/?app=com.x8bit.bitwarden#whats-new)
   - [Native Alpha](https://morphe-patches.software/?app=com.cylonid.nativealpha#whats-new)
+- [**Bin0culars**](https://morphe.software/add-source?github=bin0culars/bin0culars-patches)
+  - [Reddit](https://morphe-patches.software/?app=com.reddit.frontpage#whats-new)
 - [**Drtgrf**](https://morphe.software/add-source?github=drtgrf/chefkoch-android-patches)
   - [Chefkoch](https://morphe-patches.software/?app=de.pixelhouse#whats-new)
 - [**GhostKnow**](https://morphe.software/add-source?github=ghostknow/morphe-lihkg-patches)
@@ -56,16 +71,21 @@ To keep the post useful and easy to maintain, this section focuses on recent upd
   - [Facebook](https://morphe-patches.software/?app=com.facebook.katana#whats-new)
 - [**Kamander700**](https://morphe.software/add-source?gitlab=kamander700/aryplus-morphe-patches)
   - [ARY+](https://morphe-patches.software/?app=com.release.arylive#whats-new)
+- [**Kljjh**](https://morphe.software/add-source?github=kljjh/flyme-lyrics-patches)
+  - [YouTube Music](https://morphe-patches.software/?app=com.google.android.apps.youtube.music#whats-new)
+- [**Mirbyte**](https://morphe.software/add-source?github=mirbyte/morphe-patches)
+  - [Bloomberg](https://morphe-patches.software/?app=com.bloomberg.android.plus#whats-new)
+  - [TradingView](https://morphe-patches.software/?app=com.tradingview.tradingviewapp#whats-new)
+- [**Murilosimao**](https://morphe.software/add-source?github=murilosimao/swiftkey-patch)
+  - [Microsoft SwiftKey](https://morphe-patches.software/?app=com.touchtype.swiftkey#whats-new)
 - [**Sazap10**](https://morphe.software/add-source?github=sazap10/sync-patches)
   - [Sync for Reddit](https://morphe-patches.software/?app=com.laurencedawson.reddit_sync#whats-new)
 - [**SeveriT**](https://morphe.software/add-source?github=SeveriT/morphe-patches)
   - [Strava](https://morphe-patches.software/?app=com.strava#whats-new)
-- [**SeyTheGamer Kick TV**](https://morphe.software/add-source?github=seythegamer/Kick-TV-AndroidTV-Sey)
-  - [KICK: Live Streaming](https://morphe-patches.software/?app=com.kick.mobile#whats-new)
-- [**SeyTheGamer Twitch**](https://morphe.software/add-source?github=seythegamer/Twitch-AndroidTV-Sey)
-  - [Twitch (Android TV)](https://morphe-patches.software/?app=tv.twitch.android.app#whats-new)
 - [**Way-Lo**](https://morphe.software/add-source?github=way-lo/waylo-patches)
   - [Podcast Addict](https://morphe-patches.software/?app=com.bambuna.podcastaddict#whats-new)
+- [**Wizzwuz**](https://morphe.software/add-source?github=wizzwuz/morphe-patch)
+  - [Microsoft exFAT/NTFS for USB by Paragon Software](https://morphe-patches.software/?app=com.paragon.tcplugins_ntfs_ro#whats-new)
 
 ### New Apps
 
@@ -73,6 +93,10 @@ To keep the post useful and easy to maintain, this section focuses on recent upd
   - [TMNT: Shredder's Revenge](https://morphe-patches.software/?app=com.playdigious.tmnt#whats-new)
 - **CallMeBeyonder**
   - [Carbon](https://morphe-patches.software/?app=com.joincarbon.nutrition#whats-new)
+  - [Crossrope](https://morphe-patches.software/?app=ca.awesome.travis.crossrope.crossrope#whats-new)
+  - [Jump Rope Challenge](https://morphe-patches.software/?app=com.muzudre.jump.rope.training.challenges.jumprope#whats-new)
+- **Chiggi SonyLIV Patches - by durgesh0505**
+  - [CapCut](https://morphe-patches.software/?app=com.lemon.lvoverseas#whats-new)
 - **GinDoki19**
   - [Daylio](https://morphe-patches.software/?app=net.daylio#whats-new)
 - **Heval**
@@ -112,10 +136,15 @@ To keep the post useful and easy to maintain, this section focuses on recent upd
   - [My Drama](https://morphe-patches.software/?app=com.dashdramas#whats-new)
   - [WhatsApp](https://morphe-patches.software/?app=com.whatsapp#whats-new)
 - **Mwbra130**
+  - [aodNotify](https://morphe-patches.software/?app=com.jamworks.alwaysondisplay#whats-new)
   - [Google Messages](https://morphe-patches.software/?app=com.google.android.apps.messaging#whats-new)
 - **RikoDEV**
   - [eduVULCAN](https://morphe-patches.software/?app=pl.edu.vulcan.hebe.ce#whats-new)
   - [Żappka](https://morphe-patches.software/?app=pl.zabka.apb2c#whats-new)
+- **Semicoloncolonel**
+  - [CNBC](https://morphe-patches.software/?app=com.cnbc.client#whats-new)
+  - [Costco](https://morphe-patches.software/?app=com.costco.app.android#whats-new)
+  - [SiriusXM](https://morphe-patches.software/?app=com.sirius#whats-new)
 
 ## November 7, 2026
 
