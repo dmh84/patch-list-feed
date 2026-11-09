@@ -47,6 +47,7 @@ To keep the post useful and easy to maintain, this section focuses on recent upd
 
 - [**Aayy-Dev**](https://morphe.software/add-source?github=aayy-dev/patches)
   - [Bitwarden](https://morphe-patches.software/?app=com.x8bit.bitwarden#whats-new)
+  - [Native Alpha](https://morphe-patches.software/?app=com.cylonid.nativealpha#whats-new)
 - [**Drtgrf**](https://morphe.software/add-source?github=drtgrf/chefkoch-android-patches)
   - [Chefkoch](https://morphe-patches.software/?app=de.pixelhouse#whats-new)
 - [**GhostKnow**](https://morphe.software/add-source?github=ghostknow/morphe-lihkg-patches)
@@ -99,6 +100,9 @@ To keep the post useful and easy to maintain, this section focuses on recent upd
 - **Jzl1**
   - [JuiceSSH](https://morphe-patches.software/?app=com.sonelli.juicessh#whats-new)
   - [LTE Discovery](https://morphe-patches.software/?app=net.simplyadvanced.ltediscovery#whats-new)
+  - [Yamby](https://morphe-patches.software/?app=com.hush.yamby#whats-new)
+- **Media**
+  - [Addatimes](https://morphe-patches.software/?app=com.addatimes.Addatimes#whats-new)
 - **MightyMich**
   - [Adobe Premiere](https://morphe-patches.software/?app=com.adobe.premiere#whats-new)
   - [DramaBox](https://morphe-patches.software/?app=com.storymatrix.drama#whats-new)
@@ -107,6 +111,8 @@ To keep the post useful and easy to maintain, this section focuses on recent upd
   - [iDrama](https://morphe-patches.software/?app=com.gooddrama.idrama#whats-new)
   - [My Drama](https://morphe-patches.software/?app=com.dashdramas#whats-new)
   - [WhatsApp](https://morphe-patches.software/?app=com.whatsapp#whats-new)
+- **Mwbra130**
+  - [Google Messages](https://morphe-patches.software/?app=com.google.android.apps.messaging#whats-new)
 - **RikoDEV**
   - [eduVULCAN](https://morphe-patches.software/?app=pl.edu.vulcan.hebe.ce#whats-new)
   - [Żappka](https://morphe-patches.software/?app=pl.zabka.apb2c#whats-new)
