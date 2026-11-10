@@ -58,14 +58,22 @@ To keep the post useful and easy to maintain, this section focuses on recent upd
 
 - **byehi98**
   - [Sonic Dash Run](https://morphe-patches.software/?app=com.sega.sonicdash#whats-new)
+- **Hxreborn**
+  - [Flights25](https://morphe-patches.software/?app=de.app.flighttracker#whats-new)
 - **Kero309x**
   - [Ana Vodafone](https://morphe-patches.software/?app=com.emeint.android.myservices#whats-new)
+- **Media**
+  - [Cinematic](https://morphe-patches.software/?app=net.live.ent.cinematic#whats-new)
+- **RikoDEV**
+  - [Lidl Plus](https://morphe-patches.software/?app=com.lidl.eci.lidlplus#whats-new)
 - **Santodan**
   - [Fylo — File Manager](https://morphe-patches.software/?app=com.aeroloom.fylofilemanager#whats-new)
 - **Semicoloncolonel**
   - [Kanopy](https://morphe-patches.software/?app=com.kanopy#whats-new)
 - **SledgeSune**
   - [Waze](https://morphe-patches.software/?app=com.waze#whats-new)
+- **XBadFellaX**
+  - [Ultimea](https://morphe-patches.software/?app=com.dynanic.ultimea#whats-new)
 
 ## November 9, 2026
 
@@ -101,7 +109,6 @@ To keep the post useful and easy to maintain, this section focuses on recent upd
   - [TimeTree](https://morphe-patches.software/?app=works.jubilee.timetree#whats-new)
 - [**Sabbirdj**](https://morphe.software/add-source?github=sabbirdj/viper-patches)
   - [APKS Installer](https://morphe-patches.software/?app=com.inwepo.apkinstaller#whats-new)
-  - [NetMonster](https://morphe-patches.software/?app=cz.mroczis.netmonster#whats-new)
   - [SAI](https://morphe-patches.software/?app=com.mtv.sai#whats-new)
 - [**SeyTheGamer Android TV**](https://morphe.software/add-source?github=seythegamer/sey-morphe-patches)
   - [KICK: Live Streaming](https://morphe-patches.software/?app=com.kick.mobile#whats-new)
