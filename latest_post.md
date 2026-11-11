@@ -58,6 +58,8 @@ To keep the post useful and easy to maintain, this section focuses on recent upd
 
 - **byehi98**
   - [Sonic Dash Run](https://morphe-patches.software/?app=com.sega.sonicdash#whats-new)
+- **Dowjames**
+  - [Paprika](https://morphe-patches.software/?app=com.hindsightlabs.paprika.android.v3#whats-new)
 - **Hxreborn**
   - [Flights25](https://morphe-patches.software/?app=de.app.flighttracker#whats-new)
 - **Kero309x**
@@ -72,8 +74,6 @@ To keep the post useful and easy to maintain, this section focuses on recent upd
   - [Kanopy](https://morphe-patches.software/?app=com.kanopy#whats-new)
 - **SledgeSune**
   - [Waze](https://morphe-patches.software/?app=com.waze#whats-new)
-- **XBadFellaX**
-  - [Ultimea](https://morphe-patches.software/?app=com.dynanic.ultimea#whats-new)
 
 ## November 9, 2026
 
