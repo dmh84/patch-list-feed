@@ -43,8 +43,38 @@ To keep the post useful and easy to maintain, this section focuses on recent upd
 
 ## November 12, 2026
 
-### New App
+### New Sources
 
+- [**Brandonp2412**](https://morphe.software/add-source?github=brandonp2412/instagram-notification-nudges)
+  - [Instagram](https://morphe-patches.software/?app=com.instagram.android#whats-new)
+- [**Hinatara**](https://morphe.software/add-source?github=hinatara/morphe-arcore-patches)
+  - [CardboardXR](https://morphe-patches.software/?app=com.brenpoly.cardboardxr#whats-new)
+- [**Hxmst**](https://morphe.software/add-source?github=hxmst/morphe-patches)
+  - [Ola Electric](https://morphe-patches.software/?app=com.olaelectric.companion#whats-new)
+  - [Vi App](https://morphe-patches.software/?app=com.mventus.selfcare.activity#whats-new)
+- [**Kal-xyz**](https://morphe.software/add-source?github=kal-xyz/viber-morphe-patches)
+  - [Viber](https://morphe-patches.software/?app=com.viber.voip#whats-new)
+- [**Nizarberyan**](https://morphe.software/add-source?github=Nizarberyan/Avito-Patches)
+  - [Avito](https://morphe-patches.software/?app=se.scmv.morocco#whats-new)
+- [**Pixincreate**](https://morphe.software/add-source?github=pixincreate/morpheus)
+- [**RoboRoads**](https://morphe.software/add-source?github=roboroads/morphe-patches)
+  - [Discovery Plus](https://morphe-patches.software/?app=com.discovery.discoveryplus.firetv#whats-new)
+- [**Rov3r**](https://morphe.software/add-source?github=Rov3r/morphe-patches)
+  - [VSCO](https://morphe-patches.software/?app=com.vsco.cam#whats-new)
+
+### New Apps
+
+- **Amfakh**
+  - [CoverScreen OS](https://morphe-patches.software/?app=apps.ijp.coverscreenos#whats-new)
+- **Ineednotitle**
+  - [Proton Pass (F-Droid)](https://morphe-patches.software/?app=proton.android.pass.fdroid#whats-new)
+- **Sabbirdj**
+  - [Bangladesh VPN](https://morphe-patches.software/?app=com.banglatech.bangladeshvpn#whats-new)
+- **Sabrina-Moonlight**
+  - [Hamster Escape](https://morphe-patches.software/?app=gg.sunday.hamsterescape#whats-new)
+- **Semicoloncolonel**
+  - [Yahoo Finance](https://morphe-patches.software/?app=com.yahoo.mobile.client.android.finance#whats-new)
+  - [Yahoo News](https://morphe-patches.software/?app=com.yahoo.mobile.client.android.yahoo#whats-new)
 - **XBadFellaX**
   - [Torrent Search Revolution V2](https://morphe-patches.software/?app=torrent.search.revolutionv2#whats-new)
 
@@ -178,6 +208,7 @@ To keep the post useful and easy to maintain, this section focuses on recent upd
   - [TimeTree](https://morphe-patches.software/?app=works.jubilee.timetree#whats-new)
 - [**Sabbirdj**](https://morphe.software/add-source?github=sabbirdj/viper-patches)
   - [APKS Installer](https://morphe-patches.software/?app=com.inwepo.apkinstaller#whats-new)
+  - [Bangladesh VPN](https://morphe-patches.software/?app=com.banglatech.bangladeshvpn#whats-new)
   - [SAI](https://morphe-patches.software/?app=com.mtv.sai#whats-new)
   - [Shohay Pregnancy Health](https://morphe-patches.software/?app=health.shohay.pregnancy#whats-new)
 - [**SeyTheGamer Android TV**](https://morphe.software/add-source?github=seythegamer/sey-morphe-patches)
@@ -280,17 +311,13 @@ To keep the post useful and easy to maintain, this section focuses on recent upd
   - [Blockbuster](https://morphe-patches.software/?app=dk.tdc.blockbuster.nordic#whats-new)
   - [Ekstra Bladet](https://morphe-patches.software/?app=dk.ekstrabladet.breakingnews#whats-new)
   - [Fyens Stiftstidende](https://morphe-patches.software/?app=dk.fyensstifts.areader#whats-new)
-  - [Herning Folkeblad](https://morphe-patches.software/?app=dk.herningfolkeblad.areader#whats-new)
-  - [Information](https://morphe-patches.software/?app=dk.information.areader#whats-new)
   - [JydskeVestkysten](https://morphe-patches.software/?app=dk.jydskevestkystenmain.areader#whats-new)
   - [Jyllands Posten](https://morphe-patches.software/?app=dk.jyllandsposten.jp#whats-new)
   - [Nordisk Film+](https://morphe-patches.software/?app=com.nordiskfilmplus.android#whats-new)
   - [Nordjyske](https://morphe-patches.software/?app=dk.nordjyske.reader#whats-new)
   - [Politiken](https://morphe-patches.software/?app=dk.pol.news#whats-new)
-  - [Tipsbladet](https://morphe-patches.software/?app=dk.tipsbladet.tipsbladet#whats-new)
   - [TV 2 Nyheder](https://morphe-patches.software/?app=dk.tv2.nyhedscenter#whats-new)
   - [TV 2 Play](https://morphe-patches.software/?app=dk.tv2.tv2play#whats-new)
-  - [Weekendavisen](https://morphe-patches.software/?app=dk.weekendavisen.areader#whats-new)
   - [YouSee Play](https://morphe-patches.software/?app=yiuo.mobile.tv#whats-new)
   - [Århus Stiftstidende](https://morphe-patches.software/?app=dk.aasmain.areader#whats-new)
 - **Hxreborn**
@@ -403,6 +430,7 @@ To keep the post useful and easy to maintain, this section focuses on recent upd
   - [Aesthetic Widgets](https://morphe-patches.software/?app=com.remi.widget#whats-new)
   - [Glass Widgets](https://morphe-patches.software/?app=com.jndapp.glass.widgets#whats-new)
   - [Glassix: Glass Widgets & Theme](https://morphe-patches.software/?app=com.saban.glassy.glasswidgets.themes#whats-new)
+  - [Hamster Escape](https://morphe-patches.software/?app=gg.sunday.hamsterescape#whats-new)
   - [Kids doctor games](https://morphe-patches.software/?app=com.bimiboo.kids.doctor.games#whats-new)
   - [Minimal Widgets](https://morphe-patches.software/?app=com.jndapp.minimal.widgets#whats-new)
   - [Orientation Control](https://morphe-patches.software/?app=net.mm2d.android.orientationfaker#whats-new)
@@ -483,15 +511,6 @@ To keep the post useful and easy to maintain, this section focuses on recent upd
 
 ## November 5, 2026
 
-### New Sources
-
-- [**AJcubes**](https://morphe.software/add-source?github=AJcubes/morphe-patches)
-  - [LockMeOut](https://morphe-patches.software/?app=com.teqtic.lockmeout#whats-new)
-- [**Hxdes08**](https://morphe.software/add-source?github=hxdes08/hxdes08_samsung_notes_patch)
-  - [Samsung Notes](https://morphe-patches.software/?app=com.samsung.android.app.notes#whats-new)
-- [**Ravhirizaldi**](https://morphe.software/add-source?github=ravhirizaldi/navhi-morphe-patches)
-  - [GreatDay HR](https://morphe-patches.software/?app=com.dataon.sunfishgo#whats-new)
-
 ### New Apps
 
 - **Bearinmind**
@@ -501,15 +520,7 @@ To keep the post useful and easy to maintain, this section focuses on recent upd
   - [OnePlus Launcher (OxygenOS 11)](https://morphe-patches.software/?app=net.oneplus.launcher#whats-new)
   - [OnePlus System Launcher](https://morphe-patches.software/?app=com.android.launcher#whats-new)
   - [Samsung Health](https://morphe-patches.software/?app=com.sec.android.app.shealth#whats-new)
-- **braiNtropy**
-  - [Hume](https://morphe-patches.software/?app=com.elink.fittrackhealth.pro#whats-new)
-- **byehi98**
-  - [Off The Road](https://morphe-patches.software/?app=com.dogbytegames.offtheroad#whats-new)
 - **GinDoki19**
   - [CrexiFy TV](https://morphe-patches.software/?app=com.crexify.tv#whats-new)
-- **Hxreborn**
-  - [AliExpress](https://morphe-patches.software/?app=com.alibaba.aliexpresshd#whats-new)
-  - [Habitify](https://morphe-patches.software/?app=co.unstatic.habitify#whats-new)
-  - [Liftoff](https://morphe-patches.software/?app=com.gymbros.app#whats-new)
 - **JohnInNL**
   - [Gboard](https://morphe-patches.software/?app=com.google.android.inputmethod.latin#whats-new)
