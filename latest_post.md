@@ -41,12 +41,18 @@ To keep the post useful and easy to maintain, this section focuses on recent upd
 
 ---
 
+## November 12, 2026
+
+### New App
+
+- **XBadFellaX**
+  - [Torrent Search Revolution V2](https://morphe-patches.software/?app=torrent.search.revolutionv2#whats-new)
+
 ## November 11, 2026
 
 ### New Sources
 
 - [**Bhashanaliyanage**](https://morphe.software/add-source?github=bhashanaliyanage/helakuru-morphe)
-  - [Helakuru](https://morphe-patches.software/?app=lk.bhasha.helakuru#whats-new)
   - [Helakuru Lite](https://morphe-patches.software/?app=lk.bhasha.helakuru.lite#whats-new)
 - [**Johannes7k75**](https://morphe.software/add-source?github=Johannes7k75/gemini-work-profile-patches)
   - [Gemini](https://morphe-patches.software/?app=com.google.android.apps.bard#whats-new)
@@ -73,11 +79,26 @@ To keep the post useful and easy to maintain, this section focuses on recent upd
 - **CallMeBeyonder**
   - [C25K](https://morphe-patches.software/?app=com.c25k#whats-new)
   - [MacroFactor](https://morphe-patches.software/?app=com.sbs.diet#whats-new)
+- **DanielTheManiel**
+  - [Instagram](https://morphe-patches.software/?app=com.instagram.android#whats-new)
+- **Hxreborn**
+  - [LaunchBox](https://morphe-patches.software/?app=com.unbrokensoftware.launchbox#whats-new)
+  - [OK](https://morphe-patches.software/?app=ru.ok.android#whats-new)
+  - [Xianyu](https://morphe-patches.software/?app=com.taobao.idlefish#whats-new)
 - **Jzl1**
   - [Hutch App](https://morphe-patches.software/?app=com.omobio.etisalatone#whats-new)
+- **Madushas**
+  - [Glassdoor](https://morphe-patches.software/?app=com.glassdoor.app#whats-new)
+  - [Jooble](https://morphe-patches.software/?app=jooble.org#whats-new)
+  - [Proton VPN](https://morphe-patches.software/?app=ch.protonvpn.android#whats-new)
+  - [Shima+ Dynamic Island](https://morphe-patches.software/?app=com.piyush.island#whats-new)
+  - Teams
 - **Mirbyte**
   - [Bergfex Tours](https://morphe-patches.software/?app=com.bergfex.tour#whats-new)
+- **Sabrina-Moonlight**
+  - [Kids doctor games](https://morphe-patches.software/?app=com.bimiboo.kids.doctor.games#whats-new)
 - **Semicoloncolonel**
+  - [Checkout 51](https://morphe-patches.software/?app=com.c51#whats-new)
   - [DealNews](https://morphe-patches.software/?app=com.dealnews.android.ui#whats-new)
   - [Flipp](https://morphe-patches.software/?app=com.wishabi.flipp#whats-new)
   - [RetailMeNot](https://morphe-patches.software/?app=com.whaleshark.retailmenot#whats-new)
@@ -382,6 +403,7 @@ To keep the post useful and easy to maintain, this section focuses on recent upd
   - [Aesthetic Widgets](https://morphe-patches.software/?app=com.remi.widget#whats-new)
   - [Glass Widgets](https://morphe-patches.software/?app=com.jndapp.glass.widgets#whats-new)
   - [Glassix: Glass Widgets & Theme](https://morphe-patches.software/?app=com.saban.glassy.glasswidgets.themes#whats-new)
+  - [Kids doctor games](https://morphe-patches.software/?app=com.bimiboo.kids.doctor.games#whats-new)
   - [Minimal Widgets](https://morphe-patches.software/?app=com.jndapp.minimal.widgets#whats-new)
   - [Orientation Control](https://morphe-patches.software/?app=net.mm2d.android.orientationfaker#whats-new)
   - [Quick Settings](https://morphe-patches.software/?app=it.simonesestito.ntiles#whats-new)
@@ -482,7 +504,6 @@ To keep the post useful and easy to maintain, this section focuses on recent upd
 - **braiNtropy**
   - [Hume](https://morphe-patches.software/?app=com.elink.fittrackhealth.pro#whats-new)
 - **byehi98**
-  - [FR Legends](https://morphe-patches.software/?app=com.fengiiley.frlegends#whats-new)
   - [Off The Road](https://morphe-patches.software/?app=com.dogbytegames.offtheroad#whats-new)
 - **GinDoki19**
   - [CrexiFy TV](https://morphe-patches.software/?app=com.crexify.tv#whats-new)
