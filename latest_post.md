@@ -48,8 +48,15 @@ To keep the post useful and easy to maintain, this section focuses on recent upd
 - [**Bhashanaliyanage**](https://morphe.software/add-source?github=bhashanaliyanage/helakuru-morphe)
   - [Helakuru](https://morphe-patches.software/?app=lk.bhasha.helakuru#whats-new)
   - [Helakuru Lite](https://morphe-patches.software/?app=lk.bhasha.helakuru.lite#whats-new)
+- [**Johannes7k75**](https://morphe.software/add-source?github=Johannes7k75/gemini-work-profile-patches)
+  - [Gemini](https://morphe-patches.software/?app=com.google.android.apps.bard#whats-new)
+  - [Google](https://morphe-patches.software/?app=com.google.android.googlequicksearchbox#whats-new)
+- [**Saadbinyousaf1**](https://morphe.software/add-source?github=saadbinyousaf1/sby-patches)
+  - [foodpanda](https://morphe-patches.software/?app=com.global.foodpanda.android#whats-new)
 - [**Sayan201**](https://morphe.software/add-source?github=Sayan201/TheFit)
   - [Da Fit](https://morphe-patches.software/?app=com.crrepa.band.dafit#whats-new)
+- [**ShortEnigma0**](https://morphe.software/add-source?github=ShortEnigma0/expertraw-morphe-patches)
+  - [Expert RAW](https://morphe-patches.software/?app=com.samsung.android.app.galaxyraw#whats-new)
 - [**Zimza1abim**](https://morphe.software/add-source?github=zimza1abim/kanye-morphe-patches)
   - [Anytype](https://morphe-patches.software/?app=io.anytype.app#whats-new)
   - [Bare Browser](https://morphe-patches.software/?app=org.barebrowser#whats-new)
@@ -63,8 +70,13 @@ To keep the post useful and easy to maintain, this section focuses on recent upd
 
 - **byehi98**
   - [CSR Racing](https://morphe-patches.software/?app=com.naturalmotion.csrracing#whats-new)
+- **CallMeBeyonder**
+  - [C25K](https://morphe-patches.software/?app=com.c25k#whats-new)
+  - [MacroFactor](https://morphe-patches.software/?app=com.sbs.diet#whats-new)
 - **Jzl1**
   - [Hutch App](https://morphe-patches.software/?app=com.omobio.etisalatone#whats-new)
+- **Mirbyte**
+  - [Bergfex Tours](https://morphe-patches.software/?app=com.bergfex.tour#whats-new)
 - **Semicoloncolonel**
   - [DealNews](https://morphe-patches.software/?app=com.dealnews.android.ui#whats-new)
   - [Flipp](https://morphe-patches.software/?app=com.wishabi.flipp#whats-new)
@@ -214,6 +226,7 @@ To keep the post useful and easy to maintain, this section focuses on recent upd
 - [**Kljjh**](https://morphe.software/add-source?github=kljjh/flyme-lyrics-patches)
   - [YouTube Music](https://morphe-patches.software/?app=com.google.android.apps.youtube.music#whats-new)
 - [**Mirbyte**](https://morphe.software/add-source?github=mirbyte/morphe-patches)
+  - [Bergfex Tours](https://morphe-patches.software/?app=com.bergfex.tour#whats-new)
   - [Bloomberg](https://morphe-patches.software/?app=com.bloomberg.android.plus#whats-new)
   - [TradingView](https://morphe-patches.software/?app=com.tradingview.tradingviewapp#whats-new)
 - [**Murilosimao**](https://morphe.software/add-source?github=murilosimao/swiftkey-patch)
