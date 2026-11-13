@@ -41,10 +41,40 @@ To keep the post useful and easy to maintain, this section focuses on recent upd
 
 ---
 
+## November 13, 2026
+
+### New Sources
+
+- [**Abegumbo-ui**](https://morphe.software/add-source?github=abegumbo-ui/gvoice-patches)
+  - [Google Voice](https://morphe-patches.software/?app=com.google.android.apps.googlevoice#whats-new)
+- [**CozyCode890**](https://morphe.software/add-source?github=CozyCode890/HoiTruyenChu-patches)
+  - [iTruyenChu](https://morphe-patches.software/?app=com.ngoctieucac.itruyenchu#whats-new)
+- [**Henr1klmb**](https://morphe.software/add-source?github=henr1klmb/db-navigator-patches)
+  - [DB Navigator](https://morphe-patches.software/?app=de.hafas.android.db#whats-new)
+- [**Theodotdot**](https://morphe.software/add-source?github=theodotdot/niagara-left-patches)
+  - [Niagara Launcher](https://morphe-patches.software/?app=bitpit.launcher#whats-new)
+- [**Warreth**](https://morphe.software/add-source?github=warreth/morphe-patches)
+  - [ScreenZen](https://morphe-patches.software/?app=com.screenzen#whats-new)
+
+### New Apps
+
+- **CallMeBeyonder**
+  - [0-100 Pushups](https://morphe-patches.software/?app=com.zenlabs.challenge.pushups#whats-new)
+- **JohnInNL**
+  - [Orpheon](https://morphe-patches.software/?app=app.orpheon.beta#whats-new)
+- **Semicoloncolonel**
+  - YouTube for Android TV
+- **Uta-a**
+  - setlog
+- **XiONDiGiTaL**
+  - [Amazon A to Z](https://morphe-patches.software/?app=com.amazon.atozm#whats-new)
+
 ## November 12, 2026
 
 ### New Sources
 
+- [**Avano**](https://morphe.software/add-source?github=avano/morphe-patches)
+  - [Waze](https://morphe-patches.software/?app=com.waze#whats-new)
 - [**Brandonp2412**](https://morphe.software/add-source?github=brandonp2412/instagram-notification-nudges)
   - [Instagram](https://morphe-patches.software/?app=com.instagram.android#whats-new)
 - [**Hinatara**](https://morphe.software/add-source?github=hinatara/morphe-arcore-patches)
@@ -61,11 +91,26 @@ To keep the post useful and easy to maintain, this section focuses on recent upd
   - [Discovery Plus](https://morphe-patches.software/?app=com.discovery.discoveryplus.firetv#whats-new)
 - [**Rov3r**](https://morphe.software/add-source?github=Rov3r/morphe-patches)
   - [VSCO](https://morphe-patches.software/?app=com.vsco.cam#whats-new)
+- [**Sebsebseb9b**](https://morphe.software/add-source?github=sebsebseb9b/lockstar-clock-patch)
+  - [LockStar](https://morphe-patches.software/?app=com.samsung.systemui.lockstar#whats-new)
+- [**Solo**](https://morphe.software/add-source?gitlab=solo-patches/solo-patches)
+  - [WebNovel](https://morphe-patches.software/?app=com.qidian.Int.reader#whats-new)
+- [**Thebugsmith**](https://morphe.software/add-source?github=thebugsmith/bugsmith-morphe-patches)
+  - [Chessbook](https://morphe-patches.software/?app=com.chessbook.android#whats-new)
+  - [Pingo](https://morphe-patches.software/?app=com.picoai.languageapp.android#whats-new)
 
 ### New Apps
 
 - **Amfakh**
   - [CoverScreen OS](https://morphe-patches.software/?app=apps.ijp.coverscreenos#whats-new)
+- **Bearinmind**
+  - [Samsung Editor Lite](https://morphe-patches.software/?app=com.samsung.app.newtrim#whats-new)
+  - [Samsung Finder](https://morphe-patches.software/?app=com.samsung.android.app.galaxyfinder#whats-new)
+- **CallMeBeyonder**
+  - [Couch to 10K](https://morphe-patches.software/?app=com.c10kforpink#whats-new)
+  - [Half Marathon 13.1](https://morphe-patches.software/?app=com.c13_1forpink2#whats-new)
+  - [Marathon 26.2](https://morphe-patches.software/?app=com.c26_2forpink#whats-new)
+  - [Runna](https://morphe-patches.software/?app=com.runbuddy.prod#whats-new)
 - **Hxreborn**
   - [Candy Crush Saga](https://morphe-patches.software/?app=com.king.candycrushsaga#whats-new)
 - **Ineednotitle**
