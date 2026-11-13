@@ -66,8 +66,12 @@ To keep the post useful and easy to maintain, this section focuses on recent upd
 
 - **Amfakh**
   - [CoverScreen OS](https://morphe-patches.software/?app=apps.ijp.coverscreenos#whats-new)
+- **Hxreborn**
+  - [Candy Crush Saga](https://morphe-patches.software/?app=com.king.candycrushsaga#whats-new)
 - **Ineednotitle**
   - [Proton Pass (F-Droid)](https://morphe-patches.software/?app=proton.android.pass.fdroid#whats-new)
+- **Mwbra130**
+  - [Subway Surfers](https://morphe-patches.software/?app=com.kiloo.subwaysurf#whats-new)
 - **Sabbirdj**
   - [Bangladesh VPN](https://morphe-patches.software/?app=com.banglatech.bangladeshvpn#whats-new)
 - **Sabrina-Moonlight**
@@ -76,6 +80,7 @@ To keep the post useful and easy to maintain, this section focuses on recent upd
   - [Yahoo Finance](https://morphe-patches.software/?app=com.yahoo.mobile.client.android.finance#whats-new)
   - [Yahoo News](https://morphe-patches.software/?app=com.yahoo.mobile.client.android.yahoo#whats-new)
 - **XBadFellaX**
+  - [ChatGPT](https://morphe-patches.software/?app=com.openai.chatgpt#whats-new)
   - [Torrent Search Revolution V2](https://morphe-patches.software/?app=torrent.search.revolutionv2#whats-new)
 
 ## November 11, 2026
@@ -120,7 +125,6 @@ To keep the post useful and easy to maintain, this section focuses on recent upd
 - **Madushas**
   - [Glassdoor](https://morphe-patches.software/?app=com.glassdoor.app#whats-new)
   - [Jooble](https://morphe-patches.software/?app=jooble.org#whats-new)
-  - [Proton VPN](https://morphe-patches.software/?app=ch.protonvpn.android#whats-new)
   - [Shima+ Dynamic Island](https://morphe-patches.software/?app=com.piyush.island#whats-new)
   - Teams
 - **Mirbyte**
