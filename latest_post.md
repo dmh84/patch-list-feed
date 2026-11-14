@@ -41,6 +41,30 @@ To keep the post useful and easy to maintain, this section focuses on recent upd
 
 ---
 
+## November 14, 2026
+
+### New Apps
+
+- **Heval**
+  - [Action Launcher](https://morphe-patches.software/?app=com.actionlauncher.playstore#whats-new)
+  - [Beeper](https://morphe-patches.software/?app=com.beeper.android#whats-new)
+  - [CCleaner](https://morphe-patches.software/?app=com.piriform.ccleaner#whats-new)
+  - [FX File Explorer](https://morphe-patches.software/?app=nextapp.fx#whats-new)
+  - [YouCut](https://morphe-patches.software/?app=com.camerasideas.trimmer#whats-new)
+- **Hxreborn**
+  - [ArduinoDroid](https://morphe-patches.software/?app=name.antonsmirnov.android.arduinodroid2#whats-new)
+  - [Candy Crush Soda Saga](https://morphe-patches.software/?app=com.king.candycrushsodasaga#whats-new)
+- **Ineednotitle**
+  - [Amazon Business](https://morphe-patches.software/?app=com.amazon.mShop.android.business.shopping#whats-new)
+  - [Instagram](https://morphe-patches.software/?app=com.instagram.android#whats-new)
+- **JPTT**
+  - [DMM VR動画プレイヤー](https://morphe-patches.software/?app=com.dmm.app.oculusgearplayer#whats-new)
+- **Vippium**
+  - [Office Reader](https://morphe-patches.software/?app=net.sjava.officereader#whats-new)
+- **Xtra**
+  - EveryCircuit
+  - Simurelay
+
 ## November 13, 2026
 
 ### New Sources
@@ -59,7 +83,7 @@ To keep the post useful and easy to maintain, this section focuses on recent upd
   - [ÖBB Scotty](https://morphe-patches.software/?app=de.hafas.android.oebb#whats-new)
 - [**Kubobeem2**](https://morphe.software/add-source?github=kubobeem2/zeta-morphe-patches)
   - [Zeta: AI Chat, Story, Play](https://morphe-patches.software/?app=com.scatterlab.messenger#whats-new)
-- [**LongThree1**](https://morphe.software/add-source?github=longthree1/morphe-patches)
+- [**Longthree1**](https://morphe.software/add-source?github=longthree1/morphe-patches)
   - [SoundCloud](https://morphe-patches.software/?app=com.soundcloud.android#whats-new)
 - [**Theodotdot**](https://morphe.software/add-source?github=theodotdot/niagara-left-patches)
   - [Niagara Launcher](https://morphe-patches.software/?app=bitpit.launcher#whats-new)
@@ -101,7 +125,6 @@ To keep the post useful and easy to maintain, this section focuses on recent upd
 - **JohnInNL**
   - [ABRP](https://morphe-patches.software/?app=com.iternio.abrpapp#whats-new)
   - [Fennec](https://morphe-patches.software/?app=org.mozilla.fennec_fdroid#whats-new)
-  - [Google Messages](https://morphe-patches.software/?app=com.google.android.apps.messaging#whats-new)
   - [GridCraft](https://morphe-patches.software/?app=io.github.artcraftandroid.gridcraft#whats-new)
   - [Home Assistant](https://morphe-patches.software/?app=io.homeassistant.companion.android#whats-new)
   - [LightCraft](https://morphe-patches.software/?app=io.github.artcraftandroid.lightcraft#whats-new)
@@ -128,7 +151,7 @@ To keep the post useful and easy to maintain, this section focuses on recent upd
   - [Settings Home](https://morphe-patches.software/?app=com.eet.settings.launcher#whats-new)
   - YouTube for Android TV
 - **Sqzass**
-  - Pawxy - Fast VPN & Web Browser
+  - [Pawxy - Fast VPN & Web Browser](https://morphe-patches.software/?app=com.pawxy.browser#whats-new)
 - **Toidicakhia**
   - [Remote Desktop Manager](https://morphe-patches.software/?app=com.devolutions.remotedesktopmanager#whats-new)
 - **Vippium**
@@ -482,32 +505,16 @@ To keep the post useful and easy to maintain, this section focuses on recent upd
 ### New Apps
 
 - **Bearinmind**
-  - [LG Gallery](https://morphe-patches.software/?app=com.android.gallery3d#whats-new)
   - [OnePlus Camera](https://morphe-patches.software/?app=com.oplus.camera#whats-new)
   - [OnePlus Documents](https://morphe-patches.software/?app=andes.oplus.documentsreader#whats-new)
-  - [Samsung Capture](https://morphe-patches.software/?app=com.samsung.android.app.smartcapture#whats-new)
   - [Samsung Internet](https://morphe-patches.software/?app=com.sec.android.app.sbrowser#whats-new)
-  - [Sony Music](https://morphe-patches.software/?app=com.sonyericsson.music#whats-new)
-  - [Xperia Keyboard](https://morphe-patches.software/?app=com.sonyericsson.textinput.uxp#whats-new)
 - **Heval**
   - Ace Ex File Manager
-- **Ineednotitle**
-  - [Meesho](https://morphe-patches.software/?app=com.meesho.shopping#whats-new)
-- **JohnInNL**
-  - [Apple Music](https://morphe-patches.software/?app=com.apple.android.music#whats-new)
-  - [Deezer](https://morphe-patches.software/?app=deezer.android.app#whats-new)
-  - [TIDAL](https://morphe-patches.software/?app=com.aspiro.tidal#whats-new)
 - **Pigfoot**
   - [GPS JoyStick](https://morphe-patches.software/?app=com.theappninjas.fakegpsjoystick#whats-new)
   - [PikieWalker](https://morphe-patches.software/?app=com.kairosvector.pikiewalker#whats-new)
-- **RikoDEV**
-  - [InPost Mobile](https://morphe-patches.software/?app=pl.inpost.inmobile#whats-new)
-  - [Mój Orange](https://morphe-patches.software/?app=pl.orange.mojeorange#whats-new)
-- **Sabrina-Moonlight**
-  - [Themezy](https://morphe-patches.software/?app=com.themezy.theme.iconwidgets#whats-new)
 - **Semicoloncolonel**
   - [HBO Max](https://morphe-patches.software/?app=com.wbd.hbomax#whats-new)
-  - [Truth Social](https://morphe-patches.software/?app=com.truthsocial.android.app#whats-new)
 - **Wagg13Patch**
   - [iCSee](https://morphe-patches.software/?app=com.xm.csee#whats-new)
   - [InstaPrime](https://morphe-patches.software/?app=com.instaprime.android#whats-new)
