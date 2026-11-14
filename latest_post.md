@@ -54,8 +54,16 @@ To keep the post useful and easy to maintain, this section focuses on recent upd
   - [NetMirror](https://morphe-patches.software/?app=app.netmirror.netmirrornew#whats-new)
   - [SBB Mobile](https://morphe-patches.software/?app=ch.sbb.mobile.android.b2c#whats-new)
   - [ÖBB Scotty](https://morphe-patches.software/?app=de.hafas.android.oebb#whats-new)
+- [**Longthree1**](https://morphe.software/add-source?github=longthree1/morphe-patches)
+  - [SoundCloud](https://morphe-patches.software/?app=com.soundcloud.android#whats-new)
 - [**Theodotdot**](https://morphe.software/add-source?github=theodotdot/niagara-left-patches)
   - [Niagara Launcher](https://morphe-patches.software/?app=bitpit.launcher#whats-new)
+- [**Timtkdb**](https://morphe.software/add-source?github=timtkdb/archivetune-microg-patches)
+  - [ArchiveTune](https://morphe-patches.software/?app=moe.rukamori.archivetune#whats-new)
+- [**TwelveHouse**](https://morphe.software/add-source?github=twelvehouse/gboard-ios-style-jp-en-morphe-patches)
+  - [Gboard](https://morphe-patches.software/?app=com.google.android.inputmethod.latin#whats-new)
+- [**Uta-a Cutlog**](https://morphe.software/add-source?github=uta-a/cutlog)
+  - [setlog](https://morphe-patches.software/?app=com.newchat.setlog#whats-new)
 - [**Warreth**](https://morphe.software/add-source?github=warreth/morphe-patches)
   - [ScreenZen](https://morphe-patches.software/?app=com.screenzen#whats-new)
 
@@ -67,28 +75,38 @@ To keep the post useful and easy to maintain, this section focuses on recent upd
   - [Poke Genie -Remote Raid IV PvP](https://morphe-patches.software/?app=com.cjin.pokegenie.standard#whats-new)
 - **GinDoki19**
   - [WPS Office](https://morphe-patches.software/?app=cn.wps.moffice_eng#whats-new)
+- **Hxreborn**
+  - [RedReader](https://morphe-patches.software/?app=org.quantumbadger.redreader#whats-new)
+  - [RedReader Alpha](https://morphe-patches.software/?app=org.quantumbadger.redreaderalpha#whats-new)
 - **Hyzor**
   - [FolderSync](https://morphe-patches.software/?app=dk.tacit.android.foldersync.lite#whats-new)
   - [Projectivy Launcher](https://morphe-patches.software/?app=com.spocky.projengmenu#whats-new)
   - [Solid Explorer](https://morphe-patches.software/?app=pl.solidexplorer2#whats-new)
 - **JohnInNL**
+  - [GridCraft](https://morphe-patches.software/?app=io.github.artcraftandroid.gridcraft#whats-new)
   - [Home Assistant](https://morphe-patches.software/?app=io.homeassistant.companion.android#whats-new)
+  - [LightCraft](https://morphe-patches.software/?app=io.github.artcraftandroid.lightcraft#whats-new)
   - [Orpheon](https://morphe-patches.software/?app=app.orpheon.beta#whats-new)
+  - [PdfCraft](https://morphe-patches.software/?app=io.github.artcraftandroid.pdfcraft#whats-new)
+  - [Reolink](https://morphe-patches.software/?app=com.mcu.reolink#whats-new)
+  - [Titanium Browser](https://morphe-patches.software/?app=io.github.jqssun.helium#whats-new)
   - [Tuya Smart Life](https://morphe-patches.software/?app=com.tuya.smart#whats-new)
+  - [WordCraft](https://morphe-patches.software/?app=io.github.artcraftandroid.wordcraft#whats-new)
 - **MightyMich**
   - [CCleaner](https://morphe-patches.software/?app=com.piriform.ccleaner#whats-new)
   - [MT Manager](https://morphe-patches.software/?app=bin.mt.plus#whats-new)
 - **Mwbra130**
   - [YouTube Music (Wear OS)](https://morphe-patches.software/?app=com.google.android.apps.youtube.music#whats-new)
+- **Oyasumi**
+  - [Dr. Driving](https://morphe-patches.software/?app=com.ansangha.drdriving#whats-new)
 - **Pigfoot**
   - [智生活](https://morphe-patches.software/?app=chk.kingnet.app#whats-new)
 - **Semicoloncolonel**
+  - [Hulu (Android TV)](https://morphe-patches.software/?app=com.hulu.livingroomplus#whats-new)
   - [Settings Home](https://morphe-patches.software/?app=com.eet.settings.launcher#whats-new)
   - YouTube for Android TV
 - **Toidicakhia**
   - [Remote Desktop Manager](https://morphe-patches.software/?app=com.devolutions.remotedesktopmanager#whats-new)
-- **Uta-a**
-  - setlog
 - **XiONDiGiTaL**
   - [Amazon A to Z](https://morphe-patches.software/?app=com.amazon.atozm#whats-new)
 
@@ -485,16 +503,8 @@ To keep the post useful and easy to maintain, this section focuses on recent upd
 ### New Apps
 
 - **Bearinmind**
-  - [ASUS Launcher](https://morphe-patches.software/?app=com.asus.launcher#whats-new)
-  - [HyperOS Launcher](https://morphe-patches.software/?app=com.miui.home#whats-new)
-  - [Moto App Launcher](https://morphe-patches.software/?app=com.motorola.launcher3#whats-new)
   - [One Hand Operation +](https://morphe-patches.software/?app=com.samsung.android.sidegesturepad#whats-new)
-- **Heval**
-  - [Add Music](https://morphe-patches.software/?app=kgs.com.addmusictovideos#whats-new)
-  - [NotiAlarm](https://morphe-patches.software/?app=com.soosu.notialarm#whats-new)
 - **JohnInNL**
-  - [AliExpress](https://morphe-patches.software/?app=com.alibaba.aliexpresshd#whats-new)
-  - [bol](https://morphe-patches.software/?app=com.bol.shop#whats-new)
   - [Zoom Workplace](https://morphe-patches.software/?app=us.zoom.videomeetings#whats-new)
 - **Mnhqngl**
   - [Zalo](https://morphe-patches.software/?app=com.zing.zalo#whats-new)
