@@ -45,6 +45,8 @@ To keep the post useful and easy to maintain, this section focuses on recent upd
 
 ### New Apps
 
+- **byehi98**
+  - [Ophelia's Paradise](https://morphe-patches.software/?app=com.artingames.opheliasparadise#whats-new)
 - **Heval**
   - [Action Launcher](https://morphe-patches.software/?app=com.actionlauncher.playstore#whats-new)
   - [Beeper](https://morphe-patches.software/?app=com.beeper.android#whats-new)
@@ -57,8 +59,20 @@ To keep the post useful and easy to maintain, this section focuses on recent upd
 - **Ineednotitle**
   - [Amazon Business](https://morphe-patches.software/?app=com.amazon.mShop.android.business.shopping#whats-new)
   - [Instagram](https://morphe-patches.software/?app=com.instagram.android#whats-new)
+  - [Netflix (Android TV)](https://morphe-patches.software/?app=com.netflix.ninja#whats-new)
+  - [Table Notes](https://morphe-patches.software/?app=vivekagarwal.playwithdb#whats-new)
 - **JPTT**
   - [DMM VR動画プレイヤー](https://morphe-patches.software/?app=com.dmm.app.oculusgearplayer#whats-new)
+- **Loki**
+  - Document Scanner
+  - [Splitwise](https://morphe-patches.software/?app=com.Splitwise.SplitwiseMobile#whats-new)
+  - [Truecaller](https://morphe-patches.software/?app=com.truecaller#whats-new)
+- **Pigfoot**
+  - [Bitwarden](https://morphe-patches.software/?app=com.x8bit.bitwarden#whats-new)
+- **Sarvottam99**
+  - [HeyMelody](https://morphe-patches.software/?app=com.heytap.headset#whats-new)
+- **Southstar21dev**
+  - [Spotify](https://morphe-patches.software/?app=com.spotify.music#whats-new)
 - **Vippium**
   - [Office Reader](https://morphe-patches.software/?app=net.sjava.officereader#whats-new)
 - **Xtra**
