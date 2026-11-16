@@ -56,6 +56,7 @@ To keep the post useful and easy to maintain, this section focuses on recent upd
 
 - **CallMeBeyonder**
   - [Alpha Progression](https://morphe-patches.software/?app=com.alphaprogression.alphaprogression#whats-new)
+  - [JuggernautAI](https://morphe-patches.software/?app=com.jtsstrength.juggernautai#whats-new)
   - [MovieBox TV](https://morphe-patches.software/?app=com.community.mbox.tv#whats-new)
 - **DanielTheManiel**
   - [Campfire](https://morphe-patches.software/?app=com.nianticlabs.campfire#whats-new)
@@ -63,13 +64,18 @@ To keep the post useful and easy to maintain, this section focuses on recent upd
   - [SHTTPS Marketless](https://morphe-patches.software/?app=com.phlox.simpleserver.marketless#whats-new)
 - **Hyzor**
   - [nzb360](https://morphe-patches.software/?app=com.kevinforeman.nzb360#whats-new)
+  - [Sparkle TV](https://morphe-patches.software/?app=se.hedekonsult.sparkle#whats-new)
   - [Trakt](https://morphe-patches.software/?app=tv.trakt.trakt#whats-new)
 - **Legendsciber**
   - [LMR - Copyleft Music](https://morphe-patches.software/?app=com.lmr.lfm#whats-new)
+- **Semicoloncolonel**
+  - [Reuters](https://morphe-patches.software/?app=com.thomsonreuters.reuters#whats-new)
 - **Sqzass**
   - [PortDroid - Network Analysis](https://morphe-patches.software/?app=com.stealthcopter.portdroid#whats-new)
 - **Toidicakhia**
   - [Locket Widget](https://morphe-patches.software/?app=com.locket.Locket#whats-new)
+- **XBadFellaX**
+  - [Ultimea](https://morphe-patches.software/?app=com.dynanic.ultimea#whats-new)
 
 ## November 14, 2026
 
@@ -205,7 +211,6 @@ To keep the post useful and easy to maintain, this section focuses on recent upd
 - **Pigfoot**
   - [智生活](https://morphe-patches.software/?app=chk.kingnet.app#whats-new)
 - **Semicoloncolonel**
-  - [Hulu (Android TV)](https://morphe-patches.software/?app=com.hulu.livingroomplus#whats-new)
   - [Netflix](https://morphe-patches.software/?app=com.netflix.mediaclient#whats-new)
   - [Settings Home](https://morphe-patches.software/?app=com.eet.settings.launcher#whats-new)
   - YouTube for Android TV
@@ -475,12 +480,7 @@ To keep the post useful and easy to maintain, this section focuses on recent upd
 ### New Apps
 
 - **CallMeBeyonder**
-  - [Crossrope](https://morphe-patches.software/?app=ca.awesome.travis.crossrope.crossrope#whats-new)
   - [Jump Rope Challenge](https://morphe-patches.software/?app=com.muzudre.jump.rope.training.challenges.jumprope#whats-new)
-- **Chiggi SonyLIV Patches - by durgesh0505**
-  - [CapCut](https://morphe-patches.software/?app=com.lemon.lvoverseas#whats-new)
-- **Mwbra130**
-  - [aodNotify](https://morphe-patches.software/?app=com.jamworks.alwaysondisplay#whats-new)
 - **Semicoloncolonel**
   - [CNBC](https://morphe-patches.software/?app=com.cnbc.client#whats-new)
   - [Costco](https://morphe-patches.software/?app=com.costco.app.android#whats-new)
