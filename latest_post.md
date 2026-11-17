@@ -45,7 +45,8 @@ To keep the post useful and easy to maintain, this section focuses on recent upd
 
 ### New Sources
 
-- [**0x11DFE**](https://morphe.software/add-source?github=0x11DFE/waypoint-morphe-patches)
+- [**0x11DFE**](https://morphe.software/add-source?github=0x11DFE/morphe-patches)
+  - [Scene](https://morphe-patches.software/?app=com.omarea.vtools#whats-new)
   - [Waypoint](https://morphe-patches.software/?app=com.greycastel.waypoint#whats-new)
 - [**Ak800i**](https://morphe.software/add-source?github=ak800i/morphe-patches)
   - [MiXplorer](https://morphe-patches.software/?app=com.mixplorer#whats-new)
@@ -169,8 +170,10 @@ To keep the post useful and easy to maintain, this section focuses on recent upd
 
 ### New Apps
 
+- **Android TV**
+  - [YouTube for Android TV](https://morphe-patches.software/?app=com.google.android.youtube.tv#whats-new)
 - **Henr1klmb**
-  - [ÖBB Scotty](https://morphe-patches.software/?app=de.hafas.android.oebb#whats-new)
+  - [mydealz](https://morphe-patches.software/?app=com.tippingcanoe.mydealz#whats-new)
 - **Hxreborn**
   - [BitTorrent](https://morphe-patches.software/?app=com.bittorrent.client#whats-new)
   - [µTorrent](https://morphe-patches.software/?app=com.utorrent.client#whats-new)
@@ -179,9 +182,12 @@ To keep the post useful and easy to maintain, this section focuses on recent upd
   - [Call Recorder](https://morphe-patches.software/?app=org.skvalex.cr#whats-new)
   - [ContentCam](https://morphe-patches.software/?app=app.contentcam.android#whats-new)
   - [Drapes](https://morphe-patches.software/?app=com.codeswitch.drapes#whats-new)
+  - [Timemark](https://morphe-patches.software/?app=com.oceangalaxy.camera.new#whats-new)
   - [VPN Gate](https://morphe-patches.software/?app=com.giamping.sevpn#whats-new)
 - **SledgeSune**
   - [CP](https://morphe-patches.software/?app=pt.cp.mobiapp#whats-new)
+- **Sqzass**
+  - [Postparty](https://morphe-patches.software/?app=com.lifeonair.postparty#whats-new)
 
 ## November 15, 2026
 
@@ -284,10 +290,10 @@ To keep the post useful and easy to maintain, this section focuses on recent upd
   - [IronFox](https://morphe-patches.software/?app=org.ironfoxoss.ironfox#whats-new)
 - [**Henr1klmb**](https://morphe.software/add-source?github=henr1klmb/henr1k-patches)
   - [DB Navigator](https://morphe-patches.software/?app=de.hafas.android.db#whats-new)
+  - [mydealz](https://morphe-patches.software/?app=com.tippingcanoe.mydealz#whats-new)
   - [NetMirror](https://morphe-patches.software/?app=app.netmirror.netmirrornew#whats-new)
   - [Reddit](https://morphe-patches.software/?app=com.reddit.frontpage#whats-new)
   - [SBB Mobile](https://morphe-patches.software/?app=ch.sbb.mobile.android.b2c#whats-new)
-  - [ÖBB Scotty](https://morphe-patches.software/?app=de.hafas.android.oebb#whats-new)
   - [ÖBB Scotty](https://morphe-patches.software/?app=de.hafas.android.oebb#whats-new)
 - [**Longthree1**](https://morphe.software/add-source?github=longthree1/morphe-patches)
   - [SoundCloud](https://morphe-patches.software/?app=com.soundcloud.android#whats-new)
