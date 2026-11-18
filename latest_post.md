@@ -53,6 +53,11 @@ To keep the post useful and easy to maintain, this section focuses on recent upd
   - [Songsterr Guitar Tabs & Chords](https://morphe-patches.software/?app=com.songsterr#whats-new)
 - [**Inxomnyaa**](https://morphe.software/add-source?github=inxomnyaa/tiktok-tweaks)
   - [TikTok](https://morphe-patches.software/?app=com.zhiliaoapp.musically#whats-new)
+- [**Kveld9 Brave**](https://morphe.software/add-source?github=kveld9/brave-patches)
+  - [Brave Private Web Browser, VPN](https://morphe-patches.software/?app=com.brave.browser#whats-new)
+  - [Gboard Lite](https://morphe-patches.software/?app=com.google.android.inputmethod.latin#whats-new)
+  - [TikTok](https://morphe-patches.software/?app=com.zhiliaoapp.musically#whats-new)
+  - [TikTok Lite](https://morphe-patches.software/?app=com.tiktok.lite.go#whats-new)
 - [**MOD-PROD Creator**](https://morphe.software/add-source?github=MOD-PROD/modprod-apk-creator)
   - [APK Base](https://morphe-patches.software/?app=app.modprod.apkbase#whats-new)
   - [ATV Base](https://morphe-patches.software/?app=app.modprod.atvlink.base#whats-new)
@@ -70,10 +75,9 @@ To keep the post useful and easy to maintain, this section focuses on recent upd
 - **Henr1klmb**
   - [Channel 4](https://morphe-patches.software/?app=com.channel4.ondemand#whats-new)
   - [HelloFit Pro](https://morphe-patches.software/?app=com.app.cy.hellofitpro#whats-new)
+  - [Wordscapes](https://morphe-patches.software/?app=com.peoplefun.wordcross#whats-new)
 - **Hxreborn**
   - [iVoox](https://morphe-patches.software/?app=com.ivoox.app#whats-new)
-- **JohnInNL**
-  - [Orpheon](https://morphe-patches.software/?app=app.orpheon#whats-new)
 - **Loki**
   - [MX Player Pro](https://morphe-patches.software/?app=com.mxtech.videoplayer.pro#whats-new)
 - **Mlkem**
@@ -351,6 +355,7 @@ To keep the post useful and easy to maintain, this section focuses on recent upd
   - [NetMirror](https://morphe-patches.software/?app=app.netmirror.netmirrornew#whats-new)
   - [Reddit](https://morphe-patches.software/?app=com.reddit.frontpage#whats-new)
   - [SBB Mobile](https://morphe-patches.software/?app=ch.sbb.mobile.android.b2c#whats-new)
+  - [Wordscapes](https://morphe-patches.software/?app=com.peoplefun.wordcross#whats-new)
   - [ÖBB Scotty](https://morphe-patches.software/?app=de.hafas.android.oebb#whats-new)
 - [**Longthree1**](https://morphe.software/add-source?github=longthree1/morphe-patches)
   - [SoundCloud](https://morphe-patches.software/?app=com.soundcloud.android#whats-new)
@@ -529,20 +534,16 @@ To keep the post useful and easy to maintain, this section focuses on recent upd
 
 ## November 10, 2026
 
-### New Sources
+### New Source
 
 - [**JacksonJones2003**](https://morphe.software/add-source?github=JacksonJones2003/origin-island-patches)
   - [Apple Music](https://morphe-patches.software/?app=com.apple.android.music#whats-new)
   - [LastWave](https://morphe-patches.software/?app=com.lastwave.app#whats-new)
   - [YouTube](https://morphe-patches.software/?app=com.google.android.youtube#whats-new)
   - [YouTube Music](https://morphe-patches.software/?app=com.google.android.apps.youtube.music#whats-new)
-- [**Rajdave69**](https://morphe.software/add-source?github=Rajdave69/rajs-morphe-patches)
-  - [Canon Camera Connect](https://morphe-patches.software/?app=jp.co.canon.ic.cameraconnect#whats-new)
 
 ### New Apps
 
-- **byehi98**
-  - [Sonic Dash Run](https://morphe-patches.software/?app=com.sega.sonicdash#whats-new)
 - **Hxreborn**
   - [Flights25](https://morphe-patches.software/?app=de.app.flighttracker#whats-new)
 - **Media**
