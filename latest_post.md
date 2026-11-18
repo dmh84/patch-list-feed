@@ -45,9 +45,13 @@ To keep the post useful and easy to maintain, this section focuses on recent upd
 
 ### New Sources
 
+- [**Kinoosaki**](https://morphe.software/add-source?github=kinoosaki/Kinos-Patches)
+  - [Tasker](https://morphe-patches.software/?app=net.dinglisch.android.taskerm#whats-new)
 - [**Lamphung-Phuc**](https://morphe.software/add-source?github=lamphung-phuc/nmax-patches)
   - [Google Maps Morphe](https://morphe-patches.software/?app=com.google.android.apps.maps#whats-new)
   - [Waze NMAX](https://morphe-patches.software/?app=com.waze#whats-new)
+- [**MuguDEV**](https://morphe.software/add-source?github=MuguDEV/ben-thamizha-patches)
+  - [Ben Thamizha](https://morphe-patches.software/?app=com.ben.thamizha#whats-new)
 - [**v4inwald**](https://morphe.software/add-source?github=v4inwald/wispr-flow-patches)
   - [Wispr Flow](https://morphe-patches.software/?app=com.wispr.flowapp#whats-new)
 
@@ -82,6 +86,7 @@ To keep the post useful and easy to maintain, this section focuses on recent upd
   - [Google Maps](https://morphe-patches.software/?app=com.google.android.apps.maps#whats-new)
   - [Waze](https://morphe-patches.software/?app=com.waze#whats-new)
 - [**Kveld9 Brave**](https://morphe.software/add-source?github=kveld9/brave-patches)
+  - [__universal__](https://morphe-patches.software/?app=__universal__#whats-new)
   - [Brave Private Web Browser, VPN](https://morphe-patches.software/?app=com.brave.browser#whats-new)
   - [Gboard Lite](https://morphe-patches.software/?app=com.google.android.inputmethod.latin#whats-new)
   - [TikTok](https://morphe-patches.software/?app=com.zhiliaoapp.musically#whats-new)
@@ -95,6 +100,7 @@ To keep the post useful and easy to maintain, this section focuses on recent upd
   - [Roborock](https://morphe-patches.software/?app=com.roborock.smart#whats-new)
 - [**Rimixyz**](https://morphe.software/add-source?github=rimixyz/morphe-patches)
   - [17TRACK](https://morphe-patches.software/?app=yqtrack.app#whats-new)
+  - [__universal__](https://morphe-patches.software/?app=__universal__#whats-new)
 - [**Warleysr Instagram**](https://morphe.software/add-source?github=warleysr/instagram-patches)
   - [Instagram](https://morphe-patches.software/?app=com.instagram.android#whats-new)
 - [**Warleysr Reddit**](https://morphe.software/add-source?github=warleysr/reddit-nsfw-blocker)
@@ -346,6 +352,7 @@ To keep the post useful and easy to maintain, this section focuses on recent upd
 ### New Sources
 
 - [**Alcostrider**](https://morphe.software/add-source?github=Alcostrider/Soundsync)
+  - [__universal__](https://morphe-patches.software/?app=__universal__#whats-new)
 - [**DrBushyTop**](https://morphe.software/add-source?github=DrBushyTop/relay-morphe-patches)
   - [Relay for Reddit Pro](https://morphe-patches.software/?app=reddit.news#whats-new)
 - [**Farbener**](https://morphe.software/add-source?github=farbener/shuffle-plus-spotify)
@@ -506,6 +513,7 @@ To keep the post useful and easy to maintain, this section focuses on recent upd
 - [**Nizarberyan**](https://morphe.software/add-source?github=Nizarberyan/Avito-Patches)
   - [Avito](https://morphe-patches.software/?app=se.scmv.morocco#whats-new)
 - [**Pixincreate**](https://morphe.software/add-source?github=pixincreate/morpheus)
+  - [__universal__](https://morphe-patches.software/?app=__universal__#whats-new)
 - [**RoboRoads**](https://morphe.software/add-source?github=roboroads/morphe-patches)
   - [Discovery Plus](https://morphe-patches.software/?app=com.discovery.discoveryplus.firetv#whats-new)
 - [**Rov3r**](https://morphe.software/add-source?github=Rov3r/morphe-patches)
@@ -548,9 +556,8 @@ To keep the post useful and easy to maintain, this section focuses on recent upd
 
 ### New Sources
 
-- [**Bhashanaliyanage**](https://morphe.software/add-source?github=bhashanaliyanage/helakuru-morphe)
-  - [Helakuru Lite](https://morphe-patches.software/?app=lk.bhasha.helakuru.lite#whats-new)
 - [**Johannes7k75**](https://morphe.software/add-source?github=Johannes7k75/gemini-work-profile-patches)
+  - [__universal__](https://morphe-patches.software/?app=__universal__#whats-new)
   - [Gemini](https://morphe-patches.software/?app=com.google.android.apps.bard#whats-new)
   - [Google](https://morphe-patches.software/?app=com.google.android.googlequicksearchbox#whats-new)
 - [**Saadbinyousaf1**](https://morphe.software/add-source?github=saadbinyousaf1/sby-patches)
@@ -560,8 +567,6 @@ To keep the post useful and easy to maintain, this section focuses on recent upd
 
 ### New Apps
 
-- **byehi98**
-  - [CSR Racing](https://morphe-patches.software/?app=com.naturalmotion.csrracing#whats-new)
 - **CallMeBeyonder**
   - [C25K](https://morphe-patches.software/?app=com.c25k#whats-new)
   - [MacroFactor](https://morphe-patches.software/?app=com.sbs.diet#whats-new)
@@ -571,8 +576,6 @@ To keep the post useful and easy to maintain, this section focuses on recent upd
   - [LaunchBox](https://morphe-patches.software/?app=com.unbrokensoftware.launchbox#whats-new)
   - [OK](https://morphe-patches.software/?app=ru.ok.android#whats-new)
   - [Xianyu](https://morphe-patches.software/?app=com.taobao.idlefish#whats-new)
-- **Jzl1**
-  - [Hutch App](https://morphe-patches.software/?app=com.omobio.etisalatone#whats-new)
 - **Madushas**
   - [Glassdoor](https://morphe-patches.software/?app=com.glassdoor.app#whats-new)
   - [Jooble](https://morphe-patches.software/?app=jooble.org#whats-new)
