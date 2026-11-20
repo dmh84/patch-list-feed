@@ -63,7 +63,10 @@ To keep the post useful and easy to maintain, this section focuses on recent upd
 ### New Apps
 
 - **Hxreborn**
+  - [NetworkFlow](https://morphe-patches.software/?app=com.evozi.network#whats-new)
   - [Nextdoor](https://morphe-patches.software/?app=com.nextdoor#whats-new)
+- **Mlkem**
+  - [Amazon Shopping](https://morphe-patches.software/?app=com.amazon.mShop.android.shopping#whats-new)
 - **Zimza1abim**
   - [OpenBot](https://morphe-patches.software/?app=run.openbot.mobile#whats-new)
 
@@ -542,10 +545,6 @@ To keep the post useful and easy to maintain, this section focuses on recent upd
 
 - [**Avano**](https://morphe.software/add-source?github=avano/morphe-patches)
   - [Waze](https://morphe-patches.software/?app=com.waze#whats-new)
-- [**Brandonp2412**](https://morphe.software/add-source?github=brandonp2412/instagram-notification-nudges)
-  - [Instagram](https://morphe-patches.software/?app=com.instagram.android#whats-new)
-- [**Nizarberyan**](https://morphe.software/add-source?github=Nizarberyan/Avito-Patches)
-  - [Avito](https://morphe-patches.software/?app=se.scmv.morocco#whats-new)
 - [**Sebsebseb9b**](https://morphe.software/add-source?github=sebsebseb9b/lockstar-clock-patch)
   - [LockStar](https://morphe-patches.software/?app=com.samsung.systemui.lockstar#whats-new)
 - [**Solo**](https://morphe.software/add-source?gitlab=solo-patches/solo-patches)
@@ -567,12 +566,8 @@ To keep the post useful and easy to maintain, this section focuses on recent upd
   - [Runna](https://morphe-patches.software/?app=com.runbuddy.prod#whats-new)
 - **Hxreborn**
   - [Candy Crush Saga](https://morphe-patches.software/?app=com.king.candycrushsaga#whats-new)
-- **Ineednotitle**
-  - [Proton Pass (F-Droid)](https://morphe-patches.software/?app=proton.android.pass.fdroid#whats-new)
 - **Mwbra130**
   - [Subway Surfers](https://morphe-patches.software/?app=com.kiloo.subwaysurf#whats-new)
-- **Sabrina-Moonlight**
-  - [Hamster Escape](https://morphe-patches.software/?app=gg.sunday.hamsterescape#whats-new)
 - **XBadFellaX**
   - [ChatGPT](https://morphe-patches.software/?app=com.openai.chatgpt#whats-new)
 
