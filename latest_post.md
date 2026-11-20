@@ -41,6 +41,34 @@ To keep the post useful and easy to maintain, this section focuses on recent upd
 
 ---
 
+## November 20, 2026
+
+### New Sources
+
+- [**ClmentCch**](https://morphe.software/add-source?github=ClmentCch/Richees)
+  - [Discord](https://morphe-patches.software/?app=com.discord#whats-new)
+- [**Manot40**](https://morphe.software/add-source?github=manot40/morphe-patches)
+  - [Stella Sora](https://morphe-patches.software/?app=com.YoStarEN.StellaSora#whats-new)
+- [**Minecraco**](https://morphe.software/add-source?github=Minecraco/Parche-facemoji)
+  - [Facemoji AI Emoji Keyboard](https://morphe-patches.software/?app=com.simejikeyboard#whats-new)
+- [**MOD-PROD Signal**](https://morphe.software/add-source?github=MOD-PROD/signal-patch)
+  - [Signals](https://morphe-patches.software/?app=com.zyncas.signals#whats-new)
+- [**TgSeed**](https://morphe.software/add-source?github=TgSeed/Morpheeeps)
+  - [Call Recorder - SKVALEX](https://morphe-patches.software/?app=org.skvalex.cr#whats-new)
+  - [Symfonium](https://morphe-patches.software/?app=app.symfonik.music.player#whats-new)
+
+### New Apps
+
+- **AJcubes**
+  - [Cricbuzz](https://morphe-patches.software/?app=com.cricbuzz.android#whats-new)
+  - [MacroDroid](https://morphe-patches.software/?app=com.arlosoft.macrodroid#whats-new)
+- **Hushfeed**
+  - com.zhiliaoapp.musically.go
+- **Hxreborn**
+  - [Blossom Blast Saga](https://morphe-patches.software/?app=com.king.blossomblast#whats-new)
+  - [FlipaClip](https://morphe-patches.software/?app=com.vblast.flipaclip#whats-new)
+  - [Flipboard](https://morphe-patches.software/?app=flipboard.app#whats-new)
+
 ## November 19, 2026
 
 ### New Sources
@@ -449,36 +477,16 @@ To keep the post useful and easy to maintain, this section focuses on recent upd
 
 ### New Sources
 
-- [**Abegumbo-ui**](https://morphe.software/add-source?github=abegumbo-ui/gvoice-patches)
-  - [Google Voice](https://morphe-patches.software/?app=com.google.android.apps.googlevoice#whats-new)
-- [**CozyCode890**](https://morphe.software/add-source?github=CozyCode890/HoiTruyenChu-patches)
-  - [iTruyenChu](https://morphe-patches.software/?app=com.ngoctieucac.itruyenchu#whats-new)
 - [**Dorfandiysoftware**](https://morphe.software/add-source?github=dorfandiysoftware-glitch/ironfox-md3-patches)
   - [IronFox](https://morphe-patches.software/?app=org.ironfoxoss.ironfox#whats-new)
-- [**Henr1klmb**](https://morphe.software/add-source?github=henr1klmb/henr1k-patches)
-  - [Channel 4](https://morphe-patches.software/?app=com.channel4.ondemand#whats-new)
-  - [Comparify](https://morphe-patches.software/?app=com.akshat.comparify#whats-new)
-  - [DB Navigator](https://morphe-patches.software/?app=de.hafas.android.db#whats-new)
-  - [HelloFit Pro](https://morphe-patches.software/?app=com.app.cy.hellofitpro#whats-new)
-  - [mobile.de](https://morphe-patches.software/?app=de.mobile.android.app#whats-new)
-  - [mydealz](https://morphe-patches.software/?app=com.tippingcanoe.mydealz#whats-new)
-  - [NetMirror](https://morphe-patches.software/?app=app.netmirror.netmirrornew#whats-new)
-  - [Reddit](https://morphe-patches.software/?app=com.reddit.frontpage#whats-new)
-  - [SBB Mobile](https://morphe-patches.software/?app=ch.sbb.mobile.android.b2c#whats-new)
-  - [Wordscapes](https://morphe-patches.software/?app=com.peoplefun.wordcross#whats-new)
-  - [ÖBB Scotty](https://morphe-patches.software/?app=de.hafas.android.oebb#whats-new)
 - [**Longthree1**](https://morphe.software/add-source?github=longthree1/morphe-patches)
   - [SoundCloud](https://morphe-patches.software/?app=com.soundcloud.android#whats-new)
-- [**Theodotdot**](https://morphe.software/add-source?github=theodotdot/niagara-left-patches)
-  - [Niagara Launcher](https://morphe-patches.software/?app=bitpit.launcher#whats-new)
 - [**Timtkdb**](https://morphe.software/add-source?github=timtkdb/archivetune-microg-patches)
   - [ArchiveTune](https://morphe-patches.software/?app=moe.rukamori.archivetune#whats-new)
 - [**TwelveHouse**](https://morphe.software/add-source?github=twelvehouse/gboard-ios-style-jp-en-morphe-patches)
   - [Gboard](https://morphe-patches.software/?app=com.google.android.inputmethod.latin#whats-new)
 - [**Uta-a Cutlog**](https://morphe.software/add-source?github=uta-a/cutlog)
   - [setlog](https://morphe-patches.software/?app=com.newchat.setlog#whats-new)
-- [**Warreth**](https://morphe.software/add-source?github=warreth/morphe-patches)
-  - [ScreenZen](https://morphe-patches.software/?app=com.screenzen#whats-new)
 
 ### New Apps
 
@@ -495,6 +503,11 @@ To keep the post useful and easy to maintain, this section focuses on recent upd
 - **GitGitro**
   - [Monitee](https://morphe-patches.software/?app=com.krillsson.monitee#whats-new)
   - [Sticker Maker](https://morphe-patches.software/?app=com.marsvard.stickermakerforwhatsapp#whats-new)
+- **Henr1klmb**
+  - [NetMirror](https://morphe-patches.software/?app=app.netmirror.netmirrornew#whats-new)
+  - [Reddit](https://morphe-patches.software/?app=com.reddit.frontpage#whats-new)
+  - [SBB Mobile](https://morphe-patches.software/?app=ch.sbb.mobile.android.b2c#whats-new)
+  - [ÖBB Scotty](https://morphe-patches.software/?app=de.hafas.android.oebb#whats-new)
 - **Heval**
   - [Samsung Keyboard](https://morphe-patches.software/?app=com.samsung.android.honeyboard#whats-new)
 - **Hxreborn**
@@ -534,8 +547,6 @@ To keep the post useful and easy to maintain, this section focuses on recent upd
   - [Science News Daily](https://morphe-patches.software/?app=com.appsfornexus.dailysciencenews#whats-new)
 - **Xboyrex**
   - X
-- **XiONDiGiTaL**
-  - [Amazon A to Z](https://morphe-patches.software/?app=com.amazon.atozm#whats-new)
 - **Xtra**
   - Zangi
 
