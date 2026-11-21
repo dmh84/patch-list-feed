@@ -51,6 +51,8 @@ To keep the post useful and easy to maintain, this section focuses on recent upd
   - [Google Health](https://morphe-patches.software/?app=com.fitbit.FitbitMobile#whats-new)
 - [**Selim-Durmus**](https://morphe.software/add-source?github=selim-durmus/ungoogled-maps-local-enhancements)
   - [Google Maps](https://morphe-patches.software/?app=com.google.android.apps.maps#whats-new)
+- [**Tokudai-vs**](https://morphe.software/add-source?github=tokudai-vs/tokudai-patches)
+  - [MyGate](https://morphe-patches.software/?app=com.mygate.user#whats-new)
 - [**xhyxfxxc**](https://morphe.software/add-source?github=xhyxfxxc/tx-public-patches)
   - [Send Anywhere](https://morphe-patches.software/?app=com.estmob.android.sendanywhere#whats-new)
 - [**Xiliav**](https://morphe.software/add-source?github=xiliav/bens-morphe-patches)
@@ -61,6 +63,10 @@ To keep the post useful and easy to maintain, this section focuses on recent upd
 
 - **Akkay-Dev**
   - [AdGuard](https://morphe-patches.software/?app=com.adguard.android#whats-new)
+- **Amfakh**
+  - [Muslim Pro](https://morphe-patches.software/?app=com.bitsmedia.android.muslimpro#whats-new)
+- **Xtra**
+  - MT Manager
 - **Zimza1abim**
   - [Orca](https://morphe-patches.software/?app=dev.orca.app#whats-new)
 
@@ -533,15 +539,8 @@ To keep the post useful and easy to maintain, this section focuses on recent upd
 
 - **byehi98**
   - [Ophelia's Paradise](https://morphe-patches.software/?app=com.artingames.opheliasparadise#whats-new)
-- **Heval**
-  - [Action Launcher](https://morphe-patches.software/?app=com.actionlauncher.playstore#whats-new)
-  - [Beeper](https://morphe-patches.software/?app=com.beeper.android#whats-new)
-  - [CCleaner](https://morphe-patches.software/?app=com.piriform.ccleaner#whats-new)
-  - [FX File Explorer](https://morphe-patches.software/?app=nextapp.fx#whats-new)
-  - [YouCut](https://morphe-patches.software/?app=com.camerasideas.trimmer#whats-new)
 - **Hxreborn**
   - [ArduinoDroid](https://morphe-patches.software/?app=name.antonsmirnov.android.arduinodroid2#whats-new)
-  - [Candy Crush Soda Saga](https://morphe-patches.software/?app=com.king.candycrushsodasaga#whats-new)
   - [ClassDojo](https://morphe-patches.software/?app=com.classdojo.android#whats-new)
   - [iLovePDF](https://morphe-patches.software/?app=com.ilovepdf.www#whats-new)
 - **Ineednotitle**
@@ -561,8 +560,6 @@ To keep the post useful and easy to maintain, this section focuses on recent upd
   - [HeyMelody](https://morphe-patches.software/?app=com.heytap.headset#whats-new)
 - **Southstar21dev**
   - Quackify (Spotify package)
-- **Vippium**
-  - [Office Reader](https://morphe-patches.software/?app=net.sjava.officereader#whats-new)
 - **Xtra**
   - EveryCircuit
   - Simurelay
