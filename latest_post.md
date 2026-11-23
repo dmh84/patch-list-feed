@@ -96,6 +96,8 @@ To keep the post useful and easy to maintain, this section focuses on recent upd
 - **Plyrs1**
   - [Android Auto](https://morphe-patches.software/?app=com.google.android.projection.gearhead#whats-new)
   - [GajiHub](https://morphe-patches.software/?app=com.gajihub.app#whats-new)
+- **Sqzass**
+  - [Alight Motion](https://morphe-patches.software/?app=com.alightcreative.motion#whats-new)
 - **Stivencop414 ViX**
   - [Ditu](https://morphe-patches.software/?app=com.caracol.streaming#whats-new)
   - [TV Colombia Play](https://morphe-patches.software/?app=colombia.tv.plus#whats-new)
