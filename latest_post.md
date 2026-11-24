@@ -47,12 +47,18 @@ To keep the post useful and easy to maintain, this section focuses on recent upd
 
 - **aapam**
   - [SonyLIV Android TV](https://morphe-patches.software/?app=com.sonyliv#whats-new)
+- **byehi98**
+  - [Brotato](https://morphe-patches.software/?app=com.brotato.shooting.survivors.action.roguelike#whats-new)
 - **CallMeBeyonder**
   - [Gym Day](https://morphe-patches.software/?app=com.anthonyng.workoutapp#whats-new)
 - **Hxreborn**
   - [Chess Scanner](https://morphe-patches.software/?app=com.stervs.chessscanner#whats-new)
   - [Proton Pass (F-Droid)](https://morphe-patches.software/?app=proton.android.pass.fdroid#whats-new)
   - [Proton VPN (F-Droid)](https://morphe-patches.software/?app=ch.protonvpn.android.reproducible#whats-new)
+- **JoFSlash**
+  - [Wikipedia](https://morphe-patches.software/?app=org.wikipedia#whats-new)
+- **MatthewRiley05**
+  - [Moon Super Wallpaper](https://morphe-patches.software/?app=com.miui.miwallpaper.moon#whats-new)
 - **MiguelNinja19**
   - [Duck Life 4](https://morphe-patches.software/?app=com.mad.ducklife#whats-new)
   - [Duck Life 6: Space](https://morphe-patches.software/?app=com.mad.DuckLifeSpace#whats-new)
@@ -170,6 +176,7 @@ To keep the post useful and easy to maintain, this section focuses on recent upd
   - [Quora](https://morphe-patches.software/?app=com.quora.android#whats-new)
   - [Speedtest](https://morphe-patches.software/?app=org.zwanoo.android.speedtest#whats-new)
   - [The Crypto App](https://morphe-patches.software/?app=com.crypter.cryptocyrrency#whats-new)
+  - [Wikipedia](https://morphe-patches.software/?app=org.wikipedia#whats-new)
 - [**NeoKushan**](https://morphe.software/add-source?github=neoKushan/smortthings)
   - [SmartThings](https://morphe-patches.software/?app=com.samsung.android.oneconnect#whats-new)
 - [**Ninocss**](https://morphe.software/add-source?github=ninocss/MaterialTidal)
@@ -454,15 +461,6 @@ To keep the post useful and easy to maintain, this section focuses on recent upd
 
 ### New Apps
 
-- **ComoEstaisAmigos**
-  - [CKZ Origins](https://morphe-patches.software/?app=com.glu.ckzombies2#whats-new)
-- **Henr1klmb**
-  - [HelloFit Pro](https://morphe-patches.software/?app=com.app.cy.hellofitpro#whats-new)
-  - [Wordscapes](https://morphe-patches.software/?app=com.peoplefun.wordcross#whats-new)
-- **Hxreborn**
-  - [iVoox](https://morphe-patches.software/?app=com.ivoox.app#whats-new)
-- **Loki**
-  - [MX Player Pro](https://morphe-patches.software/?app=com.mxtech.videoplayer.pro#whats-new)
 - **RikoDEV**
   - [Meteo ICM](https://morphe-patches.software/?app=pl.janpogocki.icm.pogoda#whats-new)
 - **Semicoloncolonel Mobile**
