@@ -58,6 +58,9 @@ To keep the post useful and easy to maintain, this section focuses on recent upd
   - [mobile.de](https://morphe-patches.software/?app=de.mobile.android.app#whats-new)
 - [**NotRin7**](https://morphe.software/add-source?github=NotRin7/sadmod-patches)
   - [HappyMod](https://morphe-patches.software/?app=com.happymod.apk#whats-new)
+- [**Pomee4**](https://morphe.software/add-source?github=pomee4/morphe-patches)
+  - [MySpoti](https://morphe-patches.software/?app=app.myspoti.dev#whats-new)
+  - [Reddit](https://morphe-patches.software/?app=com.reddit.frontpage#whats-new)
 - [**RyuuseiAkira**](https://morphe.software/add-source?github=RyuuseiAkira/w3s-patches)
   - [W3Schools](https://morphe-patches.software/?app=com.w3schools.app.prod#whats-new)
 - [**Saiyupunch**](https://morphe.software/add-source?github=saiyupunch/sai-patches)
@@ -65,6 +68,12 @@ To keep the post useful and easy to maintain, this section focuses on recent upd
 
 ### New Apps
 
+- **Aidan**
+  - [Threes Freeplay](https://morphe-patches.software/?app=vo.threes.free#whats-new)
+- **HagiaHaya**
+  - [Jakdojade](https://morphe-patches.software/?app=com.citynav.jakdojade.pl.android#whats-new)
+- **Heval**
+  - [Listonic](https://morphe-patches.software/?app=com.l#whats-new)
 - **Loki**
   - Advanced Download Manager
   - IDM - Internet Download Manager
@@ -72,6 +81,8 @@ To keep the post useful and easy to maintain, this section focuses on recent upd
   - [TrackChecker](https://morphe-patches.software/?app=com.metalsoft.trackchecker_mobile#whats-new)
 - **Rimixyz**
   - [Auto Clicker](https://morphe-patches.software/?app=com.truedevelopersstudio.automatictap.autoclicker#whats-new)
+  - [Notisave](https://morphe-patches.software/?app=com.tenqube.notisave#whats-new)
+  - [XRecorder](https://morphe-patches.software/?app=videoeditor.videorecorder.screenrecorder#whats-new)
 - **Semicoloncolonel Mobile**
   - [Al Jazeera](https://morphe-patches.software/?app=com.aljazeera.mobile#whats-new)
   - [South China Morning Post](https://morphe-patches.software/?app=com.scmp.newspulse#whats-new)
