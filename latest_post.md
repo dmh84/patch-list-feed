@@ -45,17 +45,66 @@ To keep the post useful and easy to maintain, this section focuses on recent upd
 
 ### New Sources
 
+- [**1-Felix**](https://morphe.software/add-source?github=1-Felix/jimaku-patches)
+  - [YouTube](https://morphe-patches.software/?app=com.google.android.youtube#whats-new)
+- [**Aaayd**](https://morphe.software/add-source?github=aaayd/waze-custom-patches)
+  - [Waze](https://morphe-patches.software/?app=com.waze#whats-new)
+- [**AfterSync**](https://morphe.software/add-source?github=ram-prices/AfterSync)
+  - [Sync for Reddit](https://morphe-patches.software/?app=com.laurencedawson.reddit_sync#whats-new)
 - [**AWTMODS**](https://morphe.software/add-source?github=AWTMODS/AWT-Morphe)
   - [Regain](https://morphe-patches.software/?app=ai.regainapp#whats-new)
+- [**Axandel**](https://morphe.software/add-source?github=Axandel/amazon-amoled-patches)
+  - [Amazon Business](https://morphe-patches.software/?app=com.amazon.mShop.android.business.shopping#whats-new)
+  - [Amazon India](https://morphe-patches.software/?app=in.amazon.mShop.android.shopping#whats-new)
+  - [Amazon Shopping](https://morphe-patches.software/?app=com.amazon.mShop.android.shopping#whats-new)
 - [**BeepBoopMachine Brave**](https://morphe.software/add-source?github=beepboopmachine/brave-patches)
   - [Brave Browser](https://morphe-patches.software/?app=com.brave.browser#whats-new)
 - [**BeepBoopMachine Reddit**](https://morphe.software/add-source?github=beepboopmachine/redsave)
   - [Reddit](https://morphe-patches.software/?app=com.reddit.frontpage#whats-new)
+- [**Birdy**](https://morphe.software/add-source?github=BIRDY141/Birdy-Patches)
+  - [__universal__](https://morphe-patches.software/?app=__universal__#whats-new)
+  - [YouTube for Android TV](https://morphe-patches.software/?app=com.google.android.youtube.tv#whats-new)
+- [**Brandonp2412**](https://morphe.software/add-source?github=brandonp2412/instagram-patches)
+  - [Instagram (FeurStagram)](https://morphe-patches.software/?app=com.instagram.android#whats-new)
+- [**ErnestTrung**](https://morphe.software/add-source?github=ErnestTrung/x-filter)
+  - [X](https://morphe-patches.software/?app=com.twitter.android#whats-new)
+- [**Erobertsme**](https://morphe.software/add-source?github=erobertsme/shatteredpixel-morphe-patches)
+  - [Shattered Pixel Dungeon](https://morphe-patches.software/?app=com.shatteredpixel.shatteredpixeldungeon#whats-new)
+- [**Gogamid**](https://morphe.software/add-source?github=gogamid/morphed)
+  - [Rossmann](https://morphe-patches.software/?app=de.rossmann.app.android#whats-new)
+- [**Heltonricardo**](https://morphe.software/add-source?github=heltonricardo/morphe-patches)
+  - [Waze](https://morphe-patches.software/?app=com.waze#whats-new)
+- [**iAmGodKiller**](https://morphe.software/add-source?github=iAmGodKiller/M3-Redesign)
+  - [YouTube Music](https://morphe-patches.software/?app=com.google.android.apps.youtube.music#whats-new)
+- [**Lumi-01**](https://morphe.software/add-source?github=Lumi-01/dcinside-personal-patches)
+  - [DC Inside](https://morphe-patches.software/?app=com.dcinside.app.android#whats-new)
+- [**Matteomorganti**](https://morphe.software/add-source?github=matteomorganti/pixel10pro-camera-patches)
+  - [Pixel Camera](https://morphe-patches.software/?app=com.google.android.GoogleCamera#whats-new)
+- [**Oscski**](https://morphe.software/add-source?github=oscski/morphe-patches)
+  - [__universal__](https://morphe-patches.software/?app=__universal__#whats-new)
+- [**Pnam-ng**](https://morphe.software/add-source?github=pnam-ng/pnamng-jagat-patchs)
+  - [Jagat](https://morphe-patches.software/?app=io.jagat.lite#whats-new)
+- [**rareMaxim**](https://morphe.software/add-source?github=rareMaxim/uakino-morphe-patches)
+  - [UAKino](https://morphe-patches.software/?app=ua.kino#whats-new)
+- [**SBrowserX**](https://morphe.software/add-source?github=vortexnode/SBrowserX)
+  - [Samsung Internet](https://morphe-patches.software/?app=com.sec.android.app.sbrowser#whats-new)
+- [**Sftsang**](https://morphe.software/add-source?github=sftsang/sportsnet-patches)
+  - [Sportsnet](https://morphe-patches.software/?app=com.rogers.sportsnet.sportsnet#whats-new)
 - [**Srwi**](https://morphe.software/add-source?github=srwi/gintype)
   - [Gboard](https://morphe-patches.software/?app=com.google.android.inputmethod.latin#whats-new)
+- [**TrayChewy**](https://morphe.software/add-source?github=traychewy/Notes-dark-)
+  - [__universal__](https://morphe-patches.software/?app=__universal__#whats-new)
+  - [Samsung Notes](https://morphe-patches.software/?app=com.samsung.android.app.notes#whats-new)
+- [**Yuuki-Kagura**](https://morphe.software/add-source?github=yuuki-kagura/morphe-patches)
+  - [__universal__](https://morphe-patches.software/?app=__universal__#whats-new)
+  - [Black Screen](https://morphe-patches.software/?app=io.japp.blackscreen#whats-new)
+  - [White Balance Kelvin Meter](https://morphe-patches.software/?app=com.contechity.color_temp_meter#whats-new)
 
 ### New Apps
 
+- **Heval**
+  - [My Talking Tom](https://morphe-patches.software/?app=com.outfit7.mytalkingtomfree#whats-new)
+  - [My Talking Tom 2](https://morphe-patches.software/?app=com.outfit7.mytalkingtom2#whats-new)
 - **Hxreborn**
   - [Citra](https://morphe-patches.software/?app=com.theemulator.citra#whats-new)
   - [ExifTool for photo and video](https://morphe-patches.software/?app=com.exiftool.free#whats-new)
@@ -67,8 +116,12 @@ To keep the post useful and easy to maintain, this section focuses on recent upd
   - [PCAPdroid](https://morphe-patches.software/?app=com.emanuelef.remote_capture#whats-new)
   - [VoCat - My Own Vocabulary](https://morphe-patches.software/?app=kr.co.devstory.vocat#whats-new)
   - [ZArchiver](https://morphe-patches.software/?app=ru.zdevs.zarchiver#whats-new)
+- **Nai64**
+  - Spirit Detective
 - **Rimixyz**
   - [POCO Launcher](https://morphe-patches.software/?app=com.mi.android.globallauncher#whats-new)
+- **Sabrina-Moonlight**
+  - [Puzzles Kids](https://morphe-patches.software/?app=com.gamesforkids.animals.puzzles.jigsaw#whats-new)
 - **Vippium**
   - [Hotstar TV](https://morphe-patches.software/?app=in.startv.hotstartvonly#whats-new)
 
@@ -520,108 +573,3 @@ To keep the post useful and easy to maintain, this section focuses on recent upd
   - [CrazyGames](https://morphe-patches.software/?app=com.crazygames.crazygamesapp#whats-new)
 - **Sircoderin**
   - [Twilight](https://morphe-patches.software/?app=com.urbandroid.lux#whats-new)
-
-## November 17, 2026
-
-### New Sources
-
-- [**BuzzCraft**](https://morphe.software/add-source?github=buzzCraft/MorpheTeamsPatch)
-  - [Teams](https://morphe-patches.software/?app=com.microsoft.teams#whats-new)
-- [**Edbfi**](https://morphe.software/add-source?github=edbfi/apk-patches)
-  - [rif is fun](https://morphe-patches.software/?app=com.andrewshu.android.reddit#whats-new)
-  - [Sync for Reddit](https://morphe-patches.software/?app=com.laurencedawson.reddit_sync#whats-new)
-- [**Johnnycyan**](https://morphe.software/add-source?github=Johnnycyan/waze-morphe-patches)
-  - [Google Maps](https://morphe-patches.software/?app=com.google.android.apps.maps#whats-new)
-  - [Waze](https://morphe-patches.software/?app=com.waze#whats-new)
-- [**MojiRS**](https://morphe.software/add-source?github=MojiRS/morphe-rif-patches)
-  - [rif is fun](https://morphe-patches.software/?app=com.andrewshu.android.reddit#whats-new)
-- [**NicolasBonduel**](https://morphe.software/add-source?github=NicolasBonduel/roborock-local-patches)
-  - [Roborock](https://morphe-patches.software/?app=com.roborock.smart#whats-new)
-
-### New Apps
-
-- **RikoDEV**
-  - [Meteo ICM](https://morphe-patches.software/?app=pl.janpogocki.icm.pogoda#whats-new)
-- **Semicoloncolonel Mobile**
-  - [Movies Anywhere](https://morphe-patches.software/?app=com.moviesanywhere.goo#whats-new)
-- **Semicoloncolonel TV**
-  - [ABC News](https://morphe-patches.software/?app=com.abc.abcnews#whats-new)
-  - [CBS News](https://morphe-patches.software/?app=com.cbsnews.ott#whats-new)
-  - [CNBC](https://morphe-patches.software/?app=com.cnbc.client#whats-new)
-  - [CNN](https://morphe-patches.software/?app=com.cnn.mobile.android.tv#whats-new)
-  - [Fandango at Home](https://morphe-patches.software/?app=air.com.vudu.air.DownloaderTablet#whats-new)
-  - [Fox Local](https://morphe-patches.software/?app=com.fox.fts.android#whats-new)
-  - [Fox News](https://morphe-patches.software/?app=com.foxnews.android#whats-new)
-  - [Movies Anywhere](https://morphe-patches.software/?app=com.moviesanywhere.goo#whats-new)
-  - [MS NOW](https://morphe-patches.software/?app=com.nbcnews.msnbc.mobile#whats-new)
-  - [NBC News](https://morphe-patches.software/?app=com.zumobi.msnbc#whats-new)
-- **Toidicakhia**
-  - [TeraBox](https://morphe-patches.software/?app=com.dubox.drive#whats-new)
-- **Way-Lo**
-  - [Google News](https://morphe-patches.software/?app=com.google.android.apps.magazines#whats-new)
-
-## November 16, 2026
-
-### New Apps
-
-- **Henr1klmb**
-  - [Comparify](https://morphe-patches.software/?app=com.akshat.comparify#whats-new)
-  - [mobile.de](https://morphe-patches.software/?app=de.mobile.android.app#whats-new)
-- **Mwbra130**
-  - [Luminar](https://morphe-patches.software/?app=com.skylum.luminar#whats-new)
-- **Semicoloncolonel Mobile**
-  - [Hulu](https://morphe-patches.software/?app=com.hulu.plus#whats-new)
-  - [Koupon](https://morphe-patches.software/?app=com.kouponai#whats-new)
-  - [Prime Video (Android TV)](https://morphe-patches.software/?app=com.amazon.amazonvideo.livingroom#whats-new)
-  - [YouTube TV](https://morphe-patches.software/?app=com.google.android.apps.youtube.unplugged#whats-new)
-- **Semicoloncolonel TV**
-  - [YouTube TV](https://morphe-patches.software/?app=com.google.android.youtube.tvunplugged#whats-new)
-
-## November 15, 2026
-
-### New Apps
-
-- **CallMeBeyonder**
-  - [JuggernautAI](https://morphe-patches.software/?app=com.jtsstrength.juggernautai#whats-new)
-- **Hyzor**
-  - [Sparkle TV](https://morphe-patches.software/?app=se.hedekonsult.sparkle#whats-new)
-- **XBadFellaX**
-  - [Ultimea](https://morphe-patches.software/?app=com.dynanic.ultimea#whats-new)
-
-## November 14, 2026
-
-### New Sources
-
-- [**Alcostrider**](https://morphe.software/add-source?github=Alcostrider/Soundsync)
-- [**DrBushyTop**](https://morphe.software/add-source?github=DrBushyTop/relay-morphe-patches)
-  - [Relay for Reddit Pro](https://morphe-patches.software/?app=reddit.news#whats-new)
-- [**Farbener**](https://morphe.software/add-source?github=farbener/shuffle-plus-spotify)
-  - [Spotify](https://morphe-patches.software/?app=com.spotify.music#whats-new)
-- [**Ocel07**](https://morphe.software/add-source?github=ocel07/kmaps-nav-patches)
-  - [KakaoMap](https://morphe-patches.software/?app=net.daum.android.map#whats-new)
-  - [NAVER Map](https://morphe-patches.software/?app=com.nhn.android.nmap#whats-new)
-- [**PerfLite MovieLab**](https://morphe.software/add-source?github=PerfLite/morphe-patches-MovieLab)
-  - [MovieLab](https://morphe-patches.software/?app=com.movielab.mobile#whats-new)
-- [**Razor573**](https://morphe.software/add-source?github=Razor573/mika2-morphe-patches)
-  - [Mika 2](https://morphe-patches.software/?app=com.wangzan101.mika2#whats-new)
-
-### New Apps
-
-- **byehi98**
-  - [Ophelia's Paradise](https://morphe-patches.software/?app=com.artingames.opheliasparadise#whats-new)
-- **Hxreborn**
-  - [ClassDojo](https://morphe-patches.software/?app=com.classdojo.android#whats-new)
-  - [iLovePDF](https://morphe-patches.software/?app=com.ilovepdf.www#whats-new)
-- **Ineednotitle**
-  - [Netflix (Android TV)](https://morphe-patches.software/?app=com.netflix.ninja#whats-new)
-  - [Table Notes](https://morphe-patches.software/?app=vivekagarwal.playwithdb#whats-new)
-- **Loki**
-  - Document Scanner
-  - [Splitwise](https://morphe-patches.software/?app=com.Splitwise.SplitwiseMobile#whats-new)
-  - [Truecaller](https://morphe-patches.software/?app=com.truecaller#whats-new)
-- **Pigfoot**
-  - [Bitwarden](https://morphe-patches.software/?app=com.x8bit.bitwarden#whats-new)
-- **Sarvottam99**
-  - [HeyMelody](https://morphe-patches.software/?app=com.heytap.headset#whats-new)
-- **Southstar21dev**
-  - Quackify (Spotify package)
